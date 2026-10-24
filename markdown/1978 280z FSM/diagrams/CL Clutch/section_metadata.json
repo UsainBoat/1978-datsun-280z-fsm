@@ -1,0 +1,1536 @@
+{
+  "section_title": "CLUTCH",
+  "source_pdf": "1978 280z FSM/CL Clutch.pdf",
+  "md_path": "1978 280z FSM/CL Clutch.md",
+  "pages_count": 13,
+  "diagrams": [
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "fig_cl_1_construction_of_clutch",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/fig_cl_1_construction_of_clutch.png",
+      "rel_link": "diagrams/CL Clutch/fig_cl_1_construction_of_clutch.png",
+      "page_num": 2,
+      "page_label": "CL-2",
+      "fig_id": "Fig. CL-1",
+      "code": "CL234",
+      "caption": "Fig. CL-1 Construction of clutch",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross-sectional cutaway drawing showing the construction and major internal components of the assembled clutch unit on the flywheel, including diaphragm spring, pressure plate, disc, and release bearing sleeve.",
+      "components": [
+        "Flywheel",
+        "Clutch disc",
+        "Pressure plate",
+        "Clutch cover",
+        "Diaphragm spring",
+        "Release bearing sleeve",
+        "Withdrawal lever",
+        "Wire rings"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "225 (8.86) dia. (for C225S)",
+        "240 (9.45) dia. (for D240K)",
+        "150 (5.91) dia."
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "All dimensions indicated in mm (in). S30 2-seater uses C225S (225 mm OD); GS30 2+2 uses D240K (240 mm OD).",
+      "tags": [
+        "clutch construction",
+        "cutaway",
+        "clutch disc",
+        "pressure plate",
+        "dimensions",
+        "C225S",
+        "D240K"
+      ],
+      "dimensions": [
+        704,
+        642
+      ]
+    },
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "fig_cl_2_supporting_clutch_assembly",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/fig_cl_2_supporting_clutch_assembly.png",
+      "rel_link": "diagrams/CL Clutch/fig_cl_2_supporting_clutch_assembly.png",
+      "page_num": 2,
+      "page_label": "CL-2",
+      "fig_id": "Fig. CL-2",
+      "code": "CL339",
+      "caption": "Fig. CL-2 Supporting clutch assembly",
+      "diagram_type": "procedure_step",
+      "description": "Illustration showing Clutch Aligning Bar KV30100100 inserted through the clutch disc hub and cover to support the assembly weight during removal and installation.",
+      "components": [
+        "Clutch aligning bar KV30100100",
+        "Clutch cover assembly",
+        "Clutch disc",
+        "Flywheel"
+      ],
+      "callouts": {
+        "KV30100100": "Clutch aligning bar"
+      },
+      "measurements_and_specs": [
+        "Tool: KV30100100"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Insert alignment tool until fully seated to prevent disc damage when loosening cover bolts.",
+      "tags": [
+        "clutch aligning bar",
+        "removal",
+        "KV30100100",
+        "special tool"
+      ],
+      "dimensions": [
+        305,
+        298
+      ]
+    },
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "fig_cl_3_measuring_clutch_lining",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/fig_cl_3_measuring_clutch_lining.png",
+      "rel_link": "diagrams/CL Clutch/fig_cl_3_measuring_clutch_lining.png",
+      "page_num": 3,
+      "page_label": "CL-3",
+      "fig_id": "Fig. CL-3",
+      "code": "CL089",
+      "caption": "Fig. CL-3 Measuring clutch lining",
+      "diagram_type": "inspection_measurement",
+      "description": "Measurement of clutch lining wear using a depth gauge to measure depth from friction surface to rivet head.",
+      "components": [
+        "Clutch disc facing",
+        "Rivet",
+        "Depth gauge"
+      ],
+      "callouts": {
+        "Depth gauge": "Depth gauge measuring tool",
+        "Above 0.3 mm (0.012 in)": "Allowable minimum depth to rivet head"
+      },
+      "measurements_and_specs": [
+        "Minimum rivet depth: 0.3 mm (0.012 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Replace disc when facings are worn down to less than 0.3 mm (0.012 in) above rivet head.",
+      "tags": [
+        "clutch facing",
+        "measurement",
+        "wear limit",
+        "depth gauge",
+        "rivet depth"
+      ],
+      "dimensions": [
+        350,
+        286
+      ]
+    },
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "fig_cl_4_repairing_disc_runout",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/fig_cl_4_repairing_disc_runout.png",
+      "rel_link": "diagrams/CL Clutch/fig_cl_4_repairing_disc_runout.png",
+      "page_num": 3,
+      "page_label": "CL-3",
+      "fig_id": "Fig. CL-4",
+      "code": "CL112",
+      "caption": "Fig. CL-4 Repairing disc runout",
+      "diagram_type": "procedure_step",
+      "description": "Clutch disc mounted on mandrel/lathe with dial gauge measuring runout at radius R, and bending tool used to correct runout.",
+      "components": [
+        "Clutch disc",
+        "Dial indicator",
+        "Bending repair lever tool"
+      ],
+      "callouts": {
+        "R": "Radius from hub center for runout inspection"
+      },
+      "measurements_and_specs": [
+        "Runout limit: 0.5 mm (0.020 in) TIR",
+        "R (C225S): 112 mm (4.41 in)",
+        "R (D240K): 119.5 mm (4.70 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Never hold disc plate forcibly with pliers or bend excessively to avoid cracking facing.",
+      "tags": [
+        "clutch disc",
+        "runout",
+        "dial indicator",
+        "repair",
+        "truing"
+      ],
+      "dimensions": [
+        350,
+        309
+      ]
+    },
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "fig_cl_5_measuring_height_of_diaphragm_spring",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/fig_cl_5_measuring_height_of_diaphragm_spring.png",
+      "rel_link": "diagrams/CL Clutch/fig_cl_5_measuring_height_of_diaphragm_spring.png",
+      "page_num": 3,
+      "page_label": "CL-3",
+      "fig_id": "Fig. CL-5",
+      "code": "CL236",
+      "caption": "Fig. CL-5 Measuring the height of diaphragm spring",
+      "diagram_type": "inspection_measurement",
+      "description": "Cross-sectional setup of clutch cover assembly mounted to Base Plate ST20050010 with Distance Piece ST20050100 and Set Bolts ST20050051 for measuring spring height A.",
+      "components": [
+        "Clutch cover",
+        "Diaphragm spring",
+        "Distance Piece ST20050100",
+        "Base Plate ST20050010",
+        "Set Bolts ST20050051"
+      ],
+      "callouts": {
+        "ST20050100": "Distance Piece",
+        "ST20050010": "Base Plate",
+        "ST20050051": "Set Bolts",
+        "A": "Diaphragm spring height"
+      },
+      "measurements_and_specs": [
+        "Height A (C225S): 33 to 35 mm (1.30 to 1.38 in)",
+        "Height A (D240K): 37.5 to 39.5 mm (1.48 to 1.56 in)",
+        "Toe unevenness limit: < 0.5 mm (0.020 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Measure height A at several points around the fingers with vernier depth gauge.",
+      "tags": [
+        "diaphragm spring height",
+        "measurement",
+        "ST20050100",
+        "ST20050010",
+        "ST20050051"
+      ],
+      "dimensions": [
+        351,
+        240
+      ]
+    },
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "fig_cl_6_adjusting_spring_height",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/fig_cl_6_adjusting_spring_height.png",
+      "rel_link": "diagrams/CL Clutch/fig_cl_6_adjusting_spring_height.png",
+      "page_num": 3,
+      "page_label": "CL-3",
+      "fig_id": "Fig. CL-6",
+      "code": "CL091",
+      "caption": "Fig. CL-6 Adjusting spring height",
+      "diagram_type": "procedure_step",
+      "description": "Technician using Diaphragm Spring Adjusting Wrench ST20050240 to pry and bend diaphragm spring fingers to uniform height.",
+      "components": [
+        "Clutch cover assembly",
+        "Diaphragm spring fingers",
+        "Diaphragm spring adjusting wrench ST20050240"
+      ],
+      "callouts": {
+        "ST20050240": "Diaphragm spring adjusting wrench"
+      },
+      "measurements_and_specs": [
+        "Tool: ST20050240",
+        "Max unevenness: 0.5 mm (0.020 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Carefully pry fingers up or down to bring all tips within 0.5 mm height tolerance.",
+      "tags": [
+        "adjusting spring height",
+        "ST20050240",
+        "diaphragm spring wrench"
+      ],
+      "dimensions": [
+        355,
+        274
+      ]
+    },
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "fig_cl_7_installing_clutch_cover_assembly",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/fig_cl_7_installing_clutch_cover_assembly.png",
+      "rel_link": "diagrams/CL Clutch/fig_cl_7_installing_clutch_cover_assembly.png",
+      "page_num": 3,
+      "page_label": "CL-3",
+      "fig_id": "Fig. CL-7",
+      "code": "CL340",
+      "caption": "Fig. CL-7 Installing clutch cover assembly",
+      "diagram_type": "procedure_step",
+      "description": "Installation cross-section of clutch disc and cover assembly onto flywheel using Clutch Aligning Bar KV30100100.",
+      "components": [
+        "Flywheel",
+        "Clutch disc",
+        "Clutch cover",
+        "Clutch aligning bar KV30100100"
+      ],
+      "callouts": {
+        "KV30100100": "Clutch aligning bar"
+      },
+      "measurements_and_specs": [
+        "Tool: KV30100100"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Keep disc facings, flywheel and pressure plate clean and dry.",
+      "tags": [
+        "clutch installation",
+        "KV30100100",
+        "aligning bar"
+      ],
+      "dimensions": [
+        332,
+        342
+      ]
+    },
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "fig_cl_8_removing_clutch_release_mechanism",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/fig_cl_8_removing_clutch_release_mechanism.png",
+      "rel_link": "diagrams/CL Clutch/fig_cl_8_removing_clutch_release_mechanism.png",
+      "page_num": 4,
+      "page_label": "CL-4",
+      "fig_id": "Fig. CL-8",
+      "code": "CL047",
+      "caption": "Fig. CL-8 Removing clutch release mechanism",
+      "diagram_type": "procedure_step",
+      "description": "View of the clutch housing interior showing removal of the release mechanism components.",
+      "components": [
+        "Dust cover",
+        "Withdrawal lever",
+        "Release bearing",
+        "Holder spring"
+      ],
+      "callouts": {
+        "1": "Dust cover",
+        "2": "Withdrawal lever",
+        "3": "Release bearing",
+        "4": "Holder spring"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Disconnect holder spring before withdrawing sleeve assembly.",
+      "tags": [
+        "release mechanism",
+        "release bearing",
+        "withdrawal lever",
+        "holder spring",
+        "dust cover"
+      ],
+      "dimensions": [
+        342,
+        346
+      ]
+    },
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "fig_cl_9_disassembling_release_bearing",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/fig_cl_9_disassembling_release_bearing.png",
+      "rel_link": "diagrams/CL Clutch/fig_cl_9_disassembling_release_bearing.png",
+      "page_num": 4,
+      "page_label": "CL-4",
+      "fig_id": "Fig. CL-9",
+      "code": "CL145",
+      "caption": "Fig. CL-9 Disassembling release bearing",
+      "diagram_type": "procedure_step",
+      "description": "Technician using universal puller and adapter plates to pull the release bearing off the bearing sleeve.",
+      "components": [
+        "Release bearing",
+        "Bearing sleeve",
+        "Universal puller",
+        "Puller adapter plates"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Support bearing sleeve properly while pulling bearing.",
+      "tags": [
+        "release bearing",
+        "disassembly",
+        "puller",
+        "bearing sleeve"
+      ],
+      "dimensions": [
+        344,
+        263
+      ]
+    },
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "fig_cl_10_installing_release_bearing",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/fig_cl_10_installing_release_bearing.png",
+      "rel_link": "diagrams/CL Clutch/fig_cl_10_installing_release_bearing.png",
+      "page_num": 4,
+      "page_label": "CL-4",
+      "fig_id": "Fig. CL-10",
+      "code": "CL117",
+      "caption": "Fig. CL-10 Installing release bearing",
+      "diagram_type": "procedure_step",
+      "description": "Press setup pressing release bearing onto sleeve, applying force only to inner race.",
+      "components": [
+        "Press ram",
+        "Driver adapter",
+        "Release bearing inner race",
+        "Release bearing outer race",
+        "Bearing sleeve"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Do not press outer race. Press only on inner race.",
+      "tags": [
+        "release bearing",
+        "press",
+        "installation",
+        "inner race"
+      ],
+      "dimensions": [
+        339,
+        305
+      ]
+    },
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "fig_cl_11_lubricating_recess_of_bearing_sleeve",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/fig_cl_11_lubricating_recess_of_bearing_sleeve.png",
+      "rel_link": "diagrams/CL Clutch/fig_cl_11_lubricating_recess_of_bearing_sleeve.png",
+      "page_num": 4,
+      "page_label": "CL-4",
+      "fig_id": "Fig. CL-11",
+      "code": "CL093",
+      "caption": "Fig. CL-11 Lubricating recess of bearing sleeve",
+      "diagram_type": "component_location",
+      "description": "Cross section of bearing sleeve indicating inner recess to be packed with multi-purpose grease.",
+      "components": [
+        "Bearing sleeve",
+        "Inner grease recess",
+        "Release bearing"
+      ],
+      "callouts": {
+        "Pack this recess": "Inner annular grease recess in bearing sleeve"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Pack inner groove lightly with multi-purpose grease.",
+      "tags": [
+        "bearing sleeve",
+        "lubrication",
+        "grease recess"
+      ],
+      "dimensions": [
+        303,
+        300
+      ]
+    },
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "fig_cl_12_lubricating_points_of_withdrawal_lever_and_front_cover",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/fig_cl_12_lubricating_points_of_withdrawal_lever_and_front_cover.png",
+      "rel_link": "diagrams/CL Clutch/fig_cl_12_lubricating_points_of_withdrawal_lever_and_front_cover.png",
+      "page_num": 4,
+      "page_label": "CL-4",
+      "fig_id": "Fig. CL-12",
+      "code": "CL111",
+      "caption": "Fig. CL-12 Lubricating points of withdrawal lever and front cover",
+      "diagram_type": "component_location",
+      "description": "Diagram showing contact points on withdrawal lever fork ends, ball pin pivot socket, and transmission front cover nose to lubricate.",
+      "components": [
+        "Withdrawal lever",
+        "Lever ball pin socket",
+        "Transmission front cover tubular guide"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Apply very light coat of multi-purpose grease; avoid excess.",
+      "tags": [
+        "withdrawal lever",
+        "lubrication points",
+        "transmission front cover"
+      ],
+      "dimensions": [
+        338,
+        273
+      ]
+    },
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "fig_cl_13_removing_pilot_bushing",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/fig_cl_13_removing_pilot_bushing.png",
+      "rel_link": "diagrams/CL Clutch/fig_cl_13_removing_pilot_bushing.png",
+      "page_num": 4,
+      "page_label": "CL-4",
+      "fig_id": "Fig. CL-13",
+      "code": "CL088",
+      "caption": "Fig. CL-13 Removing pilot bushing",
+      "diagram_type": "procedure_step",
+      "description": "Removal of pilot bushing from rear crankshaft bore using Pilot Bushing Puller ST16610001 (Kent-Moore J 23907).",
+      "components": [
+        "Crankshaft flywheel flange",
+        "Pilot bushing",
+        "Pilot Bushing Puller ST16610001"
+      ],
+      "callouts": {
+        "ST16610001": "Pilot Bushing Puller"
+      },
+      "measurements_and_specs": [
+        "Tool: ST16610001 (J 23907)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Expand puller jaws inside bushing and turn center bolt to extract.",
+      "tags": [
+        "pilot bushing puller",
+        "removal",
+        "crankshaft",
+        "ST16610001",
+        "J23907"
+      ],
+      "dimensions": [
+        322,
+        273
+      ]
+    },
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "fig_cl_14_installing_pilot_bushing",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/fig_cl_14_installing_pilot_bushing.png",
+      "rel_link": "diagrams/CL Clutch/fig_cl_14_installing_pilot_bushing.png",
+      "page_num": 5,
+      "page_label": "CL-5",
+      "fig_id": "Fig. CL-14",
+      "code": "EM702",
+      "caption": "Fig. CL-14 Installing pilot bushing",
+      "diagram_type": "procedure_step",
+      "description": "Cross-sectional drawing showing the installation depth of the pilot bushing into the crankshaft bore.",
+      "components": [
+        "Crankshaft end",
+        "Pilot bushing",
+        "Drift/driver"
+      ],
+      "callouts": {
+        "Pilot bushing": "Pilot bushing",
+        "9.5 mm (0.374 in)": "Bushing insertion depth"
+      },
+      "measurements_and_specs": [
+        "Bushing depth: 9.5 mm (0.374 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Bushing need not be oiled. Drive in squarely with a soft hammer/drift to specified depth.",
+      "tags": [
+        "pilot bushing",
+        "installation depth",
+        "crankshaft",
+        "EM702"
+      ],
+      "dimensions": [
+        321,
+        293
+      ]
+    },
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "fig_cl_15_clutch_operating_system",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/fig_cl_15_clutch_operating_system.png",
+      "rel_link": "diagrams/CL Clutch/fig_cl_15_clutch_operating_system.png",
+      "page_num": 5,
+      "page_label": "CL-5",
+      "fig_id": "Fig. CL-15",
+      "code": "CL238",
+      "caption": "Fig. CL-15 Clutch operating system",
+      "diagram_type": "component_location",
+      "description": "Schematic diagram of the complete hydraulic clutch control linkage and operating system from pedal to clutch disc.",
+      "components": [
+        "Clutch pedal",
+        "Return spring",
+        "Clutch master cylinder",
+        "Clutch piping",
+        "Operating cylinder",
+        "Push rod",
+        "Withdrawal lever",
+        "Release bearing",
+        "Clutch cover",
+        "Clutch disc"
+      ],
+      "callouts": {
+        "1": "Clutch pedal",
+        "2": "Return spring",
+        "3": "Clutch master cylinder",
+        "4": "Clutch piping",
+        "5": "Operating cylinder",
+        "6": "Push rod",
+        "7": "Withdrawal lever",
+        "8": "Release bearing",
+        "9": "Clutch cover",
+        "10": "Clutch disc"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Hydraulic line connecting master cylinder to operating cylinder"
+      ],
+      "mechanic_notes": "Operating cylinder is non-adjustable; pedal depression directly actuates master cylinder and slave cylinder.",
+      "tags": [
+        "clutch control",
+        "system diagram",
+        "master cylinder",
+        "operating cylinder",
+        "pedal linkage"
+      ],
+      "dimensions": [
+        728,
+        504
+      ]
+    },
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "fig_cl_16_non_adjustable_operating_cylinder",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/fig_cl_16_non_adjustable_operating_cylinder.png",
+      "rel_link": "diagrams/CL Clutch/fig_cl_16_non_adjustable_operating_cylinder.png",
+      "page_num": 6,
+      "page_label": "CL-6",
+      "fig_id": "Fig. CL-16",
+      "code": "CL121",
+      "caption": "Fig. CL-16 Non-adjustable operating cylinder",
+      "diagram_type": "cutaway_flow",
+      "description": "Internal cross-section of the non-adjustable clutch operating cylinder showing piston stroke and automatic compensation dimension S.",
+      "components": [
+        "Cylinder body",
+        "Piston",
+        "Piston cup",
+        "Push rod",
+        "Dust boot"
+      ],
+      "callouts": {
+        "S": "Automatic compensation travel range",
+        "Stroke 35 mm (1.38 in)": "Operating cylinder total stroke"
+      },
+      "measurements_and_specs": [
+        "Stroke: 35 mm (1.38 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Non-adjustable design uses dimension S to self-adjust as clutch disc facing wears.",
+      "tags": [
+        "operating cylinder",
+        "slave cylinder",
+        "cutaway",
+        "stroke",
+        "self-adjusting"
+      ],
+      "dimensions": [
+        346,
+        293
+      ]
+    },
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "fig_cl_17_pedal_height_adjustment",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/fig_cl_17_pedal_height_adjustment.png",
+      "rel_link": "diagrams/CL Clutch/fig_cl_17_pedal_height_adjustment.png",
+      "page_num": 6,
+      "page_label": "CL-6",
+      "fig_id": "Fig. CL-17",
+      "code": "CL338",
+      "caption": "Fig. CL-17 Pedal height adjustment",
+      "diagram_type": "alignment_orientation",
+      "description": "Side view schematic of clutch pedal linkage showing pedal height measurement b, free play a, lock nuts A and B, pedal stopper, and lubrication points.",
+      "components": [
+        "Clutch pedal",
+        "Push rod",
+        "Pedal stopper bolt",
+        "Lock nut A",
+        "Lock nut B",
+        "Clevis pin"
+      ],
+      "callouts": {
+        "1": "Lock nut A",
+        "2": "Lock nut B",
+        "3": "Pedal stopper",
+        "4": "Push rod",
+        "a": "Free play: 1.0 to 5.0 mm (0.039 to 0.197 in)",
+        "b": "Pedal height: 223 mm (8.78 in)",
+        "MG": "Multi-purpose grease"
+      },
+      "measurements_and_specs": [
+        "Pedal height (b): 223 mm (8.78 in)",
+        "Free play (a): 1.0 to 5.0 mm (0.039 to 0.197 in)",
+        "Lock nut A torque: 0.8 to 1.2 kg-m (5.8 to 8.7 ft-lb)",
+        "Lock nut B torque: 0.8 to 1.2 kg-m (5.8 to 8.7 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "First adjust pedal height with stopper bolt (lock nut A), then adjust free play with push rod (lock nut B). Measure free play on top face of pedal pad.",
+      "tags": [
+        "pedal height",
+        "free play",
+        "adjustment",
+        "lock nut",
+        "pedal stopper"
+      ],
+      "dimensions": [
+        711,
+        666
+      ]
+    },
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "fig_cl_18_exploded_view_of_clutch_pedal",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/fig_cl_18_exploded_view_of_clutch_pedal.png",
+      "rel_link": "diagrams/CL Clutch/fig_cl_18_exploded_view_of_clutch_pedal.png",
+      "page_num": 7,
+      "page_label": "CL-7",
+      "fig_id": "Fig. CL-18",
+      "code": "CL239",
+      "caption": "Fig. CL-18 Exploded view of clutch pedal",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view drawing of the clutch pedal assembly, fulcrum pin, bushings, return spring, and clevis connection.",
+      "components": [
+        "Clevis pin",
+        "Cotter pin",
+        "Return spring",
+        "Pedal boss",
+        "Pedal assembly",
+        "Bush",
+        "Push rod",
+        "Fulcrum pin",
+        "Pedal stopper"
+      ],
+      "callouts": {
+        "1": "Clevis pin",
+        "2": "Cotter pin",
+        "3": "Return spring",
+        "4": "Pedal boss",
+        "5": "Pedal assembly",
+        "6": "Bush",
+        "7": "Push rod",
+        "8": "Fulcrum pin",
+        "9": "Pedal stopper"
+      },
+      "measurements_and_specs": [
+        "Fulcrum pin torque: 3.5 to 4.8 kg-m (25 to 35 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Measure pedal height from toe board before disassembly. Grease clevis pin friction surfaces.",
+      "tags": [
+        "clutch pedal",
+        "exploded view",
+        "bush",
+        "fulcrum pin",
+        "clevis pin"
+      ],
+      "dimensions": [
+        352,
+        456
+      ]
+    },
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "fig_cl_19_exploded_view_of_master_cylinder",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/fig_cl_19_exploded_view_of_master_cylinder.png",
+      "rel_link": "diagrams/CL Clutch/fig_cl_19_exploded_view_of_master_cylinder.png",
+      "page_num": 7,
+      "page_label": "CL-7",
+      "fig_id": "Fig. CL-19",
+      "code": "",
+      "caption": "Fig. CL-19 Exploded view of master cylinder",
+      "diagram_type": "exploded_view",
+      "description": "Detailed exploded view of clutch master cylinder and internal valve components.",
+      "components": [
+        "Reservoir cap",
+        "Reservoir",
+        "Reservoir band",
+        "Cylinder body",
+        "Supply valve stopper",
+        "Return spring",
+        "Spring seat",
+        "Valve spring",
+        "Supply valve rod",
+        "Supply valve",
+        "Primary cup",
+        "Piston",
+        "Push rod",
+        "Secondary cup",
+        "Stopper",
+        "Stopper ring",
+        "Dust cover",
+        "Lock nut"
+      ],
+      "callouts": {
+        "1": "Reservoir cap",
+        "2": "Reservoir",
+        "3": "Reservoir band",
+        "4": "Cylinder body",
+        "5": "Supply valve stopper",
+        "6": "Return spring",
+        "7": "Spring seat",
+        "8": "Valve spring",
+        "9": "Supply valve rod",
+        "10": "Supply valve",
+        "11": "Primary cup",
+        "12": "Piston",
+        "13": "Push rod",
+        "14": "Secondary cup",
+        "15": "Stopper",
+        "16": "Stopper ring",
+        "17": "Dust cover",
+        "18": "Lock nut"
+      },
+      "measurements_and_specs": [
+        "Piston clearance limit: 0.15 mm (0.0059 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Never detach reservoir from cylinder body. Always renew rubber cups upon disassembly.",
+      "tags": [
+        "clutch master cylinder",
+        "exploded view",
+        "supply valve",
+        "piston cup",
+        "rebuild"
+      ],
+      "dimensions": [
+        667,
+        554
+      ]
+    },
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "fig_cl_20_operating_cylinder",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/fig_cl_20_operating_cylinder.png",
+      "rel_link": "diagrams/CL Clutch/fig_cl_20_operating_cylinder.png",
+      "page_num": 8,
+      "page_label": "CL-8",
+      "fig_id": "Fig. CL-20",
+      "code": "CL221",
+      "caption": "Fig. CL-20 Operating cylinder",
+      "diagram_type": "component_location",
+      "description": "Operating cylinder mounted on clutch housing, connected to clutch hydraulic hose and withdrawal lever.",
+      "components": [
+        "Clutch operating cylinder",
+        "Clutch hose",
+        "Mounting bolts",
+        "Withdrawal lever"
+      ],
+      "callouts": {
+        "1": "Clutch operating cylinder",
+        "2": "Clutch hose",
+        "3": "Bolts",
+        "4": "Withdrawal lever"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Clutch hose connection"
+      ],
+      "mechanic_notes": "Keep clutch hose routed away from exhaust pipe.",
+      "tags": [
+        "operating cylinder",
+        "slave cylinder",
+        "withdrawal lever",
+        "installation"
+      ],
+      "dimensions": [
+        351,
+        353
+      ]
+    },
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "fig_cl_21_exploded_view_of_operating_cylinder",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/fig_cl_21_exploded_view_of_operating_cylinder.png",
+      "rel_link": "diagrams/CL Clutch/fig_cl_21_exploded_view_of_operating_cylinder.png",
+      "page_num": 8,
+      "page_label": "CL-8",
+      "fig_id": "Fig. CL-21",
+      "code": "CL222",
+      "caption": "Fig. CL-21 Exploded view of operating cylinder",
+      "diagram_type": "exploded_view",
+      "description": "Exploded diagram of the clutch slave operating cylinder and internal components.",
+      "components": [
+        "Push rod",
+        "Dust cover",
+        "Piston spring",
+        "Piston",
+        "Piston cup",
+        "Operating cylinder body",
+        "Bleeder screw"
+      ],
+      "callouts": {
+        "1": "Push rod",
+        "2": "Dust cover",
+        "3": "Piston spring",
+        "4": "Piston",
+        "5": "Piston cup",
+        "6": "Operating cylinder",
+        "7": "Bleeder screw"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Pay attention to cup direction when sliding over piston. Discard old cup and dust boot.",
+      "tags": [
+        "operating cylinder",
+        "exploded view",
+        "slave cylinder",
+        "piston cup"
+      ],
+      "dimensions": [
+        351,
+        407
+      ]
+    },
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "tool_kv30100100_clutch_aligning_bar",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/tool_kv30100100_clutch_aligning_bar.png",
+      "rel_link": "diagrams/CL Clutch/tool_kv30100100_clutch_aligning_bar.png",
+      "page_num": 13,
+      "page_label": "CL-13",
+      "fig_id": "KV30100100",
+      "code": "",
+      "caption": "KV30100100 Clutch aligning bar",
+      "diagram_type": "special_service_tool",
+      "description": "Special service tool drawing of clutch aligning arbor KV30100100.",
+      "components": [
+        "Clutch aligning bar"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tool: KV30100100"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Used to align and center clutch disc with pilot bushing and cover during assembly.",
+      "tags": [
+        "clutch aligning bar",
+        "KV30100100",
+        "special service tool"
+      ],
+      "dimensions": [
+        514,
+        253
+      ]
+    },
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "tool_st20050240_diaphragm_adjusting_wrench",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/tool_st20050240_diaphragm_adjusting_wrench.png",
+      "rel_link": "diagrams/CL Clutch/tool_st20050240_diaphragm_adjusting_wrench.png",
+      "page_num": 13,
+      "page_label": "CL-13",
+      "fig_id": "ST20050240",
+      "code": "",
+      "caption": "ST20050240 Diaphragm adjusting wrench",
+      "diagram_type": "special_service_tool",
+      "description": "Special service tool drawing of slotted diaphragm spring toe bending wrench ST20050240.",
+      "components": [
+        "Diaphragm adjusting wrench"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tool: ST20050240"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Used to pry diaphragm spring fingers to uniform height.",
+      "tags": [
+        "diaphragm adjusting wrench",
+        "ST20050240",
+        "special service tool"
+      ],
+      "dimensions": [
+        520,
+        253
+      ]
+    },
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "tool_st20050100_distance_piece",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/tool_st20050100_distance_piece.png",
+      "rel_link": "diagrams/CL Clutch/tool_st20050100_distance_piece.png",
+      "page_num": 13,
+      "page_label": "CL-13",
+      "fig_id": "ST20050100",
+      "code": "",
+      "caption": "ST20050100 Distance piece",
+      "diagram_type": "special_service_tool",
+      "description": "Special service tool drawing of ring distance pieces ST20050100 used for clutch cover height measurement.",
+      "components": [
+        "Distance piece set"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tool: ST20050100"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Placed between clutch cover and base plate.",
+      "tags": [
+        "distance piece",
+        "ST20050100",
+        "special service tool"
+      ],
+      "dimensions": [
+        514,
+        279
+      ]
+    },
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "tool_st16610001_pilot_bushing_puller",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/tool_st16610001_pilot_bushing_puller.png",
+      "rel_link": "diagrams/CL Clutch/tool_st16610001_pilot_bushing_puller.png",
+      "page_num": 13,
+      "page_label": "CL-13",
+      "fig_id": "ST16610001",
+      "code": "",
+      "caption": "ST16610001 Pilot bushing puller",
+      "diagram_type": "special_service_tool",
+      "description": "Special service tool drawing of internal expanding collet pilot bushing puller ST16610001 (Kent-Moore J 23907).",
+      "components": [
+        "Pilot bushing puller"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tool: ST16610001",
+        "Kent-Moore: J 23907"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Extracts pilot bushing from rear crankshaft bore without damaging crank.",
+      "tags": [
+        "pilot bushing puller",
+        "ST16610001",
+        "J23907",
+        "special service tool"
+      ],
+      "dimensions": [
+        520,
+        279
+      ]
+    },
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "tool_st20050010_base_plate",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/tool_st20050010_base_plate.png",
+      "rel_link": "diagrams/CL Clutch/tool_st20050010_base_plate.png",
+      "page_num": 13,
+      "page_label": "CL-13",
+      "fig_id": "ST20050010",
+      "code": "",
+      "caption": "ST20050010 Base plate",
+      "diagram_type": "special_service_tool",
+      "description": "Special service tool drawing of circular fixture base plate ST20050010.",
+      "components": [
+        "Base plate"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tool: ST20050010"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Simulates flywheel surface when checking diaphragm spring height.",
+      "tags": [
+        "base plate",
+        "ST20050010",
+        "special service tool"
+      ],
+      "dimensions": [
+        514,
+        270
+      ]
+    },
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "tool_gg94310000_flare_nut_torque_wrench",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/tool_gg94310000_flare_nut_torque_wrench.png",
+      "rel_link": "diagrams/CL Clutch/tool_gg94310000_flare_nut_torque_wrench.png",
+      "page_num": 13,
+      "page_label": "CL-13",
+      "fig_id": "GG94310000",
+      "code": "",
+      "caption": "GG94310000 Flare nut torque wrench",
+      "diagram_type": "special_service_tool",
+      "description": "Special service tool drawing of flare nut torque wrench and crowfoot adapter GG94310000.",
+      "components": [
+        "Flare nut torque wrench"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tool: GG94310000"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Prevents rounding and overtightening of hydraulic tube flare nuts.",
+      "tags": [
+        "flare nut torque wrench",
+        "GG94310000",
+        "special service tool"
+      ],
+      "dimensions": [
+        520,
+        270
+      ]
+    },
+    {
+      "section_title": "CLUTCH",
+      "source_md": "1978 280z FSM/CL Clutch.md",
+      "slug": "tool_st20050051_set_bolts",
+      "file": "markdown/1978 280z FSM/diagrams/CL Clutch/tool_st20050051_set_bolts.png",
+      "rel_link": "diagrams/CL Clutch/tool_st20050051_set_bolts.png",
+      "page_num": 13,
+      "page_label": "CL-13",
+      "fig_id": "ST20050051",
+      "code": "",
+      "caption": "ST20050051 Set bolts",
+      "diagram_type": "special_service_tool",
+      "description": "Special service tool drawing of stepped set bolts ST20050051 used to secure clutch cover to base plate.",
+      "components": [
+        "Set bolts"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tool: ST20050051"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Secures cover to base plate ST20050010.",
+      "tags": [
+        "set bolts",
+        "ST20050051",
+        "special service tool"
+      ],
+      "dimensions": [
+        514,
+        279
+      ]
+    }
+  ],
+  "torques": [
+    {
+      "component": "Clutch assembly securing bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.6 to 2.1 (12 to 15)",
+      "page_label": "CL-4"
+    },
+    {
+      "component": "Fulcrum pin (clutch pedal)",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.5 to 4.8 (25 to 35)",
+      "page_label": "CL-7"
+    },
+    {
+      "component": "Bleeder screw (operating cylinder)",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.7 to 0.9 (5.1 to 6.5)",
+      "page_label": "CL-6"
+    },
+    {
+      "component": "Lock nut A (Pedal stopper lock nut)",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.8 to 1.2 (5.8 to 8.7)",
+      "page_label": "CL-6"
+    },
+    {
+      "component": "Lock nut B (Push rod adjusting nut)",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.8 to 1.2 (5.8 to 8.7)",
+      "page_label": "CL-6"
+    },
+    {
+      "component": "Master cylinder to dash panel securing bolts",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.8 to 1.1 (5.8 to 8.0)",
+      "page_label": "CL-8"
+    },
+    {
+      "component": "Clutch tube connector (Flare nut)",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.5 to 1.8 (11 to 13)",
+      "page_label": "CL-8"
+    },
+    {
+      "component": "Operating cylinder to clutch housing securing bolts",
+      "unit": "kg-m (ft-lb)",
+      "value": "2.5 to 3.0 (18 to 22)",
+      "page_label": "CL-9"
+    },
+    {
+      "component": "Clutch hose connector",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.7 to 2.0 (12 to 14)",
+      "page_label": "CL-9"
+    }
+  ],
+  "specs": [
+    {
+      "system": "Clutch",
+      "item": "Diaphragm spring-to-flywheel height (C225S / S30)",
+      "unit": "mm (in)",
+      "standard": "34 (1.339)",
+      "limit": "-",
+      "page_label": "CL-10"
+    },
+    {
+      "system": "Clutch",
+      "item": "Diaphragm spring-to-flywheel height (D240K / GS30 2+2)",
+      "unit": "mm (in)",
+      "standard": "38.5 (1.516)",
+      "limit": "-",
+      "page_label": "CL-10"
+    },
+    {
+      "system": "Clutch",
+      "item": "Diaphragm spring height A on test base (C225S)",
+      "unit": "mm (in)",
+      "standard": "33 to 35 (1.30 to 1.38)",
+      "limit": "-",
+      "page_label": "CL-3"
+    },
+    {
+      "system": "Clutch",
+      "item": "Diaphragm spring height A on test base (D240K)",
+      "unit": "mm (in)",
+      "standard": "37.5 to 39.5 (1.48 to 1.56)",
+      "limit": "-",
+      "page_label": "CL-3"
+    },
+    {
+      "system": "Clutch",
+      "item": "Unevenness of diaphragm spring toe height",
+      "unit": "mm (in)",
+      "standard": "-",
+      "limit": "0.5 (0.020)",
+      "page_label": "CL-10"
+    },
+    {
+      "system": "Clutch",
+      "item": "Diaphragm spring installed load (C225S / S30)",
+      "unit": "kg (lb)",
+      "standard": "550 (1,213)",
+      "limit": "-",
+      "page_label": "CL-10"
+    },
+    {
+      "system": "Clutch",
+      "item": "Diaphragm spring installed load (D240K / GS30)",
+      "unit": "kg (lb)",
+      "standard": "500 (1,102)",
+      "limit": "-",
+      "page_label": "CL-10"
+    },
+    {
+      "system": "Clutch",
+      "item": "Out of flatness of pressure plate",
+      "unit": "mm (in)",
+      "standard": "-",
+      "limit": "0.05 (0.0020)",
+      "page_label": "CL-10"
+    },
+    {
+      "system": "Clutch",
+      "item": "Allowable refacing limit of pressure plate",
+      "unit": "mm (in)",
+      "standard": "-",
+      "limit": "1.0 (0.0394)",
+      "page_label": "CL-10"
+    },
+    {
+      "system": "Clutch",
+      "item": "Clutch disc facing size (Outer dia. x inside dia. x thickness) - C225S",
+      "unit": "mm (in)",
+      "standard": "225 x 150 x 3.5 (8.86 x 5.91 x 0.138)",
+      "limit": "-",
+      "page_label": "CL-10"
+    },
+    {
+      "system": "Clutch",
+      "item": "Clutch disc facing size (Outer dia. x inside dia. x thickness) - D240K",
+      "unit": "mm (in)",
+      "standard": "240 x 150 x 3.5 (9.45 x 5.91 x 0.138)",
+      "limit": "-",
+      "page_label": "CL-10"
+    },
+    {
+      "system": "Clutch",
+      "item": "Clutch disc allowable minimum depth of rivet head from facing surface",
+      "unit": "mm (in)",
+      "standard": "-",
+      "limit": "0.3 (0.012)",
+      "page_label": "CL-10"
+    },
+    {
+      "system": "Clutch",
+      "item": "Clutch disc runout (total indicator reading)",
+      "unit": "mm (in)",
+      "standard": "-",
+      "limit": "0.5 (0.020)",
+      "page_label": "CL-3"
+    },
+    {
+      "system": "Clutch",
+      "item": "Clutch disc allowable free play of spline (backlash at outer edge)",
+      "unit": "mm (in)",
+      "standard": "-",
+      "limit": "0.4 (0.016)",
+      "page_label": "CL-10"
+    },
+    {
+      "system": "Clutch",
+      "item": "Pilot bushing installation depth in crankshaft",
+      "unit": "mm (in)",
+      "standard": "9.5 (0.374)",
+      "limit": "-",
+      "page_label": "CL-5"
+    },
+    {
+      "system": "Clutch",
+      "item": "Clutch pedal free play",
+      "unit": "mm (in)",
+      "standard": "1.0 to 5.0 (0.039 to 0.197)",
+      "limit": "-",
+      "page_label": "CL-10"
+    },
+    {
+      "system": "Clutch",
+      "item": "Clutch pedal height",
+      "unit": "mm (in)",
+      "standard": "223 (8.78)",
+      "limit": "-",
+      "page_label": "CL-10"
+    },
+    {
+      "system": "Clutch",
+      "item": "Clutch master cylinder diameter",
+      "unit": "mm (in)",
+      "standard": "15.87 (0.6248)",
+      "limit": "-",
+      "page_label": "CL-10"
+    },
+    {
+      "system": "Clutch",
+      "item": "Clutch master cylinder to piston clearance limit",
+      "unit": "mm (in)",
+      "standard": "-",
+      "limit": "0.15 (0.0059)",
+      "page_label": "CL-7"
+    },
+    {
+      "system": "Clutch",
+      "item": "Operating cylinder diameter",
+      "unit": "mm (in)",
+      "standard": "19.05 (0.7500)",
+      "limit": "-",
+      "page_label": "CL-10"
+    },
+    {
+      "system": "Clutch",
+      "item": "Operating cylinder stroke",
+      "unit": "mm (in)",
+      "standard": "35 (1.38)",
+      "limit": "-",
+      "page_label": "CL-6"
+    }
+  ],
+  "troubleshooting": [
+    {
+      "symptom": "Clutch slips - Car will not respond to engine speed during acceleration, insufficient car speed, lack of power during uphill driving",
+      "probable_cause": "Clutch facing worn excessively",
+      "corrective_action": "Replace.",
+      "page_label": "CL-11"
+    },
+    {
+      "symptom": "Clutch slips - Car will not respond to engine speed during acceleration, insufficient car speed, lack of power during uphill driving",
+      "probable_cause": "Oil or grease on clutch facing",
+      "corrective_action": "Replace.",
+      "page_label": "CL-11"
+    },
+    {
+      "symptom": "Clutch slips - Car will not respond to engine speed during acceleration, insufficient car speed, lack of power during uphill driving",
+      "probable_cause": "Warped clutch cover or pressure plate",
+      "corrective_action": "Repair or replace.",
+      "page_label": "CL-11"
+    },
+    {
+      "symptom": "Clutch drags - Noticeable when shifting gears, especially into low gear; gear grating when shifting into Reverse",
+      "probable_cause": "Clutch disc runout or warped",
+      "corrective_action": "Repair or replace.",
+      "page_label": "CL-11"
+    },
+    {
+      "symptom": "Clutch drags - Noticeable when shifting gears, especially into low gear; gear grating when shifting into Reverse",
+      "probable_cause": "Wear or rust on hub splines in clutch disc",
+      "corrective_action": "Clean and lubricate with grease, or replace.",
+      "page_label": "CL-11"
+    },
+    {
+      "symptom": "Clutch drags - Noticeable when shifting gears, especially into low gear; gear grating when shifting into Reverse",
+      "probable_cause": "Diaphragm spring toe height out of adjustment or toe tip worn",
+      "corrective_action": "Adjust or replace.",
+      "page_label": "CL-11"
+    },
+    {
+      "symptom": "Clutch drags - Noticeable when shifting gears, especially into low gear; gear grating when shifting into Reverse",
+      "probable_cause": "Worn or improperly installed parts",
+      "corrective_action": "Repair or replace.",
+      "page_label": "CL-11"
+    },
+    {
+      "symptom": "Clutch chatters - Noticeable when car is just rolled off with clutch partially engaged",
+      "probable_cause": "Weak or broken clutch disc torsion spring",
+      "corrective_action": "Replace.",
+      "page_label": "CL-12"
+    },
+    {
+      "symptom": "Clutch chatters - Noticeable when car is just rolled off with clutch partially engaged",
+      "probable_cause": "Oil or grease on clutch facing",
+      "corrective_action": "Replace.",
+      "page_label": "CL-12"
+    },
+    {
+      "symptom": "Clutch chatters - Noticeable when car is just rolled off with clutch partially engaged",
+      "probable_cause": "Clutch facing out of proper contact or clutch disc runout",
+      "corrective_action": "Replace.",
+      "page_label": "CL-12"
+    },
+    {
+      "symptom": "Clutch chatters - Noticeable when car is just rolled off with clutch partially engaged",
+      "probable_cause": "Loose rivets",
+      "corrective_action": "Replace.",
+      "page_label": "CL-12"
+    },
+    {
+      "symptom": "Clutch chatters - Noticeable when car is just rolled off with clutch partially engaged",
+      "probable_cause": "Warped pressure plate or clutch cover surface",
+      "corrective_action": "Repair or replace.",
+      "page_label": "CL-12"
+    },
+    {
+      "symptom": "Clutch chatters - Noticeable when car is just rolled off with clutch partially engaged",
+      "probable_cause": "Unevenness of diaphragm spring toe height",
+      "corrective_action": "Adjust or replace.",
+      "page_label": "CL-12"
+    },
+    {
+      "symptom": "Clutch chatters - Noticeable when car is just rolled off with clutch partially engaged",
+      "probable_cause": "Loose engine mounting or deteriorated rubber",
+      "corrective_action": "Retighten or replace.",
+      "page_label": "CL-12"
+    },
+    {
+      "symptom": "Noisy clutch - Noise heard after clutch is disengaged",
+      "probable_cause": "Damaged release bearing",
+      "corrective_action": "Replace.",
+      "page_label": "CL-12"
+    },
+    {
+      "symptom": "Noisy clutch - Noise heard when clutch is disengaged",
+      "probable_cause": "Insufficient grease on the sliding surface of bearing sleeve",
+      "corrective_action": "Apply grease.",
+      "page_label": "CL-12"
+    },
+    {
+      "symptom": "Noisy clutch - Noise heard when clutch is disengaged",
+      "probable_cause": "Clutch cover and bearing are not installed correctly",
+      "corrective_action": "Adjust.",
+      "page_label": "CL-12"
+    },
+    {
+      "symptom": "Noisy clutch - Noise heard when car is suddenly started off with clutch partially engaged",
+      "probable_cause": "Damaged pilot bushing",
+      "corrective_action": "Replace.",
+      "page_label": "CL-12"
+    },
+    {
+      "symptom": "Clutch grabs - Car will not start off smoothly from standing start or clutch engaged before pedal fully depressed",
+      "probable_cause": "Oil or grease on clutch facing",
+      "corrective_action": "Replace.",
+      "page_label": "CL-12"
+    },
+    {
+      "symptom": "Clutch grabs - Car will not start off smoothly from standing start or clutch engaged before pedal fully depressed",
+      "probable_cause": "Clutch facing worn or loose rivets",
+      "corrective_action": "Replace.",
+      "page_label": "CL-12"
+    },
+    {
+      "symptom": "Clutch grabs - Car will not start off smoothly from standing start or clutch engaged before pedal fully depressed",
+      "probable_cause": "Wear or rust on splines in drive shaft and clutch disc",
+      "corrective_action": "Clean or replace.",
+      "page_label": "CL-12"
+    },
+    {
+      "symptom": "Clutch grabs - Car will not start off smoothly from standing start or clutch engaged before pedal fully depressed",
+      "probable_cause": "Warped flywheel or pressure plate",
+      "corrective_action": "Repair or replace.",
+      "page_label": "CL-12"
+    },
+    {
+      "symptom": "Clutch grabs - Car will not start off smoothly from standing start or clutch engaged before pedal fully depressed",
+      "probable_cause": "Loose mountings for engine or power train units",
+      "corrective_action": "Retighten.",
+      "page_label": "CL-12"
+    }
+  ],
+  "special_tools": [
+    {
+      "tool_number": "KV30100100",
+      "tool_name": "Clutch aligning bar",
+      "kent_moore_no": "\u2014",
+      "ref": "Fig. CL-2, Fig. CL-7",
+      "page_label": "CL-13"
+    },
+    {
+      "tool_number": "ST20050240",
+      "tool_name": "Diaphragm adjusting wrench",
+      "kent_moore_no": "\u2014",
+      "ref": "Fig. CL-6",
+      "page_label": "CL-13"
+    },
+    {
+      "tool_number": "ST20050100",
+      "tool_name": "Distance piece",
+      "kent_moore_no": "\u2014",
+      "ref": "Fig. CL-5",
+      "page_label": "CL-13"
+    },
+    {
+      "tool_number": "ST16610001",
+      "tool_name": "Pilot bushing puller",
+      "kent_moore_no": "J 23907",
+      "ref": "Fig. CL-13",
+      "page_label": "CL-13"
+    },
+    {
+      "tool_number": "ST20050010",
+      "tool_name": "Base plate",
+      "kent_moore_no": "\u2014",
+      "ref": "Fig. CL-5",
+      "page_label": "CL-13"
+    },
+    {
+      "tool_number": "GG94310000",
+      "tool_name": "Flare nut torque wrench",
+      "kent_moore_no": "\u2014",
+      "ref": "Page CL-6, Page CL-8, Page CL-9",
+      "page_label": "CL-13"
+    },
+    {
+      "tool_number": "ST20050051",
+      "tool_name": "Set bolts",
+      "kent_moore_no": "\u2014",
+      "ref": "Fig. CL-5",
+      "page_label": "CL-13"
+    }
+  ]
+}

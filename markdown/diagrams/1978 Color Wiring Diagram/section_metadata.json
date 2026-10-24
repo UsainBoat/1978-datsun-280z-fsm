@@ -1,0 +1,782 @@
+{
+  "section_title": "1978 Color Wiring Diagram",
+  "source_pdf": "1978 Color Wiring Diagram.pdf",
+  "md_path": "1978 Color Wiring Diagram.md",
+  "pages_count": 5,
+  "diagrams": [
+    {
+      "section_title": "1978 Color Wiring Diagram",
+      "source_md": "1978 Color Wiring Diagram.md",
+      "slug": "wiring_diagram_zone_1_front_chassis",
+      "file": "markdown/diagrams/1978 Color Wiring Diagram/wiring_diagram_zone_1_front_chassis.png",
+      "rel_link": "diagrams/1978 Color Wiring Diagram/wiring_diagram_zone_1_front_chassis.png",
+      "page_num": 1,
+      "page_label": "Zone 1: Front/Left \u2014 Headlights, Alternator, Starter & Ignition",
+      "fig_id": "Wiring Diagram Zone 1",
+      "code": "",
+      "caption": "1978 Datsun 280Z Factory Color Wiring Diagram \u2014 Zone 1: Front Chassis, Lighting, Alternator, Starter & Ignition",
+      "diagram_type": "electrical_schematic",
+      "description": "High-resolution schematic segment of the forward vehicle harness for 1978 Datsun 280Z. Shows complete wiring paths and color codes for dual sealed-beam headlamps, front combination turn/clearance lamps, horn circuits, alternator with integrated IC regulator, starter motor and solenoid, check connector, ignition distributor and coil, thermal transmitter, oil pressure sender, and transmission inhibitor/reverse switches.",
+      "components": [
+        "Pressure Switch (A/C)",
+        "Magnet Valve - F.I.C.D. (A/C)",
+        "Magnet Valve - Vacuum Source (A/C)",
+        "Side Marker Lamp R.H.",
+        "Headlamp R.H.",
+        "Front Combination Lamp R.H. (Turn / Clearance)",
+        "Horn R.H.",
+        "Horn L.H.",
+        "Front Combination Lamp L.H. (Turn / Clearance)",
+        "Headlamp L.H.",
+        "Side Marker Lamp L.H.",
+        "Alternator with I.C. Regulator",
+        "Alternator Condenser",
+        "Inhibiter Switch (A/T)",
+        "Downshift Solenoid (A/T)",
+        "Back-Up Lamp Switch (M/T)",
+        "Oil Pressure Sending Unit",
+        "Starter Motor & Solenoid",
+        "Electronic Distributor",
+        "Terminal Block",
+        "Spark Plugs (1\u20136)",
+        "Ignition Coil",
+        "Radio Condenser",
+        "Magnet Clutch (A/C)",
+        "BCDD Cut Solenoid",
+        "Thermal Transmitter",
+        "Check Connector (6-Pin)",
+        "Engine Earth",
+        "Body Earth"
+      ],
+      "callouts": {
+        "A": "Alternator Output Terminal (BAT)",
+        "S": "Alternator Battery Voltage Sense Terminal / Starter Solenoid Terminal",
+        "L": "Alternator Charge Lamp Terminal / Ignition Coil (-) Lead",
+        "E": "Earth / Ground Terminal",
+        "B": "Starter Motor Direct Battery Terminal",
+        "P": "Park Position Contact (Inhibitor Switch)",
+        "N": "Neutral Position Contact (Inhibitor Switch)",
+        "R": "Reverse Position Contact (Inhibitor Switch / Backup Lamp)"
+      },
+      "measurements_and_specs": [
+        "Alternator Output: 12V 60A (Mitsubishi or Hitachi with integral IC regulator)",
+        "Starter Motor: 12V 1.4 kW reduction gear drive",
+        "Headlamps: Dual round sealed beams (12V 50W Low / 60W High)",
+        "Front Turn Signal Bulbs: 12V 27W (Single filament amber/clear)",
+        "Front Clearance / Parking Bulbs: 12V 8W",
+        "Ignition Coil Primary Resistance: 0.84 to 1.02 \u03a9",
+        "Ignition Coil Secondary Resistance: 8.2 to 12.4 k\u03a9",
+        "Check Connector: 6-pin circular automotive test socket"
+      ],
+      "wiring_and_connections": [
+        "RW: Headlamp R.H. Low Beam feed",
+        "RB: Headlamp R.H. High Beam feed",
+        "RL: Headlamp L.H. Low Beam & clearance lamp bus",
+        "RY: Headlamp L.H. High Beam feed",
+        "R: Protected 12V headlamp power bus from fuses 4 & 5",
+        "GY: Right front turn signal wire",
+        "GB: Left front turn signal wire & Horn power feed",
+        "B: Chassis ground / engine earth",
+        "WR: Alternator main BAT charging output to fusible link",
+        "Y: Alternator voltage sense lead to fusible link",
+        "WB: Alternator L terminal to charge lamp & check connector",
+        "BY: Starter solenoid S trigger (12V START bus)",
+        "BW: Switched 12V ignition power bus (ON/START)",
+        "L: Ignition coil negative trigger pulse / tachometer signal",
+        "YB: Oil pressure sender variable resistance wire",
+        "YW: Thermal transmitter coolant temperature wire",
+        "LR: Air conditioning compressor clutch power feed"
+      ],
+      "mechanic_notes": "Ensure clean metal-to-metal contact at the front body ground lugs adjacent to each headlamp bucket. When installing replacement alternators, verify that the 'S' (Sense) and 'L' (Lamp) spade terminals are not reversed; reversing these terminals will prevent charging and cause continuous battery discharge through the regulator.",
+      "tags": [
+        "headlights",
+        "alternator",
+        "ic_regulator",
+        "starter_motor",
+        "ignition_coil",
+        "distributor",
+        "check_connector",
+        "horns",
+        "front_turn_signals",
+        "oil_pressure_sender",
+        "thermal_transmitter",
+        "inhibitor_switch"
+      ],
+      "dimensions": [
+        3129,
+        3711
+      ]
+    },
+    {
+      "section_title": "1978 Color Wiring Diagram",
+      "source_md": "1978 Color Wiring Diagram.md",
+      "slug": "wiring_diagram_zone_2_engine_efi",
+      "file": "markdown/diagrams/1978 Color Wiring Diagram/wiring_diagram_zone_2_engine_efi.png",
+      "rel_link": "diagrams/1978 Color Wiring Diagram/wiring_diagram_zone_2_engine_efi.png",
+      "page_num": 2,
+      "page_label": "Zone 2: Engine Compartment, Relays, Fusible Links & EFI System",
+      "fig_id": "Wiring Diagram Zone 2",
+      "code": "",
+      "caption": "1978 Datsun 280Z Factory Color Wiring Diagram \u2014 Zone 2: Engine Compartment, Relays, Fusible Links & EFI System",
+      "diagram_type": "electrical_schematic",
+      "description": "Detailed schematic segment showing the complete L28E engine electrical management system. Includes Battery, fusible links (Green EFI link and Main fusible link block), Transistor Ignition Unit, Relay Bracket (Inhibitor, A/C, Fuel Pump Control, Fuel Pump, and EFI Main relays), 35-pin ECU harness, Dropping Resistor packs, Injectors 1 through 6, Air Flow Meter, Cold Start Valve, Thermotime Switch, Water Temperature Sensor, Air Regulator, Throttle Valve Switch, Wiper/Washer motors, and harness disconnects C-1 through C-9.",
+      "components": [
+        "Battery (12V)",
+        "Fusible Link (for E.F.I. - Green)",
+        "Fusible Link Block (Main - Brown & Black)",
+        "Transistor Ignition Unit",
+        "Inhibitor Relay (A/T)",
+        "Air Conditioner Relay",
+        "Fuel Pump Control Relay",
+        "Fuel Pump Relay",
+        "Electronic Fuel Injection Main Relay",
+        "Control Unit (ECU - 35 Pins)",
+        "Dropping Resistor Block (1)",
+        "Dropping Resistor Block (2)",
+        "Fuel Injectors (Cylinders 1, 2, 3, 4, 5, 6)",
+        "Cold Start Valve",
+        "Thermotime Switch",
+        "Water Temperature Sensor",
+        "Air Regulator",
+        "Throttle Valve Switch (TPS)",
+        "Air Flow Meter (AFM)",
+        "Wiper Motor",
+        "Washer Motor",
+        "Engine Compartment Lamp",
+        "Brake Fluid Level Switches (Dual)",
+        "Altitude Switch (California Models)",
+        "Door Switch L.H.",
+        "Harness Connectors C-1, C-2, C-3, C-4, C-9",
+        "Engine Earth Stud",
+        "Body Earth Strap"
+      ],
+      "callouts": {
+        "71 L": "Switched 12V EFI power from main relay to ECU",
+        "72 R": "Unswitched 12V battery standby from green fusible link",
+        "43/2": "Common 12V power rail to dropping resistors",
+        "P": "Wiper Park Terminal",
+        "H": "Wiper High Speed Terminal",
+        "L": "Wiper Low Speed Terminal",
+        "E": "Wiper Ground Terminal",
+        "B": "Wiper Power Terminal"
+      },
+      "measurements_and_specs": [
+        "EFI Fusible Link: Green (approx. 40A equivalent capacity)",
+        "Main Fusible Links: Brown (30A) and Black/Green (40A)",
+        "Dropping Resistor Resistance: 6.0 \u03a9 \u00b1 0.3 \u03a9 per resistor section",
+        "Fuel Injector Coil Resistance: 2.5 to 3.0 \u03a9 (low impedance EV1)",
+        "Water Temperature Sensor Resistance: 2.1 to 2.9 k\u03a9 @ 20\u00b0C (68\u00b0F); 270 to 380 \u03a9 @ 80\u00b0C (176\u00b0F)",
+        "Thermotime Switch Resistance: Below 14\u00b0C (57\u00b0F): 0 \u03a9 (closed); Above 35\u00b0C (95\u00b0F): \u221e (open)",
+        "Air Regulator Resistance: Approx. 70 to 80 \u03a9 heater element",
+        "ECU Connector: 35-pin AMP automotive multi-pin"
+      ],
+      "wiring_and_connections": [
+        "72 R: Heavy Red wire from EFI fusible link to relay contact",
+        "71 L: Heavy Blue wire from EFI main relay to ECU pins",
+        "BW: Switched 12V ignition power to relay coils and transistor unit",
+        "L: Switched spark trigger wire from transistor unit to coil (-)",
+        "B: Engine ground returns for ECU, sensors, and relays",
+        "BY: Starter 50 cranking signal to ECU pin 4 and fuel pump control relay",
+        "G 21 / G 47: Cold start valve trigger leads",
+        "B 45 / B 46: Thermotime switch heater and contact leads",
+        "34 G / 48 G: Air regulator warmup heater power and ground",
+        "6, 7, 8, 9, 27 (Black): AFM potentiometer and intake air temp leads",
+        "GY / BW: High-current power feed to electric fuel pump"
+      ],
+      "mechanic_notes": "Never connect 12V directly to the fuel injector terminals without the 6-ohm dropping resistors in series; direct 12V will burn out the low-impedance injector coils in seconds. Check the heavy engine ground cluster on the intake manifold whenever intermittent EFI or misfire issues occur.",
+      "tags": [
+        "efi",
+        "ecu",
+        "fuel_injection",
+        "dropping_resistors",
+        "injectors",
+        "air_flow_meter",
+        "thermotime_switch",
+        "cold_start_valve",
+        "fuel_pump_relay",
+        "fusible_links",
+        "transistor_ignition",
+        "wiper_motor"
+      ],
+      "dimensions": [
+        3129,
+        3711
+      ]
+    },
+    {
+      "section_title": "1978 Color Wiring Diagram",
+      "source_md": "1978 Color Wiring Diagram.md",
+      "slug": "wiring_diagram_zone_3_center_dash",
+      "file": "markdown/diagrams/1978 Color Wiring Diagram/wiring_diagram_zone_3_center_dash.png",
+      "rel_link": "diagrams/1978 Color Wiring Diagram/wiring_diagram_zone_3_center_dash.png",
+      "page_num": 3,
+      "page_label": "Zone 3: Center Dash, Switches, Combination Meter & Steering Column",
+      "fig_id": "Wiring Diagram Zone 3",
+      "code": "",
+      "caption": "1978 Datsun 280Z Factory Color Wiring Diagram \u2014 Zone 3: Center Dash, Switches, Combination Meter & Steering Column",
+      "diagram_type": "electrical_schematic",
+      "description": "Schematic segment covering cockpit instrumentation, steering column controls, and auxiliary relay modules. Details the three auxiliary center gauges (Clock, Voltmeter/Fuel, Water Temp/Oil Pressure), Tachometer, Speedometer, Combination Switch matrices (Turn, Beam, Horn, Lighting, Wiper, Washer), Ignition Switch truth table, Intermittent Wiper Amplifier, Horn Relay, Defogger Relay, Ignition Relay, Seat Belt Timer, and Flasher units.",
+      "components": [
+        "Clock",
+        "Volt & Fuel Gauge",
+        "Gauge Water Temp & Oil Pressure",
+        "Tachometer with Turn Pilots",
+        "Speedometer with Brake & High Beam Lamps",
+        "Illumination Control Rheostat",
+        "Steering Lock Key Switch",
+        "Ignition Switch",
+        "Combination Switch (Multi-Function Stalk)",
+        "Turn Signal Flasher Unit (3-Terminal)",
+        "Hazard Flasher Unit (2-Terminal)",
+        "Intermittent Wiper Amplifier",
+        "Horn Relay",
+        "Defogger Relay",
+        "Ignition Relay",
+        "Seat Belt Warning Timer Unit",
+        "Brake Warning Lamp Check Relay",
+        "Harness Connectors C-5, C-6, C-9, C-10"
+      ],
+      "callouts": {
+        "1": "Ignition Switch in OFF",
+        "2": "Lighting Switch, Wiper Switch in OFF",
+        "3": "Driver's Seat Belt Unoccupied",
+        "4": "Doors Closed",
+        "5": "Transmission in Neutral / Park",
+        "6": "Hand Brake Pulled"
+      },
+      "measurements_and_specs": [
+        "Fuel Tank Sender Resistance: Empty: 80 \u03a9; 1/2 Tank: 40 \u03a9; Full Tank: 10 \u03a9",
+        "Oil Pressure Sender Resistance: 0 psi: approx. 10 \u03a9; 70 psi: approx. 80 \u03a9",
+        "Instrument Illumination Bulbs: 12V 3.4W (Type 158 / 194 wedge base)",
+        "Turn Signal & Warning Indicator Bulbs: 12V 1.4W (Type 74 wedge base)",
+        "Turn Signal Flasher Rate: 60 to 90 flashes/min",
+        "Seat Belt Warning Chime Duration: 4 to 8 seconds"
+      ],
+      "wiring_and_connections": [
+        "W: Unswitched heavy 12V battery power from fusible link to ignition switch",
+        "BW: Switched 12V ignition bus (ON/START) from ignition relay",
+        "L: Switched 12V accessory bus (ACC/ON) and tachometer coil (-) trigger",
+        "BY: 12V starter crank trigger wire (START)",
+        "RL: Instrument backlight and clearance/marker lighting bus",
+        "GB: Left turn signal flasher feed",
+        "GY: Right turn signal flasher feed",
+        "GW: Constant 12V battery feed from Fuse 1 to hazard flasher and horn relay",
+        "YR: Switched ground wire for brake warning lamp",
+        "YL: Variable resistance signal from fuel level tank sender",
+        "YW: Variable resistance signal from water temperature thermal transmitter",
+        "YB: Variable resistance signal from oil pressure sending unit"
+      ],
+      "mechanic_notes": "When diagnosing tachometer inoperation, verify the blue (L) trigger wire at the coil negative terminal; an open ballast resistor or faulty ignition transistor will kill tachometer deflection. Ensure the instrument ground cluster behind the center console is tight; high resistance causes fuel and temperature gauges to read artificially high.",
+      "tags": [
+        "gauges",
+        "tachometer",
+        "speedometer",
+        "voltmeter",
+        "fuel_gauge",
+        "oil_pressure_gauge",
+        "water_temp_gauge",
+        "combination_switch",
+        "ignition_switch",
+        "horn_relay",
+        "defogger_relay",
+        "wiper_amplifier",
+        "flashers"
+      ],
+      "dimensions": [
+        3255,
+        3711
+      ]
+    },
+    {
+      "section_title": "1978 Color Wiring Diagram",
+      "source_md": "1978 Color Wiring Diagram.md",
+      "slug": "wiring_diagram_zone_4_cabin_fuse_box",
+      "file": "markdown/diagrams/1978 Color Wiring Diagram/wiring_diagram_zone_4_cabin_fuse_box.png",
+      "rel_link": "diagrams/1978 Color Wiring Diagram/wiring_diagram_zone_4_cabin_fuse_box.png",
+      "page_num": 4,
+      "page_label": "Zone 4: Cabin, Fuse Box Circuits, HVAC, Audio & Center Console",
+      "fig_id": "Wiring Diagram Zone 4",
+      "code": "",
+      "caption": "1978 Datsun 280Z Factory Color Wiring Diagram \u2014 Zone 4: Cabin, Fuse Box Circuits, HVAC, Audio & Center Console",
+      "diagram_type": "electrical_schematic",
+      "description": "High-resolution schematic segment detailing the passenger compartment electrical system. Features the complete 12-circuit Fuse Box layout with fuse amperage ratings and circuit allocations, Heater and Air Conditioning blower motor circuits, fan switches, resistor banks, A/C thermo and micro switches, Stop Lamp Switch, Parking Brake Switch, Radio, Auto Antenna Switch, Hazard Warning Switch matrix, Seat Belt Warning system, and rear harness disconnects C-7, C-8, and C-10.",
+      "components": [
+        "12-Circuit Fuse Box (Fuses 1\u201312)",
+        "Cooling Fan Motor Sub-Harness Feed",
+        "Heater Blower Motor",
+        "Heater Fan Switch (4-Position)",
+        "Heater Resistor Pack",
+        "Air Conditioner Thermo Switch",
+        "Air Conditioner Micro Switch",
+        "Air Conditioner Fan Switch & Resistor",
+        "Control Panel Illumination Lamp",
+        "Stop Lamp Switch",
+        "Parking Brake Switch",
+        "Radio AM/FM Unit",
+        "Auto Antenna Switch",
+        "Ashtray Lamp",
+        "Selector Lever Indicator Lamp (A/T)",
+        "Rear Window Defogger Switch",
+        "Rear Window Defogger Pilot Lamp",
+        "Hazard Warning Switch",
+        "Seat Belt Warning Lamp",
+        "Driver's Seat Belt Buckle Switch",
+        "Brake Warning Lamp Check Relay",
+        "Floor Sensor Relay (California Models)",
+        "Harness Connectors C-7, C-8, C-10"
+      ],
+      "callouts": {
+        "Fuse 1": "15A - Hazard, Horn, Stop Lamps (BAT Bus)",
+        "Fuse 2": "10A - Room, Map, Clock, Tailgate, Hood (BAT Bus)",
+        "Fuse 3": "10A - Tail, Clearance, Marker, License, Dash (LIGHT Bus)",
+        "Fuse 4": "15A - Headlamp R.H. (LIGHT Bus)",
+        "Fuse 5": "15A - Headlamp L.H. (LIGHT Bus)",
+        "Fuse 6": "20A - Rear Window Defogger (DEF Bus)",
+        "Fuse 7": "15A - Wiper & Washer Motors (ACC Bus)",
+        "Fuse 8": "10A - Radio, Cigar Lighter, Auto Antenna (ACC Bus)",
+        "Fuse 9": "10A - Turn Signals & Back-Up Lamps (IGN Bus)",
+        "Fuse 10": "15A - Gauges, Warning Lights, Seat Belt (IGN Bus)",
+        "Fuse 11": "15A - Heater Blower Motor (IGN Bus)",
+        "Fuse 12": "20A - Air Conditioner Compressor & Auxiliary Fan (IGN Bus)"
+      },
+      "measurements_and_specs": [
+        "Fuse Box Format: 12-position cartridge glass fuses (AGW / SFE standard)",
+        "Total Fuse Box Capacity: 175 Amperes cumulative branch rating",
+        "Heater Blower Current Draw: Low: approx. 3.5A; Med: approx. 6.0A; High: approx. 11.5A",
+        "Stop Lamp Current Draw: Dual 27W bulbs = approx. 4.5A total",
+        "Rear Window Defogger Current Draw: Approx. 12 to 15A continuous",
+        "Auxiliary Cooling Fan Current Draw: Approx. 7.5 to 9.0A"
+      ],
+      "wiring_and_connections": [
+        "GW: Unswitched 12V battery power from Fuse 1 to stop switch and hazard switch",
+        "GY: Switched 12V stop lamp output from brake pedal switch",
+        "RL: Protected clearance, marker, tail and instrument illumination bus from Fuse 3",
+        "L: Switched 12V accessory power from Fuses 7 & 8 to radio and wipers",
+        "BW: Switched 12V ignition power from Fuse 10 to instruments and warning relays",
+        "G: Switched 12V ignition power from Fuse 9 to turn flasher and reverse lights",
+        "YR: Switched ground circuit for handbrake warning light",
+        "B: Dedicated cabin and console chassis ground leads"
+      ],
+      "mechanic_notes": "Glass fuse clips in the 280Z fuse box are prone to corrosion and tension loss over time, leading to high electrical resistance, intermittent accessory failure, or localized overheating. When troubleshooting blower motor or defogger failure, always inspect fuse end caps and spring clips for oxidation or heat discoloration.",
+      "tags": [
+        "fuse_box",
+        "fuses",
+        "heater_blower",
+        "air_conditioning",
+        "hazard_switch",
+        "stop_lamp_switch",
+        "radio",
+        "auto_antenna",
+        "parking_brake_switch",
+        "defogger_switch",
+        "seat_belt_timer"
+      ],
+      "dimensions": [
+        3130,
+        3711
+      ]
+    },
+    {
+      "section_title": "1978 Color Wiring Diagram",
+      "source_md": "1978 Color Wiring Diagram.md",
+      "slug": "wiring_diagram_zone_5_rear_chassis",
+      "file": "markdown/diagrams/1978 Color Wiring Diagram/wiring_diagram_zone_5_rear_chassis.png",
+      "rel_link": "diagrams/1978 Color Wiring Diagram/wiring_diagram_zone_5_rear_chassis.png",
+      "page_num": 5,
+      "page_label": "Zone 5: Rear Chassis, Tail Lamps, Fuel Pump, Rear Defogger & Schematic Legend",
+      "fig_id": "Wiring Diagram Zone 5",
+      "code": "",
+      "caption": "1978 Datsun 280Z Factory Color Wiring Diagram \u2014 Zone 5: Rear Chassis, Tail Lamps, Fuel Pump, Rear Defogger & Schematic Legend",
+      "diagram_type": "electrical_schematic",
+      "description": "Schematic segment covering the rear chassis, fuel pump and tank sender, tailgate, rear combination lamps, and the master factory schematic legend. Details high-pressure electric fuel pump wiring, fuel gauge sender and low-fuel warning thermistor, rear combination lamps (turn, stop, tail, back-up), rear side markers, license lamps, rear window defogger grid, dome lamp, tailgate switch, motorized antenna, master wire color abbreviations, model option codes, schematic default test states, and connector housing configurations (C-1 through C-10).",
+      "components": [
+        "Rear Combination Lamp R.H. (Turn, Stop, Tail, Back-Up)",
+        "Rear Combination Lamp L.H. (Turn, Stop, Tail, Back-Up)",
+        "Rear Side Marker Lamp R.H.",
+        "Rear Side Marker Lamp L.H.",
+        "License Plate Lamps (Dual)",
+        "Electric Fuel Pump",
+        "Fuel Tank Gauge Unit (Sender & Thermistor)",
+        "Rear Window Defogger Grid",
+        "Room Lamp (Dome Courtesy Lamp)",
+        "Tailgate Switch (California Models)",
+        "Radio Antenna (Motorized Mast Assembly)",
+        "Speaker R.H. & Speaker L.H.",
+        "Floor Sensor (California Models)",
+        "Master Wire Color Code Legend",
+        "Connector Housing Types C-1 through C-10",
+        "Rear Body Earth Lugs"
+      ],
+      "callouts": {
+        "B": "Black Wire Color Code",
+        "W": "White Wire Color Code",
+        "R": "Red Wire Color Code",
+        "G": "Green Wire Color Code",
+        "L": "Blue Wire Color Code",
+        "Y": "Yellow Wire Color Code",
+        "Lg": "Light Green Wire Color Code",
+        "Br": "Brown Wire Color Code",
+        "C-1": "Blue 16-Pin Connector",
+        "C-2": "Black 8-Pin Connector",
+        "C-3": "Green 8-Pin Connector",
+        "C-4": "White 8-Pin Connector",
+        "C-5": "White 16-Pin Connector",
+        "C-6": "Black 16-Pin Connector",
+        "C-7, C-8": "Black 12-Pin Connector",
+        "C-9, C-10": "White 8-Pin Connector"
+      },
+      "measurements_and_specs": [
+        "Fuel Tank Sender Resistance: Full: 10 \u03a9; 1/2: 40 \u03a9; Empty: 80 \u03a9",
+        "Low Fuel Warning Trigger Threshold: Approx. 2.5 gallons (9.5 liters) remaining",
+        "Rear Combination Turn Signal Bulbs: 12V 27W (Single filament)",
+        "Rear Stop / Tail Bulbs: 12V 27W / 8W (Dual filament #1034 / #1157)",
+        "Rear Back-Up Bulbs: 12V 27W (Clear single filament #1156)",
+        "Rear Side Marker Bulbs: 12V 8W",
+        "License Plate Bulbs: 12V 8W (Type G18 / #89)",
+        "Rear Defogger Resistance: Approx. 0.8 to 1.1 \u03a9 across bus bars"
+      ],
+      "wiring_and_connections": [
+        "GY: Right rear turn signal wire and brake stop lamp bus",
+        "GB: Left rear turn signal wire",
+        "RL: Tail lamp, side marker, and license plate lamp bus",
+        "RB: Back-up reverse lamp feed from transmission switch",
+        "BW / GY: Electric fuel pump high-current switched 12V power",
+        "YL: Fuel level sender variable resistance wire to gauge",
+        "YG: Low-fuel thermistor signal wire to warning lamp",
+        "RW: Constant 12V battery power from Fuse 2 to dome room lamp",
+        "B: Chassis frame and sheet metal ground return points"
+      ],
+      "mechanic_notes": "A common cause of dim rear lights or erratic turn signals on S30 chassis is a corroded ground ring terminal inside the rear tail light pocket; clean both rear body earth lugs down to bare metal. Ensure the heavy ground strap between the fuel tank flange and chassis is intact to prevent static electricity discharge and erratic fuel gauge readings.",
+      "tags": [
+        "rear_lights",
+        "tail_lights",
+        "stop_lights",
+        "turn_signals",
+        "fuel_pump",
+        "fuel_tank_sender",
+        "defogger",
+        "room_lamp",
+        "color_codes",
+        "connectors",
+        "schematic_legend"
+      ],
+      "dimensions": [
+        3255,
+        3711
+      ]
+    }
+  ],
+  "torques": [
+    {
+      "component": "Starter Motor Terminal B Nut (Battery Cable)",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.8 - 1.2 (5.8 - 8.7)",
+      "page_label": "Zone 1: Front/Left \u2014 Headlights, Alternator, Starter & Ignition"
+    },
+    {
+      "component": "Alternator Output Terminal 'A' (BAT) Nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.4 - 0.6 (2.9 - 4.3)",
+      "page_label": "Zone 1: Front/Left \u2014 Headlights, Alternator, Starter & Ignition"
+    },
+    {
+      "component": "Battery Post Cable Clamp Bolts",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.4 - 0.6 (2.9 - 4.3)",
+      "page_label": "Zone 2: Engine Compartment, Relays, Fusible Links & EFI System"
+    },
+    {
+      "component": "Engine Earth Stud Nut (Intake Manifold)",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.9 - 1.3 (6.5 - 9.4)",
+      "page_label": "Zone 2: Engine Compartment, Relays, Fusible Links & EFI System"
+    }
+  ],
+  "specs": [
+    {
+      "system": "Primary Electrical Distribution",
+      "item": "Fusible Link (for E.F.I.)",
+      "unit": "Color / Capacity",
+      "standard": "Green (approx. 40A equivalent / 0.5 mm\u00b2)",
+      "limit": "Must replace with genuine factory fusible link wire only",
+      "page_label": "Zone 2: Engine Compartment, Relays, Fusible Links & EFI System"
+    },
+    {
+      "system": "Primary Electrical Distribution",
+      "item": "Main Fusible Link (Ignition & Battery Bus)",
+      "unit": "Color / Capacity",
+      "standard": "Brown (approx. 30A equivalent / 0.3 mm\u00b2)",
+      "limit": "Must replace with genuine factory fusible link wire only",
+      "page_label": "Zone 2: Engine Compartment, Relays, Fusible Links & EFI System"
+    },
+    {
+      "system": "Primary Electrical Distribution",
+      "item": "Main Fusible Link (Alternator & Lighting Bus)",
+      "unit": "Color / Capacity",
+      "standard": "Black / Green (approx. 40A equivalent / 0.5 mm\u00b2)",
+      "limit": "Must replace with genuine factory fusible link wire only",
+      "page_label": "Zone 2: Engine Compartment, Relays, Fusible Links & EFI System"
+    },
+    {
+      "system": "Fuse Box Protection",
+      "item": "Fuse 1 (Hazard, Horn, Stop)",
+      "unit": "Amperes",
+      "standard": "15A",
+      "limit": "15A max",
+      "page_label": "Zone 4: Cabin, Fuse Box Circuits, HVAC, Audio & Center Console"
+    },
+    {
+      "system": "Fuse Box Protection",
+      "item": "Fuse 2 (Room, Map, Clock, Tailgate, Hood)",
+      "unit": "Amperes",
+      "standard": "10A",
+      "limit": "10A max",
+      "page_label": "Zone 4: Cabin, Fuse Box Circuits, HVAC, Audio & Center Console"
+    },
+    {
+      "system": "Fuse Box Protection",
+      "item": "Fuse 3 (Tail, Clearance, Marker, License, Dash)",
+      "unit": "Amperes",
+      "standard": "10A",
+      "limit": "10A max",
+      "page_label": "Zone 4: Cabin, Fuse Box Circuits, HVAC, Audio & Center Console"
+    },
+    {
+      "system": "Fuse Box Protection",
+      "item": "Fuse 4 (Headlamp R.H.)",
+      "unit": "Amperes",
+      "standard": "15A",
+      "limit": "15A max",
+      "page_label": "Zone 4: Cabin, Fuse Box Circuits, HVAC, Audio & Center Console"
+    },
+    {
+      "system": "Fuse Box Protection",
+      "item": "Fuse 5 (Headlamp L.H.)",
+      "unit": "Amperes",
+      "standard": "15A",
+      "limit": "15A max",
+      "page_label": "Zone 4: Cabin, Fuse Box Circuits, HVAC, Audio & Center Console"
+    },
+    {
+      "system": "Fuse Box Protection",
+      "item": "Fuse 6 (Rear Window Defogger)",
+      "unit": "Amperes",
+      "standard": "20A",
+      "limit": "20A max",
+      "page_label": "Zone 4: Cabin, Fuse Box Circuits, HVAC, Audio & Center Console"
+    },
+    {
+      "system": "Fuse Box Protection",
+      "item": "Fuse 7 (Wiper & Washer Motors)",
+      "unit": "Amperes",
+      "standard": "15A",
+      "limit": "15A max",
+      "page_label": "Zone 4: Cabin, Fuse Box Circuits, HVAC, Audio & Center Console"
+    },
+    {
+      "system": "Fuse Box Protection",
+      "item": "Fuse 8 (Radio, Cigar Lighter, Auto Antenna)",
+      "unit": "Amperes",
+      "standard": "10A",
+      "limit": "10A max",
+      "page_label": "Zone 4: Cabin, Fuse Box Circuits, HVAC, Audio & Center Console"
+    },
+    {
+      "system": "Fuse Box Protection",
+      "item": "Fuse 9 (Turn Signals & Back-Up Lamps)",
+      "unit": "Amperes",
+      "standard": "10A",
+      "limit": "10A max",
+      "page_label": "Zone 4: Cabin, Fuse Box Circuits, HVAC, Audio & Center Console"
+    },
+    {
+      "system": "Fuse Box Protection",
+      "item": "Fuse 10 (Gauges, Warning Lights, Seat Belt)",
+      "unit": "Amperes",
+      "standard": "15A",
+      "limit": "15A max",
+      "page_label": "Zone 4: Cabin, Fuse Box Circuits, HVAC, Audio & Center Console"
+    },
+    {
+      "system": "Fuse Box Protection",
+      "item": "Fuse 11 (Heater Blower Motor)",
+      "unit": "Amperes",
+      "standard": "15A",
+      "limit": "15A max",
+      "page_label": "Zone 4: Cabin, Fuse Box Circuits, HVAC, Audio & Center Console"
+    },
+    {
+      "system": "Fuse Box Protection",
+      "item": "Fuse 12 (Air Conditioner Compressor & Fan)",
+      "unit": "Amperes",
+      "standard": "20A",
+      "limit": "20A max",
+      "page_label": "Zone 4: Cabin, Fuse Box Circuits, HVAC, Audio & Center Console"
+    },
+    {
+      "system": "Electronic Fuel Injection",
+      "item": "Dropping Resistor Resistance",
+      "unit": "\u03a9",
+      "standard": "6.0 \u00b1 0.3",
+      "limit": "5.5 to 6.5",
+      "page_label": "Zone 2: Engine Compartment, Relays, Fusible Links & EFI System"
+    },
+    {
+      "system": "Electronic Fuel Injection",
+      "item": "Fuel Injector Coil Resistance",
+      "unit": "\u03a9",
+      "standard": "2.5 - 3.0",
+      "limit": "Replace if open or shorted",
+      "page_label": "Zone 2: Engine Compartment, Relays, Fusible Links & EFI System"
+    },
+    {
+      "system": "Electronic Fuel Injection",
+      "item": "Water Temperature Sensor Resistance @ 20\u00b0C (68\u00b0F)",
+      "unit": "k\u03a9",
+      "standard": "2.1 - 2.9",
+      "limit": "Replace if out of range",
+      "page_label": "Zone 2: Engine Compartment, Relays, Fusible Links & EFI System"
+    },
+    {
+      "system": "Electronic Fuel Injection",
+      "item": "Water Temperature Sensor Resistance @ 80\u00b0C (176\u00b0F)",
+      "unit": "\u03a9",
+      "standard": "270 - 380",
+      "limit": "Replace if out of range",
+      "page_label": "Zone 2: Engine Compartment, Relays, Fusible Links & EFI System"
+    },
+    {
+      "system": "Electronic Fuel Injection",
+      "item": "Air Regulator Heater Coil Resistance",
+      "unit": "\u03a9",
+      "standard": "70 - 80",
+      "limit": "Replace if open",
+      "page_label": "Zone 2: Engine Compartment, Relays, Fusible Links & EFI System"
+    },
+    {
+      "system": "Ignition System",
+      "item": "Ignition Coil Primary Resistance",
+      "unit": "\u03a9",
+      "standard": "0.84 - 1.02",
+      "limit": "Replace if out of range",
+      "page_label": "Zone 1: Front/Left \u2014 Headlights, Alternator, Starter & Ignition"
+    },
+    {
+      "system": "Ignition System",
+      "item": "Ignition Coil Secondary Resistance",
+      "unit": "k\u03a9",
+      "standard": "8.2 - 12.4",
+      "limit": "Replace if out of range",
+      "page_label": "Zone 1: Front/Left \u2014 Headlights, Alternator, Starter & Ignition"
+    },
+    {
+      "system": "Instrumentation",
+      "item": "Fuel Tank Gauge Sender (Full)",
+      "unit": "\u03a9",
+      "standard": "10",
+      "limit": "8 - 12",
+      "page_label": "Zone 5: Rear Chassis, Tail Lamps, Fuel Pump, Rear Defogger & Schematic Legend"
+    },
+    {
+      "system": "Instrumentation",
+      "item": "Fuel Tank Gauge Sender (1/2 Tank)",
+      "unit": "\u03a9",
+      "standard": "40",
+      "limit": "36 - 44",
+      "page_label": "Zone 5: Rear Chassis, Tail Lamps, Fuel Pump, Rear Defogger & Schematic Legend"
+    },
+    {
+      "system": "Instrumentation",
+      "item": "Fuel Tank Gauge Sender (Empty)",
+      "unit": "\u03a9",
+      "standard": "80",
+      "limit": "75 - 85",
+      "page_label": "Zone 5: Rear Chassis, Tail Lamps, Fuel Pump, Rear Defogger & Schematic Legend"
+    }
+  ],
+  "troubleshooting": [
+    {
+      "symptom": "Starter motor does not crank (no click, no turnover)",
+      "probable_cause": "Battery discharged; loose battery terminals; blown brown fusible link; faulty ignition switch STA contact; faulty inhibitor switch (A/T) out of adjustment; open starter solenoid",
+      "corrective_action": "Check battery voltage (min 12.4V); clean battery terminals; inspect brown fusible link; bypass inhibitor switch to verify; check for 12V on BY wire at Starter S terminal during cranking",
+      "page_label": "Zone 1: Front/Left \u2014 Headlights, Alternator, Starter & Ignition"
+    },
+    {
+      "symptom": "Engine cranks vigorously but will not start (no spark)",
+      "probable_cause": "Blown Fuse 10; faulty ignition relay; failed transistor ignition unit; open ignition coil primary/secondary windings; disconnected distributor pickup coil shielded leads",
+      "corrective_action": "Verify 12V on BW wire at Ignition Coil (+) with key ON; test primary (0.84\u20131.02\u03a9) and secondary (8.2\u201312.4k\u03a9) coil resistance; verify trigger pulse on blue wire from transistor ignition unit",
+      "page_label": "Zone 1: Front/Left \u2014 Headlights, Alternator, Starter & Ignition"
+    },
+    {
+      "symptom": "Engine starts and runs for 2 seconds, then immediately dies",
+      "probable_cause": "Air Flow Meter safety contacts not closing; disconnected AFM connector; faulty fuel pump control relay; vacuum leak between AFM and throttle body preventing flap movement",
+      "corrective_action": "Inspect intake boot for splits; verify fuel pump runs during cranking via bypass; verify fuel pump relay stays energized when AFM flap is manually deflected open with key ON",
+      "page_label": "Zone 2: Engine Compartment, Relays, Fusible Links & EFI System"
+    },
+    {
+      "symptom": "Fuel pump does not run during cranking",
+      "probable_cause": "Blown green EFI fusible link; faulty fuel pump control relay cranking coil; open fuel pump relay; faulty electric fuel pump motor or broken ground strap at rear chassis",
+      "corrective_action": "Verify 12V at green EFI fusible link; check for 12V on BY wire at fuel pump control relay during crank; check for 12V and ground at fuel pump terminals near fuel tank",
+      "page_label": "Zone 2: Engine Compartment, Relays, Fusible Links & EFI System"
+    },
+    {
+      "symptom": "Alternator charge warning light stays lit with engine running",
+      "probable_cause": "Worn alternator carbon brushes; blown internal diode in IC regulator; loose alternator belt; open Y (Sense) wire at fusible link; blown 10A Fuse 10",
+      "corrective_action": "Check alternator belt tension; measure charging voltage across battery posts (13.8\u201314.8V @ 2000 RPM); inspect Y wire continuity to fusible link; test WB wire voltage at check connector",
+      "page_label": "Zone 1: Front/Left \u2014 Headlights, Alternator, Starter & Ignition"
+    },
+    {
+      "symptom": "All instrument gauges (Fuel, Temp) read abnormally high or peg maximum",
+      "probable_cause": "Missing or loose instrument panel ground; poor chassis bonding behind center console",
+      "corrective_action": "Check black ground wires behind center console gauge cluster; clean ground eyelet attachment to dashboard steel structure",
+      "page_label": "Zone 3: Center Dash, Switches, Combination Meter & Steering Column"
+    },
+    {
+      "symptom": "Turn signals inoperative or stay solid ON without flashing",
+      "probable_cause": "Blown Fuse 9 (10A); burned out exterior bulb (insufficient current draw to cycle thermal flasher); faulty 3-pin turn signal flasher unit; dirty combination switch contacts",
+      "corrective_action": "Inspect Fuse 9; check all exterior turn bulbs (27W); replace 3-pin flasher unit; clean turn switch stalk contacts with electrical contact cleaner",
+      "page_label": "Zone 3: Center Dash, Switches, Combination Meter & Steering Column"
+    },
+    {
+      "symptom": "Windshield wipers do not park (stop immediately when switched OFF)",
+      "probable_cause": "Dirty or worn auto-park contact switch inside wiper motor gearbox; faulty intermittent wiper amplifier module; open P terminal circuit",
+      "corrective_action": "Check continuity between P and B terminals on wiper motor; clean internal park cam contacts; inspect ground lead on wiper amplifier module",
+      "page_label": "Zone 2: Engine Compartment, Relays, Fusible Links & EFI System"
+    },
+    {
+      "symptom": "Heater blower motor operates only on HIGH speed",
+      "probable_cause": "Thermal fuse blown or open resistor coil in heater resistor pack; corroded resistor connector",
+      "corrective_action": "Remove heater resistor pack from blower discharge duct; check continuity across each stepped resistor section; replace resistor assembly if any coil is open",
+      "page_label": "Zone 4: Cabin, Fuse Box Circuits, HVAC, Audio & Center Console"
+    },
+    {
+      "symptom": "Rear combination lamps dim, flicker, or cross-illuminate when turn signals flash",
+      "probable_cause": "Corroded common ground eyelet in rear tail light pocket; poor body earth contact",
+      "corrective_action": "Remove rear combination lamp assemblies; clean both black ground ring terminals and rear valance mounting sheet metal down to clean bare steel",
+      "page_label": "Zone 5: Rear Chassis, Tail Lamps, Fuel Pump, Rear Defogger & Schematic Legend"
+    }
+  ],
+  "special_tools": [
+    {
+      "tool_number": "Check Connector (Factory 6-Pin Test Port)",
+      "tool_name": "Engine Diagnostic Test Socket",
+      "kent_moore_no": "Factory Standard",
+      "ref": "EL / EF Section",
+      "page_label": "Zone 1: Front/Left \u2014 Headlights, Alternator, Starter & Ignition"
+    },
+    {
+      "tool_number": "EFI Test Harness Adapter",
+      "tool_name": "35-Pin ECU Breakout Box Harness",
+      "kent_moore_no": "J-25400 / Hitachi",
+      "ref": "EF Section",
+      "page_label": "Zone 2: Engine Compartment, Relays, Fusible Links & EFI System"
+    },
+    {
+      "tool_number": "Automotive Multi-Tester / DMM",
+      "tool_name": "High-Impedance Digital Multimeter (>10 M\u03a9/V)",
+      "kent_moore_no": "J-23700",
+      "ref": "EL / EF Section",
+      "page_label": "Zone 2: Engine Compartment, Relays, Fusible Links & EFI System"
+    }
+  ]
+}

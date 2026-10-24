@@ -1,0 +1,2626 @@
+{
+  "section_title": "EMISSION CONTROL SYSTEM",
+  "source_pdf": "1978 280z FSM/EC Emission Control System.pdf",
+  "md_path": "1978 280z FSM/EC Emission Control System.md",
+  "pages_count": 26,
+  "diagrams": [
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_1_crankcase_emission_control_system",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_1_crankcase_emission_control_system.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_1_crankcase_emission_control_system.png",
+      "page_num": 2,
+      "page_label": "EC-2",
+      "fig_id": "Fig. EC-1",
+      "code": "EC805",
+      "caption": "Fig. EC-1 Crankcase emission control system",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross-sectional cutaway diagram showing crankcase ventilation gas flow routes with P.C.V. valve detail under partial and full throttle conditions.",
+      "components": [
+        "Seal rubber",
+        "Oil level gauge",
+        "Baffle plate",
+        "Oil cap",
+        "Flame arrester",
+        "Throttle chamber",
+        "P.C.V. valve",
+        "Steel net"
+      ],
+      "callouts": {
+        "1": "Seal rubber",
+        "2": "Oil level gauge",
+        "3": "Baffle plate",
+        "4": "Oil cap",
+        "5": "Flame arrester",
+        "6": "Throttle chamber",
+        "7": "P.C.V. valve",
+        "8": "Steel net",
+        "9": "Baffle plate"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Ventilation hose between throttle chamber and rocker cover",
+        "Hose between crankcase and P.C.V. valve to intake manifold"
+      ],
+      "mechanic_notes": "Ensure that flame arrester is surely inserted in hose between throttle chamber and rocker cover. Check for hissing sound and strong vacuum at P.C.V. valve inlet at idle.",
+      "tags": [
+        "crankcase emission control",
+        "pcv valve",
+        "blow-by gas",
+        "flame arrester",
+        "ventilation hose"
+      ],
+      "dimensions": [
+        736,
+        691
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_2_location_of_emission_control_system_components",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_2_location_of_emission_control_system_components.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_2_location_of_emission_control_system_components.png",
+      "page_num": 4,
+      "page_label": "EC-4",
+      "fig_id": "Fig. EC-2",
+      "code": "EC242A",
+      "caption": "Fig. EC-2 Location of emission control system components",
+      "diagram_type": "component_location",
+      "description": "Phantom vehicle perspective showing layout and locations of all major emission control and EFI components on the Datsun 280Z chassis and engine bay.",
+      "components": [
+        "Fuel damper",
+        "Fuel pump",
+        "Altitude switch (California models)",
+        "Dropping resistor",
+        "Throttle valve switch",
+        "Boost controlled deceleration device",
+        "Throttle chamber",
+        "Water temperature sensor",
+        "Thermotime switch",
+        "Air temperature sensor",
+        "Air flow meter",
+        "Cold start valve",
+        "Fuel filter",
+        "Air regulator",
+        "Pressure regulator",
+        "Injector",
+        "E.G.R. control valve",
+        "Catalytic converter (California models)",
+        "Control unit"
+      ],
+      "callouts": {
+        "Fuel damper": "Fuel damper",
+        "Fuel pump": "Fuel pump",
+        "Altitude switch (California models)": "Altitude switch (California models)",
+        "Dropping resistor": "Dropping resistor",
+        "Throttle valve switch": "Throttle valve switch",
+        "Boost controlled deceleration device": "Boost controlled deceleration device",
+        "Throttle chamber": "Throttle chamber",
+        "Water temperature sensor": "Water temperature sensor",
+        "Thermotime switch": "Thermotime switch",
+        "Air temperature sensor": "Air temperature sensor",
+        "Air flow meter": "Air flow meter",
+        "Cold start valve": "Cold start valve",
+        "Fuel filter": "Fuel filter",
+        "Air regulator": "Air regulator",
+        "Pressure regulator": "Pressure regulator",
+        "Injector": "Injector",
+        "E.G.R. control valve": "E.G.R. control valve",
+        "Catalytic converter (California models)": "Catalytic converter (California models)",
+        "Control unit": "Control unit"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Shows component locations throughout vehicle including under-hood EFI components, chassis underbody catalytic converter, and passenger cabin / rear fuel system elements.",
+      "tags": [
+        "component location",
+        "emission control components",
+        "engine bay",
+        "catalytic converter",
+        "altitude switch",
+        "bcdd"
+      ],
+      "dimensions": [
+        1048,
+        1462
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_3_schematic_drawing_of_bcdd",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_3_schematic_drawing_of_bcdd.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_3_schematic_drawing_of_bcdd.png",
+      "page_num": 5,
+      "page_label": "EC-5",
+      "fig_id": "Fig. EC-3",
+      "code": "EC243A",
+      "caption": "Fig. EC-3 Schematic drawing of B.C.D.D.",
+      "diagram_type": "cutaway_flow",
+      "description": "Internal pneumatic cutaway and electrical control schematic of the B.C.D.D. unit showing Non-California and California altitude corrector configurations.",
+      "components": [
+        "Ignition switch",
+        "Amplifier",
+        "Speed detecting switch",
+        "Inhibitor switch",
+        "Vacuum control solenoid valve",
+        "Adjusting screw",
+        "Adjusting nut",
+        "Lock spring",
+        "Altitude corrector",
+        "Vacuum control valve",
+        "Diaphragm I",
+        "Air passage",
+        "Diaphragm II",
+        "Air control valve",
+        "Throttle valve",
+        "Vacuum chamber I",
+        "Vacuum chamber II",
+        "Vacuum passage",
+        "Idle speed adjusting screw"
+      ],
+      "callouts": {
+        "1": "Ignition switch",
+        "2": "Amplifier",
+        "3": "Speed detecting switch Below 16 km/h (10 MPH): ON (For M/T)",
+        "4": "Inhibitor switch \\\"N\\\" or \\\"P\\\" position: ON (For A/T)",
+        "5": "Vacuum control solenoid valve",
+        "6": "Adjusting screw",
+        "7": "Adjusting nut",
+        "8": "Lock spring",
+        "9": "Altitude corrector",
+        "10": "Vacuum control valve",
+        "11": "Diaphragm I",
+        "12": "Air passage",
+        "13": "Diaphragm II",
+        "14": "Air control valve",
+        "15": "Air passage",
+        "16": "Air passage",
+        "17": "Throttle valve",
+        "18": "Vacuum chamber I",
+        "19": "Vacuum chamber II",
+        "20": "Vacuum passage",
+        "21": "Idle speed adjusting screw"
+      },
+      "measurements_and_specs": [
+        "B.C.D.D. operating range: 1,800 to 2,000 rpm",
+        "Speed detecting switch closes below 16 km/h (10 MPH)"
+      ],
+      "wiring_and_connections": [
+        "Ignition switch to amplifier and solenoid valve",
+        "Speed detecting switch (M/T) to amplifier",
+        "Inhibitor switch (A/T) circuit"
+      ],
+      "mechanic_notes": "California model incorporates altitude corrector with adjusting nut and lock spring; Non-California model utilizes adjusting screw.",
+      "tags": [
+        "bcdd",
+        "boost controlled deceleration device",
+        "schematic",
+        "altitude corrector",
+        "vacuum control valve",
+        "solenoid valve"
+      ],
+      "dimensions": [
+        1093,
+        726
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_4_removing_bcdd",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_4_removing_bcdd.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_4_removing_bcdd.png",
+      "page_num": 6,
+      "page_label": "EC-6",
+      "fig_id": "Fig. EC-4",
+      "code": "EC689",
+      "caption": "Fig. EC-4 Removing B.C.D.D.",
+      "diagram_type": "procedure_step",
+      "description": "Illustration of the underside of the throttle chamber indicating which three screws to remove and cautioning against removing the four assembly screws.",
+      "components": [
+        "Throttle chamber",
+        "B.C.D.D. assembly",
+        "Securing screws",
+        "Assembly screws"
+      ],
+      "callouts": {
+        "1": "Three securing screws",
+        "2": "Four B.C.D.D. assembly screws"
+      },
+      "measurements_and_specs": [
+        "Securing screws tightening torque: 20 to 40 kg-cm (17 to 35 in-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Do not unscrew the four B.C.D.D. assembly screws (2). Replace B.C.D.D. as an assembly if malfunctioning.",
+      "tags": [
+        "bcdd removal",
+        "throttle chamber",
+        "securing screws"
+      ],
+      "dimensions": [
+        360,
+        349
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_5_checking_bcdd_circuit_function_test_connector_mt",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_5_checking_bcdd_circuit_function_test_connector_mt.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_5_checking_bcdd_circuit_function_test_connector_mt.png",
+      "page_num": 6,
+      "page_label": "EC-6",
+      "fig_id": "Fig. EC-5",
+      "code": "EC373",
+      "caption": "Fig. EC-5 Checking B.C.D.D. circuit with function test connector (for manual transmission)",
+      "diagram_type": "electrical_schematic",
+      "description": "Wiring test diagram and multimeter hookup to terminals A and B of the function test connector for manual transmission vehicles.",
+      "components": [
+        "Multimeter",
+        "Function test connector",
+        "Ignition key",
+        "Fuse",
+        "Amplifier",
+        "Speed detecting switch",
+        "Vacuum control solenoid valve"
+      ],
+      "callouts": {
+        "1": "Ignition key",
+        "2": "Fuse",
+        "3": "Amplifier",
+        "4": "Speed detecting switch (Above 10 mph: OFF / Below 10 mph: ON)",
+        "5": "Function test connector",
+        "6": "Vacuum control solenoid valve"
+      },
+      "measurements_and_specs": [
+        "Speed switch threshold: 16 km/h (10 MPH)",
+        "Continuity at complete stop: Yes",
+        "Voltage above 16 km/h: 0 V (d-c)"
+      ],
+      "wiring_and_connections": [
+        "Terminals A and B of function test connector"
+      ],
+      "mechanic_notes": "Do not attach test leads to terminals other than designated A and B.",
+      "tags": [
+        "bcdd circuit",
+        "function test connector",
+        "manual transmission",
+        "speed detecting switch",
+        "amplifier"
+      ],
+      "dimensions": [
+        743,
+        393
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_6_checking_bcdd_circuit_function_test_connector_at",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_6_checking_bcdd_circuit_function_test_connector_at.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_6_checking_bcdd_circuit_function_test_connector_at.png",
+      "page_num": 6,
+      "page_label": "EC-6",
+      "fig_id": "Fig. EC-6",
+      "code": "EC374",
+      "caption": "Fig. EC-6 Checking B.C.D.D. circuit with function test connector (for automatic transmission)",
+      "diagram_type": "electrical_schematic",
+      "description": "Circuit schematic and tester connection diagram for testing B.C.D.D. via the test connector on automatic transmission models.",
+      "components": [
+        "Multimeter",
+        "Function test connector",
+        "Ignition key",
+        "Inhibitor switch",
+        "Vacuum control solenoid valve"
+      ],
+      "callouts": {
+        "1": "Ignition key",
+        "2": "Inhibitor switch (N or P position: ON / 1, 2, D or R position: OFF)",
+        "3": "Vacuum control solenoid valve",
+        "4": "Function test connector"
+      },
+      "measurements_and_specs": [
+        "Voltage in N or P: 12 V (d-c)",
+        "Resistance in gear (1, 2, D, R): 15 to 28 ohms"
+      ],
+      "wiring_and_connections": [
+        "Terminals A and B of function test connector"
+      ],
+      "mechanic_notes": "Check for 12V in N/P and 15 to 28 ohms in drive/reverse ranges across terminals A and B.",
+      "tags": [
+        "bcdd circuit",
+        "function test connector",
+        "automatic transmission",
+        "inhibitor switch",
+        "solenoid resistance"
+      ],
+      "dimensions": [
+        742,
+        375
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_7_checking_solenoid_valve",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_7_checking_solenoid_valve.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_7_checking_solenoid_valve.png",
+      "page_num": 7,
+      "page_label": "EC-7",
+      "fig_id": "Fig. EC-7",
+      "code": "EC690",
+      "caption": "Fig. EC-7 Checking solenoid valve",
+      "diagram_type": "procedure_step",
+      "description": "Connecting jumper test wire from battery positive terminal to the disconnected B.C.D.D. solenoid valve harness connector to listen for valve click.",
+      "components": [
+        "B.C.D.D. solenoid valve",
+        "Harness connector",
+        "Jumper test lead",
+        "Battery"
+      ],
+      "callouts": {
+        "Solenoid valve harness": "Solenoid valve harness"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Intermittent electrification to solenoid terminal"
+      ],
+      "mechanic_notes": "Turn on ignition key without starting engine, ensure solenoid clicks when energized.",
+      "tags": [
+        "bcdd solenoid",
+        "solenoid test",
+        "click test"
+      ],
+      "dimensions": [
+        360,
+        358
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_8_checking_amplifier",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_8_checking_amplifier.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_8_checking_amplifier.png",
+      "page_num": 7,
+      "page_label": "EC-7",
+      "fig_id": "Fig. EC-8",
+      "code": "EC691",
+      "caption": "Fig. EC-8 Checking amplifier",
+      "diagram_type": "electrical_schematic",
+      "description": "Circuit schematic showing ammeter connection between ignition key circuit and amplifier to test current draw upon key turn-on.",
+      "components": [
+        "Ignition key",
+        "Amplifier",
+        "Speed detecting switch",
+        "B.C.D.D. solenoid valve",
+        "Ammeter / Circuit tester"
+      ],
+      "callouts": {
+        "1": "Ignition key",
+        "2": "Amplifier",
+        "3": "Speed detecting switch (Above 16 km/h / 10 MPH: OFF, Below 16 km/h / 10 MPH: ON)",
+        "4": "B.C.D.D. solenoid valve"
+      },
+      "measurements_and_specs": [
+        "Tester range: DC ampere (1A min full scale)"
+      ],
+      "wiring_and_connections": [
+        "Test probes in series with amplifier circuit"
+      ],
+      "mechanic_notes": "Do not confuse positive line with negative line. Tester needle should deflect when ignition is switched ON.",
+      "tags": [
+        "bcdd amplifier",
+        "speedometer",
+        "amplifier test",
+        "current check"
+      ],
+      "dimensions": [
+        342,
+        595
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_9_removing_harness_of_solenoid_valve",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_9_removing_harness_of_solenoid_valve.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_9_removing_harness_of_solenoid_valve.png",
+      "page_num": 7,
+      "page_label": "EC-7",
+      "fig_id": "Fig. EC-9",
+      "code": "EC690",
+      "caption": "Fig. EC-9 Removing harness of solenoid valve",
+      "diagram_type": "procedure_step",
+      "description": "Disconnecting the electrical plug harness from the B.C.D.D. vacuum control solenoid valve on the throttle chamber.",
+      "components": [
+        "Throttle chamber",
+        "B.C.D.D. solenoid valve",
+        "Harness connector"
+      ],
+      "callouts": {
+        "Solenoid valve harness": "Solenoid valve harness"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Solenoid harness connector disconnected"
+      ],
+      "mechanic_notes": "Always disconnect solenoid harness prior to performing B.C.D.D. operating pressure check or adjustment.",
+      "tags": [
+        "bcdd solenoid harness",
+        "throttle chamber",
+        "disconnect harness"
+      ],
+      "dimensions": [
+        360,
+        314
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_10_connecting_vacuum_gauge",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_10_connecting_vacuum_gauge.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_10_connecting_vacuum_gauge.png",
+      "page_num": 7,
+      "page_label": "EC-7",
+      "fig_id": "Fig. EC-10",
+      "code": "EC244A",
+      "caption": "Fig. EC-10 Connecting vacuum gauge",
+      "diagram_type": "procedure_step",
+      "description": "Vacuum gauge connection via rubber hose tee to the intake manifold vacuum fitting.",
+      "components": [
+        "Vacuum gauge",
+        "Connecting pipe / hose",
+        "Intake manifold",
+        "Throttle chamber"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Quick-response Bourdon type boost gauge recommended",
+        "Do not use mercury manometer"
+      ],
+      "wiring_and_connections": [
+        "Rubber vacuum hose to intake manifold fitting"
+      ],
+      "mechanic_notes": "Use Bourdon tube boost gauge for fast response during rapid throttle snapping.",
+      "tags": [
+        "vacuum gauge",
+        "intake manifold vacuum",
+        "bcdd test"
+      ],
+      "dimensions": [
+        354,
+        340
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_11_adjusting_operating_pressure_california_models",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_11_adjusting_operating_pressure_california_models.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_11_adjusting_operating_pressure_california_models.png",
+      "page_num": 8,
+      "page_label": "EC-8",
+      "fig_id": "Fig. EC-11",
+      "code": "EC802",
+      "caption": "Fig. EC-11 Adjusting operating pressure (California models)",
+      "diagram_type": "procedure_step",
+      "description": "Adjusting the B.C.D.D. operating pressure on California models using a wrench on the adjusting nut through the lock spring.",
+      "components": [
+        "B.C.D.D. body",
+        "Adjusting nut",
+        "Lock spring",
+        "Open end wrench"
+      ],
+      "callouts": {
+        "1": "Adjusting nut",
+        "2": "Lock spring"
+      },
+      "measurements_and_specs": [
+        "1/4 turn CCW = 32 mmHg (1.26 inHg) drop",
+        "1/2 turn CCW = 64 mmHg (2.52 inHg) drop"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Turn adjusting nut in or out with lock spring in place. Always set lock spring properly to prevent drift in operating pressure.",
+      "tags": [
+        "bcdd adjustment",
+        "california models",
+        "adjusting nut",
+        "lock spring"
+      ],
+      "dimensions": [
+        654,
+        507
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_12_adjusting_operating_pressure_non_california_models",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_12_adjusting_operating_pressure_non_california_models.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_12_adjusting_operating_pressure_non_california_models.png",
+      "page_num": 8,
+      "page_label": "EC-8",
+      "fig_id": "Fig. EC-12",
+      "code": "EC096A",
+      "caption": "Fig. EC-12 Adjusting operating pressure (Non-California models)",
+      "diagram_type": "procedure_step",
+      "description": "Cross-section and screwdriver adjustment of the B.C.D.D. operating pressure adjusting screw on Non-California models.",
+      "components": [
+        "Adjusting screw",
+        "Cover",
+        "Screwdriver",
+        "B.C.D.D. housing"
+      ],
+      "callouts": {
+        "1": "Adjusting screw",
+        "2": "Cover"
+      },
+      "measurements_and_specs": [
+        "1/4 turn CW = 32 mmHg (1.26 inHg) drop",
+        "1/2 turn CW = 64 mmHg (2.52 inHg) drop"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Turn adjusting screw counterclockwise if operating pressure is lower than set level. Clockwise turn decreases vacuum setting.",
+      "tags": [
+        "bcdd adjustment",
+        "non-california models",
+        "adjusting screw",
+        "cover"
+      ],
+      "dimensions": [
+        730,
+        332
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_13_changes_in_operating_pressure_vs_altitude",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_13_changes_in_operating_pressure_vs_altitude.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_13_changes_in_operating_pressure_vs_altitude.png",
+      "page_num": 9,
+      "page_label": "EC-9",
+      "fig_id": "Fig. EC-13",
+      "code": "EC379",
+      "caption": "Fig. EC-13 Changes in operating pressure versus changes in atmospheric pressure and altitude (California models)",
+      "diagram_type": "graph_chart",
+      "description": "Engineering graph plotting operating vacuum of B.C.D.D. (mmHg and inHg) against atmospheric pressure and altitude in thousands of feet and kilometers.",
+      "components": [
+        "Operating vacuum scale (300 to 600 mmHg / 12 to 24 inHg)",
+        "Atmospheric pressure scale (450 to 750 mmHg / 18 to 30 inHg)",
+        "Altitude scale (0 to 6000 ft / 0 to 2.0 km)",
+        "Atmospheric pressure curve",
+        "Operating vacuum curve"
+      ],
+      "callouts": {
+        "A": "Arrow line tracing from atmospheric pressure",
+        "B": "Arrow line tracing from altitude"
+      },
+      "measurements_and_specs": [
+        "Sea level: -470 mmHg (-18.5 inHg)",
+        "1,400 m (4,600 ft): 375 mmHg (14.76 inHg)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Use trace line A when atmospheric pressure is known, trace line B when altitude is known.",
+      "tags": [
+        "bcdd graph",
+        "altitude compensation",
+        "atmospheric pressure",
+        "operating vacuum curve",
+        "california models"
+      ],
+      "dimensions": [
+        915,
+        858
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_14_egr_control_system",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_14_egr_control_system.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_14_egr_control_system.png",
+      "page_num": 10,
+      "page_label": "EC-10",
+      "fig_id": "Fig. EC-14",
+      "code": "EC931",
+      "caption": "Fig. EC-14 E.G.R. control system",
+      "diagram_type": "cutaway_flow",
+      "description": "Functional schematic diagram of the complete E.G.R. circuit showing routing between intake manifold, throttle chamber, E.G.R. valve, B.P.T. valve, thermal vacuum valve, and exhaust manifold.",
+      "components": [
+        "Intake manifold",
+        "Throttle chamber",
+        "E.G.R. control valve",
+        "E.G.R. tube",
+        "B.P.T. valve",
+        "B.P.T. valve control tube",
+        "Exhaust manifold",
+        "Vacuum delay valve (California models only)",
+        "Thermal vacuum valve",
+        "Heater housing",
+        "Water return tube",
+        "Thermostat housing",
+        "Vacuum orifice"
+      ],
+      "callouts": {
+        "1": "Intake manifold",
+        "2": "Throttle chamber",
+        "3": "E.G.R. control valve",
+        "4": "E.G.R. tube",
+        "5": "B.P.T. valve",
+        "6": "B.P.T. valve control tube",
+        "7": "Exhaust manifold",
+        "8": "Vacuum delay valve (California models only)",
+        "9": "Thermal vacuum valve",
+        "10": "Heater housing",
+        "11": "Water return tube",
+        "12": "Thermostat housing",
+        "13": "Vacuum orifice"
+      },
+      "measurements_and_specs": [
+        "Operating range: water temp 50 to 95\u00b0C (122 to 203\u00b0F)",
+        "B.P.T. valve exhaust threshold: 21 to 33 mmH2O (0.82 to 1.30 inH2O)"
+      ],
+      "wiring_and_connections": [
+        "Vacuum lines between throttle chamber, thermal vacuum valve, B.P.T. valve, and E.G.R. control valve",
+        "Exhaust pressure sensing line to B.P.T. valve"
+      ],
+      "mechanic_notes": "E.G.R. is deactivated at idle and full throttle. California models include vacuum delay valve (8).",
+      "tags": [
+        "egr system",
+        "egr control valve",
+        "bpt valve",
+        "thermal vacuum valve",
+        "vacuum delay valve",
+        "plumbing schematic"
+      ],
+      "dimensions": [
+        1087,
+        621
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_15_egr_control_valve",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_15_egr_control_valve.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_15_egr_control_valve.png",
+      "page_num": 11,
+      "page_label": "EC-11",
+      "fig_id": "Fig. EC-15",
+      "code": "EC231",
+      "caption": "Fig. EC-15 E.G.R. control valve",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross-sectional detail of the E.G.R. control valve showing internal diaphragm, spring, valve shaft, valve seat, and valve chamber.",
+      "components": [
+        "Diaphragm spring",
+        "Diaphragm",
+        "Valve shaft",
+        "Valve",
+        "Valve seat",
+        "Valve chamber"
+      ],
+      "callouts": {
+        "1": "Diaphragm spring",
+        "2": "Diaphragm",
+        "3": "Valve shaft",
+        "4": "Valve",
+        "5": "Valve seat",
+        "6": "Valve chamber"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Vacuum port on top of diaphragm chamber"
+      ],
+      "mechanic_notes": "Inspect diaphragm for leaks and valve stem for sticking or carbon deposits.",
+      "tags": [
+        "egr control valve",
+        "cutaway",
+        "valve shaft",
+        "diaphragm"
+      ],
+      "dimensions": [
+        571,
+        463
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_16_thermal_vacuum_valve",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_16_thermal_vacuum_valve.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_16_thermal_vacuum_valve.png",
+      "page_num": 11,
+      "page_label": "EC-11",
+      "fig_id": "Fig. EC-16",
+      "code": "EC934",
+      "caption": "Fig. EC-16 Thermal vacuum valve",
+      "diagram_type": "cutaway_flow",
+      "description": "Sectional views of the thermal vacuum valve at three temperature states: below 47-53\u00b0C (closed), 50-95\u00b0C (open), and above 92-98\u00b0C (closed).",
+      "components": [
+        "Spring",
+        "Valve seat",
+        "Heater housing",
+        "Cooling water",
+        "Wax pellet"
+      ],
+      "callouts": {
+        "1": "Spring",
+        "2": "Valve seat",
+        "3": "Heater housing",
+        "4": "Cooling water",
+        "5": "Wax"
+      },
+      "measurements_and_specs": [
+        "Below 47 to 53\u00b0C (117 to 127\u00b0F): Closed",
+        "Between 50 and 95\u00b0C (122 and 203\u00b0F): Open",
+        "Above 92 to 98\u00b0C (198 to 208\u00b0F): Closed"
+      ],
+      "wiring_and_connections": [
+        "Port to throttle chamber",
+        "Port from E.G.R. control valve"
+      ],
+      "mechanic_notes": "Wax element expands to open valve in normal range and closes valve above overheating threshold.",
+      "tags": [
+        "thermal vacuum valve",
+        "wax pellet",
+        "coolant temperature",
+        "cutaway"
+      ],
+      "dimensions": [
+        985,
+        366
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_17_bpt_valve",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_17_bpt_valve.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_17_bpt_valve.png",
+      "page_num": 11,
+      "page_label": "EC-11",
+      "fig_id": "Fig. EC-17",
+      "code": "EC088A",
+      "caption": "Fig. EC-17 B.P.T. valve",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross-sectional cutaway of the back-pressure transducer (B.P.T.) valve showing air filter, diaphragm, exhaust pressure port, and air bleed.",
+      "components": [
+        "Air filter",
+        "Diaphragm",
+        "Exhaust pressure port",
+        "Air bleed",
+        "Vacuum signal source port",
+        "Port to E.G.R. control valve"
+      ],
+      "callouts": {
+        "1": "Air filter",
+        "2": "Diaphragm"
+      },
+      "measurements_and_specs": [
+        "Actuation pressure: 21 to 33 mmH2O (0.82 to 1.30 inH2O)"
+      ],
+      "wiring_and_connections": [
+        "Vacuum signal source line",
+        "Line to E.G.R. control valve",
+        "Exhaust pressure pickup line"
+      ],
+      "mechanic_notes": "Diaphragm bleeds air to vent vacuum until sufficient exhaust backpressure pushes diaphragm closed.",
+      "tags": [
+        "bpt valve",
+        "back pressure transducer",
+        "air bleed",
+        "diaphragm",
+        "cutaway"
+      ],
+      "dimensions": [
+        392,
+        323
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_18_vacuum_delay_valve",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_18_vacuum_delay_valve.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_18_vacuum_delay_valve.png",
+      "page_num": 12,
+      "page_label": "EC-12",
+      "fig_id": "Fig. EC-18",
+      "code": "EC245A",
+      "caption": "Fig. EC-18 Vacuum delay valve",
+      "diagram_type": "component_location",
+      "description": "Installation orientation and hose routing of the vacuum delay valve located between thermal vacuum valve (brown side) and B.P.T. valve (black side).",
+      "components": [
+        "Vacuum delay valve",
+        "Hose to thermal vacuum valve",
+        "Hose to B.P.T. valve"
+      ],
+      "callouts": {
+        "Thermal vacuum valve side": "Color: Brown",
+        "B.P.T. valve side": "Color: Black"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Brown side connected toward thermal vacuum valve",
+        "Black side connected toward B.P.T. valve"
+      ],
+      "mechanic_notes": "Pay strict attention to valve color orientation: Brown side faces thermal vacuum valve, Black side faces B.P.T. valve.",
+      "tags": [
+        "vacuum delay valve",
+        "color coding",
+        "hose routing",
+        "orientation"
+      ],
+      "dimensions": [
+        709,
+        542
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_19_operation_of_vacuum_delay_valve",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_19_operation_of_vacuum_delay_valve.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_19_operation_of_vacuum_delay_valve.png",
+      "page_num": 12,
+      "page_label": "EC-12",
+      "fig_id": "Fig. EC-19",
+      "code": "EC697",
+      "caption": "Fig. EC-19 Operation of vacuum delay valve",
+      "diagram_type": "cutaway_flow",
+      "description": "Flow direction schematic of vacuum delay valve showing open umbrella flow toward thermal vacuum valve and restricted flow toward B.P.T. valve.",
+      "components": [
+        "Umbrella valve",
+        "Fluidic restrictor orifice",
+        "Valve body"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "One-way operation allows rapid flow during release and restricted flow during vacuum application.",
+      "tags": [
+        "vacuum delay valve",
+        "umbrella valve",
+        "fluidic restrictor",
+        "flow diagram"
+      ],
+      "dimensions": [
+        392,
+        389
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_20_removing_egr_control_valve",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_20_removing_egr_control_valve.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_20_removing_egr_control_valve.png",
+      "page_num": 12,
+      "page_label": "EC-12",
+      "fig_id": "Fig. EC-20",
+      "code": "EC246A",
+      "caption": "Fig. EC-20 Removing E.G.R. control valve",
+      "diagram_type": "procedure_step",
+      "description": "Removal of E.G.R. control valve nuts from intake manifold studs and vacuum hose disconnection.",
+      "components": [
+        "E.G.R. control valve",
+        "Intake manifold",
+        "Securing nuts",
+        "Vacuum hose"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Flatten hose clip to disconnect vacuum hose"
+      ],
+      "mechanic_notes": "Flatten clip connecting vacuum hose to E.G.R. control valve and remove hose by hand. Replace gasket upon reassembly.",
+      "tags": [
+        "egr valve removal",
+        "intake manifold",
+        "hose clip"
+      ],
+      "dimensions": [
+        345,
+        332
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_21_removing_bpt_valve",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_21_removing_bpt_valve.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_21_removing_bpt_valve.png",
+      "page_num": 12,
+      "page_label": "EC-12",
+      "fig_id": "Fig. EC-21",
+      "code": "EC247A",
+      "caption": "Fig. EC-21 Removing B.P.T. valve",
+      "diagram_type": "procedure_step",
+      "description": "Dismounting B.P.T. valve and control tube from intake manifold bracket.",
+      "components": [
+        "B.P.T. valve",
+        "Mounting bracket",
+        "Control tube",
+        "Mounting bolts",
+        "Vacuum hoses"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Disconnect both vacuum hoses and unbolt B.P.T. valve from bracket.",
+      "tags": [
+        "bpt valve removal",
+        "mounting bracket",
+        "control tube"
+      ],
+      "dimensions": [
+        345,
+        340
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_22_removing_thermal_vacuum_valve",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_22_removing_thermal_vacuum_valve.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_22_removing_thermal_vacuum_valve.png",
+      "page_num": 12,
+      "page_label": "EC-12",
+      "fig_id": "Fig. EC-22",
+      "code": "EC937",
+      "caption": "Fig. EC-22 Removing thermal vacuum valve",
+      "diagram_type": "procedure_step",
+      "description": "Removal and installation angle of thermal vacuum valve threaded into heater housing at 30 degree tilt angle.",
+      "components": [
+        "Heater housing",
+        "Thermal vacuum valve"
+      ],
+      "callouts": {
+        "1": "Heater housing",
+        "2": "Thermal vacuum valve"
+      },
+      "measurements_and_specs": [
+        "Installation tilt angle: 30\u00b0",
+        "Tightening torque: 2.2 kg-m (16 ft-lb) max"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Install thermal vacuum valve at a tilt angle of 30\u00b0 as shown. Tighten to 2.2 kg-m (16 ft-lb) max. Drain coolant before removal.",
+      "tags": [
+        "thermal vacuum valve",
+        "heater housing",
+        "tilt angle",
+        "removal"
+      ],
+      "dimensions": [
+        386,
+        454
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_23_checking_thermal_vacuum_valve",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_23_checking_thermal_vacuum_valve.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_23_checking_thermal_vacuum_valve.png",
+      "page_num": 13,
+      "page_label": "EC-13",
+      "fig_id": "Fig. EC-23",
+      "code": "EC248A",
+      "caption": "Fig. EC-23 Checking thermal vacuum valve",
+      "diagram_type": "procedure_step",
+      "description": "Checking vacuum presence at the hose disconnected from the thermal vacuum valve with finger while engine is revved.",
+      "components": [
+        "Thermal vacuum valve",
+        "Vacuum hose",
+        "Intake manifold"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Engine rev: 3,000 to 3,500 rpm",
+        "Below 47\u00b0C: Closed (no vacuum)",
+        "50 to 95\u00b0C: Open (vacuum present)"
+      ],
+      "wiring_and_connections": [
+        "Hose disconnected at B.P.T. valve side"
+      ],
+      "mechanic_notes": "Ensure throttle chamber vacuum is felt with finger when engine is warm (50 to 95\u00b0C) at 3,000-3,500 rpm.",
+      "tags": [
+        "thermal vacuum valve inspection",
+        "vacuum check",
+        "finger test"
+      ],
+      "dimensions": [
+        360,
+        262
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_24_checking_bpt_valve",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_24_checking_bpt_valve.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_24_checking_bpt_valve.png",
+      "page_num": 13,
+      "page_label": "EC-13",
+      "fig_id": "Fig. EC-24",
+      "code": "EC249A",
+      "caption": "Fig. EC-24 Checking B.P.T. valve",
+      "diagram_type": "procedure_step",
+      "description": "Checking for vacuum at the disconnected hose from the B.P.T. valve leading to the E.G.R. valve at 3,000 to 3,500 rpm.",
+      "components": [
+        "B.P.T. valve",
+        "Vacuum hose to E.G.R. valve"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Engine rev: 3,000 to 3,500 rpm",
+        "Vacuum should be present when operating properly"
+      ],
+      "wiring_and_connections": [
+        "Hose disconnected at E.G.R. valve side"
+      ],
+      "mechanic_notes": "If vacuum is not present at hose end during 3,000 to 3,500 rpm rev, replace B.P.T. valve.",
+      "tags": [
+        "bpt valve inspection",
+        "vacuum check",
+        "bpt test"
+      ],
+      "dimensions": [
+        341,
+        323
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_25_checking_egr_control_valve",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_25_checking_egr_control_valve.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_25_checking_egr_control_valve.png",
+      "page_num": 13,
+      "page_label": "EC-13",
+      "fig_id": "Fig. EC-25",
+      "code": "EC250A",
+      "caption": "Fig. EC-25 Checking E.G.R. control valve",
+      "diagram_type": "procedure_step",
+      "description": "Feeling diaphragm of E.G.R. control valve with finger to confirm movement when revving engine from idle to 3,000-3,500 rpm.",
+      "components": [
+        "E.G.R. control valve",
+        "Diaphragm"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Engine rev: 3,000 to 3,500 rpm",
+        "Diaphragm should lift smoothly"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Place finger under diaphragm to feel upward movement as engine is revved. If it does not move, replace valve.",
+      "tags": [
+        "egr control valve inspection",
+        "diaphragm movement",
+        "finger check"
+      ],
+      "dimensions": [
+        354,
+        331
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_26_checking_thermal_vacuum_valve",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_26_checking_thermal_vacuum_valve.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_26_checking_thermal_vacuum_valve.png",
+      "page_num": 14,
+      "page_label": "EC-14",
+      "fig_id": "Fig. EC-26",
+      "code": "EC938",
+      "caption": "Fig. EC-26 Checking thermal vacuum valve",
+      "diagram_type": "procedure_step",
+      "description": "Blowing air orally through thermal vacuum valve submerged in heated water bath to verify opening and closing temperatures.",
+      "components": [
+        "Thermal vacuum valve",
+        "Water beaker",
+        "Thermometer",
+        "Burner stand",
+        "Hose"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Do not allow water to get inside the thermal vacuum valve while heating.",
+      "tags": [
+        "thermal vacuum valve",
+        "bench test",
+        "water bath"
+      ],
+      "dimensions": [
+        354,
+        463
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_27_checking_vacuum_delay_valve",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_27_checking_vacuum_delay_valve.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_27_checking_vacuum_delay_valve.png",
+      "page_num": 14,
+      "page_label": "EC-14",
+      "fig_id": "Fig. EC-27",
+      "code": "EC704",
+      "caption": "Fig. EC-27 Checking vacuum delay valve",
+      "diagram_type": "procedure_step",
+      "description": "Testing vacuum delay valve by blowing orally from each side while covering opposite port with finger.",
+      "components": [
+        "Vacuum delay valve"
+      ],
+      "callouts": {
+        "Thermal vacuum valve side": "Thermal vacuum valve side",
+        "B.P.T. valve side": "B.P.T. valve side"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Resistance should be greater when blowing from B.P.T. valve side with thermal valve side covered.",
+      "tags": [
+        "vacuum delay valve",
+        "air flow test",
+        "bench check"
+      ],
+      "dimensions": [
+        360,
+        445
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_28_checking_vacuum_delay_valve_water",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_28_checking_vacuum_delay_valve_water.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_28_checking_vacuum_delay_valve_water.png",
+      "page_num": 14,
+      "page_label": "EC-14",
+      "fig_id": "Fig. EC-28",
+      "code": "EC279",
+      "caption": "Fig. EC-28 Checking vacuum delay valve",
+      "diagram_type": "procedure_step",
+      "description": "Submerging B.P.T. side port into cup of water while blowing through the other port to observe small air bubbles.",
+      "components": [
+        "Vacuum delay valve",
+        "Cup with water"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Small air bubbles indicate proper orifice flow. Avoid oil or dirt entering valve.",
+      "tags": [
+        "vacuum delay valve",
+        "bubble test",
+        "water test"
+      ],
+      "dimensions": [
+        328,
+        436
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_29_checking_bpt_valve_oral",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_29_checking_bpt_valve_oral.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_29_checking_bpt_valve_oral.png",
+      "page_num": 14,
+      "page_label": "EC-14",
+      "fig_id": "Fig. EC-29",
+      "code": "EC104A",
+      "caption": "Fig. EC-29 Checking B.P.T. valve",
+      "diagram_type": "procedure_step",
+      "description": "Testing B.P.T. valve leakage by applying pressure above 50 mmH2O to lower fitting while orally sucking vacuum port.",
+      "components": [
+        "B.P.T. valve",
+        "Pressure line"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Applied pressure: above 50 mmH2O (1.97 inH2O)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "If leakage occurs while sucking port back under applied pressure, replace valve.",
+      "tags": [
+        "bpt valve test",
+        "oral suction",
+        "leak check"
+      ],
+      "dimensions": [
+        360,
+        323
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_30_checking_egr_control_valve_oral",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_30_checking_egr_control_valve_oral.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_30_checking_egr_control_valve_oral.png",
+      "page_num": 14,
+      "page_label": "EC-14",
+      "fig_id": "Fig. EC-30",
+      "code": "EC129A",
+      "caption": "Fig. EC-30 Checking E.G.R. control valve",
+      "diagram_type": "procedure_step",
+      "description": "Testing E.G.R. valve diaphragm and seat by applying oral vacuum suction to vacuum hose port.",
+      "components": [
+        "E.G.R. control valve",
+        "Vacuum hose"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Hold time: > 30 seconds after vacuum is cut off"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Valve must open fully and hold open position for more than 30 seconds after sealing hose.",
+      "tags": [
+        "egr valve test",
+        "vacuum hold test",
+        "oral suction"
+      ],
+      "dimensions": [
+        342,
+        244
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_31_cleaning_egr_control_valve",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_31_cleaning_egr_control_valve.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_31_cleaning_egr_control_valve.png",
+      "page_num": 14,
+      "page_label": "EC-14",
+      "fig_id": "Fig. EC-31",
+      "code": "EC350",
+      "caption": "Fig. EC-31 Cleaning E.G.R. control valve",
+      "diagram_type": "procedure_step",
+      "description": "Cleaning carbon deposits from the E.G.R. control valve seating surface using a wire brush.",
+      "components": [
+        "E.G.R. control valve",
+        "Wire brush",
+        "Valve seat"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Clean seating surface and port with brush and compressed air. Check for wrinkles or deformation.",
+      "tags": [
+        "egr cleaning",
+        "carbon removal",
+        "wire brush"
+      ],
+      "dimensions": [
+        354,
+        305
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_32_location_of_catalytic_converter",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_32_location_of_catalytic_converter.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_32_location_of_catalytic_converter.png",
+      "page_num": 15,
+      "page_label": "EC-15",
+      "fig_id": "Fig. EC-32",
+      "code": "EC380",
+      "caption": "Fig. EC-32 Location of catalytic converter",
+      "diagram_type": "component_location",
+      "description": "Vehicle side profile outline indicating catalytic converter position in the exhaust system under the floorpan.",
+      "components": [
+        "Catalytic converter",
+        "Exhaust manifold",
+        "Muffler",
+        "Exhaust pipe"
+      ],
+      "callouts": {
+        "CATALYTIC CONVERTER": "Catalytic converter"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "California models only. Positioned under passenger floor area in exhaust line.",
+      "tags": [
+        "catalytic converter location",
+        "exhaust system",
+        "underbody layout"
+      ],
+      "dimensions": [
+        953,
+        279
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_33_operation_of_catalytic_converter",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_33_operation_of_catalytic_converter.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_33_operation_of_catalytic_converter.png",
+      "page_num": 15,
+      "page_label": "EC-15",
+      "fig_id": "Fig. EC-33",
+      "code": "EC382",
+      "caption": "Fig. EC-33 Operation of catalytic converter",
+      "diagram_type": "cutaway_flow",
+      "description": "Flow diagram showing exhaust gases (HC, CO) mixing with excess air from exhaust manifold through catalytic converter bed to form CO2 and H2O.",
+      "components": [
+        "Exhaust manifold",
+        "Catalytic converter monolith/pellet bed",
+        "Exhaust pipe"
+      ],
+      "callouts": {
+        "Excess air": "Excess air",
+        "Carbon monoxide hydrocarbon": "Carbon monoxide hydrocarbon",
+        "Carbon dioxide gas, water": "Carbon dioxide gas, water"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Catalyst promotes oxidation of unburned hydrocarbons and carbon monoxide using residual excess oxygen.",
+      "tags": [
+        "catalytic converter operation",
+        "chemical oxidation",
+        "exhaust gas flow"
+      ],
+      "dimensions": [
+        908,
+        454
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_34_removing_catalytic_converter",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_34_removing_catalytic_converter.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_34_removing_catalytic_converter.png",
+      "page_num": 15,
+      "page_label": "EC-15",
+      "fig_id": "Fig. EC-34",
+      "code": "EC706",
+      "caption": "Fig. EC-34 Removing catalytic converter",
+      "diagram_type": "procedure_step",
+      "description": "Unbolting catalytic converter flange bolts connecting to front and rear exhaust tubes and lower heat shelter.",
+      "components": [
+        "Catalytic converter",
+        "Lower shelter",
+        "Flange bolts"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Never wet catalyzer with water or oil. Handle carefully to prevent internal ceramic fracture.",
+      "tags": [
+        "catalytic converter removal",
+        "exhaust flanges",
+        "heat shield"
+      ],
+      "dimensions": [
+        309,
+        331
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_35_connecting_emission_adjuster",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_35_connecting_emission_adjuster.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_35_connecting_emission_adjuster.png",
+      "page_num": 16,
+      "page_label": "EC-16",
+      "fig_id": "Fig. EC-35",
+      "code": "EC707",
+      "caption": "Fig. EC-35 Connecting emission adjuster",
+      "diagram_type": "procedure_step",
+      "description": "Connecting the variable resistance emission adjuster tool to the disconnected water temperature sensor harness connector.",
+      "components": [
+        "Emission adjuster tool",
+        "Water temperature sensor",
+        "Harness connector",
+        "Engine thermostat housing"
+      ],
+      "callouts": {
+        "Emission adjuster": "Emission adjuster",
+        "Water temperature sensor": "Water temperature sensor"
+      },
+      "measurements_and_specs": [
+        "Probe insertion depth: minimum 500 mm (19.69 in)",
+        "Baseline setting: 3% CO at 2,000 rpm",
+        "Pass criterion with #6 injector disconnected: < 1% CO"
+      ],
+      "wiring_and_connections": [
+        "Emission adjuster plugged into water temp sensor harness"
+      ],
+      "mechanic_notes": "Simulate rich condition with emission adjuster, then cut #6 cylinder; CO must drop below 1% if catalyst is active.",
+      "tags": [
+        "emission adjuster",
+        "catalytic converter test",
+        "co test",
+        "water temp sensor harness"
+      ],
+      "dimensions": [
+        717,
+        560
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_36_floor_temperature_warning_system_circuit",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_36_floor_temperature_warning_system_circuit.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_36_floor_temperature_warning_system_circuit.png",
+      "page_num": 17,
+      "page_label": "EC-17",
+      "fig_id": "Fig. EC-36",
+      "code": "EC105A",
+      "caption": "Fig. EC-36 Floor temperature warning system circuit",
+      "diagram_type": "electrical_schematic",
+      "description": "Schematic of floor temperature warning circuit showing battery, ignition switch, ignition relay, floor sensor relay, floor sensor, and floor temperature lamp.",
+      "components": [
+        "Ignition switch",
+        "Battery",
+        "Ignition relay",
+        "Floor sensor relay",
+        "Floor temperature lamp",
+        "Floor sensor"
+      ],
+      "callouts": {
+        "1": "Floor sensor temperature high",
+        "2": "Floor temperature lamp"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Ignition switch B, IG, S, A terminals",
+        "Relay coil and contact connections"
+      ],
+      "mechanic_notes": "Floor sensor acts as normally closed contact at low temperature; opens when overheated, de-energizing relay and illuminating warning lamp.",
+      "tags": [
+        "floor temperature warning",
+        "circuit schematic",
+        "floor sensor relay",
+        "wiring"
+      ],
+      "dimensions": [
+        468,
+        682
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_37_location_of_floor_sensor",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_37_location_of_floor_sensor.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_37_location_of_floor_sensor.png",
+      "page_num": 17,
+      "page_label": "EC-17",
+      "fig_id": "Fig. EC-37",
+      "code": "EC398",
+      "caption": "Fig. EC-37 Location of floor sensor",
+      "diagram_type": "component_location",
+      "description": "Chassis elevation outline showing location of the floor temperature sensor mounted above catalytic converter floor area.",
+      "components": [
+        "Floor sensor",
+        "Floor panel",
+        "Exhaust pipe"
+      ],
+      "callouts": {
+        "Floor sensor": "Floor sensor"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Sensor is located under passenger floor carpet area above the exhaust pipe / catalytic converter section.",
+      "tags": [
+        "floor sensor location",
+        "passenger floor",
+        "chassis"
+      ],
+      "dimensions": [
+        972,
+        288
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_38_operation_of_floor_sensor",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_38_operation_of_floor_sensor.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_38_operation_of_floor_sensor.png",
+      "page_num": 17,
+      "page_label": "EC-17",
+      "fig_id": "Fig. EC-38",
+      "code": "EC827",
+      "caption": "Fig. EC-38 Operation of floor sensor",
+      "diagram_type": "cutaway_flow",
+      "description": "Internal bimetal mechanism of the floor sensor showing contacts closed (normal) and contacts open (overheated condition).",
+      "components": [
+        "Bimetal disc / element",
+        "Electrical contacts",
+        "Terminal leads",
+        "Sensor housing"
+      ],
+      "callouts": {
+        "Contact close": "Normal operating temperature",
+        "Contact open": "Overheated condition"
+      },
+      "measurements_and_specs": [
+        "Contacts open above 115\u00b0C (239\u00b0F)",
+        "Contacts close below 92\u00b0C (198\u00b0F)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Bimetallic disc snaps open at elevated floor temperatures, breaking relay coil ground.",
+      "tags": [
+        "floor sensor operation",
+        "bimetal contacts",
+        "cutaway"
+      ],
+      "dimensions": [
+        736,
+        288
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_39_removing_floor_sensor",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_39_removing_floor_sensor.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_39_removing_floor_sensor.png",
+      "page_num": 18,
+      "page_label": "EC-18",
+      "fig_id": "Fig. EC-39",
+      "code": "EC251A",
+      "caption": "Fig. EC-39 Removing floor sensor",
+      "diagram_type": "procedure_step",
+      "description": "Interior passenger footwell view showing removal of floor protector and sensor screws.",
+      "components": [
+        "Floor sensor",
+        "Protector",
+        "Mounting screws",
+        "Floor carpet"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove protective cover before loosening floor sensor mounting screws.",
+      "tags": [
+        "floor sensor removal",
+        "passenger footwell",
+        "protector"
+      ],
+      "dimensions": [
+        615,
+        498
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_40_location_of_floor_sensor_relay",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_40_location_of_floor_sensor_relay.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_40_location_of_floor_sensor_relay.png",
+      "page_num": 18,
+      "page_label": "EC-18",
+      "fig_id": "Fig. EC-40",
+      "code": "EC252A",
+      "caption": "Fig. EC-40 Location of floor sensor relay",
+      "diagram_type": "component_location",
+      "description": "Perspective drawing showing floor sensor relay and brake warning lamp check relay mounted beneath passenger seat.",
+      "components": [
+        "Floor sensor relay",
+        "Brake warning lamp check relay",
+        "Passenger seat frame bracket"
+      ],
+      "callouts": {
+        "Brake warning lamp check relay": "Brake warning lamp check relay",
+        "Floor sensor relay": "Floor sensor relay",
+        "Front": "Front of vehicle"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Relay harness plug under passenger seat"
+      ],
+      "mechanic_notes": "Remove front passenger seat to access the floor sensor relay on seat bracket.",
+      "tags": [
+        "floor sensor relay",
+        "brake check relay",
+        "under seat location"
+      ],
+      "dimensions": [
+        660,
+        472
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_41_location_of_floor_temperature_lamp",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_41_location_of_floor_temperature_lamp.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_41_location_of_floor_temperature_lamp.png",
+      "page_num": 18,
+      "page_label": "EC-18",
+      "fig_id": "Fig. EC-41",
+      "code": "EC437",
+      "caption": "Fig. EC-41 Location of floor temperature lamp",
+      "diagram_type": "component_location",
+      "description": "Dashboard center console view showing location of FLOOR TEMP warning light lens on heater/vent finisher panel.",
+      "components": [
+        "Instrument finisher panel",
+        "FLOOR TEMP warning lamp",
+        "Heater control panel",
+        "Gauges"
+      ],
+      "callouts": {
+        "FLOOR TEMP": "Floor temperature warning indicator",
+        "FUEL": "Fuel warning indicator"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove center console instrument finisher panel to replace bulb or warning unit.",
+      "tags": [
+        "floor temp lamp",
+        "instrument cluster",
+        "center console",
+        "warning lamp"
+      ],
+      "dimensions": [
+        602,
+        463
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_42_wiring_diagram_floor_temperature_warning_system",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_42_wiring_diagram_floor_temperature_warning_system.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_42_wiring_diagram_floor_temperature_warning_system.png",
+      "page_num": 20,
+      "page_label": "EC-20",
+      "fig_id": "Fig. EC-42",
+      "code": "EC118A",
+      "caption": "Fig. EC-42 Wiring diagram of floor temperature warning system",
+      "diagram_type": "electrical_schematic",
+      "description": "Complete schematic diagram of floor temperature warning system showing wire colors, connector pinouts, battery, fusible links, starting motor, ignition switch, fuse box, ignition relay, floor sensor relay, floor sensor, and floor temperature warning lamp.",
+      "components": [
+        "Battery",
+        "Fusible link",
+        "Starting motor",
+        "Engine earth",
+        "Body earth",
+        "Fuse box",
+        "Ignition switch",
+        "Ignition relay",
+        "Floor sensor relay",
+        "Floor sensor",
+        "Floor temperature warning lamp"
+      ],
+      "callouts": {
+        "FUSE BOX": "Fuse box",
+        "IGNITION RELAY": "Ignition relay",
+        "FLOOR SENSOR RELAY": "Floor sensor relay",
+        "IGNITION SWITCH": "Ignition switch",
+        "FLOOR SENSOR": "Floor sensor",
+        "FLOOR TEMPERATURE WARNING LAMP": "Floor temperature warning lamp"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "WR (White/Red)",
+        "WB (White/Black)",
+        "BW (Black/White)",
+        "RB (Red/Black)",
+        "BY (Black/Yellow)",
+        "BR (Black/Red)",
+        "B (Black ground)"
+      ],
+      "mechanic_notes": "Shows all multi-pin harness connectors, wire color coding, and relay pin numbers for floor temperature warning circuitry.",
+      "tags": [
+        "wiring diagram",
+        "floor temperature warning",
+        "schematic",
+        "wire colors",
+        "harness connectors"
+      ],
+      "dimensions": [
+        1042,
+        1436
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_43_floor_temp_warning_lamp_on_start",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_43_floor_temp_warning_lamp_on_start.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_43_floor_temp_warning_lamp_on_start.png",
+      "page_num": 21,
+      "page_label": "EC-21",
+      "fig_id": "Fig. EC-43",
+      "code": "EC119A",
+      "caption": "Fig. EC-43 Floor temperature warning lamp ON with ignition switch in \\\"START\\\" position",
+      "diagram_type": "electrical_schematic",
+      "description": "Current flow path through circuit diagram when ignition switch is in START position, proving bulb bulb-check functionality.",
+      "components": [
+        "Battery",
+        "Starting motor",
+        "Ignition switch (STA contact closed)",
+        "Fuse box",
+        "Floor temperature warning lamp",
+        "Floor sensor relay"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "BY line energized from STA terminal to illuminate warning lamp during cranking"
+      ],
+      "mechanic_notes": "Heavy lines trace circuit from starter terminal through warning lamp to ground during cranking.",
+      "tags": [
+        "floor temp circuit",
+        "start position",
+        "bulb check",
+        "current trace"
+      ],
+      "dimensions": [
+        972,
+        661
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_44_floor_temp_warning_lamp_on_floor_sensor_off",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_44_floor_temp_warning_lamp_on_floor_sensor_off.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_44_floor_temp_warning_lamp_on_floor_sensor_off.png",
+      "page_num": 21,
+      "page_label": "EC-21",
+      "fig_id": "Fig. EC-44",
+      "code": "EC120A",
+      "caption": "Fig. EC-44 Floor temperature warning lamp ON with floor sensor turned OFF",
+      "diagram_type": "electrical_schematic",
+      "description": "Current flow path when floor sensor bimetal opens (OFF state), de-energizing relay and routing 12V through relay normally-closed contacts to warning lamp.",
+      "components": [
+        "Battery",
+        "Ignition switch (ON)",
+        "Ignition relay",
+        "Fuse box",
+        "Floor sensor relay (de-energized)",
+        "Floor sensor (open circuit)",
+        "Floor temperature warning lamp (illuminated)"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Current flow traced through de-energized relay contacts to lamp"
+      ],
+      "mechanic_notes": "When sensor heats above 115\u00b0C, its internal contact opens, cutting relay coil ground; relay returns to NC position and lights bulb.",
+      "tags": [
+        "floor temp circuit",
+        "overheat condition",
+        "sensor open",
+        "current trace"
+      ],
+      "dimensions": [
+        972,
+        638
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_45_checking_floor_sensor_relay",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_45_checking_floor_sensor_relay.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_45_checking_floor_sensor_relay.png",
+      "page_num": 22,
+      "page_label": "EC-22",
+      "fig_id": "Fig. EC-45",
+      "code": "EC900",
+      "caption": "Fig. EC-45 Checking floor sensor relay",
+      "diagram_type": "inspection_measurement",
+      "description": "Terminal pin numbering and internal coil/switch diagram of the floor sensor relay for bench continuity testing.",
+      "components": [
+        "Floor sensor relay",
+        "Terminals 1, 2, 3, 4, 5, 6"
+      ],
+      "callouts": {
+        "1": "IG",
+        "2": "IG",
+        "3": "LAMP",
+        "4": "LAMP",
+        "5": "IG",
+        "6": "S (FLOOR TEMPERATURE SENSOR)"
+      },
+      "measurements_and_specs": [
+        "Terminals 5-6: Coil continuity (Yes)",
+        "Terminals 2-4: NC contact (Yes normal, No energized)",
+        "Terminals 1-3: NO contact (No normal, Yes energized)"
+      ],
+      "wiring_and_connections": [
+        "12V DC applied across coil terminals 5 and 6"
+      ],
+      "mechanic_notes": "Use fused test lead when energizing terminals 5 and 6.",
+      "tags": [
+        "floor sensor relay",
+        "relay testing",
+        "pinout",
+        "terminal continuity"
+      ],
+      "dimensions": [
+        603,
+        445
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_46_schematic_drawing_evaporative_emission_control_system",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_46_schematic_drawing_evaporative_emission_control_system.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_46_schematic_drawing_evaporative_emission_control_system.png",
+      "page_num": 23,
+      "page_label": "EC-23",
+      "fig_id": "Fig. EC-46",
+      "code": "EC712",
+      "caption": "Fig. EC-46 Schematic drawing of evaporative emission control system",
+      "diagram_type": "cutaway_flow",
+      "description": "Chassis perspective view showing complete evaporative plumbing: fuel tank, filler cap, separator, vapor lines, check valve, and canister.",
+      "components": [
+        "Carbon canister",
+        "Vacuum signal line",
+        "Canister purge line",
+        "Vapor vent line",
+        "Fuel filler cap with vacuum relief valve",
+        "Liquid/vapor separator",
+        "Fuel tank",
+        "Check valve"
+      ],
+      "callouts": {
+        "1": "Carbon canister",
+        "2": "Vacuum signal line",
+        "3": "Canister purge line",
+        "4": "Vapor vent line",
+        "5": "Fuel filler cap with vacuum relief valve",
+        "6": "Liquid/vapor separator",
+        "7": "Fuel tank",
+        "8": "Check valve"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Plumbing lines connecting rear separator, underbody vapor line, and engine compartment canister"
+      ],
+      "mechanic_notes": "Fuel tank is sealed with a vacuum relief filler cap. Vapors pass through liquid/vapor separator and check valve to canister.",
+      "tags": [
+        "evaporative system",
+        "carbon canister",
+        "liquid vapor separator",
+        "chassis plumbing"
+      ],
+      "dimensions": [
+        1030,
+        674
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_47_evaporative_emission_flow_at_rest_or_idling",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_47_evaporative_emission_flow_at_rest_or_idling.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_47_evaporative_emission_flow_at_rest_or_idling.png",
+      "page_num": 23,
+      "page_label": "EC-23",
+      "fig_id": "Fig. EC-47",
+      "code": "EC121A",
+      "caption": "Fig. EC-47 Evaporative emission control system (Fuel vapor flow when engine is at rest or at idling)",
+      "diagram_type": "cutaway_flow",
+      "description": "Functional flow schematic at rest or idle showing vapor trapped in activated carbon while purge control valve remains closed.",
+      "components": [
+        "Fuel tank",
+        "Fuel filler cap with vacuum relief valve",
+        "Liquid/vapor separator",
+        "Vapor vent line",
+        "Vacuum signal line",
+        "Canister purge line",
+        "Throttle valve",
+        "Engine",
+        "Carbon canister",
+        "Activated carbon",
+        "Screen",
+        "Filter",
+        "Purge control valve",
+        "Diaphragm spring",
+        "Diaphragm",
+        "Fixed orifice",
+        "Check valve",
+        "Canister tray"
+      ],
+      "callouts": {
+        "1": "Fuel tank",
+        "2": "Fuel filler cap with vacuum relief valve",
+        "3": "Liquid/vapor separator",
+        "4": "Vapor vent line",
+        "5": "Vacuum signal line",
+        "6": "Canister purge line",
+        "7": "Throttle valve",
+        "8": "Engine",
+        "9": "Carbon canister",
+        "10": "Activated carbon",
+        "11": "Screen",
+        "12": "Filter",
+        "13": "Purge control valve",
+        "14": "Diaphragm spring",
+        "15": "Diaphragm",
+        "16": "Fixed orifice",
+        "17": "Check valve",
+        "18": "Canister tray"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "At rest or idle, purge control valve diaphragm spring holds valve closed so vapors are retained in activated carbon.",
+      "tags": [
+        "evaporative flow",
+        "idle state",
+        "rest state",
+        "purge control valve closed",
+        "carbon canister"
+      ],
+      "dimensions": [
+        1086,
+        647
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_48_evaporative_emission_flow_when_running",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_48_evaporative_emission_flow_when_running.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_48_evaporative_emission_flow_when_running.png",
+      "page_num": 24,
+      "page_label": "EC-24",
+      "fig_id": "Fig. EC-48",
+      "code": "EC122A",
+      "caption": "Fig. EC-48 Evaporative emission control system (Fuel vapor flow when engine is running)",
+      "diagram_type": "cutaway_flow",
+      "description": "Functional flow schematic showing purge control valve opened by port vacuum during running conditions, admitting fresh air through canister bottom and purging vapors to intake manifold.",
+      "components": [
+        "Throttle chamber",
+        "Intake manifold",
+        "Carbon canister",
+        "Purge control valve (open)",
+        "Liquid/vapor separator",
+        "Fuel tank",
+        "Check valve"
+      ],
+      "callouts": {
+        "Open": "Purge control valve open",
+        "Fuel vapor": "Fuel vapor flow",
+        "Fresh air": "Fresh air flow"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Vacuum signal line to throttle chamber port",
+        "Purge line to intake manifold port"
+      ],
+      "mechanic_notes": "Throttle vacuum lifts diaphragm against spring, pulling fresh air through canister bottom filter and purging absorbed vapors into engine.",
+      "tags": [
+        "evaporative flow",
+        "running state",
+        "purge operation",
+        "carbon canister purging"
+      ],
+      "dimensions": [
+        1074,
+        700
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_49_checking_evaporative_emission_control_system",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_49_checking_evaporative_emission_control_system.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_49_checking_evaporative_emission_control_system.png",
+      "page_num": 25,
+      "page_label": "EC-25",
+      "fig_id": "Fig. EC-49",
+      "code": "EC715",
+      "caption": "Fig. EC-49 Checking evaporative emission control system",
+      "diagram_type": "procedure_step",
+      "description": "Apparatus setup for pressure testing vapor vent line, separator, and tank using manometer, 3-way connector cock, and hand air pump.",
+      "components": [
+        "Manometer",
+        "3-way connector cock",
+        "Carbon canister",
+        "Vapor-liquid separator",
+        "Fuel filler cap"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Test pressure: 400 mmH2O (15.75 inH2O)",
+        "Max allowable pressure drop: 25 mmH2O (0.98 inH2O) over 2.5 minutes"
+      ],
+      "wiring_and_connections": [
+        "Manometer tee connected to disconnected vent line at canister"
+      ],
+      "mechanic_notes": "If pressure drops immediately, filler cap or vent hoses leak. If pressure does not drop when cap removed, line is clogged.",
+      "tags": [
+        "evaporative leak test",
+        "manometer",
+        "pressure check",
+        "vapor vent line"
+      ],
+      "dimensions": [
+        736,
+        375
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_50_checking_carbon_canister_purge_control_valve",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_50_checking_carbon_canister_purge_control_valve.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_50_checking_carbon_canister_purge_control_valve.png",
+      "page_num": 25,
+      "page_label": "EC-25",
+      "fig_id": "Fig. EC-50",
+      "code": "ET349",
+      "caption": "Fig. EC-50 Checking carbon canister purge control valve",
+      "diagram_type": "procedure_step",
+      "description": "Inhaling oral suction on disconnected rubber hose to canister purge control valve diaphragm port to check for diaphragm leakage.",
+      "components": [
+        "Carbon canister",
+        "Purge control valve vacuum hose"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "There must be no leakage when inhaling on hose. If leaking, replace diaphragm kit.",
+      "tags": [
+        "purge control valve",
+        "canister diaphragm test",
+        "oral suction"
+      ],
+      "dimensions": [
+        334,
+        366
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_51_carbon_canister_purge_control_valve",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_51_carbon_canister_purge_control_valve.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_51_carbon_canister_purge_control_valve.png",
+      "page_num": 25,
+      "page_label": "EC-25",
+      "fig_id": "Fig. EC-51",
+      "code": "ET350",
+      "caption": "Fig. EC-51 Carbon canister purge control valve",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of the purge control valve assembly on top of the carbon canister.",
+      "components": [
+        "Cover",
+        "Diaphragm",
+        "Retainer",
+        "Diaphragm spring",
+        "Canister body"
+      ],
+      "callouts": {
+        "1": "Cover",
+        "2": "Diaphragm",
+        "3": "Retainer",
+        "4": "Diaphragm spring"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Diaphragm kit consists of retainer, diaphragm, and spring.",
+      "tags": [
+        "purge control valve",
+        "exploded view",
+        "diaphragm kit",
+        "carbon canister"
+      ],
+      "dimensions": [
+        354,
+        410
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_52_replacing_carbon_canister_filter",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_52_replacing_carbon_canister_filter.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_52_replacing_carbon_canister_filter.png",
+      "page_num": 25,
+      "page_label": "EC-25",
+      "fig_id": "Fig. EC-52",
+      "code": "EF201",
+      "caption": "Fig. EC-52 Replacing carbon canister filter",
+      "diagram_type": "procedure_step",
+      "description": "Hand removal and replacement of the fibrous bottom filter pad of the carbon canister.",
+      "components": [
+        "Carbon canister",
+        "Bottom filter pad"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Filter pad is easily pulled out from bottom recess of canister body when dirty.",
+      "tags": [
+        "carbon canister filter",
+        "filter replacement",
+        "canister bottom"
+      ],
+      "dimensions": [
+        360,
+        323
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_53_fuel_filler_cap",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_53_fuel_filler_cap.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_53_fuel_filler_cap.png",
+      "page_num": 25,
+      "page_label": "EC-25",
+      "fig_id": "Fig. EC-53",
+      "code": "EC089A",
+      "caption": "Fig. EC-53 Fuel filler cap",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross-sectional cutaway of fuel filler cap vacuum relief valve mechanism showing internal spring and sealing gasket.",
+      "components": [
+        "Filler cap shell",
+        "Vacuum relief valve spring",
+        "Valve seal disc",
+        "Filler neck gasket"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Oral inhalation should produce slight resistance then click as valve opens. Replace cap if clogged or free-leaking.",
+      "tags": [
+        "fuel filler cap",
+        "vacuum relief valve",
+        "cap cutaway"
+      ],
+      "dimensions": [
+        373,
+        305
+      ]
+    },
+    {
+      "section_title": "EMISSION CONTROL SYSTEM",
+      "source_md": "1978 280z FSM/EC Emission Control System.md",
+      "slug": "fig_ec_54_checking_fuel_check_valve",
+      "file": "markdown/1978 280z FSM/diagrams/EC Emission Control System/fig_ec_54_checking_fuel_check_valve.png",
+      "rel_link": "diagrams/EC Emission Control System/fig_ec_54_checking_fuel_check_valve.png",
+      "page_num": 25,
+      "page_label": "EC-25",
+      "fig_id": "Fig. EC-54",
+      "code": "EC090A",
+      "caption": "Fig. EC-54 Checking fuel check valve",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross-sectional flow diagram of two-way fuel check valve showing differential resistance between fuel tank side and engine side.",
+      "components": [
+        "Engine side fitting",
+        "Fuel tank side fitting",
+        "Valve disc",
+        "Internal spring"
+      ],
+      "callouts": {
+        "Engine side": "Engine side",
+        "Fuel tank side": "Fuel tank side",
+        "Evaporative fuel flow": "Evaporative fuel flow (toward engine)",
+        "Fresh air flow": "Fresh air flow (toward tank)"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Air blown into engine side should flow freely toward tank; air blown into tank side should show considerable resistance.",
+      "tags": [
+        "fuel check valve",
+        "differential resistance",
+        "vapor check valve",
+        "cutaway"
+      ],
+      "dimensions": [
+        367,
+        287
+      ]
+    }
+  ],
+  "torques": [
+    {
+      "component": "B.C.D.D. securing screw",
+      "unit": "kg-cm (in-lb)",
+      "value": "20 to 40 (17 to 35)",
+      "page_label": "EC-6"
+    },
+    {
+      "component": "B.C.D.D. vacuum controlled solenoid valve",
+      "unit": "kg-cm (in-lb)",
+      "value": "180 to 350 (156 to 304)",
+      "page_label": "EC-6"
+    },
+    {
+      "component": "E.G.R. thermal vacuum valve",
+      "unit": "kg-m (ft-lb)",
+      "value": "Less than 2.2 (16)",
+      "page_label": "EC-13"
+    },
+    {
+      "component": "Catalytic converter to exhaust front and rear tubes",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.2 to 4.3 (23 to 31)",
+      "page_label": "EC-16"
+    },
+    {
+      "component": "B.C.D.D.",
+      "unit": "kg-cm (in-lb)",
+      "value": "20 to 40 (17 to 35)",
+      "page_label": "EC-26"
+    },
+    {
+      "component": "B.C.D.D. vacuum control solenoid",
+      "unit": "kg-cm (in-lb)",
+      "value": "180 to 350 (156 to 304)",
+      "page_label": "EC-26"
+    },
+    {
+      "component": "E.G.R. thermal vacuum valve",
+      "unit": "kg-m (ft-lb)",
+      "value": "Less than 2.2 (16)",
+      "page_label": "EC-26"
+    },
+    {
+      "component": "Catalytic converter bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.2 to 4.3 (23 to 31)",
+      "page_label": "EC-26"
+    }
+  ],
+  "specs": [
+    {
+      "system": "B.C.D.D.",
+      "item": "Operating engine speed",
+      "unit": "rpm",
+      "standard": "1,800 to 2,000",
+      "limit": "",
+      "page_label": "EC-5"
+    },
+    {
+      "system": "B.C.D.D.",
+      "item": "Speed detecting switch threshold (M/T)",
+      "unit": "km/h (MPH)",
+      "standard": "Below 16 (10): ON",
+      "limit": "",
+      "page_label": "EC-5"
+    },
+    {
+      "system": "B.C.D.D.",
+      "item": "B.C.D.D. solenoid resistance (A/T)",
+      "unit": "\u03a9",
+      "standard": "15 to 28",
+      "limit": "",
+      "page_label": "EC-6"
+    },
+    {
+      "system": "B.C.D.D.",
+      "item": "Idling engine speed (M/T)",
+      "unit": "rpm",
+      "standard": "800",
+      "limit": "",
+      "page_label": "EC-7"
+    },
+    {
+      "system": "B.C.D.D.",
+      "item": "Idling engine speed (A/T in 'D')",
+      "unit": "rpm",
+      "standard": "700",
+      "limit": "",
+      "page_label": "EC-7"
+    },
+    {
+      "system": "B.C.D.D.",
+      "item": "Operating pressure (sea level, 760 mmHg atmospheric)",
+      "unit": "mmHg (inHg)",
+      "standard": "-470 \u00b1 10 (-18.50 \u00b1 0.39)",
+      "limit": "",
+      "page_label": "EC-7"
+    },
+    {
+      "system": "B.C.D.D.",
+      "item": "Operating pressure (at 1,400 m / 4,600 ft altitude)",
+      "unit": "mmHg (inHg)",
+      "standard": "375 (14.76)",
+      "limit": "",
+      "page_label": "EC-8"
+    },
+    {
+      "system": "E.G.R. System",
+      "item": "Intake manifold vacuum threshold for E.G.R. operation",
+      "unit": "mmHg (inHg)",
+      "standard": "50 (1.97) min.",
+      "limit": "",
+      "page_label": "EC-9"
+    },
+    {
+      "system": "E.G.R. System",
+      "item": "Thermal vacuum valve operating temperature (closed)",
+      "unit": "\u00b0C (\u00b0F)",
+      "standard": "Below 47 (117) or Above 98 (208)",
+      "limit": "",
+      "page_label": "EC-10"
+    },
+    {
+      "system": "E.G.R. System",
+      "item": "Thermal vacuum valve operating temperature (open)",
+      "unit": "\u00b0C (\u00b0F)",
+      "standard": "50 to 95 (122 to 203)",
+      "limit": "",
+      "page_label": "EC-10"
+    },
+    {
+      "system": "E.G.R. System",
+      "item": "B.P.T. valve operating exhaust pressure",
+      "unit": "mmH2O (inH2O)",
+      "standard": "21 to 33 (0.82 to 1.30)",
+      "limit": "",
+      "page_label": "EC-10"
+    },
+    {
+      "system": "E.G.R. System",
+      "item": "Thermal vacuum valve installation tilt angle",
+      "unit": "degrees",
+      "standard": "30\u00b0",
+      "limit": "",
+      "page_label": "EC-13"
+    },
+    {
+      "system": "E.G.R. System",
+      "item": "B.P.T. valve leak test pressure",
+      "unit": "mmH2O (inH2O)",
+      "standard": "Above 50 (1.97)",
+      "limit": "",
+      "page_label": "EC-14"
+    },
+    {
+      "system": "E.G.R. System",
+      "item": "E.G.R. valve vacuum hold time",
+      "unit": "seconds",
+      "standard": "> 30",
+      "limit": "",
+      "page_label": "EC-14"
+    },
+    {
+      "system": "Catalytic Converter",
+      "item": "CO meter probe insertion length",
+      "unit": "mm (in)",
+      "standard": "500 (19.69) min.",
+      "limit": "",
+      "page_label": "EC-16"
+    },
+    {
+      "system": "Catalytic Converter",
+      "item": "Base CO adjustment at 2,000 rpm (with emission adjuster)",
+      "unit": "%",
+      "standard": "3.0",
+      "limit": "",
+      "page_label": "EC-16"
+    },
+    {
+      "system": "Catalytic Converter",
+      "item": "CO percentage with #6 injector disconnected",
+      "unit": "%",
+      "standard": "< 1.0",
+      "limit": "1.0 max",
+      "page_label": "EC-16"
+    },
+    {
+      "system": "Floor Temperature Warning System",
+      "item": "Floor sensor contacts close (warning lamp OFF)",
+      "unit": "\u00b0C (\u00b0F)",
+      "standard": "Below 92 (198)",
+      "limit": "",
+      "page_label": "EC-19"
+    },
+    {
+      "system": "Floor Temperature Warning System",
+      "item": "Floor sensor contacts open (warning lamp ON)",
+      "unit": "\u00b0C (\u00b0F)",
+      "standard": "Above 115 (239)",
+      "limit": "",
+      "page_label": "EC-19"
+    },
+    {
+      "system": "Evaporative Emission Control System",
+      "item": "Vapor line test air pressure",
+      "unit": "mmH2O (inH2O)",
+      "standard": "400 (15.75)",
+      "limit": "",
+      "page_label": "EC-24"
+    },
+    {
+      "system": "Evaporative Emission Control System",
+      "item": "Max allowable pressure variation after 2.5 minutes",
+      "unit": "mmH2O (inH2O)",
+      "standard": "25 (0.98)",
+      "limit": "25 (0.98) max",
+      "page_label": "EC-24"
+    },
+    {
+      "system": "B.C.D.D.",
+      "item": "B.C.D.D. operating pressure [0 m, sea level and 760 mmHg (29.9 inHg), atmospheric pressure]",
+      "unit": "mmHg (inHg)",
+      "standard": "-470 \u00b1 10 (-18.50 \u00b1 0.39)",
+      "limit": "",
+      "page_label": "EC-26"
+    },
+    {
+      "system": "E.G.R. System",
+      "item": "Thermal vacuum valve operating temperature - Closed",
+      "unit": "\u00b0C (\u00b0F)",
+      "standard": "Below 47 (117) and Above 98 (208)",
+      "limit": "",
+      "page_label": "EC-26"
+    },
+    {
+      "system": "E.G.R. System",
+      "item": "Thermal vacuum valve operating temperature - Open",
+      "unit": "\u00b0C (\u00b0F)",
+      "standard": "50 to 95 (122 to 203)",
+      "limit": "",
+      "page_label": "EC-26"
+    },
+    {
+      "system": "Floor Temperature Warning System",
+      "item": "Floor sensor contacts opening temperature",
+      "unit": "\u00b0C (\u00b0F)",
+      "standard": "Above 115 (239)",
+      "limit": "",
+      "page_label": "EC-26"
+    }
+  ],
+  "troubleshooting": [
+    {
+      "symptom": "No hissing noise or vacuum felt at P.C.V. valve inlet at idle",
+      "probable_cause": "Clogged or defective P.C.V. valve, or obstructed ventilation hose",
+      "corrective_action": "Clean or replace P.C.V. valve; clean ventilation hoses with compressed air or replace",
+      "page_label": "EC-2"
+    },
+    {
+      "symptom": "B.C.D.D. circuit test shows no continuity at complete stop (M/T)",
+      "probable_cause": "Disconnected connector, faulty amplifier, faulty speed detecting switch, or faulty B.C.D.D. solenoid valve",
+      "corrective_action": "Check connectors, test and replace faulty unit",
+      "page_label": "EC-6"
+    },
+    {
+      "symptom": "B.C.D.D. circuit test shows voltage (not 0V) at speed > 16 km/h (M/T)",
+      "probable_cause": "Disconnected connector, burned fuse, faulty amplifier, faulty solenoid valve, or faulty speed detecting switch",
+      "corrective_action": "Inspect fuse and wiring, test components and replace if defective",
+      "page_label": "EC-6"
+    },
+    {
+      "symptom": "B.C.D.D. circuit test shows 0V in 'N' or 'P' position (A/T)",
+      "probable_cause": "Disconnected connector, faulty solenoid valve, or faulty inhibitor switch",
+      "corrective_action": "Inspect wiring, check inhibitor switch adjustment or replace faulty solenoid/switch",
+      "page_label": "EC-6"
+    },
+    {
+      "symptom": "B.C.D.D. circuit resistance not 15 to 28 ohms in gear (A/T)",
+      "probable_cause": "Poor connector connection, faulty B.C.D.D. solenoid valve, or faulty inhibitor switch",
+      "corrective_action": "Repair connector connection or replace faulty solenoid/inhibitor switch",
+      "page_label": "EC-6"
+    },
+    {
+      "symptom": "B.C.D.D. solenoid valve does not click when electrified",
+      "probable_cause": "Defective solenoid valve coil or open circuit",
+      "corrective_action": "Check continuity with tester; replace solenoid valve if discontinuity is detected",
+      "page_label": "EC-7"
+    },
+    {
+      "symptom": "Speedometer amplifier tester pointer does not deflect when ignition is turned ON",
+      "probable_cause": "Faulty amplifier (assuming solenoid and speed switch are intact)",
+      "corrective_action": "Replace amplifier located at rear of speedometer",
+      "page_label": "EC-7"
+    },
+    {
+      "symptom": "Engine speed cannot be decreased to idling during B.C.D.D. pressure adjustment",
+      "probable_cause": "B.C.D.D. operating pressure incorrectly adjusted (too high on vacuum)",
+      "corrective_action": "Turn adjusting nut (California) or screw (Non-California) as directed in 1/4 or 1/2 turn increments until properly set",
+      "page_label": "EC-8"
+    },
+    {
+      "symptom": "Vacuum present at thermal vacuum valve hose below 47\u00b0C (117\u00b0F)",
+      "probable_cause": "Faulty or stuck-open thermal vacuum valve",
+      "corrective_action": "Replace thermal vacuum valve",
+      "page_label": "EC-13"
+    },
+    {
+      "symptom": "No vacuum at thermal vacuum valve hose at 50 to 95\u00b0C (122 to 203\u00b0F) and 3,000-3,500 rpm",
+      "probable_cause": "Faulty or stuck-closed thermal vacuum valve, or clogged vacuum port",
+      "corrective_action": "Clean passage or replace thermal vacuum valve",
+      "page_label": "EC-13"
+    },
+    {
+      "symptom": "No vacuum at B.P.T. valve hose to E.G.R. valve at 3,000-3,500 rpm",
+      "probable_cause": "Faulty B.P.T. valve diaphragm or air bleed leak",
+      "corrective_action": "Replace B.P.T. valve",
+      "page_label": "EC-13"
+    },
+    {
+      "symptom": "E.G.R. control valve diaphragm does not lift at 3,000-3,500 rpm",
+      "probable_cause": "Sticking E.G.R. valve spindle, ruptured diaphragm, or lack of vacuum signal",
+      "corrective_action": "Clean valve seating surface/spindle; test diaphragm hold time; replace E.G.R. valve if defective",
+      "page_label": "EC-13"
+    },
+    {
+      "symptom": "B.P.T. valve leaks during oral suction test under 50 mmH2O pressure",
+      "probable_cause": "Ruptured internal diaphragm in B.P.T. valve",
+      "corrective_action": "Replace B.P.T. valve",
+      "page_label": "EC-14"
+    },
+    {
+      "symptom": "E.G.R. control valve does not remain open for > 30 seconds after vacuum cut off",
+      "probable_cause": "Ruptured or leaking E.G.R. valve diaphragm",
+      "corrective_action": "Replace E.G.R. control valve",
+      "page_label": "EC-14"
+    },
+    {
+      "symptom": "CO percentage is greater than 1% with #6 injector disconnected (catalytic converter test)",
+      "probable_cause": "Exhausted or damaged catalytic converter",
+      "corrective_action": "Replace catalytic converter",
+      "page_label": "EC-16"
+    },
+    {
+      "symptom": "Floor temperature warning lamp does not light on START",
+      "probable_cause": "Burned-out warning lamp bulb or open wiring from starter switch terminal",
+      "corrective_action": "Replace bulb or repair wiring from starter 'STA' circuit",
+      "page_label": "EC-19"
+    },
+    {
+      "symptom": "Floor temperature warning lamp stays lit at normal operating temperatures",
+      "probable_cause": "Defective floor sensor (contacts stuck open), faulty floor sensor relay, or short in wiring harness",
+      "corrective_action": "Test floor sensor continuity, test relay on bench with 12V, trace wiring and replace defective part",
+      "page_label": "EC-19"
+    },
+    {
+      "symptom": "Floor temperature warning lamp flashes frequently with power loss and engine vibration",
+      "probable_cause": "Misfiring or unburned fuel causing catalytic converter overheating; ignition or EFI fault",
+      "corrective_action": "Check ignition AMP, distributor, coil, HT cables, spark plugs, EFI injectors, B.C.D.D., and air cleaner",
+      "page_label": "EC-22"
+    },
+    {
+      "symptom": "Evaporative manometer pressure drops > 25 mmH2O in 2.5 minutes",
+      "probable_cause": "Leak in fuel tank, vapor-liquid separator, vent lines, or fuel filler cap seal",
+      "corrective_action": "Inspect connections and hoses for cracks; inspect or replace fuel filler cap",
+      "page_label": "EC-24"
+    },
+    {
+      "symptom": "Evaporative manometer pressure does not drop to zero when filler cap is removed",
+      "probable_cause": "Stuffy or pinched vapor vent hose",
+      "corrective_action": "Clear obstruction or replace vent hose",
+      "page_label": "EC-24"
+    },
+    {
+      "symptom": "Carbon canister purge control valve leaks upon oral suction",
+      "probable_cause": "Cracked or dislocated purge control valve diaphragm",
+      "corrective_action": "Remove top cover and replace diaphragm kit (retainer, diaphragm, spring)",
+      "page_label": "EC-25"
+    },
+    {
+      "symptom": "Fuel filler cap vacuum relief valve does not click or offers no resistance upon inhalation",
+      "probable_cause": "Clogged, jammed, or leaking vacuum relief valve mechanism",
+      "corrective_action": "Replace fuel filler cap assembly",
+      "page_label": "EC-25"
+    },
+    {
+      "symptom": "Fuel check valve offers no resistance or does not flow toward tank smoothly",
+      "probable_cause": "Defective internal check valve disc or spring",
+      "corrective_action": "Replace fuel check valve",
+      "page_label": "EC-25"
+    }
+  ],
+  "special_tools": []
+}

@@ -1,0 +1,3709 @@
+{
+  "section_title": "BODY",
+  "source_pdf": "1978 280z FSM/BF Body.pdf",
+  "md_path": "1978 280z FSM/BF Body.md",
+  "pages_count": 32,
+  "diagrams": [
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_1_body_construction",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_1_body_construction.png",
+      "rel_link": "diagrams/BF Body/fig_bf_1_body_construction.png",
+      "page_num": 2,
+      "page_label": "BF-2",
+      "fig_id": "Fig. BF-1",
+      "code": "BF974A",
+      "caption": "Fig. BF-1 Body construction",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of the main outer body panels and subassemblies showing front apron, hood, front fenders, doors, side windows, cowl top grille, body main unit, and tail gate.",
+      "components": [
+        "Front apron",
+        "Hood",
+        "Front fender (RH)",
+        "Door (RH)",
+        "Side window (RH)",
+        "Cowl top grille",
+        "Body main unit",
+        "Tail gate",
+        "Side window (LH)",
+        "Door (LH)",
+        "Front fender (LH)"
+      ],
+      "callouts": {
+        "1": "Front apron",
+        "2": "Hood",
+        "3": "Front fender (RH)",
+        "4": "Door (RH)",
+        "5": "Side window (RH)",
+        "6": "Cowl top grille",
+        "7": "Body main unit",
+        "8": "Tail gate",
+        "9": "Side window (LH)",
+        "10": "Door (LH)",
+        "11": "Front fender (LH)"
+      },
+      "measurements_and_specs": [
+        "Wheelbase difference: GS30 is 300 mm (11.81 in) longer than S30"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "GS30 2+2 model has an extended wheelbase and floor pan extension between front and rear floors; door and tail gate panels differ from S30 2-seater.",
+      "tags": [
+        "body construction",
+        "body panels",
+        "exploded view",
+        "unibody",
+        "S30",
+        "GS30"
+      ],
+      "dimensions": [
+        1004,
+        761
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_2_structure_of_body_main_unit",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_2_structure_of_body_main_unit.png",
+      "rel_link": "diagrams/BF Body/fig_bf_2_structure_of_body_main_unit.png",
+      "page_num": 3,
+      "page_label": "BF-3",
+      "fig_id": "Fig. BF-2",
+      "code": "BF380B",
+      "caption": "Fig. BF-2 Structure of body main unit",
+      "diagram_type": "exploded_view",
+      "description": "Perspective isometric cutaway of the welded unibody shell assembly (body main unit) showing structural members, cowl, floor pan, tunnel, rear wheelhouses, and roof pillars.",
+      "components": [
+        "Body main unit",
+        "Front side members",
+        "Strut towers",
+        "Dash panel",
+        "Floor tunnel",
+        "Floor pan",
+        "Rear wheelhouses",
+        "Rear quarter frame"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Shows the unitized body shell construction. Provides primary reference structure for underbody tramming and collision repair.",
+      "tags": [
+        "body main unit",
+        "unibody",
+        "shell",
+        "frame structure",
+        "chassis"
+      ],
+      "dimensions": [
+        870,
+        1401
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_3_underbody_alignment_s30_2_seater",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_3_underbody_alignment_s30_2_seater.png",
+      "rel_link": "diagrams/BF Body/fig_bf_3_underbody_alignment_s30_2_seater.png",
+      "page_num": 5,
+      "page_label": "BF-5",
+      "fig_id": "Fig. BF-3",
+      "code": "BF381B",
+      "caption": "Fig. BF-3 Underbody alignment for S30 (2 seater)",
+      "diagram_type": "alignment_orientation",
+      "description": "Comprehensive dimensional blueprint of underbody datum lines, diagonal checks, width measurements, and vertical reference heights for the S30 (2-seater) chassis, detailing measuring points 'A', 'B', 'C', and 'D'.",
+      "components": [
+        "Front side member",
+        "Front floor member",
+        "Compression rod bracket",
+        "Hood ledge front strut installing unit",
+        "Engine installing unit (front side / rear side)",
+        "Dash lower panel",
+        "Gear case mounting front crossmember locate hole unit",
+        "Gear case mounting rear crossmember",
+        "Rear floor",
+        "Rear side member",
+        "Rear strut installing unit",
+        "Rear crossmember"
+      ],
+      "callouts": {
+        "A point": "Front strut mounting and engine cradle forward datum location",
+        "B point": "Front side member reference datum location",
+        "C point": "Floor pan / gear case crossmember reference datum location",
+        "D point": "Rear strut tower installing unit reference datum location"
+      },
+      "measurements_and_specs": [
+        "Front track / frame width: 700 mm (27.56 in)",
+        "Front crossmember locating hole distance: 600 mm (23.62 in)",
+        "Diagonal front engine bay: 1,148.6 mm (45.22 in)",
+        "Front-to-rear floor span: 1,385 mm (54.53 in)",
+        "Rear crossmember width: 780 mm (30.71 in), 836.4 mm (32.93 in)",
+        "Unit: mm (in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "All measurements are symmetrical along car center line. Tram gauge must be maintained parallel to underbody plane. Unit is mm (in).",
+      "tags": [
+        "underbody alignment",
+        "chassis dimensions",
+        "frame tramming",
+        "datum points",
+        "S30",
+        "collision repair"
+      ],
+      "dimensions": [
+        1043,
+        1488
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_4_underbody_alignment_gs30_2_plus_2_seater",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_4_underbody_alignment_gs30_2_plus_2_seater.png",
+      "rel_link": "diagrams/BF Body/fig_bf_4_underbody_alignment_gs30_2_plus_2_seater.png",
+      "page_num": 6,
+      "page_label": "BF-6",
+      "fig_id": "Fig. BF-4",
+      "code": "BF382B",
+      "caption": "Fig. BF-4 Underbody alignment for GS30 (2 + 2 seater)",
+      "diagram_type": "alignment_orientation",
+      "description": "Comprehensive dimensional blueprint of underbody datum lines, diagonal checks, width measurements, and vertical reference heights for the GS30 (2+2 seater) chassis, showing extended 300 mm floor dimensions.",
+      "components": [
+        "Front side member",
+        "Front floor member",
+        "Compression rod bracket",
+        "Hood ledge front strut installing unit",
+        "Engine installing unit (front side / rear side)",
+        "Dash lower panel",
+        "Gear case mounting front crossmember locate hole unit",
+        "Gear case mounting rear crossmember",
+        "Rear floor",
+        "Rear side member",
+        "Rear strut installing unit",
+        "Rear crossmember"
+      ],
+      "callouts": {
+        "A point": "Front strut mounting and engine cradle forward datum location",
+        "B point": "Front side member reference datum location",
+        "C point": "Floor pan / gear case crossmember reference datum location",
+        "D point": "Rear strut tower installing unit reference datum location"
+      },
+      "measurements_and_specs": [
+        "Wheelbase extended by 300 mm (11.81 in) over S30",
+        "Front-to-rear floor span: 1,685 mm (66.34 in) vs 1,385 mm (54.53 in)",
+        "Diagonal measurements: 2,419.8 mm (95.27 in), 2,053.0 mm (80.83 in)",
+        "Overall span reference: 2,217 mm (87.28 in)",
+        "Unit: mm (in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Points A, B, C, D follow identical reference geometry as S30 except for the 300 mm (11.81 in) extension in the floor pan between dash lower panel and rear floor.",
+      "tags": [
+        "underbody alignment",
+        "chassis dimensions",
+        "frame tramming",
+        "GS30",
+        "2+2 seater",
+        "collision repair"
+      ],
+      "dimensions": [
+        1010,
+        1488
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_5_exploded_view_of_front_bumper",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_5_exploded_view_of_front_bumper.png",
+      "rel_link": "diagrams/BF Body/fig_bf_5_exploded_view_of_front_bumper.png",
+      "page_num": 7,
+      "page_label": "BF-7",
+      "fig_id": "Fig. BF-5",
+      "code": "BF383B",
+      "caption": "Fig. BF-5 Exploded view of front bumper",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view showing front bumper bar, side bumper ends, shock absorber struts, shims, rubber and metal sight shields, and overrider brackets.",
+      "components": [
+        "Front side bumper",
+        "Shock absorber",
+        "Front bumper shim",
+        "Rubber sight shield",
+        "Front bumper",
+        "Overrider",
+        "Metal sight shield",
+        "Shock absorber cover"
+      ],
+      "callouts": {
+        "1": "Front side bumper",
+        "2": "Shock absorber",
+        "3": "Front bumper shim",
+        "4": "Rubber sight shield",
+        "5": "Front bumper",
+        "6": "Overrider",
+        "7": "Metal sight shield",
+        "8": "Shock absorber cover"
+      },
+      "measurements_and_specs": [
+        "Impact capability: 8 km/h (5 MPH) solid barrier"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Gas-and-oil-filled shock absorbers must not be drilled, disassembled, or heated.",
+      "tags": [
+        "front bumper",
+        "shock absorber",
+        "exploded view",
+        "overrider",
+        "sight shield"
+      ],
+      "dimensions": [
+        711,
+        568
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_6_exploded_view_of_rear_bumper",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_6_exploded_view_of_rear_bumper.png",
+      "rel_link": "diagrams/BF Body/fig_bf_6_exploded_view_of_rear_bumper.png",
+      "page_num": 7,
+      "page_label": "BF-7",
+      "fig_id": "Fig. BF-6",
+      "code": "BF384B",
+      "caption": "Fig. BF-6 Exploded view of rear bumper",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view showing rear bumper assembly, shock absorbers, tie-down hooks, shims, side bumpers, and sight shields.",
+      "components": [
+        "Rear bumper sight shield",
+        "Shock absorber",
+        "Rear bumper",
+        "Rear bumper shim",
+        "Rear tie-down hook (LH)",
+        "Rear tie-down hook (RH)",
+        "Rear side bumper",
+        "Rubber plug"
+      ],
+      "callouts": {
+        "1": "Rear bumper sight shield",
+        "2": "Shock absorber",
+        "3": "Rear bumper",
+        "4": "Rear bumper shim",
+        "5": "Rear tie-down hook (LH)",
+        "6": "Rear tie-down hook (RH)",
+        "7": "Rear side bumper",
+        "8": "Rubber plug"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Includes rear tie-down hooks LH and RH mounted with the bumper shock absorbers.",
+      "tags": [
+        "rear bumper",
+        "shock absorber",
+        "tie-down hook",
+        "exploded view"
+      ],
+      "dimensions": [
+        730,
+        647
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bumper_system_inspection_chart",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bumper_system_inspection_chart.png",
+      "rel_link": "diagrams/BF Body/fig_bumper_system_inspection_chart.png",
+      "page_num": 8,
+      "page_label": "BF-8",
+      "fig_id": "Bumper system inspection chart",
+      "code": "",
+      "caption": "Bumper system inspection chart",
+      "diagram_type": "cutaway_flow",
+      "description": "Flowchart for inspecting bumper appearance, measuring bumper height, checking shock absorber dimensions (compressed and expanded), checking operation, and replacing shock absorbers if faulty.",
+      "components": [
+        "Bumper appearance check",
+        "Bumper height measurement",
+        "Shock absorber dimensions check",
+        "Shock absorber operation check"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Guide to systematically evaluate bumper alignment, stroke, and shock absorber condition.",
+      "tags": [
+        "inspection flowchart",
+        "bumper inspection",
+        "troubleshooting"
+      ],
+      "dimensions": [
+        1093,
+        445
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_7_standard_height_of_front_bumper",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_7_standard_height_of_front_bumper.png",
+      "rel_link": "diagrams/BF Body/fig_bf_7_standard_height_of_front_bumper.png",
+      "page_num": 8,
+      "page_label": "BF-8",
+      "fig_id": "Fig. BF-7",
+      "code": "BF980A",
+      "caption": "Fig. BF-7 Standard height of front bumper",
+      "diagram_type": "inspection_measurement",
+      "description": "Measurement diagram showing front bumper height from ground line under curb weight conditions.",
+      "components": [
+        "Front bumper",
+        "Ground datum line"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Front bumper standard height: 438 to 477 mm (17.24 to 18.78 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Measure under curb weight conditions with tires inflated to rated pressure.",
+      "tags": [
+        "front bumper height",
+        "inspection",
+        "measurement"
+      ],
+      "dimensions": [
+        558,
+        393
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_8_standard_height_of_rear_bumper",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_8_standard_height_of_rear_bumper.png",
+      "rel_link": "diagrams/BF Body/fig_bf_8_standard_height_of_rear_bumper.png",
+      "page_num": 8,
+      "page_label": "BF-8",
+      "fig_id": "Fig. BF-8",
+      "code": "BF981A",
+      "caption": "Fig. BF-8 Standard height of rear bumper",
+      "diagram_type": "inspection_measurement",
+      "description": "Measurement diagram showing rear bumper height from ground line under curb weight conditions.",
+      "components": [
+        "Rear bumper",
+        "Ground datum line"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Rear bumper standard height: 438 to 477 mm (17.24 to 18.78 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Measure under curb weight conditions with tires inflated to rated pressure.",
+      "tags": [
+        "rear bumper height",
+        "inspection",
+        "measurement"
+      ],
+      "dimensions": [
+        539,
+        393
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_9_length_of_shock_absorber",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_9_length_of_shock_absorber.png",
+      "rel_link": "diagrams/BF Body/fig_bf_9_length_of_shock_absorber.png",
+      "page_num": 8,
+      "page_label": "BF-8",
+      "fig_id": "Fig. BF-9",
+      "code": "BF348A",
+      "caption": "Fig. BF-9 Length of shock absorber",
+      "diagram_type": "inspection_measurement",
+      "description": "Dimensional drawing of front and rear bumper shock absorber exposed shaft/bracket length.",
+      "components": [
+        "Front shock absorber",
+        "Rear shock absorber"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Front shock absorber standard length: 86 to 90 mm (3.39 to 3.54 in)",
+        "Rear shock absorber standard length: 86 to 90 mm (3.39 to 3.54 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Unit: mm (in). If dimension is out of range, shock absorber has failed to return or is collapsed.",
+      "tags": [
+        "bumper shock absorber",
+        "length",
+        "dimension",
+        "inspection"
+      ],
+      "dimensions": [
+        354,
+        569
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_10_checking_shock_absorber_function",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_10_checking_shock_absorber_function.png",
+      "rel_link": "diagrams/BF Body/fig_bf_10_checking_shock_absorber_function.png",
+      "page_num": 9,
+      "page_label": "BF-9",
+      "fig_id": "Fig. BF-10",
+      "code": "BF982A",
+      "caption": "Fig. BF-10 Checking shock absorber function",
+      "diagram_type": "procedure_step",
+      "description": "Illustration showing screw jack positioned against solid wall and bumper overrider to compress bumper shock absorber 40 mm.",
+      "components": [
+        "Solid wall",
+        "Jack",
+        "Overrider",
+        "Front bumper",
+        "Wheel chock"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Stroke: approx. 40 mm (1.57 in)",
+        "Jack capacity: > 400 kg (881 lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Caution: Do not allow jack to slip out of overrider. Ensure parking brake is set and wheels chocked.",
+      "tags": [
+        "shock absorber test",
+        "jack test",
+        "compression test"
+      ],
+      "dimensions": [
+        660,
+        498
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_11_removing_front_side_bumper_securing_nut",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_11_removing_front_side_bumper_securing_nut.png",
+      "rel_link": "diagrams/BF Body/fig_bf_11_removing_front_side_bumper_securing_nut.png",
+      "page_num": 9,
+      "page_label": "BF-9",
+      "fig_id": "Fig. BF-11",
+      "code": "BF023B",
+      "caption": "Fig. BF-11 Removing front side bumper securing nut",
+      "diagram_type": "procedure_step",
+      "description": "Location of nuts securing front side bumper through inner fender protector.",
+      "components": [
+        "Inner fender protector",
+        "Front side bumper",
+        "Securing nuts"
+      ],
+      "callouts": {
+        "Inner fender protector": "Inner fender protector",
+        "Front side bumper": "Front side bumper"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Loosen three screws on inner fender protector to reach the two side bumper nuts.",
+      "tags": [
+        "front side bumper",
+        "inner fender protector",
+        "removal"
+      ],
+      "dimensions": [
+        354,
+        297
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_12_removing_front_bumper",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_12_removing_front_bumper.png",
+      "rel_link": "diagrams/BF Body/fig_bf_12_removing_front_bumper.png",
+      "page_num": 9,
+      "page_label": "BF-9",
+      "fig_id": "Fig. BF-12",
+      "code": "BF983A",
+      "caption": "Fig. BF-12 Removing front bumper",
+      "diagram_type": "procedure_step",
+      "description": "Removing two nuts per side securing front bumper assembly to shock absorber mounts.",
+      "components": [
+        "Front bumper",
+        "Shock absorber mount",
+        "Nuts"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove two nuts securing bumper to shock absorber brackets.",
+      "tags": [
+        "front bumper removal",
+        "attaching nuts"
+      ],
+      "dimensions": [
+        348,
+        271
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_13_removing_shock_absorber",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_13_removing_shock_absorber.png",
+      "rel_link": "diagrams/BF Body/fig_bf_13_removing_shock_absorber.png",
+      "page_num": 9,
+      "page_label": "BF-9",
+      "fig_id": "Fig. BF-13",
+      "code": "BF498A",
+      "caption": "Fig. BF-13 Removing shock absorber",
+      "diagram_type": "procedure_step",
+      "description": "Loosening three bolts securing front bumper shock absorber to front side frame member.",
+      "components": [
+        "Front bumper shock absorber",
+        "Frame rail",
+        "Attaching bolts"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove horn before unbolting shock absorber.",
+      "tags": [
+        "front shock absorber",
+        "removal"
+      ],
+      "dimensions": [
+        341,
+        296
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_14_removing_rear_bumper",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_14_removing_rear_bumper.png",
+      "rel_link": "diagrams/BF Body/fig_bf_14_removing_rear_bumper.png",
+      "page_num": 9,
+      "page_label": "BF-9",
+      "fig_id": "Fig. BF-14",
+      "code": "BF984A",
+      "caption": "Fig. BF-14 Removing rear bumper",
+      "diagram_type": "procedure_step",
+      "description": "Removing rear bumper assembly from rear shock absorber brackets.",
+      "components": [
+        "Rear bumper",
+        "Shock absorber brackets",
+        "Attaching nuts"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove side bumper plugs and bolts before removing bumper to shock absorber nuts.",
+      "tags": [
+        "rear bumper removal"
+      ],
+      "dimensions": [
+        341,
+        287
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_15_removing_shock_absorber",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_15_removing_shock_absorber.png",
+      "rel_link": "diagrams/BF Body/fig_bf_15_removing_shock_absorber.png",
+      "page_num": 9,
+      "page_label": "BF-9",
+      "fig_id": "Fig. BF-15",
+      "code": "BF985A / BF986A",
+      "caption": "Fig. BF-15 Removing shock absorber",
+      "diagram_type": "procedure_step",
+      "description": "Removing rear shock absorber bolts and withdrawing unit through opening in car body.",
+      "components": [
+        "Rear shock absorber",
+        "Body opening",
+        "Attaching bolts"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Requires removal of fuel tank and muffler (Section FE).",
+      "tags": [
+        "rear shock absorber removal"
+      ],
+      "dimensions": [
+        354,
+        568
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_16_clearances_between_muffler_and_lh_shock_absorber_heat_shield",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_16_clearances_between_muffler_and_lh_shock_absorber_heat_shield.png",
+      "rel_link": "diagrams/BF Body/fig_bf_16_clearances_between_muffler_and_lh_shock_absorber_heat_shield.png",
+      "page_num": 10,
+      "page_label": "BF-10",
+      "fig_id": "Fig. BF-16",
+      "code": "BF385B",
+      "caption": "Fig. BF-16 Clearances between muffler and L.H. shock absorber heat shield (California models)",
+      "diagram_type": "inspection_measurement",
+      "description": "Clearance diagram for California exhaust system around muffler, shock absorber bracket, spare tire housing, and heat shield plates.",
+      "components": [
+        "Shock absorber bracket",
+        "Muffler",
+        "Spare tire housing",
+        "Heat shield plate"
+      ],
+      "callouts": {
+        "1": "Shock absorber bracket",
+        "2": "Muffler",
+        "3": "Spare tire housing",
+        "4": "Heat shield plate"
+      },
+      "measurements_and_specs": [
+        "Muffler to shock absorber bracket: 24 mm (0.94 in), Min.: 8 mm (0.31 in)",
+        "Muffler to spare tire housing: 21 mm (0.83 in), Min.: 10 mm (0.39 in)",
+        "Unit: mm (in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "California models only: check heat shield clearances carefully to prevent exhaust overheating of rear body components.",
+      "tags": [
+        "exhaust clearance",
+        "heat shield",
+        "muffler",
+        "California models"
+      ],
+      "dimensions": [
+        360,
+        594
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_17_removing_center_grille_upper_bar_attaching_screw",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_17_removing_center_grille_upper_bar_attaching_screw.png",
+      "rel_link": "diagrams/BF Body/fig_bf_17_removing_center_grille_upper_bar_attaching_screw.png",
+      "page_num": 10,
+      "page_label": "BF-10",
+      "fig_id": "Fig. BF-17",
+      "code": "BF499A",
+      "caption": "Fig. BF-17 Removing center grille upper bar attaching screw",
+      "diagram_type": "procedure_step",
+      "description": "Accessing center grille upper bar screw after moving front combination lamp cover inside.",
+      "components": [
+        "Front combination lamp cover",
+        "Center grille upper bar",
+        "Attaching screw"
+      ],
+      "callouts": {
+        "Front combination lamp cover": "Front combination lamp cover"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Loosen two combination lamp cover screws to reach upper grille bar screw.",
+      "tags": [
+        "grille removal",
+        "combination lamp cover"
+      ],
+      "dimensions": [
+        348,
+        287
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_18_removing_center_grille",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_18_removing_center_grille.png",
+      "rel_link": "diagrams/BF Body/fig_bf_18_removing_center_grille.png",
+      "page_num": 10,
+      "page_label": "BF-10",
+      "fig_id": "Fig. BF-18",
+      "code": "BF500A",
+      "caption": "Fig. BF-18 Removing center grille",
+      "diagram_type": "procedure_step",
+      "description": "Locations of four screws securing center radiator grille.",
+      "components": [
+        "Center grille",
+        "Mounting screws"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove four screws securing center grille in place.",
+      "tags": [
+        "center grille removal"
+      ],
+      "dimensions": [
+        341,
+        253
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_19_removing_lower_grille",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_19_removing_lower_grille.png",
+      "rel_link": "diagrams/BF Body/fig_bf_19_removing_lower_grille.png",
+      "page_num": 10,
+      "page_label": "BF-10",
+      "fig_id": "Fig. BF-19",
+      "code": "BF501A",
+      "caption": "Fig. BF-19 Removing lower grille",
+      "diagram_type": "procedure_step",
+      "description": "Locations of three screws securing lower radiator grille.",
+      "components": [
+        "Lower grille",
+        "Mounting screws"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove three screws securing lower grille.",
+      "tags": [
+        "lower grille removal"
+      ],
+      "dimensions": [
+        347,
+        244
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_20_adjusting_hood_attaching_bolts",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_20_adjusting_hood_attaching_bolts.png",
+      "rel_link": "diagrams/BF Body/fig_bf_20_adjusting_hood_attaching_bolts.png",
+      "page_num": 11,
+      "page_label": "BF-11",
+      "fig_id": "Fig. BF-20",
+      "code": "BF356A",
+      "caption": "Fig. BF-20 Adjusting hood attaching bolts",
+      "diagram_type": "procedure_step",
+      "description": "Loosening hood hinge attaching bolts to adjust fore-and-aft position of the hood.",
+      "components": [
+        "Hood hinge",
+        "Hood",
+        "Attaching bolts"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Adjust fore and aft position before setting lock and bumper heights.",
+      "tags": [
+        "hood hinge",
+        "hood adjustment"
+      ],
+      "dimensions": [
+        341,
+        314
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_21_adjusting_hood_bumper_height",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_21_adjusting_hood_bumper_height.png",
+      "rel_link": "diagrams/BF Body/fig_bf_21_adjusting_hood_bumper_height.png",
+      "page_num": 11,
+      "page_label": "BF-11",
+      "fig_id": "Fig. BF-21",
+      "code": "BF357A",
+      "caption": "Fig. BF-21 Adjusting hood bumper height",
+      "diagram_type": "procedure_step",
+      "description": "Adjusting rubber bumper height on cowl ledge to set rear hood height flush with fenders.",
+      "components": [
+        "Hood bumper",
+        "Lock nut",
+        "Cowl ledge"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Lower bumpers during initial alignment so they do not hold hood open prematurely.",
+      "tags": [
+        "hood bumper",
+        "hood height adjustment"
+      ],
+      "dimensions": [
+        347,
+        323
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_22_adjusting_hood_lock_male_part",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_22_adjusting_hood_lock_male_part.png",
+      "rel_link": "diagrams/BF Body/fig_bf_22_adjusting_hood_lock_male_part.png",
+      "page_num": 11,
+      "page_label": "BF-11",
+      "fig_id": "Fig. BF-22",
+      "code": "BF359A",
+      "caption": "Fig. BF-22 Adjusting hood lock male part",
+      "diagram_type": "procedure_step",
+      "description": "Slotted hole adjustment of hood lock male part fore/aft and side-to-side.",
+      "components": [
+        "Hood lock male part",
+        "Attaching bolts",
+        "Dovetail pin"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Attaching bolts torque: 0.38 to 0.51 kg-m (2.7 to 3.7 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Loosen bolts just enough to slide male part into perfect alignment with female receiver.",
+      "tags": [
+        "hood lock male part",
+        "hood latch adjustment"
+      ],
+      "dimensions": [
+        348,
+        323
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_23_safety_catch_lever",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_23_safety_catch_lever.png",
+      "rel_link": "diagrams/BF Body/fig_bf_23_safety_catch_lever.png",
+      "page_num": 11,
+      "page_label": "BF-11",
+      "fig_id": "Fig. BF-23",
+      "code": "BF360A",
+      "caption": "Fig. BF-23 Safety catch lever",
+      "diagram_type": "inspection_measurement",
+      "description": "Safety catch lever engagement clearances with hood lock female part.",
+      "components": [
+        "Safety catch lever",
+        "Hood lock female part"
+      ],
+      "callouts": {
+        "1": "Safety catch lever",
+        "2": "Hood lock female part"
+      },
+      "measurements_and_specs": [
+        "Clearance A: 5.0 mm (0.197 in)",
+        "Clearance B: 8.0 mm (0.315 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Verify safety catch lever reliably retains hood when main lock is disengaged.",
+      "tags": [
+        "safety catch lever",
+        "hood safety latch",
+        "inspection clearance"
+      ],
+      "dimensions": [
+        348,
+        402
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_24_sectional_view_of_hood_lock",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_24_sectional_view_of_hood_lock.png",
+      "rel_link": "diagrams/BF Body/fig_bf_24_sectional_view_of_hood_lock.png",
+      "page_num": 11,
+      "page_label": "BF-11",
+      "fig_id": "Fig. BF-24",
+      "code": "BF358A",
+      "caption": "Fig. BF-24 Sectional view of hood lock",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross section through hood lock male and female components showing dovetail bolt, springs, cushion rubber, and release lever.",
+      "components": [
+        "Hood lock male body",
+        "Lock nut",
+        "Cushion rubber",
+        "Hood lock female",
+        "Dovetail bolt",
+        "Lift spring",
+        "Female lever",
+        "Return spring"
+      ],
+      "callouts": {
+        "1": "Hood lock male body",
+        "2": "Lock nut",
+        "3": "Cushion rubber",
+        "4": "Hood lock female",
+        "5": "Dovetail bolt",
+        "6": "Lift spring",
+        "7": "Female lever",
+        "8": "Return spring"
+      },
+      "measurements_and_specs": [
+        "Lock nut of dovetail bolt torque: 1.5 to 2.6 kg-m (11 to 19 ft-lb)",
+        "Male & female part attaching bolts torque: 0.38 to 0.51 kg-m (2.7 to 3.7 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Dovetail bolt height sets the rear hood pull-down clearance (1 to 3 mm below fender top).",
+      "tags": [
+        "hood lock sectional view",
+        "dovetail bolt",
+        "cutaway"
+      ],
+      "dimensions": [
+        705,
+        533
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_25_lubricating_points",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_25_lubricating_points.png",
+      "rel_link": "diagrams/BF Body/fig_bf_25_lubricating_points.png",
+      "page_num": 12,
+      "page_label": "BF-12",
+      "fig_id": "Fig. BF-25",
+      "code": "BF361A",
+      "caption": "Fig. BF-25 Lubricating points",
+      "diagram_type": "alignment_orientation",
+      "description": "Lubricating points on hood safety catch lever, female lever pivot, and return spring.",
+      "components": [
+        "Hood lock female part",
+        "Safety catch lever",
+        "Return spring",
+        "Pivot"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Lubricate shaded points with multi-purpose grease to ensure smooth engagement and prevent unlatching.",
+      "tags": [
+        "hood lock lubrication",
+        "maintenance"
+      ],
+      "dimensions": [
+        654,
+        323
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_26_removing_hood",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_26_removing_hood.png",
+      "rel_link": "diagrams/BF Body/fig_bf_26_removing_hood.png",
+      "page_num": 12,
+      "page_label": "BF-12",
+      "fig_id": "Fig. BF-26",
+      "code": "BF362A",
+      "caption": "Fig. BF-26 Removing hood",
+      "diagram_type": "procedure_step",
+      "description": "Supporting hood and removing bolts securing hood hinge to hood.",
+      "components": [
+        "Hood",
+        "Hood hinge"
+      ],
+      "callouts": {
+        "1": "Hood",
+        "2": "Hood hinge"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Mark hinge location before removing bolts to aid reinstallation.",
+      "tags": [
+        "hood removal",
+        "hood hinge"
+      ],
+      "dimensions": [
+        353,
+        287
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_27_removing_hood_torsion_bar",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_27_removing_hood_torsion_bar.png",
+      "rel_link": "diagrams/BF Body/fig_bf_27_removing_hood_torsion_bar.png",
+      "page_num": 12,
+      "page_label": "BF-12",
+      "fig_id": "Fig. BF-27",
+      "code": "BF363A",
+      "caption": "Fig. BF-27 Removing hood torsion bar",
+      "diagram_type": "procedure_step",
+      "description": "Disengaging end of hood hinge counterbalance torsion bar using a screwdriver.",
+      "components": [
+        "Torsion bar",
+        "Hood hinge",
+        "Screwdriver"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Support hood securely before releasing torsion bar tension.",
+      "tags": [
+        "hood torsion bar",
+        "removal"
+      ],
+      "dimensions": [
+        354,
+        252
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_28_hood_lock",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_28_hood_lock.png",
+      "rel_link": "diagrams/BF Body/fig_bf_28_hood_lock.png",
+      "page_num": 12,
+      "page_label": "BF-12",
+      "fig_id": "Fig. BF-28",
+      "code": "BF988A",
+      "caption": "Fig. BF-28 Hood lock",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of the complete hood lock mechanism, release wire, knob, bracket, and male/female latches.",
+      "components": [
+        "Hood lock male part",
+        "Guide",
+        "Hood lock bracket",
+        "Hood lock female part",
+        "Clamp",
+        "Hood lock wire",
+        "Grommet",
+        "Hood lock knob",
+        "Hood lock wire bracket"
+      ],
+      "callouts": {
+        "1": "Hood lock male part",
+        "2": "Guide",
+        "3": "Hood lock bracket",
+        "4": "Hood lock female part",
+        "5": "Clamp",
+        "6": "Hood lock wire",
+        "7": "Grommet",
+        "8": "Hood lock knob",
+        "9": "Hood lock wire bracket"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Shows the routing of the hood release cable through cowl grommet to the interior knob.",
+      "tags": [
+        "hood lock",
+        "release cable",
+        "exploded view"
+      ],
+      "dimensions": [
+        705,
+        463
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_29_removing_cowl_top_grille",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_29_removing_cowl_top_grille.png",
+      "rel_link": "diagrams/BF Body/fig_bf_29_removing_cowl_top_grille.png",
+      "page_num": 13,
+      "page_label": "BF-13",
+      "fig_id": "Fig. BF-29",
+      "code": "BF365A",
+      "caption": "Fig. BF-29 Removing cowl top grille",
+      "diagram_type": "procedure_step",
+      "description": "Lifting the front edge of the cowl top grille and pulling forward to disengage from windshield lower edge.",
+      "components": [
+        "Cowl top grille",
+        "Cowl panel"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Wiper arms must be removed prior to pulling cowl grille forward.",
+      "tags": [
+        "cowl top grille",
+        "removal"
+      ],
+      "dimensions": [
+        348,
+        287
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_30_removing_front_fender",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_30_removing_front_fender.png",
+      "rel_link": "diagrams/BF Body/fig_bf_30_removing_front_fender.png",
+      "page_num": 13,
+      "page_label": "BF-13",
+      "fig_id": "Fig. BF-30",
+      "code": "BF989A",
+      "caption": "Fig. BF-30 Removing front fender",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view showing front fender assembly, headlight case, front fender front extension, inspection lid, inner protector, and attaching fastener locations.",
+      "components": [
+        "Front fender front assembly",
+        "Headlight case",
+        "Inspection lid",
+        "Front fender",
+        "Inner fender protector",
+        "Hood"
+      ],
+      "callouts": {
+        "1": "Front fender front assembly",
+        "2": "Headlight case",
+        "3": "Inspection lid",
+        "4": "Front fender",
+        "5": "Inner fender protector",
+        "6": "Hood"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Fasteners: side sill (2), front pillar (1), cowl top (2), hood bumper (2), hood ledge (3).",
+      "tags": [
+        "front fender",
+        "exploded view",
+        "headlight case",
+        "inspection lid"
+      ],
+      "dimensions": [
+        1016,
+        550
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_31_structural_view_of_tail_gate",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_31_structural_view_of_tail_gate.png",
+      "rel_link": "diagrams/BF Body/fig_bf_31_structural_view_of_tail_gate.png",
+      "page_num": 14,
+      "page_label": "BF-14",
+      "fig_id": "Fig. BF-31",
+      "code": "BF367A",
+      "caption": "Fig. BF-31 Structural view of tail gate",
+      "diagram_type": "exploded_view",
+      "description": "Exploded structural view of tail gate assembly, hinges, shims, gas stay, latch lock, key cylinder, down stopper, and striker.",
+      "components": [
+        "Seal cover",
+        "Shim",
+        "Tail gate hinge",
+        "Tail gate lock",
+        "Key cylinder",
+        "Clip",
+        "Bumper rubber",
+        "Dovetail",
+        "Down stopper",
+        "Striker",
+        "Tail gate stay"
+      ],
+      "callouts": {
+        "1": "Seal cover",
+        "2": "Shim",
+        "3": "Tail gate hinge",
+        "4": "Tail gate lock",
+        "5": "Key cylinder",
+        "6": "Clip",
+        "7": "Bumper rubber",
+        "8": "Dovetail",
+        "9": "Down stopper",
+        "10": "Striker",
+        "11": "Tail gate stay"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Hinges are split type. Tail gate stay is gas-pressurized; handle with care.",
+      "tags": [
+        "tail gate",
+        "exploded view",
+        "hatch",
+        "tail gate stay",
+        "latch"
+      ],
+      "dimensions": [
+        1043,
+        858
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_32_adjusting_tail_gate_hinge",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_32_adjusting_tail_gate_hinge.png",
+      "rel_link": "diagrams/BF Body/fig_bf_32_adjusting_tail_gate_hinge.png",
+      "page_num": 15,
+      "page_label": "BF-15",
+      "fig_id": "Fig. BF-32",
+      "code": "BF368A",
+      "caption": "Fig. BF-32 Adjusting tail gate hinge",
+      "diagram_type": "procedure_step",
+      "description": "Adjusting tail gate hinge position and adding or removing shims to set roof-to-tailgate gap.",
+      "components": [
+        "Tail gate hinge",
+        "Shims",
+        "Roof panel",
+        "Tail gate"
+      ],
+      "callouts": {
+        "Shims": "Shims"
+      },
+      "measurements_and_specs": [
+        "Roof-to-tail gate clearance: 3.5 to 5.5 mm (0.138 to 0.217 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Insert shims between hinge and body for fore-and-aft adjustment.",
+      "tags": [
+        "tail gate hinge",
+        "shims",
+        "hinge adjustment"
+      ],
+      "dimensions": [
+        360,
+        305
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_33_adjusting_striker",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_33_adjusting_striker.png",
+      "rel_link": "diagrams/BF Body/fig_bf_33_adjusting_striker.png",
+      "page_num": 15,
+      "page_label": "BF-15",
+      "fig_id": "Fig. BF-33",
+      "code": "BF370A",
+      "caption": "Fig. BF-33 Adjusting striker",
+      "diagram_type": "procedure_step",
+      "description": "Loosening tail gate striker screws and moving striker vertically to flush tailgate with fenders.",
+      "components": [
+        "Striker",
+        "Rear panel",
+        "Attaching screws"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove license lamp first to gain access to striker adjusting screws.",
+      "tags": [
+        "tail gate striker",
+        "striker adjustment"
+      ],
+      "dimensions": [
+        354,
+        287
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_34_adjusting_tail_gate_lock",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_34_adjusting_tail_gate_lock.png",
+      "rel_link": "diagrams/BF Body/fig_bf_34_adjusting_tail_gate_lock.png",
+      "page_num": 15,
+      "page_label": "BF-15",
+      "fig_id": "Fig. BF-34",
+      "code": "BF369A",
+      "caption": "Fig. BF-34 Adjusting tail gate lock",
+      "diagram_type": "procedure_step",
+      "description": "Adjusting tail gate latch lock mechanism alignment to prevent binding on striker.",
+      "components": [
+        "Tail gate lock",
+        "Attaching screws"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Test operation by opening and closing tail gate two or three times before final tightening.",
+      "tags": [
+        "tail gate lock",
+        "latch adjustment"
+      ],
+      "dimensions": [
+        354,
+        226
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_35_adjusting_down_stopper",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_35_adjusting_down_stopper.png",
+      "rel_link": "diagrams/BF Body/fig_bf_35_adjusting_down_stopper.png",
+      "page_num": 15,
+      "page_label": "BF-15",
+      "fig_id": "Fig. BF-35",
+      "code": "BF371A",
+      "caption": "Fig. BF-35 Adjusting down stopper",
+      "diagram_type": "procedure_step",
+      "description": "Forward and rearward slotted adjustment of the tailgate down stopper.",
+      "components": [
+        "Down stopper",
+        "Attaching screws"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Down stopper adjusts in forward/rearward directions only.",
+      "tags": [
+        "down stopper",
+        "tail gate stopper"
+      ],
+      "dimensions": [
+        348,
+        262
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_36_removing_nuts_attaching_rear_combination_lamp_to_body",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_36_removing_nuts_attaching_rear_combination_lamp_to_body.png",
+      "rel_link": "diagrams/BF Body/fig_bf_36_removing_nuts_attaching_rear_combination_lamp_to_body.png",
+      "page_num": 15,
+      "page_label": "BF-15",
+      "fig_id": "Fig. BF-36",
+      "code": "BF372A",
+      "caption": "Fig. BF-36 Removing nuts attaching rear combination lamp to body",
+      "diagram_type": "procedure_step",
+      "description": "Accessing rear combination lamp mounting nuts from inside luggage compartment.",
+      "components": [
+        "Rear combination lamp",
+        "Attaching nuts",
+        "Harness connector"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Rear combination lamp connector"
+      ],
+      "mechanic_notes": "Disconnect wiring connector before removing attaching nuts.",
+      "tags": [
+        "rear combination lamp",
+        "removal",
+        "nuts"
+      ],
+      "dimensions": [
+        335,
+        340
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_37_removing_license_lamp",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_37_removing_license_lamp.png",
+      "rel_link": "diagrams/BF Body/fig_bf_37_removing_license_lamp.png",
+      "page_num": 15,
+      "page_label": "BF-15",
+      "fig_id": "Fig. BF-37",
+      "code": "BF373A",
+      "caption": "Fig. BF-37 Removing license lamp",
+      "diagram_type": "procedure_step",
+      "description": "Removing screws securing license lamp to rear panel.",
+      "components": [
+        "License lamp",
+        "Mounting screws"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Detach lamp assembly after loosening screws.",
+      "tags": [
+        "license lamp",
+        "removal"
+      ],
+      "dimensions": [
+        361,
+        314
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_38_removing_rivets",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_38_removing_rivets.png",
+      "rel_link": "diagrams/BF Body/fig_bf_38_removing_rivets.png",
+      "page_num": 16,
+      "page_label": "BF-16",
+      "fig_id": "Fig. BF-38",
+      "code": "BF990A",
+      "caption": "Fig. BF-38 Removing rivets",
+      "diagram_type": "procedure_step",
+      "description": "Method of pushing out center pin of plastic rivets on rear panel finisher using a small punch and hammer.",
+      "components": [
+        "Plastic rivet",
+        "Punch / skinny bar",
+        "Hammer",
+        "Rear panel finisher"
+      ],
+      "callouts": {
+        "Remove rivet": "Remove rivet"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Push center pin in to release expansion collar of the rivet.",
+      "tags": [
+        "plastic rivets",
+        "rear panel finisher",
+        "removal"
+      ],
+      "dimensions": [
+        603,
+        577
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_39_removing_finisher_and_combination_lamp_assembly",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_39_removing_finisher_and_combination_lamp_assembly.png",
+      "rel_link": "diagrams/BF Body/fig_bf_39_removing_finisher_and_combination_lamp_assembly.png",
+      "page_num": 16,
+      "page_label": "BF-16",
+      "fig_id": "Fig. BF-39",
+      "code": "BF375A",
+      "caption": "Fig. BF-39 Removing finisher and combination lamp assembly",
+      "diagram_type": "procedure_step",
+      "description": "Detaching rear finisher and combination lamp unit together from rear panel.",
+      "components": [
+        "Rear panel finisher",
+        "Rear combination lamp",
+        "Rear body panel"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove as a complete assembly before separating lamps and trim rim.",
+      "tags": [
+        "rear finisher removal",
+        "combination lamp"
+      ],
+      "dimensions": [
+        354,
+        323
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_40_adjusting_door_hinge",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_40_adjusting_door_hinge.png",
+      "rel_link": "diagrams/BF Body/fig_bf_40_adjusting_door_hinge.png",
+      "page_num": 16,
+      "page_label": "BF-16",
+      "fig_id": "Fig. BF-40",
+      "code": "BF653A",
+      "caption": "Fig. BF-40 Adjusting door hinge",
+      "diagram_type": "procedure_step",
+      "description": "Door hinge adjustment directions and allowable adjustment limits.",
+      "components": [
+        "Door hinge",
+        "Door assembly",
+        "A-pillar"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Adjustment limit: Upper, lower, forward and rearward: 3 mm (0.12 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Holes in body pillar are enlarged for adjustment; hinge-to-door bolts are non-adjustable.",
+      "tags": [
+        "door hinge",
+        "door alignment",
+        "adjustment"
+      ],
+      "dimensions": [
+        361,
+        332
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_41_adjusting_door_lock_striker",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_41_adjusting_door_lock_striker.png",
+      "rel_link": "diagrams/BF Body/fig_bf_41_adjusting_door_lock_striker.png",
+      "page_num": 16,
+      "page_label": "BF-16",
+      "fig_id": "Fig. BF-41",
+      "code": "BF991A",
+      "caption": "Fig. BF-41 Adjusting door lock striker",
+      "diagram_type": "procedure_step",
+      "description": "Adjusting door lock striker vertically and horizontally on B-pillar.",
+      "components": [
+        "Door lock striker",
+        "Screws",
+        "B-pillar"
+      ],
+      "callouts": {
+        "Screws": "Screws"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Adjust striker only after door hinge alignment has been finalized.",
+      "tags": [
+        "door striker",
+        "striker adjustment"
+      ],
+      "dimensions": [
+        347,
+        376
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_42_adjusting_door_hinge",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_42_adjusting_door_hinge.png",
+      "rel_link": "diagrams/BF Body/fig_bf_42_adjusting_door_hinge.png",
+      "page_num": 17,
+      "page_label": "BF-17",
+      "fig_id": "Fig. BF-42",
+      "code": "BF992A",
+      "caption": "Fig. BF-42 Adjusting door hinge",
+      "diagram_type": "procedure_step",
+      "description": "Using Door Hinge Wrench ST08720000 to reach and turn door hinge body bolts without removing front fender.",
+      "components": [
+        "Door hinge wrench ST08720000",
+        "Door hinge",
+        "Front pillar"
+      ],
+      "callouts": {
+        "ST08720000": "Special Service Tool Door Hinge Wrench"
+      },
+      "measurements_and_specs": [
+        "Special tool: Door Hinge Wrench ST08720000 (J 25610)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Enables door alignment and removal while front fender remains mounted on car.",
+      "tags": [
+        "door hinge wrench",
+        "ST08720000",
+        "special tool",
+        "door adjustment"
+      ],
+      "dimensions": [
+        354,
+        331
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_43_removing_door_trim",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_43_removing_door_trim.png",
+      "rel_link": "diagrams/BF Body/fig_bf_43_removing_door_trim.png",
+      "page_num": 17,
+      "page_label": "BF-17",
+      "fig_id": "Fig. BF-43",
+      "code": "BF485A",
+      "caption": "Fig. BF-43 Removing door trim",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of door trim hardware including arm rest, escutcheons, regulator handle, and retaining spring clip.",
+      "components": [
+        "Arm rest",
+        "Escutcheon",
+        "Escutcheon cover",
+        "Door regulator handle",
+        "Retaining spring",
+        "Rear inside handle escutcheon (GS30 2 + 2 seater only)"
+      ],
+      "callouts": {
+        "1": "Arm rest",
+        "2": "Escutcheon",
+        "3": "Escutcheon cover",
+        "4": "Door regulator handle",
+        "5": "Retaining spring",
+        "6": "Rear inside handle escutcheon (GS30 2 + 2 seater only)"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Orient window regulator handle forward when door window is fully closed.",
+      "tags": [
+        "door trim",
+        "exploded view",
+        "window crank",
+        "arm rest"
+      ],
+      "dimensions": [
+        354,
+        541
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_44_removing_escutcheon_cover",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_44_removing_escutcheon_cover.png",
+      "rel_link": "diagrams/BF Body/fig_bf_44_removing_escutcheon_cover.png",
+      "page_num": 17,
+      "page_label": "BF-17",
+      "fig_id": "Fig. BF-44",
+      "code": "BF654A",
+      "caption": "Fig. BF-44 Removing escutcheon cover",
+      "diagram_type": "procedure_step",
+      "description": "Prying off inside handle escutcheon screw cover with a screwdriver.",
+      "components": [
+        "Escutcheon cover",
+        "Inside handle escutcheon",
+        "Screwdriver"
+      ],
+      "callouts": {
+        "Escutcheon cover": "Escutcheon cover"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Pry carefully to prevent scarring decorative plastic escutcheon.",
+      "tags": [
+        "escutcheon cover",
+        "door handle trim"
+      ],
+      "dimensions": [
+        354,
+        270
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_45_removing_door_trim",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_45_removing_door_trim.png",
+      "rel_link": "diagrams/BF Body/fig_bf_45_removing_door_trim.png",
+      "page_num": 17,
+      "page_label": "BF-17",
+      "fig_id": "Fig. BF-45",
+      "code": "BF086",
+      "caption": "Fig. BF-45 Removing door trim",
+      "diagram_type": "procedure_step",
+      "description": "Using a flat tool or screwdriver to pop door finisher retaining clips from door inner panel.",
+      "components": [
+        "Door trim panel",
+        "Retaining clips",
+        "Door inner panel",
+        "Screwdriver"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Pry close to clip positions to avoid breaking fiberboard panel backing.",
+      "tags": [
+        "door trim removal",
+        "door panel clips"
+      ],
+      "dimensions": [
+        360,
+        322
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_46_door_window_glass_and_regulator_s30_2_seater",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_46_door_window_glass_and_regulator_s30_2_seater.png",
+      "rel_link": "diagrams/BF Body/fig_bf_46_door_window_glass_and_regulator_s30_2_seater.png",
+      "page_num": 18,
+      "page_label": "BF-18",
+      "fig_id": "Fig. BF-46",
+      "code": "BF993A",
+      "caption": "Fig. BF-46 Door window glass and regulator for S30 (2 seater)",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of door window glass, sash, front and rear guide rails, guide channels A and B, regulator mechanism, and crank handle for S30 2-seater.",
+      "components": [
+        "Door sash",
+        "Door glass",
+        "Rear guide rail",
+        "Guide channel A",
+        "Regulator assembly",
+        "Nylon washer",
+        "Retaining spring",
+        "Regulator handle",
+        "Front guide rail",
+        "Guide channel B"
+      ],
+      "callouts": {
+        "1": "Door sash",
+        "2": "Door glass",
+        "3": "Rear guide rail",
+        "4": "Guide channel A",
+        "5": "Regulator assembly",
+        "6": "Nylon washer",
+        "7": "Retaining spring",
+        "8": "Regulator handle",
+        "9": "Front guide rail",
+        "10": "Guide channel B"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Specific to S30 two-seater door. Note layout of guide channel A and B mounting screws.",
+      "tags": [
+        "door glass",
+        "regulator",
+        "exploded view",
+        "S30",
+        "guide rails"
+      ],
+      "dimensions": [
+        1081,
+        691
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_47_door_window_glass_and_regulator_gs30_2_plus_2_seater",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_47_door_window_glass_and_regulator_gs30_2_plus_2_seater.png",
+      "rel_link": "diagrams/BF Body/fig_bf_47_door_window_glass_and_regulator_gs30_2_plus_2_seater.png",
+      "page_num": 18,
+      "page_label": "BF-18",
+      "fig_id": "Fig. BF-47",
+      "code": "BF994A",
+      "caption": "Fig. BF-47 Door window glass and regulator for GS30 (2 + 2 seater)",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of door window glass, sash, front and rear guide rails, guide channels A and B, regulator mechanism, and crank handle for GS30 2+2 seater.",
+      "components": [
+        "Door sash",
+        "Door glass",
+        "Rear guide rail",
+        "Guide channel A",
+        "Regulator assembly",
+        "Front guide rail",
+        "Nylon washer",
+        "Retaining spring",
+        "Regulator handle",
+        "Guide channel B"
+      ],
+      "callouts": {
+        "1": "Door sash",
+        "2": "Door glass",
+        "3": "Rear guide rail",
+        "4": "Guide channel A",
+        "5": "Regulator assembly",
+        "6": "Front guide rail",
+        "7": "Nylon washer",
+        "8": "Retaining spring",
+        "9": "Regulator handle",
+        "10": "Guide channel B"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Specific to GS30 2+2 seater door. Different door sash and glass length from 2-seater.",
+      "tags": [
+        "door glass",
+        "regulator",
+        "exploded view",
+        "GS30",
+        "2+2 seater"
+      ],
+      "dimensions": [
+        1075,
+        735
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_48_guide_rail_adjusting_mechanism",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_48_guide_rail_adjusting_mechanism.png",
+      "rel_link": "diagrams/BF Body/fig_bf_48_guide_rail_adjusting_mechanism.png",
+      "page_num": 19,
+      "page_label": "BF-19",
+      "fig_id": "Fig. BF-48",
+      "code": "BF995A",
+      "caption": "Fig. BF-48 Guide rail adjusting mechanism",
+      "diagram_type": "procedure_step",
+      "description": "Adjusting bolts and slotted holes on inner door frame for front and rear window guide rails.",
+      "components": [
+        "Front guide rail",
+        "Rear guide rail",
+        "Lower adjusting bolt",
+        "Lock nut"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Lower bolt: tighten fully then back off 4 turns and lock"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Initial setting for lower adjusting bolt: tighten all the way, then return 4 turns and lock.",
+      "tags": [
+        "guide rail adjustment",
+        "door window"
+      ],
+      "dimensions": [
+        660,
+        516
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_49_proper_clearance_between_outside_door_panel_and_glass",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_49_proper_clearance_between_outside_door_panel_and_glass.png",
+      "rel_link": "diagrams/BF Body/fig_bf_49_proper_clearance_between_outside_door_panel_and_glass.png",
+      "page_num": 19,
+      "page_label": "BF-19",
+      "fig_id": "Fig. BF-49",
+      "code": "BF996A",
+      "caption": "Fig. BF-49 Proper clearance between outside door panel and glass",
+      "diagram_type": "inspection_measurement",
+      "description": "Cross section through door window opening showing clearance between glass outer surface and outer door panel skin.",
+      "components": [
+        "Outside door panel",
+        "Glass",
+        "Inside door panel"
+      ],
+      "callouts": {
+        "1": "Outside door panel",
+        "2": "Glass",
+        "3": "Inside door panel"
+      },
+      "measurements_and_specs": [
+        "Clearance: 22 to 24 mm (0.87 to 0.94 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Adjust guide rail upper adjusting bolts to establish 22 to 24 mm clearance.",
+      "tags": [
+        "door glass clearance",
+        "window adjustment"
+      ],
+      "dimensions": [
+        354,
+        297
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_50_adjusting_front_and_rear_guide_rails",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_50_adjusting_front_and_rear_guide_rails.png",
+      "rel_link": "diagrams/BF Body/fig_bf_50_adjusting_front_and_rear_guide_rails.png",
+      "page_num": 19,
+      "page_label": "BF-19",
+      "fig_id": "Fig. BF-50",
+      "code": "BF997A",
+      "caption": "Fig. BF-50 Adjusting front and rear guide rails",
+      "diagram_type": "procedure_step",
+      "description": "Fore and aft adjustment arrows for front and rear guide rails to eliminate sideways glass free play.",
+      "components": [
+        "Front guide rail",
+        "Rear guide rail",
+        "Adjustment bolts"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Move rails fore and aft to eliminate unwanted sideways glass play.",
+      "tags": [
+        "guide rails",
+        "glass free play"
+      ],
+      "dimensions": [
+        348,
+        323
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_51_adjusting_guide_channel_a",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_51_adjusting_guide_channel_a.png",
+      "rel_link": "diagrams/BF Body/fig_bf_51_adjusting_guide_channel_a.png",
+      "page_num": 19,
+      "page_label": "BF-19",
+      "fig_id": "Fig. BF-51",
+      "code": "BF479",
+      "caption": "Fig. BF-51 Adjusting guide channel A",
+      "diagram_type": "alignment_orientation",
+      "description": "Diagram showing glass tilt conditions (A - front tilted down, B - rear tilted down) and how adjusting guide channel A corrects parallel alignment with top rail.",
+      "components": [
+        "Door sash",
+        "Door glass"
+      ],
+      "callouts": {
+        "1": "Door sash",
+        "2": "Door glass"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Move guide channel A up for condition (A); move down for condition (B).",
+      "tags": [
+        "guide channel A",
+        "glass parallel adjustment",
+        "door sash"
+      ],
+      "dimensions": [
+        361,
+        323
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_52_removing_door_trim",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_52_removing_door_trim.png",
+      "rel_link": "diagrams/BF Body/fig_bf_52_removing_door_trim.png",
+      "page_num": 19,
+      "page_label": "BF-19",
+      "fig_id": "Fig. BF-52",
+      "code": "BF998A",
+      "caption": "Fig. BF-52 Removing door trim",
+      "diagram_type": "procedure_step",
+      "description": "Door inner frame after removal of door trim and water screen showing access cutouts.",
+      "components": [
+        "Door inner panel",
+        "Access holes",
+        "Water seal screen"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove water seal screen carefully to access regulator and guide channel fasteners.",
+      "tags": [
+        "door trim removal",
+        "inner door access"
+      ],
+      "dimensions": [
+        335,
+        314
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_53_removing_screws_attaching_glass_back_plate_to_guide_channel_b",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_53_removing_screws_attaching_glass_back_plate_to_guide_channel_b.png",
+      "rel_link": "diagrams/BF Body/fig_bf_53_removing_screws_attaching_glass_back_plate_to_guide_channel_b.png",
+      "page_num": 20,
+      "page_label": "BF-20",
+      "fig_id": "Fig. BF-53",
+      "code": "BF999A",
+      "caption": "Fig. BF-53 Removing screws attaching glass back plate to guide channel B",
+      "diagram_type": "procedure_step",
+      "description": "Accessing screws connecting the door glass bottom bracket to regulator guide channel B.",
+      "components": [
+        "Glass back plate",
+        "Guide channel B",
+        "Screws"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Support glass securely from dropping when screws are removed.",
+      "tags": [
+        "glass back plate",
+        "guide channel B",
+        "glass removal"
+      ],
+      "dimensions": [
+        354,
+        279
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_54_removing_guide_rail",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_54_removing_guide_rail.png",
+      "rel_link": "diagrams/BF Body/fig_bf_54_removing_guide_rail.png",
+      "page_num": 20,
+      "page_label": "BF-20",
+      "fig_id": "Fig. BF-54",
+      "code": "BF1000A",
+      "caption": "Fig. BF-54 Removing guide rail",
+      "diagram_type": "procedure_step",
+      "description": "Removing front and rear vertical guide rails through inner door panel access openings.",
+      "components": [
+        "Front guide rail",
+        "Rear guide rail",
+        "Door inner panel"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove guide rails after lifting glass upwards and out.",
+      "tags": [
+        "guide rail removal"
+      ],
+      "dimensions": [
+        335,
+        262
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_55_removing_regulator_assembly",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_55_removing_regulator_assembly.png",
+      "rel_link": "diagrams/BF Body/fig_bf_55_removing_regulator_assembly.png",
+      "page_num": 20,
+      "page_label": "BF-20",
+      "fig_id": "Fig. BF-55",
+      "code": "BF001B",
+      "caption": "Fig. BF-55 Removing regulator assembly",
+      "diagram_type": "procedure_step",
+      "description": "Withdrawing the regulator mechanism assembly through the lower inner door panel opening.",
+      "components": [
+        "Regulator assembly",
+        "Guide channel A",
+        "Lower opening"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Collapse arms to maneuver mechanism through the lower stamped cutout.",
+      "tags": [
+        "regulator removal",
+        "window regulator"
+      ],
+      "dimensions": [
+        341,
+        288
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_56_door_lock_mechanism_for_s30_2_seater",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_56_door_lock_mechanism_for_s30_2_seater.png",
+      "rel_link": "diagrams/BF Body/fig_bf_56_door_lock_mechanism_for_s30_2_seater.png",
+      "page_num": 20,
+      "page_label": "BF-20",
+      "fig_id": "Fig. BF-56",
+      "code": "BF002B",
+      "caption": "Fig. BF-56 Door lock mechanism for S30 (2 seater)",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of the door lock mechanism, rods, interior handle, and lock knob for S30 2-seater.",
+      "components": [
+        "Door lock",
+        "Connecting rod",
+        "Remote control rod",
+        "Door remote control handle",
+        "Knob rod",
+        "Lock knob"
+      ],
+      "callouts": {
+        "1": "Door lock",
+        "2": "Connecting rod",
+        "3": "Remote control rod",
+        "4": "Door remote control handle",
+        "5": "Knob rod",
+        "6": "Lock knob"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Single inner handle configuration for two-seater models.",
+      "tags": [
+        "door lock mechanism",
+        "S30",
+        "exploded view",
+        "door latch"
+      ],
+      "dimensions": [
+        692,
+        542
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_57_door_lock_mechanism_for_gs30_2_plus_2_seater",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_57_door_lock_mechanism_for_gs30_2_plus_2_seater.png",
+      "rel_link": "diagrams/BF Body/fig_bf_57_door_lock_mechanism_for_gs30_2_plus_2_seater.png",
+      "page_num": 20,
+      "page_label": "BF-20",
+      "fig_id": "Fig. BF-57",
+      "code": "BF003B",
+      "caption": "Fig. BF-57 Door lock mechanism for GS30 (2 + 2 seater)",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of door lock linkage for GS30 2+2 seater showing front remote handle, rear inside handle, rods, and lock mechanism.",
+      "components": [
+        "Outside door handle",
+        "Key cylinder",
+        "Outside door handle rod",
+        "Door lock",
+        "Connecting rod",
+        "Remote control rod",
+        "Door remote control handle",
+        "Rod",
+        "Rear inside handle",
+        "Knob rod",
+        "Lock knob",
+        "Rear inside handle bracket",
+        "Rod"
+      ],
+      "callouts": {
+        "1": "Outside door handle",
+        "2": "Key cylinder",
+        "3": "Outside door handle rod",
+        "4": "Door lock",
+        "5": "Connecting rod",
+        "6": "Remote control rod",
+        "7": "Door remote control handle",
+        "8": "Rod",
+        "9": "Rear inside handle",
+        "10": "Knob rod",
+        "11": "Lock knob",
+        "12": "Rear inside handle bracket",
+        "13": "Rod"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "GS30 2+2 model includes an auxiliary rear inside door release handle and linkage.",
+      "tags": [
+        "door lock mechanism",
+        "GS30",
+        "2+2 seater",
+        "rear inside handle"
+      ],
+      "dimensions": [
+        679,
+        744
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_58_adjusting_outside_door_handle_free_play",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_58_adjusting_outside_door_handle_free_play.png",
+      "rel_link": "diagrams/BF Body/fig_bf_58_adjusting_outside_door_handle_free_play.png",
+      "page_num": 21,
+      "page_label": "BF-21",
+      "fig_id": "Fig. BF-58",
+      "code": "BF004B",
+      "caption": "Fig. BF-58 Adjusting outside door handle free play",
+      "diagram_type": "alignment_orientation",
+      "description": "Adjusting nylon nut on outside handle pushrod to establish 0 to 1.0 mm clearance with lock lever.",
+      "components": [
+        "Outside door handle",
+        "Remote control rod",
+        "Adjusting nut (Nylon)",
+        "Door lock lever",
+        "Clip"
+      ],
+      "callouts": {
+        "1": "Outside door handle",
+        "2": "Remote control rod",
+        "3": "Adjusting nut (Nylon)",
+        "4": "Door lock lever",
+        "5": "Clip"
+      },
+      "measurements_and_specs": [
+        "Clearance: 0 to 1.0 mm (0 to 0.039 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Turn nylon adjusting nut to set zero-to-minimal clearance without pre-loading latch.",
+      "tags": [
+        "outside door handle",
+        "nylon adjusting nut",
+        "free play"
+      ],
+      "dimensions": [
+        654,
+        515
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_59_adjusting_inside_door_handle",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_59_adjusting_inside_door_handle.png",
+      "rel_link": "diagrams/BF Body/fig_bf_59_adjusting_inside_door_handle.png",
+      "page_num": 21,
+      "page_label": "BF-21",
+      "fig_id": "Fig. BF-59",
+      "code": "BF005B",
+      "caption": "Fig. BF-59 Adjusting inside door handle",
+      "diagram_type": "procedure_step",
+      "description": "Adjusting inside door handle in elongated mounting slots with lock knob engaged.",
+      "components": [
+        "Inside door lock knob",
+        "Bell-crank",
+        "Door inside handle"
+      ],
+      "callouts": {
+        "1": "Inside door lock knob",
+        "2": "Bell-crank",
+        "3": "Door inside handle"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Move handle rearward in slotted holes until it stops, then tighten screws.",
+      "tags": [
+        "inside door handle",
+        "adjustment",
+        "bell crank"
+      ],
+      "dimensions": [
+        347,
+        349
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_60_removing_outside_door_handle",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_60_removing_outside_door_handle.png",
+      "rel_link": "diagrams/BF Body/fig_bf_60_removing_outside_door_handle.png",
+      "page_num": 21,
+      "page_label": "BF-21",
+      "fig_id": "Fig. BF-60",
+      "code": "BF006B",
+      "caption": "Fig. BF-60 Removing outside door handle",
+      "diagram_type": "procedure_step",
+      "description": "Loosening outside door handle attaching nuts from inner door cavity.",
+      "components": [
+        "Outside door handle",
+        "Attaching nuts",
+        "Door outer skin"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove handle together with vertical connecting rod.",
+      "tags": [
+        "outside door handle",
+        "removal"
+      ],
+      "dimensions": [
+        322,
+        323
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_61_removing_door_lock_assembly",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_61_removing_door_lock_assembly.png",
+      "rel_link": "diagrams/BF Body/fig_bf_61_removing_door_lock_assembly.png",
+      "page_num": 21,
+      "page_label": "BF-21",
+      "fig_id": "Fig. BF-61",
+      "code": "BF466",
+      "caption": "Fig. BF-61 Removing door lock assembly",
+      "diagram_type": "procedure_step",
+      "description": "Removing latch mechanism screws from door shut-face and withdrawing latch from inside door.",
+      "components": [
+        "Door lock assembly",
+        "Shut-face screws",
+        "Inner door opening"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Withdraw lock assembly through access hole in inner door panel.",
+      "tags": [
+        "door lock assembly",
+        "removal"
+      ],
+      "dimensions": [
+        342,
+        358
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_62_removing_door_lock_striker",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_62_removing_door_lock_striker.png",
+      "rel_link": "diagrams/BF Body/fig_bf_62_removing_door_lock_striker.png",
+      "page_num": 21,
+      "page_label": "BF-21",
+      "fig_id": "Fig. BF-62",
+      "code": "BF991A",
+      "caption": "Fig. BF-62 Removing door lock striker",
+      "diagram_type": "procedure_step",
+      "description": "Loosening screws securing striker plate to body pillar.",
+      "components": [
+        "Door lock striker",
+        "Screws",
+        "B-pillar"
+      ],
+      "callouts": {
+        "Screws": "Screws"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Use impact screwdriver if striker screws are excessively tight.",
+      "tags": [
+        "door striker removal"
+      ],
+      "dimensions": [
+        322,
+        323
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_63_body_side_and_door_weatherstrips",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_63_body_side_and_door_weatherstrips.png",
+      "rel_link": "diagrams/BF Body/fig_bf_63_body_side_and_door_weatherstrips.png",
+      "page_num": 22,
+      "page_label": "BF-22",
+      "fig_id": "Fig. BF-63",
+      "code": "BF007B / BF008B / BF009B",
+      "caption": "Fig. BF-63 Body side and door weatherstrips",
+      "diagram_type": "cutaway_flow",
+      "description": "Door opening perimeter view and cross-sectional profiles of body side and door sash weatherstrips for 2-seater and 2+2 seater.",
+      "components": [
+        "Body side weatherstrip",
+        "Door weatherstrip",
+        "Body flange",
+        "Door sash"
+      ],
+      "callouts": {
+        "Section: A-A": "Body side weatherstrip cross section on pillar flange",
+        "Section: B-B (2 seater)": "Door sash upper weatherstrip profile for 2-seater",
+        "Section: B-B, C-C (2 + 2 seater)": "Door sash upper weatherstrip profile for 2+2 seater"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Profiles differ between 2-seater and 2+2 models at section B-B/C-C.",
+      "tags": [
+        "weatherstrips",
+        "door sash seal",
+        "cross sections",
+        "body side seal"
+      ],
+      "dimensions": [
+        1081,
+        717
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_64_removing_body_side_weatherstrip",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_64_removing_body_side_weatherstrip.png",
+      "rel_link": "diagrams/BF Body/fig_bf_64_removing_body_side_weatherstrip.png",
+      "page_num": 22,
+      "page_label": "BF-22",
+      "fig_id": "Fig. BF-64",
+      "code": "BF010B",
+      "caption": "Fig. BF-64 Removing body side weatherstrip",
+      "diagram_type": "procedure_step",
+      "description": "Removing scuff plate and pulling body side weatherstrip off the door aperture pinchweld.",
+      "components": [
+        "Body side weatherstrip",
+        "Scuff plate",
+        "Kicking plate"
+      ],
+      "callouts": {
+        "1": "Body side weatherstrip",
+        "2": "Scuff plate",
+        "3": "Kicking plate"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Loosen scuff plate screws before pulling weatherstrip.",
+      "tags": [
+        "body side weatherstrip",
+        "scuff plate",
+        "removal"
+      ],
+      "dimensions": [
+        354,
+        323
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_65_prying_off_rivets",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_65_prying_off_rivets.png",
+      "rel_link": "diagrams/BF Body/fig_bf_65_prying_off_rivets.png",
+      "page_num": 22,
+      "page_label": "BF-22",
+      "fig_id": "Fig. BF-65",
+      "code": "BF011B",
+      "caption": "Fig. BF-65 Prying off rivets",
+      "diagram_type": "procedure_step",
+      "description": "Prying off plastic rivets retaining door weatherstrip to door sash groove using a screwdriver.",
+      "components": [
+        "Rivets",
+        "Door sash",
+        "Screwdriver",
+        "Weatherstrip"
+      ],
+      "callouts": {
+        "Rivets": "Weatherstrip retaining rivets",
+        "Door sash": "Door window frame sash"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Pry carefully to release rivets without tearing weatherstrip rubber channel.",
+      "tags": [
+        "door weatherstrip",
+        "rivets",
+        "removal"
+      ],
+      "dimensions": [
+        347,
+        279
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_66_front_windshield_glass",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_66_front_windshield_glass.png",
+      "rel_link": "diagrams/BF Body/fig_bf_66_front_windshield_glass.png",
+      "page_num": 23,
+      "page_label": "BF-23",
+      "fig_id": "Fig. BF-66",
+      "code": "BF012B",
+      "caption": "Fig. BF-66 Front windshield glass",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of front windshield glass, perimeter weatherstrip, stainless moldings, and cross section A-A showing adhesive application points.",
+      "components": [
+        "Windshield molding",
+        "Weatherstrip",
+        "Windshield glass",
+        "Body flange"
+      ],
+      "callouts": {
+        "1": "Windshield molding",
+        "2": "Weatherstrip",
+        "3": "Windshield glass"
+      },
+      "measurements_and_specs": [
+        "Apply adhesive to body flange lip and weatherstrip mating groove as shown in section A-A"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Apply adhesive to specific sealing contact points on weatherstrip before mounting glass.",
+      "tags": [
+        "windshield glass",
+        "weatherstrip",
+        "adhesive application",
+        "cross section"
+      ],
+      "dimensions": [
+        960,
+        507
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_67_removing_front_windshield_glass",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_67_removing_front_windshield_glass.png",
+      "rel_link": "diagrams/BF Body/fig_bf_67_removing_front_windshield_glass.png",
+      "page_num": 23,
+      "page_label": "BF-23",
+      "fig_id": "Fig. BF-67",
+      "code": "BF390A",
+      "caption": "Fig. BF-67 Removing front windshield glass",
+      "diagram_type": "procedure_step",
+      "description": "Separating windshield glass adhesive bead using a spatula worked around flange from outside.",
+      "components": [
+        "Windshield glass",
+        "Spatula",
+        "Weatherstrip",
+        "Pillar flange"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Always start removal from upper side portion to prevent sudden drop.",
+      "tags": [
+        "windshield removal",
+        "spatula"
+      ],
+      "dimensions": [
+        354,
+        305
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_68_tools_for_installation_of_windshield_glass",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_68_tools_for_installation_of_windshield_glass.png",
+      "rel_link": "diagrams/BF Body/fig_bf_68_tools_for_installation_of_windshield_glass.png",
+      "page_num": 23,
+      "page_label": "BF-23",
+      "fig_id": "Fig. BF-68",
+      "code": "BF391A",
+      "caption": "Fig. BF-68 Tools for installation of windshield glass",
+      "diagram_type": "procedure_step",
+      "description": "Required hand tools for installing windshield glass: capillary tube, spatula, and draw string.",
+      "components": [
+        "Capillary tube",
+        "Spatula",
+        "String"
+      ],
+      "callouts": {
+        "1": "Capillary tube",
+        "2": "Spatula",
+        "3": "String"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Capillary tube used for injecting adhesive into rubber channel; strong nylon string used to pull rubber lip over pinchweld.",
+      "tags": [
+        "windshield tools",
+        "spatula",
+        "capillary tube",
+        "string installation"
+      ],
+      "dimensions": [
+        322,
+        331
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_69_structural_view_of_side_window_for_s30_2_seater",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_69_structural_view_of_side_window_for_s30_2_seater.png",
+      "rel_link": "diagrams/BF Body/fig_bf_69_structural_view_of_side_window_for_s30_2_seater.png",
+      "page_num": 24,
+      "page_label": "BF-24",
+      "fig_id": "Fig. BF-69",
+      "code": "BF014B",
+      "caption": "Fig. BF-69 Structural view of side window for S30 (2 seater)",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of fixed quarter side window, frame sash, weatherstrips, joint covers, and rubber seals for S30 2-seater.",
+      "components": [
+        "Glass",
+        "Weatherstrip",
+        "Upper weatherstrip",
+        "Joint cover",
+        "Outer weatherstrip",
+        "Sealing rubber",
+        "Side window sash"
+      ],
+      "callouts": {
+        "1": "Glass",
+        "2": "Weatherstrip",
+        "3": "Upper weatherstrip",
+        "4": "Joint cover",
+        "5": "Outer weatherstrip",
+        "6": "Sealing rubber",
+        "7": "Side window sash"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Fixed quarter glass installation on S30 2-seater.",
+      "tags": [
+        "side window",
+        "quarter glass",
+        "S30",
+        "exploded view"
+      ],
+      "dimensions": [
+        692,
+        542
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_70_structural_view_of_side_window_for_gs30_2_plus_2_seater",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_70_structural_view_of_side_window_for_gs30_2_plus_2_seater.png",
+      "rel_link": "diagrams/BF Body/fig_bf_70_structural_view_of_side_window_for_gs30_2_plus_2_seater.png",
+      "page_num": 24,
+      "page_label": "BF-24",
+      "fig_id": "Fig. BF-70",
+      "code": "BF386B",
+      "caption": "Fig. BF-70 Structural view of side window for GS30 (2 + 2 seater)",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of hinged/opening rear side window glass, center pillar, upper bracket, sash, latch handle, rubber washer, and finisher nut for GS30 2+2 seater.",
+      "components": [
+        "Side window glass",
+        "Side window weatherstrip",
+        "Center pillar",
+        "Side window upper bracket",
+        "Side window sash",
+        "Side window handle",
+        "Rubber washer",
+        "Finisher nut"
+      ],
+      "callouts": {
+        "1": "Side window glass",
+        "2": "Side window weatherstrip",
+        "3": "Center pillar",
+        "4": "Side window upper bracket",
+        "5": "Side window sash",
+        "6": "Side window handle",
+        "7": "Rubber washer",
+        "8": "Finisher nut"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Hinged vent window design specific to GS30 2+2 models, utilizing pivot brackets and toggle latch handle.",
+      "tags": [
+        "side window",
+        "vent window",
+        "GS30",
+        "2+2 seater",
+        "exploded view"
+      ],
+      "dimensions": [
+        788,
+        621
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_71_structural_view_of_tail_gate_glass",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_71_structural_view_of_tail_gate_glass.png",
+      "rel_link": "diagrams/BF Body/fig_bf_71_structural_view_of_tail_gate_glass.png",
+      "page_num": 25,
+      "page_label": "BF-25",
+      "fig_id": "Fig. BF-71",
+      "code": "BF015B",
+      "caption": "Fig. BF-71 Structural view of tail gate glass",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of tail gate glass, surrounding rubber weatherstrip, and stainless trim moldings with cross section A-A.",
+      "components": [
+        "Tail gate molding",
+        "Weatherstrip",
+        "Tail gate glass",
+        "Tail gate frame"
+      ],
+      "callouts": {
+        "1": "Tail gate molding",
+        "2": "Weatherstrip",
+        "3": "Tail gate glass"
+      },
+      "measurements_and_specs": [
+        "Use sealing agent rather than adhesive during installation"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Use non-hardening sealing agent instead of adhesive for tailgate glass.",
+      "tags": [
+        "tail gate glass",
+        "hatch glass",
+        "weatherstrip",
+        "molding"
+      ],
+      "dimensions": [
+        1068,
+        533
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_72_structural_view_of_front_and_rear_seats",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_72_structural_view_of_front_and_rear_seats.png",
+      "rel_link": "diagrams/BF Body/fig_bf_72_structural_view_of_front_and_rear_seats.png",
+      "page_num": 25,
+      "page_label": "BF-25",
+      "fig_id": "Fig. BF-72",
+      "code": "BF016B",
+      "caption": "Fig. BF-72 Structural view of front and rear seats",
+      "diagram_type": "exploded_view",
+      "description": "Exploded structural view of front reclining bucket seats, slide rails, and GS30 2+2 folding rear seat assembly.",
+      "components": [
+        "Front seat",
+        "Rear seat cushion",
+        "Rear seatback",
+        "Seat slide rail",
+        "Reclining device",
+        "Seatback lock",
+        "Seatback hinge",
+        "Seatback striker"
+      ],
+      "callouts": {
+        "1": "Front seat",
+        "2": "Rear seat cushion",
+        "3": "Rear seatback",
+        "4": "Seat slide rail",
+        "5": "Reclining device",
+        "6": "Seatback lock",
+        "7": "Seatback hinge",
+        "8": "Seatback striker"
+      },
+      "measurements_and_specs": [
+        "Reclining tilt: 6\u00b0 forward, 36\u00b0 backward, pitch 3\u00b0",
+        "Slide travel: 180 mm (7.09 in), pitch 20 mm (0.79 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Rear seatback folds flush with floor on 2+2 model.",
+      "tags": [
+        "front seat",
+        "rear seat",
+        "slide rail",
+        "reclining mechanism",
+        "exploded view"
+      ],
+      "dimensions": [
+        736,
+        586
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_73_removing_front_attaching_bolts_of_front_seat",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_73_removing_front_attaching_bolts_of_front_seat.png",
+      "rel_link": "diagrams/BF Body/fig_bf_73_removing_front_attaching_bolts_of_front_seat.png",
+      "page_num": 26,
+      "page_label": "BF-26",
+      "fig_id": "Fig. BF-73",
+      "code": "BF488A",
+      "caption": "Fig. BF-73 Removing front attaching bolts of front seat",
+      "diagram_type": "procedure_step",
+      "description": "Removing front mounting bracket bolts securing front seat track to floor pan.",
+      "components": [
+        "Front seat bracket",
+        "Mounting bolts",
+        "Floor pan"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Slide seat rearward to expose front floor bracket bolts.",
+      "tags": [
+        "front seat removal",
+        "seat bracket bolts"
+      ],
+      "dimensions": [
+        347,
+        341
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_74_removing_rear_seat_cushion",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_74_removing_rear_seat_cushion.png",
+      "rel_link": "diagrams/BF Body/fig_bf_74_removing_rear_seat_cushion.png",
+      "page_num": 26,
+      "page_label": "BF-26",
+      "fig_id": "Fig. BF-74",
+      "code": "BF489A",
+      "caption": "Fig. BF-74 Removing rear seat cushion",
+      "diagram_type": "procedure_step",
+      "description": "Removing front securing screws to detach rear seat cushion on GS30 2+2.",
+      "components": [
+        "Rear seat cushion",
+        "Securing screws",
+        "Floor pan"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "GS30 2+2 only: unscrew front retaining screws before lifting cushion.",
+      "tags": [
+        "rear seat cushion",
+        "GS30",
+        "removal"
+      ],
+      "dimensions": [
+        354,
+        322
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_75_removing_rear_seatback",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_75_removing_rear_seatback.png",
+      "rel_link": "diagrams/BF Body/fig_bf_75_removing_rear_seatback.png",
+      "page_num": 26,
+      "page_label": "BF-26",
+      "fig_id": "Fig. BF-75",
+      "code": "BF490A",
+      "caption": "Fig. BF-75 Removing rear seatback",
+      "diagram_type": "procedure_step",
+      "description": "Removing hinge pivot bolts attaching rear seatback to body side structure on GS30 2+2.",
+      "components": [
+        "Rear seatback",
+        "Attaching bolts",
+        "Body bracket"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Fold seatback forward and pull mat away to reach hinge mounting bolts.",
+      "tags": [
+        "rear seatback",
+        "GS30",
+        "seat hinge bolts"
+      ],
+      "dimensions": [
+        347,
+        314
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_76_removing_inner_lap_belt",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_76_removing_inner_lap_belt.png",
+      "rel_link": "diagrams/BF Body/fig_bf_76_removing_inner_lap_belt.png",
+      "page_num": 27,
+      "page_label": "BF-27",
+      "fig_id": "Fig. BF-76",
+      "code": "BF176A",
+      "caption": "Fig. BF-76 Removing inner lap belt",
+      "diagram_type": "procedure_step",
+      "description": "Removing floor anchor bolt securing inner buckle stalk and wire harness.",
+      "components": [
+        "Inner lap belt",
+        "Buckle switch wire",
+        "Anchor bolt",
+        "Floor tunnel"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Buckle switch electrical wire connector"
+      ],
+      "mechanic_notes": "Disconnect buckle switch harness connector before unbolting anchor.",
+      "tags": [
+        "inner lap belt",
+        "buckle switch",
+        "removal"
+      ],
+      "dimensions": [
+        354,
+        296
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_77_removing_strut_cover_clip",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_77_removing_strut_cover_clip.png",
+      "rel_link": "diagrams/BF Body/fig_bf_77_removing_strut_cover_clip.png",
+      "page_num": 27,
+      "page_label": "BF-27",
+      "fig_id": "Fig. BF-77",
+      "code": "BF658A",
+      "caption": "Fig. BF-77 Removing strut cover clip",
+      "diagram_type": "procedure_step",
+      "description": "Removing synthetic resin plastic clip from rear strut tower trim cover.",
+      "components": [
+        "Strut cover",
+        "Resin clip",
+        "Strut tower"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "S30 models: pry center pin to remove clip without breaking cover.",
+      "tags": [
+        "strut cover clip",
+        "trim clip",
+        "removal"
+      ],
+      "dimensions": [
+        354,
+        314
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_78_removing_shoulder_belt_s30_2_seater",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_78_removing_shoulder_belt_s30_2_seater.png",
+      "rel_link": "diagrams/BF Body/fig_bf_78_removing_shoulder_belt_s30_2_seater.png",
+      "page_num": 27,
+      "page_label": "BF-27",
+      "fig_id": "Fig. BF-78",
+      "code": "BF659A",
+      "caption": "Fig. BF-78 Removing shoulder belt (for S30 2 seater models)",
+      "diagram_type": "procedure_step",
+      "description": "Removing shoulder belt guide anchor bolt and escutcheon on rear strut tower for S30 2-seater.",
+      "components": [
+        "Shoulder belt",
+        "Anchor bolt",
+        "Escutcheon",
+        "Strut tower cover"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Keep washers and spacers in proper order for reassembly.",
+      "tags": [
+        "shoulder belt",
+        "S30",
+        "anchor bolt"
+      ],
+      "dimensions": [
+        361,
+        366
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_79_removing_shoulder_belt_gs30_2_plus_2_seater",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_79_removing_shoulder_belt_gs30_2_plus_2_seater.png",
+      "rel_link": "diagrams/BF Body/fig_bf_79_removing_shoulder_belt_gs30_2_plus_2_seater.png",
+      "page_num": 27,
+      "page_label": "BF-27",
+      "fig_id": "Fig. BF-79",
+      "code": "BF660A",
+      "caption": "Fig. BF-79 Removing shoulder belt (for GS30 2 + 2 seater models)",
+      "diagram_type": "procedure_step",
+      "description": "Removing shoulder belt upper anchor bolt and escutcheon on B/C-pillar for GS30 2+2 seater.",
+      "components": [
+        "Shoulder belt",
+        "Anchor bolt",
+        "Escutcheon",
+        "Quarter panel trim"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Requires removal of quarter panel trim and weatherstrip to reach anchor bolt.",
+      "tags": [
+        "shoulder belt",
+        "GS30",
+        "2+2 seater",
+        "anchor bolt"
+      ],
+      "dimensions": [
+        348,
+        331
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_80_removing_shoulder_and_outer_lap_belts",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_80_removing_shoulder_and_outer_lap_belts.png",
+      "rel_link": "diagrams/BF Body/fig_bf_80_removing_shoulder_and_outer_lap_belts.png",
+      "page_num": 27,
+      "page_label": "BF-27",
+      "fig_id": "Fig. BF-80",
+      "code": "BF398A",
+      "caption": "Fig. BF-80 Removing shoulder and outer lap belts",
+      "diagram_type": "procedure_step",
+      "description": "Removing ELR retractor cover and two floor anchor bolts securing outer retractor unit.",
+      "components": [
+        "ELR cover",
+        "Outer lap belt retractor",
+        "Anchor bolts",
+        "Sill"
+      ],
+      "callouts": {
+        "ELR cover": "ELR cover"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Shoulder and outer lap belts are an integral retractor unit; replace as a set.",
+      "tags": [
+        "ELR retractor",
+        "outer lap belt",
+        "removal"
+      ],
+      "dimensions": [
+        354,
+        340
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_81_removing_rear_seat_belts",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_81_removing_rear_seat_belts.png",
+      "rel_link": "diagrams/BF Body/fig_bf_81_removing_rear_seat_belts.png",
+      "page_num": 27,
+      "page_label": "BF-27",
+      "fig_id": "Fig. BF-81",
+      "code": "BF503A",
+      "caption": "Fig. BF-81 Removing rear seat belts",
+      "diagram_type": "procedure_step",
+      "description": "Loosening rear floor anchor bolts securing rear seat belts on GS30 2+2.",
+      "components": [
+        "Rear seat belt",
+        "Anchor bolt",
+        "Floor pan"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Rear seats must be removed before unbolting rear seat belt retractors.",
+      "tags": [
+        "rear seat belts",
+        "GS30",
+        "removal"
+      ],
+      "dimensions": [
+        341,
+        288
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_82_body_side_trim_2_plus_2_seater",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_82_body_side_trim_2_plus_2_seater.png",
+      "rel_link": "diagrams/BF Body/fig_bf_82_body_side_trim_2_plus_2_seater.png",
+      "page_num": 28,
+      "page_label": "BF-28",
+      "fig_id": "Fig. BF-82",
+      "code": "BF024B",
+      "caption": "Fig. BF-82 Body side trim (2 + 2 seater)",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of interior body side trim panels for GS30 2+2 seater including quarter panel garnish, rail garnish, reservoir protector, and rear trim.",
+      "components": [
+        "Quarter panel garnish",
+        "Tail rail garnish",
+        "Reservoir tank protector",
+        "Body side rear trim"
+      ],
+      "callouts": {
+        "1": "Quarter panel garnish",
+        "2": "Tail rail garnish",
+        "3": "Reservoir tank protector",
+        "4": "Body side rear trim"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Use punch/skinny bar to push center pin of expansion fasteners to remove.",
+      "tags": [
+        "body side trim",
+        "quarter panel garnish",
+        "GS30",
+        "interior trim"
+      ],
+      "dimensions": [
+        724,
+        542
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_83_spare_tire_compartment_lid",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_83_spare_tire_compartment_lid.png",
+      "rel_link": "diagrams/BF Body/fig_bf_83_spare_tire_compartment_lid.png",
+      "page_num": 28,
+      "page_label": "BF-28",
+      "fig_id": "Fig. BF-83",
+      "code": "BF018B",
+      "caption": "Fig. BF-83 Spare tire compartment lid",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of rear floor spare tire well lid, hinges, and prop rod/support mechanism.",
+      "components": [
+        "Spare tire compartment lid",
+        "Hinges",
+        "Floor support"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Flush floor mounted spare tire cover.",
+      "tags": [
+        "spare tire compartment lid",
+        "rear floor"
+      ],
+      "dimensions": [
+        347,
+        279
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_84_tail_gate_trim",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_84_tail_gate_trim.png",
+      "rel_link": "diagrams/BF Body/fig_bf_84_tail_gate_trim.png",
+      "page_num": 28,
+      "page_label": "BF-28",
+      "fig_id": "Fig. BF-84",
+      "code": "BF401A",
+      "caption": "Fig. BF-84 Tail gate trim",
+      "diagram_type": "exploded_view",
+      "description": "Layout of retaining clips and screws for the tailgate inner trim finisher panel.",
+      "components": [
+        "Tail gate trim panel",
+        "Fastener clips"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Carefully release perimeter clips to prevent tearing trim panel.",
+      "tags": [
+        "tail gate trim",
+        "hatch trim",
+        "clips"
+      ],
+      "dimensions": [
+        328,
+        226
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_85_floor_console",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_85_floor_console.png",
+      "rel_link": "diagrams/BF Body/fig_bf_85_floor_console.png",
+      "page_num": 29,
+      "page_label": "BF-29",
+      "fig_id": "Fig. BF-85",
+      "code": "BF019B",
+      "caption": "Fig. BF-85 Floor console",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of center floor console, shift boot opening, armrest pocket, mounting screws, and harness connections.",
+      "components": [
+        "Floor console",
+        "Mounting screws",
+        "Shift boot opening",
+        "Wiring harness"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "5 mounting screws"
+      ],
+      "wiring_and_connections": [
+        "Console electrical wiring harnesses"
+      ],
+      "mechanic_notes": "Remove 5 screws and unplug wiring before lifting console over shifter.",
+      "tags": [
+        "floor console",
+        "center console",
+        "exploded view"
+      ],
+      "dimensions": [
+        514,
+        586
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_86_inside_rearview_mirror",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_86_inside_rearview_mirror.png",
+      "rel_link": "diagrams/BF Body/fig_bf_86_inside_rearview_mirror.png",
+      "page_num": 29,
+      "page_label": "BF-29",
+      "fig_id": "Fig. BF-86",
+      "code": "BF403A",
+      "caption": "Fig. BF-86 Inside rearview mirror",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of inside rearview mirror, mounting bracket, base cover, and attaching screws.",
+      "components": [
+        "Inside rearview mirror",
+        "Mounting bracket",
+        "Cover",
+        "Screws"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Pry off base cover to access mounting screws.",
+      "tags": [
+        "rearview mirror",
+        "inside mirror",
+        "exploded view"
+      ],
+      "dimensions": [
+        315,
+        271
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_87_instrument_panel",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_87_instrument_panel.png",
+      "rel_link": "diagrams/BF Body/fig_bf_87_instrument_panel.png",
+      "page_num": 30,
+      "page_label": "BF-30",
+      "fig_id": "Fig. BF-87",
+      "code": "BF020B",
+      "caption": "Fig. BF-87 Instrument panel",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of the dashboard assembly, instrument upper garnish, padded main dashboard shell, lower brackets, and mounting hardware.",
+      "components": [
+        "Instrument garnish",
+        "Instrument panel with pad",
+        "Lower mounting brackets",
+        "Upper cowl brackets"
+      ],
+      "callouts": {
+        "1": "Instrument garnish",
+        "2": "Instrument panel with pad"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Junction block harness",
+        "Combination switch harness",
+        "Ignition switch harness",
+        "Stop lamp switch harness",
+        "Flasher units harness",
+        "Door switch harness"
+      ],
+      "mechanic_notes": "Always disconnect battery cable before beginning dash removal. Speedometer cable must be uncoupled.",
+      "tags": [
+        "instrument panel",
+        "dashboard",
+        "exploded view",
+        "garnish"
+      ],
+      "dimensions": [
+        711,
+        621
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_88_removing_instrument_finisher",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_88_removing_instrument_finisher.png",
+      "rel_link": "diagrams/BF Body/fig_bf_88_removing_instrument_finisher.png",
+      "page_num": 30,
+      "page_label": "BF-30",
+      "fig_id": "Fig. BF-88",
+      "code": "BF405A",
+      "caption": "Fig. BF-88 Removing instrument finisher",
+      "diagram_type": "procedure_step",
+      "description": "Detaching center gauge / heater control instrument finisher from dash structure.",
+      "components": [
+        "Instrument finisher",
+        "Center dash opening",
+        "Air control bezel"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove screws securing finisher before withdrawing center panel.",
+      "tags": [
+        "instrument finisher",
+        "center bezel",
+        "removal"
+      ],
+      "dimensions": [
+        354,
+        341
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_89_instrument_panel_under_cover",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_89_instrument_panel_under_cover.png",
+      "rel_link": "diagrams/BF Body/fig_bf_89_instrument_panel_under_cover.png",
+      "page_num": 30,
+      "page_label": "BF-30",
+      "fig_id": "Fig. BF-89",
+      "code": "BF048B",
+      "caption": "Fig. BF-89 Instrument panel under cover",
+      "diagram_type": "exploded_view",
+      "description": "Lower steering column / pedal area under-dash trim cover and retaining screws.",
+      "components": [
+        "Instrument panel under cover",
+        "Attaching screws"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "2 attaching screws"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove two screws to take down under cover.",
+      "tags": [
+        "under cover",
+        "knee panel",
+        "instrument panel"
+      ],
+      "dimensions": [
+        360,
+        314
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_90_sealing_body_panel_joint",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_90_sealing_body_panel_joint.png",
+      "rel_link": "diagrams/BF Body/fig_bf_90_sealing_body_panel_joint.png",
+      "page_num": 31,
+      "page_label": "BF-31",
+      "fig_id": "Fig. BF-90",
+      "code": "BF021B",
+      "caption": "Fig. BF-90 Sealing body panel joint",
+      "diagram_type": "alignment_orientation",
+      "description": "Overview map and cross sections detailing factory sealer locations on body panel seams and joints (Sections A-A through H-H).",
+      "components": [
+        "Inner sill",
+        "Outer sill",
+        "Body side member",
+        "Rear floor panel",
+        "Rear fender panel",
+        "Roof panel",
+        "Drip",
+        "Gasoline filler case",
+        "Mud guard",
+        "Tail rail main",
+        "Complement band",
+        "Dash floor panel",
+        "Dash side panel",
+        "Front fender baffle",
+        "Front fender panel",
+        "Door",
+        "Cowl top outer panel",
+        "Cowl top inner panel",
+        "Dash lower panel",
+        "Front floor panel",
+        "Wheel housing outer panel",
+        "Rod sealer"
+      ],
+      "callouts": {
+        "Section: A-A": "Inner sill and outer sill joint",
+        "Section: B-B": "Body side member, rear floor panel, and rear fender panel joint",
+        "Section: C-C": "Roof panel and drip rail joint",
+        "\"D\" portion": "Gasoline filler unit (Right side) - lower portion and overall circumference",
+        "Section: E-E": "Rear fender panel, mud guard, tail rail main, and complement band joint",
+        "Section: F-F": "Dash floor panel, dash side panel, front fender baffle, front fender panel, and door joint",
+        "Section: G-G": "Cowl top outer panel, cowl top inner panel, dash lower panel, and front floor panel",
+        "Section: H-H": "Rear fender panel, rod sealer, and wheel housing outer panel"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Reapply appropriate seam sealer and rod sealer to these specific joint profiles during body repair to prevent water leaks and corrosion.",
+      "tags": [
+        "body sealing",
+        "panel joints",
+        "seam sealer",
+        "cross sections",
+        "rust prevention"
+      ],
+      "dimensions": [
+        1043,
+        1269
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_91_sealing_rear_panel_joint",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_91_sealing_rear_panel_joint.png",
+      "rel_link": "diagrams/BF Body/fig_bf_91_sealing_rear_panel_joint.png",
+      "page_num": 32,
+      "page_label": "BF-32",
+      "fig_id": "Fig. BF-91",
+      "code": "BF022B",
+      "caption": "Fig. BF-91 Sealing rear panel joint",
+      "diagram_type": "alignment_orientation",
+      "description": "Detailed seam sealing locations on rear body panel, tail member, spare tire housing, and quarter extension joints (Sections J-J and K-K).",
+      "components": [
+        "Rear fender panel",
+        "Extension rear panel",
+        "Rear panel",
+        "Spare tire housing",
+        "Tail member",
+        "Spot sealer",
+        "Rod sealer"
+      ],
+      "callouts": {
+        "Section: J-J": "Rear fender panel to extension rear panel joint",
+        "Section: K-K": "Rear panel, tail member, spare tire housing, spot sealer, and rod sealer joints"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Apply spot sealer and rod sealer as specified to prevent exhaust gas and moisture ingress into luggage compartment.",
+      "tags": [
+        "rear panel sealing",
+        "spot sealer",
+        "rod sealer",
+        "tail member"
+      ],
+      "dimensions": [
+        1062,
+        533
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "fig_bf_92_sealing_rear_wheel_housing",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/fig_bf_92_sealing_rear_wheel_housing.png",
+      "rel_link": "diagrams/BF Body/fig_bf_92_sealing_rear_wheel_housing.png",
+      "page_num": 32,
+      "page_label": "BF-32",
+      "fig_id": "Fig. BF-92",
+      "code": "BF406A",
+      "caption": "Fig. BF-92 Sealing rear wheel housing",
+      "diagram_type": "alignment_orientation",
+      "description": "Rear wheelhouse sealing points and wiring grommet adhesive sealing (Section L-L).",
+      "components": [
+        "Rear wheel housing",
+        "Wire grommet",
+        "Adhesive"
+      ],
+      "callouts": {
+        "Section: L-L": "Grommet to body sheet metal sealing with adhesive"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Harness grommet through rear wheelhouse/side member"
+      ],
+      "mechanic_notes": "Ensure adhesive seal around rubber grommet L-L to prevent wheel splash from entering body cavity.",
+      "tags": [
+        "wheel housing sealing",
+        "grommet adhesive",
+        "seam sealer"
+      ],
+      "dimensions": [
+        992,
+        507
+      ]
+    },
+    {
+      "section_title": "BODY",
+      "source_md": "1978 280z FSM/BF Body.md",
+      "slug": "tool_st08720000_door_adjusting_wrench",
+      "file": "markdown/1978 280z FSM/diagrams/BF Body/tool_st08720000_door_adjusting_wrench.png",
+      "rel_link": "diagrams/BF Body/tool_st08720000_door_adjusting_wrench.png",
+      "page_num": 32,
+      "page_label": "BF-32",
+      "fig_id": "ST08720000",
+      "code": "",
+      "caption": "Door adjusting wrench ST08720000 (Kent-Moore J 25610)",
+      "diagram_type": "special_service_tool",
+      "description": "Special curved offset box wrench designed to reach door hinge mounting bolts inside the fender gap.",
+      "components": [
+        "Door adjusting wrench ST08720000"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Kent-Moore No. J 25610"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Permits adjusting or removing door hinges without removing front fenders.",
+      "tags": [
+        "special service tool",
+        "door adjusting wrench",
+        "ST08720000",
+        "J 25610"
+      ],
+      "dimensions": [
+        348,
+        174
+      ]
+    }
+  ],
+  "torques": [
+    {
+      "component": "Hood lock male and female part attaching bolts",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.38 to 0.51 (2.7 to 3.7)",
+      "page_label": "BF-11"
+    },
+    {
+      "component": "Hood lock dovetail bolt lock nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.5 to 2.6 (11 to 19)",
+      "page_label": "BF-11"
+    }
+  ],
+  "specs": [
+    {
+      "system": "Body Construction",
+      "item": "GS30 2+2 wheelbase extension over S30 2-seater",
+      "unit": "mm (in)",
+      "standard": "300 (11.81)",
+      "limit": "-",
+      "page_label": "BF-2"
+    },
+    {
+      "system": "Bumper",
+      "item": "Impact absorption speed rating (solid barrier)",
+      "unit": "km/h (MPH)",
+      "standard": "8 (5) or less",
+      "limit": "-",
+      "page_label": "BF-7"
+    },
+    {
+      "system": "Bumper",
+      "item": "Front bumper height above ground (curb weight)",
+      "unit": "mm (in)",
+      "standard": "438 to 477 (17.24 to 18.78)",
+      "limit": "-",
+      "page_label": "BF-8"
+    },
+    {
+      "system": "Bumper",
+      "item": "Rear bumper height above ground (curb weight)",
+      "unit": "mm (in)",
+      "standard": "438 to 477 (17.24 to 18.78)",
+      "limit": "-",
+      "page_label": "BF-8"
+    },
+    {
+      "system": "Bumper",
+      "item": "Length of front bumper shock absorber",
+      "unit": "mm (in)",
+      "standard": "86 to 90 (3.39 to 3.54)",
+      "limit": "-",
+      "page_label": "BF-8"
+    },
+    {
+      "system": "Bumper",
+      "item": "Length of rear bumper shock absorber",
+      "unit": "mm (in)",
+      "standard": "86 to 90 (3.39 to 3.54)",
+      "limit": "-",
+      "page_label": "BF-8"
+    },
+    {
+      "system": "Bumper",
+      "item": "Shock absorber functional test stroke",
+      "unit": "mm (in)",
+      "standard": "Approx. 40 (1.57)",
+      "limit": "-",
+      "page_label": "BF-8"
+    },
+    {
+      "system": "Bumper",
+      "item": "Shock absorber functional test jack capacity",
+      "unit": "kg (lb)",
+      "standard": "More than 400 (881)",
+      "limit": "-",
+      "page_label": "BF-8"
+    },
+    {
+      "system": "Exhaust Clearance (California)",
+      "item": "Clearance between muffler and L.H. shock absorber bracket",
+      "unit": "mm (in)",
+      "standard": "24 (0.94)",
+      "limit": "Min. 8 (0.31)",
+      "page_label": "BF-10"
+    },
+    {
+      "system": "Exhaust Clearance (California)",
+      "item": "Clearance between muffler and spare tire housing heat shield",
+      "unit": "mm (in)",
+      "standard": "21 (0.83)",
+      "limit": "Min. 10 (0.39)",
+      "page_label": "BF-10"
+    },
+    {
+      "system": "Engine Hood",
+      "item": "Hood rear edge height below top of front fender",
+      "unit": "mm (in)",
+      "standard": "1 to 3 (0.04 to 0.12)",
+      "limit": "-",
+      "page_label": "BF-11"
+    },
+    {
+      "system": "Engine Hood",
+      "item": "Safety catch lever clearance A",
+      "unit": "mm (in)",
+      "standard": "5.0 (0.197)",
+      "limit": "-",
+      "page_label": "BF-11"
+    },
+    {
+      "system": "Engine Hood",
+      "item": "Safety catch lever clearance B",
+      "unit": "mm (in)",
+      "standard": "8.0 (0.315)",
+      "limit": "-",
+      "page_label": "BF-11"
+    },
+    {
+      "system": "Tail Gate",
+      "item": "Clearance between tail gate and roof",
+      "unit": "mm (in)",
+      "standard": "3.5 to 5.5 (0.138 to 0.217)",
+      "limit": "-",
+      "page_label": "BF-15"
+    },
+    {
+      "system": "Door",
+      "item": "Door hinge adjustment range (upper, lower, forward, rearward)",
+      "unit": "mm (in)",
+      "standard": "3 (0.12)",
+      "limit": "-",
+      "page_label": "BF-16"
+    },
+    {
+      "system": "Door Window",
+      "item": "Clearance between outside door panel and outside glass face",
+      "unit": "mm (in)",
+      "standard": "22 to 24 (0.87 to 0.94)",
+      "limit": "-",
+      "page_label": "BF-19"
+    },
+    {
+      "system": "Door Window",
+      "item": "Door window regulator handle operating force",
+      "unit": "kg (lb)",
+      "standard": "Less than 3.5 (7.7)",
+      "limit": "-",
+      "page_label": "BF-19"
+    },
+    {
+      "system": "Door Lock",
+      "item": "Outside door lock lever to nylon adjusting nut clearance",
+      "unit": "mm (in)",
+      "standard": "0 to 1.0 (0 to 0.039)",
+      "limit": "-",
+      "page_label": "BF-21"
+    },
+    {
+      "system": "Door Repainting",
+      "item": "Maximum baking temperature with nylon nut installed",
+      "unit": "\u00b0C (\u00b0F)",
+      "standard": "-",
+      "limit": "80 (176)",
+      "page_label": "BF-22"
+    },
+    {
+      "system": "Seat",
+      "item": "Front seat reclining angle forward / backward",
+      "unit": "degrees",
+      "standard": "6 forward, 36 backward (pitch: 3)",
+      "limit": "-",
+      "page_label": "BF-25"
+    },
+    {
+      "system": "Seat",
+      "item": "Front seat slide fore-and-aft travel",
+      "unit": "mm (in)",
+      "standard": "180 (7.09) (pitch: 20 mm / 0.79 in)",
+      "limit": "-",
+      "page_label": "BF-25"
+    },
+    {
+      "system": "Seat Belt",
+      "item": "Buckle switch test circuit power limit",
+      "unit": "V / mA",
+      "standard": "Below 16 V and 13 mA",
+      "limit": "-",
+      "page_label": "BF-28"
+    }
+  ],
+  "troubleshooting": [
+    {
+      "symptom": "Bumper shock absorber fails to return to original position after compression test",
+      "probable_cause": "Internal binding, mechanical damage, or loss of high-pressure gas charge",
+      "corrective_action": "Replace bumper shock absorber assembly",
+      "page_label": "BF-9"
+    },
+    {
+      "symptom": "Door window regulator handle operating force exceeds 3.5 kg (7.7 lb)",
+      "probable_cause": "Insufficient lubrication, incorrect glass-to-panel clearance, or misaligned/non-parallel guide rails",
+      "corrective_action": "(1) Lubricate guide rollers, guide rails and regulator linkage; (2) Perform weatherstrip-to-door glass adjustment; (3) Adjust guide rails in parallel",
+      "page_label": "BF-19"
+    },
+    {
+      "symptom": "Door window glass tilts forward or rearward in door sash",
+      "probable_cause": "Improper guide channel A position",
+      "corrective_action": "Adjust guide channel A up if front tilts down (condition A), or down if rear tilts down (condition B)",
+      "page_label": "BF-19"
+    },
+    {
+      "symptom": "Seat belt buckle switch fails inspection (test light does not go out when latched or go on when unlatched)",
+      "probable_cause": "Worn, deformed, or faulty switch contacts or internal push rod mechanism",
+      "corrective_action": "Replace seat belt assembly",
+      "page_label": "BF-28"
+    }
+  ],
+  "special_tools": [
+    {
+      "tool_number": "ST08720000",
+      "tool_name": "Door adjusting wrench",
+      "kent_moore_no": "J 25610",
+      "ref": "Fig. BF-42, Page BF-17",
+      "page_label": "BF-32"
+    }
+  ]
+}

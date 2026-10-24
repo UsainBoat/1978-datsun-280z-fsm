@@ -1,0 +1,4535 @@
+{
+  "section_title": "SECTION EE - ENGINE ELECTRICAL",
+  "source_pdf": "1978 280z FSM/EE Engine Electrical.pdf",
+  "md_path": "1978 280z FSM/EE Engine Electrical.md",
+  "pages_count": 44,
+  "diagrams": [
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_1_checking_specific_gravity",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_1_checking_specific_gravity.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_1_checking_specific_gravity.png",
+      "page_num": 2,
+      "page_label": "EE-2",
+      "fig_id": "Fig. EE-1",
+      "code": "EE001",
+      "caption": "Fig. EE-1 Checking specific gravity",
+      "diagram_type": "inspection_measurement",
+      "description": "Illustration of checking battery electrolyte specific gravity and temperature using a hydrometer and a thermal gauge inserted into the battery cells.",
+      "components": [
+        "Battery",
+        "Vent hole",
+        "Thermal gauge",
+        "Hydrometer"
+      ],
+      "callouts": {
+        "1": "Thermal gauge",
+        "2": "Hydrometer"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Insert hydrometer vertically into cell; ensure float moves freely without clinging to sides.",
+      "tags": [
+        "battery",
+        "specific gravity",
+        "hydrometer",
+        "thermal gauge"
+      ],
+      "dimensions": [
+        358,
+        376
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_2_checking_specific_gravity_scale",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_2_checking_specific_gravity_scale.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_2_checking_specific_gravity_scale.png",
+      "page_num": 2,
+      "page_label": "EE-2",
+      "fig_id": "Fig. EE-2",
+      "code": "",
+      "caption": "Fig. EE-2 Checking specific gravity",
+      "diagram_type": "inspection_measurement",
+      "description": "Close-up diagram showing how to read the top level of the hydrometer float with scale at eye level.",
+      "components": [
+        "Hydrometer float",
+        "Glass barrel",
+        "Electrolyte meniscus"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Read top level with scale"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Read the scale line aligned with the surface meniscus of the electrolyte.",
+      "tags": [
+        "hydrometer",
+        "specific gravity reading",
+        "scale"
+      ],
+      "dimensions": [
+        322,
+        262
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_3_charging_condition",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_3_charging_condition.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_3_charging_condition.png",
+      "page_num": 2,
+      "page_label": "EE-2",
+      "fig_id": "Fig. EE-3",
+      "code": "EE473",
+      "caption": "Fig. EE-3 Charging condition",
+      "diagram_type": "graph_chart",
+      "description": "Graph showing relationship between specific gravity at 20\u00b0C (68\u00b0F) (1.06 to 1.28) and charging condition percentage (0% to 100%). Lines indicate max charging specific gravity 1.28 and 1.26.",
+      "components": [
+        "Graph curves for 1.28 and 1.26 specific gravity"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Specific gravity: 1.06 to 1.28 at 20\u00b0C (68\u00b0F)",
+        "Charging condition: 0% to 100%"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Recharge if battery charge condition is below 60% or specific gravity is below 1.20.",
+      "tags": [
+        "battery charging condition",
+        "specific gravity graph"
+      ],
+      "dimensions": [
+        367,
+        276
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_4_specific_gravity_at_electrolyte_temperature",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_4_specific_gravity_at_electrolyte_temperature.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_4_specific_gravity_at_electrolyte_temperature.png",
+      "page_num": 2,
+      "page_label": "EE-2",
+      "fig_id": "Fig. EE-4",
+      "code": "EE003",
+      "caption": "Fig. EE-4 Specific gravity at electrolyte temperature",
+      "diagram_type": "graph_chart",
+      "description": "Nomograph chart for converting specific gravity at electrolyte temperature St (-10\u00b0C to 50\u00b0C) to converted specific gravity S20 (1.10 to 1.30).",
+      "components": [
+        "Temperature axis",
+        "Measured specific gravity lines",
+        "Converted specific gravity scale"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Temperature range: -10\u00b0C to 50\u00b0C (14\u00b0F to 122\u00b0F)",
+        "Converted specific gravity: 1.100 to 1.300"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Formula: S20 = St + 0.0007*(t - 20).",
+      "tags": [
+        "temperature correction",
+        "specific gravity chart"
+      ],
+      "dimensions": [
+        380,
+        647
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_5_freezing_point_of_electrolyte",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_5_freezing_point_of_electrolyte.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_5_freezing_point_of_electrolyte.png",
+      "page_num": 3,
+      "page_label": "EE-3",
+      "fig_id": "Fig. EE-5",
+      "code": "EE004",
+      "caption": "Fig. EE-5 Freezing point of electrolyte",
+      "diagram_type": "graph_chart",
+      "description": "Graph showing the freezing point temperature of battery electrolyte (\u00b0C and \u00b0F) vs specific gravity (1.00 to 1.32), indicating the shaded freezing zone.",
+      "components": [
+        "Electrolyte temperature scale",
+        "Specific gravity scale",
+        "Freezing zone curve"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "At 1.100 sp gr: freezes around -8\u00b0C (18\u00b0F)",
+        "At 1.200 sp gr: freezes around -27\u00b0C (-17\u00b0F)",
+        "At 1.280 sp gr: freezes around -68\u00b0C (-90\u00b0F)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "A discharged battery will freeze and crack the case at normal winter temperatures.",
+      "tags": [
+        "battery freezing point",
+        "electrolyte curve",
+        "specific gravity"
+      ],
+      "dimensions": [
+        625,
+        490
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_6_reduction_gear_starting_motor",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_6_reduction_gear_starting_motor.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_6_reduction_gear_starting_motor.png",
+      "page_num": 4,
+      "page_label": "EE-4",
+      "fig_id": "Fig. EE-6",
+      "code": "EE610",
+      "caption": "Fig. EE-6 Reduction gear starting motor [S114-254]",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross-sectional cutaway illustration of the Hitachi S114-254 reduction gear starter motor highlighting the planetary/reduction gearing arrangement and brush placement.",
+      "components": [
+        "Magnetic switch / solenoid",
+        "Armature",
+        "Reduction gear",
+        "Pinion gear",
+        "Overrunning clutch",
+        "Commutator",
+        "Brush",
+        "Shift lever"
+      ],
+      "callouts": {
+        "1": "Reduction gear",
+        "2": "Pinion gear",
+        "3": "Overrunning clutch",
+        "4": "Commutator",
+        "5": "Brush"
+      },
+      "measurements_and_specs": [
+        "Model: S114-254"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Pinion gear is located independently of armature; commutator and brushes are located on the pinion/reduction gear side.",
+      "tags": [
+        "starter motor",
+        "reduction gear",
+        "S114-254",
+        "cutaway"
+      ],
+      "dimensions": [
+        793,
+        595
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_7_starting_system_circuit",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_7_starting_system_circuit.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_7_starting_system_circuit.png",
+      "page_num": 5,
+      "page_label": "EE-5",
+      "fig_id": "Fig. EE-7",
+      "code": "EE611",
+      "caption": "Fig. EE-7 Circuit diagram of starting system",
+      "diagram_type": "electrical_schematic",
+      "description": "Complete electrical schematic and harness wiring diagram of the starting system showing battery, fusible links, ignition switch, starting motor, inhibitor switch (A/T only), and ignition / inhibitor relay.",
+      "components": [
+        "Battery",
+        "Fusible link",
+        "Ignition switch",
+        "Starting motor",
+        "Inhibitor switch (A/T only)",
+        "Inhibitor relay (A/T only)",
+        "Ignition relay",
+        "Engine earth",
+        "Harness connectors"
+      ],
+      "callouts": {
+        "B": "Starter battery terminal",
+        "S": "Starter solenoid control terminal",
+        "M": "Manual transmission only / Solenoid motor terminal",
+        "E": "Earth ground",
+        "A": "Automatic transmission only"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "B : Black",
+        "BW : Black with white stripe",
+        "BY : Black with yellow stripe",
+        "WR : White with red stripe",
+        "WB : White with black stripe"
+      ],
+      "mechanic_notes": "Note: (M) indicates M/T only; (A) indicates A/T only. Inhibitor switch prevents cranking unless A/T is in P or N.",
+      "tags": [
+        "starting system",
+        "schematic",
+        "wiring diagram",
+        "inhibitor switch",
+        "relay"
+      ],
+      "dimensions": [
+        1075,
+        1463
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_8_reduction_gear_starting_motor_operation",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_8_reduction_gear_starting_motor_operation.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_8_reduction_gear_starting_motor_operation.png",
+      "page_num": 6,
+      "page_label": "EE-6",
+      "fig_id": "Fig. EE-8",
+      "code": "EE613",
+      "caption": "Fig. EE-8 Reduction gear type starting motor",
+      "diagram_type": "cutaway_flow",
+      "description": "Functional schematic diagram showing the internal electrical circuits (series coil, shunt coil, contacts) and mechanical linkages (shift lever, reduction gear, overrunning clutch, pinion gear) of the starter motor.",
+      "components": [
+        "Ring gear",
+        "Armature",
+        "Battery",
+        "Field coil",
+        "Stationary contact",
+        "Movable contactor",
+        "Shunt coil",
+        "Plunger",
+        "Ignition switch",
+        "Series coil",
+        "Torsion spring",
+        "Shift lever",
+        "Reduction gear",
+        "Overrunning clutch",
+        "Pinion gear"
+      ],
+      "callouts": {
+        "1": "Ring gear",
+        "2": "Armature",
+        "3": "Battery",
+        "4": "Field coil",
+        "5": "Stationary contact",
+        "6": "Movable contactor",
+        "7": "Shunt coil",
+        "8": "Plunger",
+        "9": "Ignition switch",
+        "10": "Series coil",
+        "11": "Torsion spring",
+        "12": "Shift lever",
+        "13": "Reduction gear",
+        "14": "Overrunning clutch",
+        "15": "Pinion gear"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Plunger pulls in and closes movable contactor 6 across stationary contacts 5, cutting out pull-in series coil 10 while hold-in shunt coil 7 maintains engagement.",
+      "tags": [
+        "starter operation",
+        "reduction gear",
+        "solenoid operation",
+        "cutaway"
+      ],
+      "dimensions": [
+        1061,
+        563
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_9_starting_motor_exploded_view",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_9_starting_motor_exploded_view.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_9_starting_motor_exploded_view.png",
+      "page_num": 7,
+      "page_label": "EE-7",
+      "fig_id": "Fig. EE-9",
+      "code": "EE614",
+      "caption": "Fig. EE-9 Reduction gear type starting motor (S114-254)",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view diagram of the Hitachi S114-254 starter motor showing all individual components and assembly order.",
+      "components": [
+        "Magnetic switch assembly",
+        "Dust cover (Adjusting washer)",
+        "Torsion spring",
+        "Shift lever",
+        "Through bolt",
+        "Rear cover",
+        "O-ring",
+        "Yoke",
+        "Field coil",
+        "Brush",
+        "Armature",
+        "Center bearing",
+        "Brush spring",
+        "Brush holder",
+        "Dust cover",
+        "Center housing",
+        "Reduction gear",
+        "Pinion gear",
+        "Packing",
+        "Gear case"
+      ],
+      "callouts": {
+        "1": "Magnetic switch assembly",
+        "2": "Dust cover (Adjusting washer)",
+        "3": "Torsion spring",
+        "4": "Shift lever",
+        "5": "Through bolt",
+        "6": "Rear cover",
+        "7": "O-ring",
+        "8": "Yoke",
+        "9": "Field coil",
+        "10": "Brush",
+        "11": "Armature",
+        "12": "Center bearing",
+        "13": "Brush spring",
+        "14": "Brush holder",
+        "15": "Dust cover",
+        "16": "Center housing",
+        "17": "Reduction gear",
+        "18": "Pinion gear",
+        "19": "Packing",
+        "20": "Gear case"
+      },
+      "measurements_and_specs": [
+        "Model: S114-254"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Pay attention to the position of dust covers, packing, O-rings, and adjusting washers during disassembly.",
+      "tags": [
+        "exploded view",
+        "starting motor",
+        "S114-254",
+        "components"
+      ],
+      "dimensions": [
+        1094,
+        700
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_10_magnetic_switch_and_center_housing",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_10_magnetic_switch_and_center_housing.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_10_magnetic_switch_and_center_housing.png",
+      "page_num": 7,
+      "page_label": "EE-7",
+      "fig_id": "Fig. EE-10",
+      "code": "EE615",
+      "caption": "Fig. EE-10 [Removing magnetic switch and center housing]",
+      "diagram_type": "procedure_step",
+      "description": "Illustration of detaching the magnetic switch assembly and O-ring/torsion spring from the center housing.",
+      "components": [
+        "Magnetic switch",
+        "Center housing",
+        "O-ring",
+        "Torsion spring"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Torsion spring can be pulled off magnetic switch after separating.",
+      "tags": [
+        "magnetic switch",
+        "removal",
+        "center housing"
+      ],
+      "dimensions": [
+        329,
+        288
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_11_removing_brush_holder",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_11_removing_brush_holder.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_11_removing_brush_holder.png",
+      "page_num": 7,
+      "page_label": "EE-7",
+      "fig_id": "Fig. EE-11",
+      "code": "EE616",
+      "caption": "Fig. EE-11 Removing brush holder",
+      "diagram_type": "procedure_step",
+      "description": "Hand illustration demonstrating how to lift the brushes and extract the brush holder assembly from the armature commutator.",
+      "components": [
+        "Brush",
+        "Commutator",
+        "Brush holder"
+      ],
+      "callouts": {
+        "Brush": "Carbon brush (positive and negative sides)",
+        "Commutator": "Armature commutator"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Lift brush on negative side away from commutator surface to withdraw holder safely.",
+      "tags": [
+        "brush holder",
+        "brush removal",
+        "commutator"
+      ],
+      "dimensions": [
+        342,
+        310
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_12_removing_center_housing",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_12_removing_center_housing.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_12_removing_center_housing.png",
+      "page_num": 8,
+      "page_label": "EE-8",
+      "fig_id": "Fig. EE-12",
+      "code": "EE685",
+      "caption": "Fig. EE-12 Removing center housing",
+      "diagram_type": "procedure_step",
+      "description": "Illustration of unscrewing bolts securing the center housing to the gear case and detaching the housing.",
+      "components": [
+        "Center housing",
+        "Gear case",
+        "Securing bolts"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Detach center housing carefully to access pinion gear.",
+      "tags": [
+        "center housing",
+        "starter disassembly",
+        "gear case"
+      ],
+      "dimensions": [
+        360,
+        372
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_13_testing_field_coil_continuity",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_13_testing_field_coil_continuity.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_13_testing_field_coil_continuity.png",
+      "page_num": 8,
+      "page_label": "EE-8",
+      "fig_id": "Fig. EE-13",
+      "code": "EE016",
+      "caption": "Fig. EE-13 Testing field coil for continuity",
+      "diagram_type": "inspection_measurement",
+      "description": "Ohmmeter probes connected to the two positive terminals of the field coil inside the yoke to check for electrical continuity.",
+      "components": [
+        "Yoke",
+        "Field coil terminals",
+        "Circuit tester / Ohmmeter"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Continuity check: conduction required; open circuit means replace"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "If tester shows no conduction, field coil is open. Replace yoke assembly.",
+      "tags": [
+        "field coil",
+        "continuity test",
+        "ohmmeter"
+      ],
+      "dimensions": [
+        341,
+        324
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_14_testing_field_coil_ground",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_14_testing_field_coil_ground.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_14_testing_field_coil_ground.png",
+      "page_num": 8,
+      "page_label": "EE-8",
+      "fig_id": "Fig. EE-14",
+      "code": "EE017",
+      "caption": "Fig. EE-14 Testing field coil for ground",
+      "diagram_type": "inspection_measurement",
+      "description": "Circuit tester probes applied between the starter yoke body and positive field coil lead to test for insulation breakdown / grounding.",
+      "components": [
+        "Yoke",
+        "Field coil lead",
+        "Circuit tester"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Ground test: high resistance / no continuity required"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "If very little resistance is read, field coil is grounded. Replace yoke assembly.",
+      "tags": [
+        "field coil",
+        "ground test",
+        "insulation test"
+      ],
+      "dimensions": [
+        292,
+        333
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_15_inspecting_brush_spring_tension",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_15_inspecting_brush_spring_tension.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_15_inspecting_brush_spring_tension.png",
+      "page_num": 8,
+      "page_label": "EE-8",
+      "fig_id": "Fig. EE-15",
+      "code": "EE018",
+      "caption": "Fig. EE-15 Inspecting brush spring tension",
+      "diagram_type": "inspection_measurement",
+      "description": "Spring scale hooked to the brush spring clip to measure pull tension at the moment of release from the brush.",
+      "components": [
+        "Brush holder",
+        "Brush spring",
+        "Spring scale"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Spring tension: 1.6 to 2.0 kg (3.5 to 4.4 lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Read tension when spring just releases from brush. Replace if outside specification.",
+      "tags": [
+        "brush spring tension",
+        "spring scale",
+        "inspection"
+      ],
+      "dimensions": [
+        360,
+        384
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_16_undercutting_insulating_mica",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_16_undercutting_insulating_mica.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_16_undercutting_insulating_mica.png",
+      "page_num": 9,
+      "page_label": "EE-9",
+      "fig_id": "Fig. EE-16",
+      "code": "EE021",
+      "caption": "Fig. EE-16 Undercutting insulating mica",
+      "diagram_type": "procedure_step",
+      "description": "Diagram illustrating proper vs incorrect undercut profiles and depth of commutator segment insulating mica using a file.",
+      "components": [
+        "Commutator segment",
+        "Mica insulation",
+        "File tool"
+      ],
+      "callouts": {
+        "Round": "Correct rounded edge profile",
+        "Correct": "Proper square cut 0.5 to 0.8 mm deep",
+        "Incorrect": "Improper V-cut or incomplete cut"
+      },
+      "measurements_and_specs": [
+        "Depth: 0.5 to 0.8 mm (0.020 to 0.031 in)",
+        "Limit before undercut: 0.2 mm (0.008 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Undercut must be square at bottom, not V-groove. Deburr copper segments slightly.",
+      "tags": [
+        "commutator",
+        "mica undercutting",
+        "starter repair"
+      ],
+      "dimensions": [
+        356,
+        654
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_17_testing_armature_ground",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_17_testing_armature_ground.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_17_testing_armature_ground.png",
+      "page_num": 9,
+      "page_label": "EE-9",
+      "fig_id": "Fig. EE-17",
+      "code": "EE686",
+      "caption": "Fig. EE-17 Testing armature for ground",
+      "diagram_type": "inspection_measurement",
+      "description": "Circuit tester probes placed between armature shaft/core and commutator segments to detect short to ground.",
+      "components": [
+        "Armature core",
+        "Commutator bars",
+        "Armature shaft",
+        "Tester"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Continuity indicates ground fault (replace armature)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Any continuity between any commutator segment and the core/shaft indicates a bad armature.",
+      "tags": [
+        "armature ground test",
+        "circuit tester"
+      ],
+      "dimensions": [
+        355,
+        319
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_18_testing_armature_short",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_18_testing_armature_short.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_18_testing_armature_short.png",
+      "page_num": 9,
+      "page_label": "EE-9",
+      "fig_id": "Fig. EE-18",
+      "code": "EE687",
+      "caption": "Fig. EE-18 Testing armature for short",
+      "diagram_type": "inspection_measurement",
+      "description": "Armature mounted on a growler tester with a thin steel blade held over the core while slowly rotating to check for shorted windings.",
+      "components": [
+        "Armature tester (growler)",
+        "Armature",
+        "Hacksaw blade / feeler blade"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "If the iron blade vibrates or is attracted to the core, armature coil is shorted.",
+      "tags": [
+        "growler",
+        "armature short test"
+      ],
+      "dimensions": [
+        324,
+        327
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_19_pinion_and_reduction_gear",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_19_pinion_and_reduction_gear.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_19_pinion_and_reduction_gear.png",
+      "page_num": 9,
+      "page_label": "EE-9",
+      "fig_id": "Fig. EE-19",
+      "code": "EE617",
+      "caption": "Fig. EE-19 Pinion and reduction gear overrunning clutch",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view showing the pinion gear shaft, reduction gear, spring, and washer of the overrunning clutch assembly.",
+      "components": [
+        "Pinion gear",
+        "Reduction gear",
+        "Spring",
+        "Washer",
+        "Snap ring"
+      ],
+      "callouts": {
+        "Pinion gear": "Pinion gear and shaft",
+        "Reduction gear": "Reduction gear and overrunning clutch"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Pinion gear shaft must slide freely through reduction gear.",
+      "tags": [
+        "pinion gear",
+        "reduction gear",
+        "overrunning clutch"
+      ],
+      "dimensions": [
+        351,
+        307
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_20_testing_brush_for_ground",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_20_testing_brush_for_ground.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_20_testing_brush_for_ground.png",
+      "page_num": 9,
+      "page_label": "EE-9",
+      "fig_id": "Fig. EE-20",
+      "code": "EE025",
+      "caption": "Fig. EE-20 Testing brush for ground",
+      "diagram_type": "inspection_measurement",
+      "description": "Circuit tester probes applied across the brush holder plate between positive and negative sides to check for insulation breakdown.",
+      "components": [
+        "Brush holder assembly",
+        "Circuit tester"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Continuity indicates ground short (replace brush holder)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Ensure positive brush holder is properly insulated from the base plate.",
+      "tags": [
+        "brush holder",
+        "ground test",
+        "insulation test"
+      ],
+      "dimensions": [
+        334,
+        300
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_21_no_load_testing",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_21_no_load_testing.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_21_no_load_testing.png",
+      "page_num": 10,
+      "page_label": "EE-10",
+      "fig_id": "Fig. EE-21",
+      "code": "EE026",
+      "caption": "Fig. EE-21 No-load testing",
+      "diagram_type": "inspection_measurement",
+      "description": "Wiring hookup schematic for starter motor no-load test showing 12V battery, high-capacity ammeter (0-1000A), switch, voltmeter, and starter motor terminals S, B, and E.",
+      "components": [
+        "Starting motor",
+        "12V Battery",
+        "Switch",
+        "Voltmeter",
+        "Ammeter"
+      ],
+      "callouts": {
+        "S": "Solenoid switch terminal",
+        "B": "Main battery terminal",
+        "E": "Ground/earth"
+      },
+      "measurements_and_specs": [
+        "Voltage: 12V",
+        "Ammeter capacity: 1,000A"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Connect switch between battery positive and starter 'S' terminal; monitor current draw and RPM.",
+      "tags": [
+        "no load test",
+        "starter bench test",
+        "ammeter hookup"
+      ],
+      "dimensions": [
+        623,
+        402
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_22_magnetic_switch_test_circuit",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_22_magnetic_switch_test_circuit.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_22_magnetic_switch_test_circuit.png",
+      "page_num": 10,
+      "page_label": "EE-10",
+      "fig_id": "Fig. EE-22",
+      "code": "EE351",
+      "caption": "Fig. EE-22 Circuit of magnetic switch assembly test",
+      "diagram_type": "electrical_schematic",
+      "description": "Circuit schematic for testing the starter magnetic switch pull-in: positive battery connects through switch to S terminal, negative battery connects to M terminal.",
+      "components": [
+        "Battery",
+        "Switch",
+        "Starter motor terminals (B, M, S)"
+      ],
+      "callouts": {
+        "B": "Battery terminal",
+        "M": "Motor terminal",
+        "S": "Solenoid terminal"
+      },
+      "measurements_and_specs": [
+        "Battery voltage: 12V"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Connect negative battery to M terminal and positive through switch to S terminal to actuate plunger.",
+      "tags": [
+        "magnetic switch test",
+        "pull in test",
+        "schematic"
+      ],
+      "dimensions": [
+        357,
+        388
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_23_measuring_clearance_l",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_23_measuring_clearance_l.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_23_measuring_clearance_l.png",
+      "page_num": 10,
+      "page_label": "EE-10",
+      "fig_id": "Fig. EE-23",
+      "code": "EE688",
+      "caption": "Fig. EE-23 Measuring clearance \"l\"",
+      "diagram_type": "inspection_measurement",
+      "description": "Illustration of measuring pinion gap clearance 'l' between pinion energized position and manual pull-out stop against reduction gear.",
+      "components": [
+        "Pinion gear",
+        "Stopper / Reduction gear",
+        "Housing"
+      ],
+      "callouts": {
+        "Clearance l": "Gap difference between electric stroke and full hand stroke"
+      },
+      "measurements_and_specs": [
+        "Clearance l: 0.3 to 1.5 mm (0.012 to 0.059 in)",
+        "Adjusting washer sizes: 0.5 mm (0.020 in), 0.8 mm (0.031 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Adjust clearance by adding or removing washers under magnetic switch mounting.",
+      "tags": [
+        "pinion clearance",
+        "clearance l",
+        "adjusting washer"
+      ],
+      "dimensions": [
+        344,
+        337
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_24_simplified_charging_circuit_1",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_24_simplified_charging_circuit_1.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_24_simplified_charging_circuit_1.png",
+      "page_num": 13,
+      "page_label": "EE-13",
+      "fig_id": "Fig. EE-24",
+      "code": "EE618",
+      "caption": "Fig. EE-24 Simplified charging circuit (1)",
+      "diagram_type": "electrical_schematic",
+      "description": "Simplified circuit schematic (1) showing initial excitation state with ignition switch ON and engine stopped: current flows from battery through charge lamp to rotor coil and Tr1 to ground.",
+      "components": [
+        "Alternator",
+        "IC Regulator",
+        "Rotor coil",
+        "Stator coil",
+        "Diodes (D1-D3, D4-D6, D7-D9, D10, D11)",
+        "Transistors Tr1, Tr2, Tr3",
+        "Zener diode ZD",
+        "Thermistors Rh, Resistors R1-R5, R",
+        "Charge lamp",
+        "Ignition switch",
+        "Battery"
+      ],
+      "callouts": {
+        "B": "Battery terminal",
+        "S": "Voltage sensing terminal",
+        "L": "Lamp / initial excitation terminal",
+        "F": "Field terminal",
+        "E": "Earth ground"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Charge warning lamp is illuminated because battery voltage passes through lamp to terminal L and Tr1 to ground.",
+      "tags": [
+        "charging circuit",
+        "IC regulator",
+        "warning lamp",
+        "schematic"
+      ],
+      "dimensions": [
+        1080,
+        775
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_25_simplified_charging_circuit_2",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_25_simplified_charging_circuit_2.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_25_simplified_charging_circuit_2.png",
+      "page_num": 14,
+      "page_label": "EE-14",
+      "fig_id": "Fig. EE-25",
+      "code": "EE619",
+      "caption": "Fig. EE-25 Simplified charging circuit (2)",
+      "diagram_type": "electrical_schematic",
+      "description": "Simplified charging circuit schematic (2) with alternator running below regulation voltage: stator supplies rotor current via sub-diodes D7-D9; voltage at L equals B so charge lamp turns OFF.",
+      "components": [
+        "Alternator",
+        "IC Regulator",
+        "Rotor coil",
+        "Stator coil",
+        "Diodes D1-D11",
+        "Transistors Tr1, Tr2, Tr3",
+        "Zener diode ZD",
+        "Charge lamp",
+        "Ignition switch",
+        "Battery"
+      ],
+      "callouts": {
+        "B": "Main battery output",
+        "S": "Sense terminal",
+        "L": "Lamp terminal",
+        "F": "Field terminal",
+        "E": "Ground"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Equal voltage across charge lamp extinguishes bulb while alternator self-excites through D7-D9.",
+      "tags": [
+        "charging circuit",
+        "running state",
+        "warning lamp off",
+        "schematic"
+      ],
+      "dimensions": [
+        1080,
+        722
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_26_simplified_charging_circuit_3",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_26_simplified_charging_circuit_3.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_26_simplified_charging_circuit_3.png",
+      "page_num": 14,
+      "page_label": "EE-14",
+      "fig_id": "Fig. EE-26",
+      "code": "EE683",
+      "caption": "Fig. EE-26 Simplified charging circuit (3)",
+      "diagram_type": "electrical_schematic",
+      "description": "Simplified charging circuit schematic (3) when battery voltage exceeds specified setpoint: Zener diode ZD conducts, turning ON Tr3, which turns OFF Tr1 and stops rotor field current.",
+      "components": [
+        "Alternator",
+        "IC Regulator",
+        "Rotor coil",
+        "Stator coil",
+        "Diodes D1-D11",
+        "Transistors Tr1, Tr2, Tr3",
+        "Zener diode ZD"
+      ],
+      "callouts": {
+        "B": "Battery terminal",
+        "S": "Sense terminal",
+        "L": "Lamp terminal",
+        "F": "Field terminal",
+        "E": "Ground"
+      },
+      "measurements_and_specs": [
+        "Regulated voltage threshold triggers ZD conduction"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Tr3 ON shorts base of Tr2/Tr1 to ground, cutting off field current until voltage drops below threshold.",
+      "tags": [
+        "voltage regulation",
+        "zener diode",
+        "overvoltage cutoff",
+        "schematic"
+      ],
+      "dimensions": [
+        1074,
+        726
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_27_circuit_diagram_of_charging_system",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_27_circuit_diagram_of_charging_system.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_27_circuit_diagram_of_charging_system.png",
+      "page_num": 15,
+      "page_label": "EE-15",
+      "fig_id": "Fig. EE-27",
+      "code": "EE621",
+      "caption": "Fig. EE-27 Circuit diagram of charging system",
+      "diagram_type": "electrical_schematic",
+      "description": "Comprehensive wiring harness schematic of the Datsun 280Z charging system including alternator, IC voltage regulator, battery, fusible links, fuse block, ignition switch, ignition relay, and bulb check relay.",
+      "components": [
+        "Battery",
+        "Fusible link",
+        "Ignition switch",
+        "Ignition relay",
+        "Bulb check relay",
+        "Fuse block",
+        "Charge warning lamp (Voltage & fuel gauge)",
+        "Alternator",
+        "IC voltage regulator",
+        "Condenser",
+        "Engine earth",
+        "Body earth"
+      ],
+      "callouts": {
+        "B": "Alternator main battery stud",
+        "E": "Alternator earth stud",
+        "L": "Lamp terminal on 2-pin connector",
+        "S": "Voltage sense terminal on 2-pin connector"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "B : Black",
+        "BW : Black with white stripe",
+        "W : White",
+        "WR : White with red stripe",
+        "WB : White with black stripe",
+        "G : Green",
+        "Y : Yellow",
+        "L : Blue"
+      ],
+      "mechanic_notes": "Bulb check relay connects charge lamp circuit during cranking for bulb verification.",
+      "tags": [
+        "charging system",
+        "complete schematic",
+        "wire color codes",
+        "fuse block",
+        "relays"
+      ],
+      "dimensions": [
+        1084,
+        1492
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_28_alternator_exploded_view",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_28_alternator_exploded_view.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_28_alternator_exploded_view.png",
+      "page_num": 16,
+      "page_label": "EE-16",
+      "fig_id": "Fig. EE-28",
+      "code": "EE623",
+      "caption": "Fig. EE-28 Alternator",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view diagram of the Hitachi LR160-42 alternator with built-in IC regulator showing all internal and external components in order of assembly.",
+      "components": [
+        "Pulley assembly",
+        "Front cover",
+        "Front bearing",
+        "Rotor",
+        "Rear bearing",
+        "Stator",
+        "Diode (Set plate) assembly",
+        "Brush assembly",
+        "IC voltage regulator",
+        "Diode",
+        "Rear cover",
+        "Through bolt"
+      ],
+      "callouts": {
+        "1": "Pulley assembly",
+        "2": "Front cover",
+        "3": "Front bearing",
+        "4": "Rotor",
+        "5": "Rear bearing",
+        "6": "Stator",
+        "7": "Diode (Set plate) assembly",
+        "8": "Brush assembly",
+        "9": "IC voltage regulator",
+        "10": "Diode",
+        "11": "Rear cover",
+        "12": "Through bolt"
+      },
+      "measurements_and_specs": [
+        "Model: LR160-42 (60A)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Contains 9 total diodes: 3 positive, 3 negative, and 3 trio/sub-diodes mounted on heat sink plates.",
+      "tags": [
+        "alternator",
+        "exploded view",
+        "LR160-42",
+        "components"
+      ],
+      "dimensions": [
+        1084,
+        782
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_29_separating_front_cover",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_29_separating_front_cover.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_29_separating_front_cover.png",
+      "page_num": 17,
+      "page_label": "EE-17",
+      "fig_id": "Fig. EE-29",
+      "code": "EE525",
+      "caption": "Fig. EE-29 Separating front cover",
+      "diagram_type": "procedure_step",
+      "description": "Illustration of alternator through bolts removed and separating front cover with rotor from rear cover with stator.",
+      "components": [
+        "Front cover",
+        "Rear cover",
+        "Through bolts"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Tap front bracket lightly with wooden mallet to split housings.",
+      "tags": [
+        "alternator disassembly",
+        "housing separation"
+      ],
+      "dimensions": [
+        351,
+        309
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_30_removing_pulley_and_fan",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_30_removing_pulley_and_fan.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_30_removing_pulley_and_fan.png",
+      "page_num": 17,
+      "page_label": "EE-17",
+      "fig_id": "Fig. EE-30",
+      "code": "EE526",
+      "caption": "Fig. EE-30 Removing pulley and fan",
+      "diagram_type": "procedure_step",
+      "description": "Exploded illustration of pulley nut, spring washer, pulley, fan, and spacer being removed from the rotor shaft.",
+      "components": [
+        "Pulley nut",
+        "Pulley",
+        "Fan",
+        "Spacer",
+        "Front cover"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Hold rotor in vise with soft jaws to prevent scratching pole pieces when breaking nut loose.",
+      "tags": [
+        "pulley removal",
+        "fan",
+        "rotor shaft"
+      ],
+      "dimensions": [
+        351,
+        367
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_31_removing_rotor",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_31_removing_rotor.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_31_removing_rotor.png",
+      "page_num": 17,
+      "page_label": "EE-17",
+      "fig_id": "Fig. EE-31",
+      "code": "EE527",
+      "caption": "Fig. EE-31 Removing rotor",
+      "diagram_type": "procedure_step",
+      "description": "Illustration showing removal of rotor assembly from the front cover after removing bearing retainer setscrews.",
+      "components": [
+        "Front cover",
+        "Rotor",
+        "Retainer setscrews"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove bearing retainer screws before pressing rotor out of front bearing.",
+      "tags": [
+        "rotor removal",
+        "front bearing retainer"
+      ],
+      "dimensions": [
+        348,
+        314
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_32_pressing_bearing",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_32_pressing_bearing.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_32_pressing_bearing.png",
+      "page_num": 17,
+      "page_label": "EE-17",
+      "fig_id": "Fig. EE-32",
+      "code": "EE037",
+      "caption": "Fig. EE-32 [Pressing rear bearing onto rotor shaft]",
+      "diagram_type": "procedure_step",
+      "description": "Arbor press fixture used for installing or supporting the rear bearing on the alternator rotor shaft.",
+      "components": [
+        "Rotor shaft",
+        "Ball bearing",
+        "Press plate",
+        "Arbor press"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Apply force only to bearing inner race when pressing.",
+      "tags": [
+        "press",
+        "bearing replacement",
+        "rotor"
+      ],
+      "dimensions": [
+        253,
+        279
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_33_pulling_rear_bearing",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_33_pulling_rear_bearing.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_33_pulling_rear_bearing.png",
+      "page_num": 17,
+      "page_label": "EE-17",
+      "fig_id": "Fig. EE-33",
+      "code": "EE038",
+      "caption": "Fig. EE-33 Pulling out rear bearing",
+      "diagram_type": "procedure_step",
+      "description": "Bearing puller tool attached to pull the rear bearing off the rotor slip ring shaft.",
+      "components": [
+        "Rotor shaft",
+        "Rear bearing",
+        "Puller tool"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Take care not to gouge or damage copper slip rings with puller jaws.",
+      "tags": [
+        "bearing puller",
+        "rear bearing",
+        "rotor"
+      ],
+      "dimensions": [
+        383,
+        244
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_34_disconnecting_stator_leads",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_34_disconnecting_stator_leads.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_34_disconnecting_stator_leads.png",
+      "page_num": 17,
+      "page_label": "EE-17",
+      "fig_id": "Fig. EE-34",
+      "code": "EE623",
+      "caption": "Fig. EE-34 [Disconnecting stator leads]",
+      "diagram_type": "procedure_step",
+      "description": "Technician using a soldering iron and needle-nose pliers to unsolder stator coil lead wires from the diode plate terminals.",
+      "components": [
+        "Soldering iron",
+        "Stator lead wires",
+        "Diode plate terminals",
+        "Pliers"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Perform soldering/unsoldering as quickly as possible to avoid overheating silicon diodes.",
+      "tags": [
+        "soldering",
+        "stator leads",
+        "diode terminal"
+      ],
+      "dimensions": [
+        357,
+        293
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_35_removing_brush_and_regulator",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_35_removing_brush_and_regulator.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_35_removing_brush_and_regulator.png",
+      "page_num": 17,
+      "page_label": "EE-17",
+      "fig_id": "Fig. EE-35",
+      "code": "EE624",
+      "caption": "Fig. EE-35 [Removing brush assembly and diode holder]",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view showing screws and mounting positions for brush assembly with IC regulator and diode holder in the rear cover.",
+      "components": [
+        "Diode holder",
+        "Brush assembly with IC regulator",
+        "Rear cover",
+        "Screws",
+        "Nuts"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Disconnect diode wires with soldering iron before loosening screws.",
+      "tags": [
+        "brush assembly",
+        "IC regulator",
+        "diode holder",
+        "rear cover"
+      ],
+      "dimensions": [
+        360,
+        267
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_36_continuity_test_rotor_coil",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_36_continuity_test_rotor_coil.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_36_continuity_test_rotor_coil.png",
+      "page_num": 17,
+      "page_label": "EE-17",
+      "fig_id": "Fig. EE-36",
+      "code": "EE531",
+      "caption": "Fig. EE-36 Continuity test of rotor coil",
+      "diagram_type": "inspection_measurement",
+      "description": "Multimeter / circuit tester probes applied across both slip rings of the rotor to test for continuity through the field coil.",
+      "components": [
+        "Rotor",
+        "Slip rings",
+        "Circuit tester / Ohmmeter"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Continuity must exist across slip rings"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "If there is no continuity, field coil is open. Replace rotor assembly.",
+      "tags": [
+        "rotor continuity",
+        "slip rings",
+        "field coil"
+      ],
+      "dimensions": [
+        353,
+        302
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_37_ground_test_rotor_coil",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_37_ground_test_rotor_coil.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_37_ground_test_rotor_coil.png",
+      "page_num": 17,
+      "page_label": "EE-17",
+      "fig_id": "Fig. EE-37",
+      "code": "EE532",
+      "caption": "Fig. EE-37 Testing rotor coil for ground",
+      "diagram_type": "inspection_measurement",
+      "description": "Circuit tester probes applied between slip ring and rotor iron pole core to check for short to ground.",
+      "components": [
+        "Rotor pole core",
+        "Slip ring",
+        "Circuit tester"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "No continuity (infinite resistance) required"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "If continuity exists, rotor coil or slip ring is grounded; replace rotor.",
+      "tags": [
+        "rotor ground test",
+        "insulation check"
+      ],
+      "dimensions": [
+        357,
+        305
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_38_testing_stator_continuity",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_38_testing_stator_continuity.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_38_testing_stator_continuity.png",
+      "page_num": 18,
+      "page_label": "EE-18",
+      "fig_id": "Fig. EE-38",
+      "code": "EE533",
+      "caption": "Fig. EE-38 Testing stator for continuity",
+      "diagram_type": "inspection_measurement",
+      "description": "Ohmmeter probes testing continuity between the different phase leads of the disconnected stator winding.",
+      "components": [
+        "Stator coil assembly",
+        "Stator lead wires",
+        "Circuit tester"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Continuity must exist between all phase leads"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "If no continuity between individual terminals, winding is broken; replace stator.",
+      "tags": [
+        "stator continuity",
+        "ohmmeter",
+        "windings"
+      ],
+      "dimensions": [
+        373,
+        346
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_39_testing_stator_ground",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_39_testing_stator_ground.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_39_testing_stator_ground.png",
+      "page_num": 18,
+      "page_label": "EE-18",
+      "fig_id": "Fig. EE-39",
+      "code": "EE534",
+      "caption": "Fig. EE-39 Testing stator for ground",
+      "diagram_type": "inspection_measurement",
+      "description": "Tester probe connected to stator lamination core while other probe contacts each winding lead wire to ensure no ground fault.",
+      "components": [
+        "Stator core",
+        "Stator lead wires",
+        "Circuit tester"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "No continuity (infinite resistance) required"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "If any winding lead conducts to the laminated core, stator coil is grounded; replace stator.",
+      "tags": [
+        "stator ground test",
+        "insulation"
+      ],
+      "dimensions": [
+        365,
+        309
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_40_auxiliary_diodes",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_40_auxiliary_diodes.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_40_auxiliary_diodes.png",
+      "page_num": 18,
+      "page_label": "EE-18",
+      "fig_id": "Fig. EE-40",
+      "code": "EE625",
+      "caption": "Fig. EE-40 [Auxiliary diodes]",
+      "diagram_type": "component_location",
+      "description": "Diagram showing the physical location of the trio auxiliary (sub) diodes mounted on the brush assembly plate.",
+      "components": [
+        "Brush assembly",
+        "Auxiliary diodes (trio)",
+        "Diode terminals"
+      ],
+      "callouts": {
+        "Auxiliary diodes": "Sub-diode trio"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Sub-diodes supply excitation field current to rotor once alternator is spinning.",
+      "tags": [
+        "auxiliary diodes",
+        "sub diodes",
+        "brush assembly"
+      ],
+      "dimensions": [
+        367,
+        338
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_41_conductive_direction_of_diode",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_41_conductive_direction_of_diode.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_41_conductive_direction_of_diode.png",
+      "page_num": 18,
+      "page_label": "EE-18",
+      "fig_id": "Fig. EE-41",
+      "code": "EE535",
+      "caption": "Fig. EE-41 Conductive direction of diode",
+      "diagram_type": "alignment_orientation",
+      "description": "Illustration of diode polarity markings: Black mark indicates current flows from terminal to case; Red mark indicates current flows from case to terminal.",
+      "components": [
+        "Black marked diode",
+        "Red marked diode",
+        "Cathode / Anode case markings"
+      ],
+      "callouts": {
+        "Black": "Direction of current: terminal to case",
+        "Red": "Direction of current: case to terminal"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Black marking = reverse polarity / positive plate; Red marking = forward polarity / negative plate.",
+      "tags": [
+        "diode polarity",
+        "color markings",
+        "conduction direction"
+      ],
+      "dimensions": [
+        475,
+        326
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_42_checking_positive_diode",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_42_checking_positive_diode.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_42_checking_positive_diode.png",
+      "page_num": 18,
+      "page_label": "EE-18",
+      "fig_id": "Fig. EE-42",
+      "code": "EE536",
+      "caption": "Fig. EE-42 [Checking positive diode]",
+      "diagram_type": "inspection_measurement",
+      "description": "Checking positive diodes on SR holder plate using ohmmeter probes between plate case and individual diode terminals.",
+      "components": [
+        "SR holder (positive heat sink)",
+        "Positive diode",
+        "Ohmmeter"
+      ],
+      "callouts": {
+        "1": "SR holder",
+        "2": "Positive diode"
+      },
+      "measurements_and_specs": [
+        "Conduction in forward bias only; no conduction in reverse bias"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Conduction should occur only when tester negative probe is on terminal and positive on case.",
+      "tags": [
+        "positive diode",
+        "SR holder",
+        "diode check"
+      ],
+      "dimensions": [
+        341,
+        322
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_43_checking_negative_diode",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_43_checking_negative_diode.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_43_checking_negative_diode.png",
+      "page_num": 18,
+      "page_label": "EE-18",
+      "fig_id": "Fig. EE-43",
+      "code": "EE537",
+      "caption": "Fig. EE-43 Checking diode",
+      "diagram_type": "inspection_measurement",
+      "description": "Checking negative diodes pressed into the rear cover using ohmmeter probes between rear housing and diode terminals.",
+      "components": [
+        "Rear cover",
+        "Negative diode",
+        "Ohmmeter"
+      ],
+      "callouts": {
+        "3": "Rear cover",
+        "4": "Negative diode"
+      },
+      "measurements_and_specs": [
+        "Conduction when tester positive is on terminal and negative on case"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Negative diodes conduct in the opposite probe configuration from positive diodes.",
+      "tags": [
+        "negative diode",
+        "rear cover",
+        "diode check"
+      ],
+      "dimensions": [
+        338,
+        326
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_44_checking_diode",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_44_checking_diode.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_44_checking_diode.png",
+      "page_num": 19,
+      "page_label": "EE-19",
+      "fig_id": "Fig. EE-44",
+      "code": "EE626",
+      "caption": "Fig. EE-44 Checking diode",
+      "diagram_type": "inspection_measurement",
+      "description": "Testing the sub-diodes on the brush holder using ohmmeter test probes across the diode terminals.",
+      "components": [
+        "Brush assembly",
+        "Sub-diodes",
+        "Circuit tester"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Diodes must conduct in one direction only. If conducting both ways or neither way, replace.",
+      "tags": [
+        "sub diode test",
+        "ohmmeter"
+      ],
+      "dimensions": [
+        339,
+        319
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_45_removing_sub_diode",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_45_removing_sub_diode.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_45_removing_sub_diode.png",
+      "page_num": 19,
+      "page_label": "EE-19",
+      "fig_id": "Fig. EE-45",
+      "code": "EE627",
+      "caption": "Fig. EE-45 Removing sub-diode",
+      "diagram_type": "procedure_step",
+      "description": "Using needle-nose pliers as a heat sink on diode lead while unsoldering the sub-diode terminal.",
+      "components": [
+        "Sub-diode",
+        "Pliers",
+        "Soldering iron",
+        "Brush holder"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Pinch diode lead with pliers to prevent destructive heat transfer to the silicon wafer.",
+      "tags": [
+        "sub-diode replacement",
+        "soldering",
+        "heat sink"
+      ],
+      "dimensions": [
+        348,
+        296
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_46_brush_wear_limit",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_46_brush_wear_limit.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_46_brush_wear_limit.png",
+      "page_num": 19,
+      "page_label": "EE-19",
+      "fig_id": "Fig. EE-46",
+      "code": "EE538",
+      "caption": "Fig. EE-46 Brush wear limit",
+      "diagram_type": "inspection_measurement",
+      "description": "Illustration of the alternator carbon brush and brush holder showing the stamped brush wear limiting line.",
+      "components": [
+        "Carbon brush",
+        "Brush holder",
+        "Brush wear line"
+      ],
+      "callouts": {
+        "Brush wear limiting line": "Limit line scored on brush body"
+      },
+      "measurements_and_specs": [
+        "Wear limit length: 7 mm (0.28 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Replace brush assembly if brush is worn down to the limiting line.",
+      "tags": [
+        "brush wear",
+        "limit line",
+        "brush holder"
+      ],
+      "dimensions": [
+        271,
+        296
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_47_measuring_spring_pressure",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_47_measuring_spring_pressure.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_47_measuring_spring_pressure.png",
+      "page_num": 19,
+      "page_label": "EE-19",
+      "fig_id": "Fig. EE-47",
+      "code": "EE049",
+      "caption": "Fig. EE-47 Measuring spring pressure",
+      "diagram_type": "inspection_measurement",
+      "description": "Measuring brush spring pressure with a spring balance while the brush tip projects 2 mm (0.08 in) from the holder.",
+      "components": [
+        "Brush holder",
+        "Carbon brush",
+        "Spring scale"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Projection: 2 mm (0.08 in)",
+        "New spring pressure: 255 to 345 gr (8.99 to 12.17 oz)",
+        "Rate of decrease: ~20 gr (0.71 oz) per 1 mm (0.04 in) wear"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Measure pressure when brush is projected exactly 2 mm from holder face.",
+      "tags": [
+        "brush spring pressure",
+        "spring balance",
+        "inspection"
+      ],
+      "dimensions": [
+        377,
+        305
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_48_tightening_pulley_nut",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_48_tightening_pulley_nut.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_48_tightening_pulley_nut.png",
+      "page_num": 19,
+      "page_label": "EE-19",
+      "fig_id": "Fig. EE-48",
+      "code": "EE051",
+      "caption": "Fig. EE-48 Tightening pulley nut",
+      "diagram_type": "procedure_step",
+      "description": "Tightening the alternator pulley nut with a torque wrench while securing the rotor shaft.",
+      "components": [
+        "Alternator pulley",
+        "Rotor shaft",
+        "Torque wrench"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Torque: 4.5 to 6.0 kg-m (33 to 43 ft-lb)",
+        "Pulley V-groove deflection limit: less than 0.3 mm (0.012 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Check that V-groove runout/deflection is under 0.3 mm after torquing nut.",
+      "tags": [
+        "pulley nut",
+        "tightening torque",
+        "pulley runout"
+      ],
+      "dimensions": [
+        319,
+        283
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_49_inserting_brush_lift",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_49_inserting_brush_lift.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_49_inserting_brush_lift.png",
+      "page_num": 19,
+      "page_label": "EE-19",
+      "fig_id": "Fig. EE-49",
+      "code": "EE540",
+      "caption": "Fig. EE-49 Inserting brush lift",
+      "diagram_type": "procedure_step",
+      "description": "Two-panel illustration showing how to push the brushes up and retain them using a brush lift wire inserted through the rear cover access hole, and then releasing it.",
+      "components": [
+        "Rear cover",
+        "Brush lift pin / wire",
+        "Brushes",
+        "Brush lift hole"
+      ],
+      "callouts": {
+        "Brush lift": "Retaining pin inserted from outside"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Insert wire from outside to hold brushes retracted during assembly. When withdrawing wire, push towards center to prevent damaging slip ring.",
+      "tags": [
+        "brush lift",
+        "assembly technique",
+        "slip ring protection"
+      ],
+      "dimensions": [
+        380,
+        654
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_50_testing_alternator",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_50_testing_alternator.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_50_testing_alternator.png",
+      "page_num": 20,
+      "page_label": "EE-20",
+      "fig_id": "Fig. EE-50",
+      "code": "EE684",
+      "caption": "Fig. EE-50 Testing alternator",
+      "diagram_type": "inspection_measurement",
+      "description": "Wiring test diagram for on-vehicle alternator performance test showing connection of voltmeter between BAT terminal and ground (E).",
+      "components": [
+        "Alternator",
+        "Battery",
+        "Voltmeter",
+        "BAT terminal",
+        "Ground terminal (E)"
+      ],
+      "callouts": {
+        "BAT": "Alternator output terminal",
+        "E": "Alternator ground",
+        "V": "Voltmeter (0-30V range)"
+      },
+      "measurements_and_specs": [
+        "Idle: Over 12.5V at 20\u00b0C (68\u00b0F)",
+        "2,400 rpm: Over 14.0V at 20\u00b0C (68\u00b0F)",
+        "Below 12.5V: Faulty"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Turn headlights on high beam before running test. Do not exceed 1,100 rpm during initial test, and do not race engine.",
+      "tags": [
+        "alternator test",
+        "voltmeter hookup",
+        "bench test",
+        "charging test"
+      ],
+      "dimensions": [
+        603,
+        419
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_51_ic_voltage_regulator",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_51_ic_voltage_regulator.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_51_ic_voltage_regulator.png",
+      "page_num": 21,
+      "page_label": "EE-21",
+      "fig_id": "Fig. EE-51",
+      "code": "EE629",
+      "caption": "Fig. EE-51 IC voltage regulator",
+      "diagram_type": "component_location",
+      "description": "Front and rear view of the integrated circuit (IC) voltage regulator unit attached to the brush holder, showing terminal markings E, F, L, S, B and model stamping TRIZ-27 12V.",
+      "components": [
+        "IC regulator module (TRIZ-27 12V FA8026 684 BSLFE)",
+        "Brush holder",
+        "Terminals E, F, L, S, B"
+      ],
+      "callouts": {
+        "E": "Earth / ground terminal",
+        "F": "Field terminal",
+        "L": "Warning lamp terminal",
+        "S": "Battery voltage sensor terminal",
+        "B": "Battery output terminal",
+        "Brush": "Carbon brush"
+      },
+      "measurements_and_specs": [
+        "Regulator stamp: TRIZ-27 12 V FAB026 684 BSLFE"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Unit is permanently sealed; if defective, replace entire IC regulator and brush assembly.",
+      "tags": [
+        "IC regulator",
+        "pinout",
+        "terminals",
+        "brush holder"
+      ],
+      "dimensions": [
+        913,
+        441
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_52_circuit_of_regulator",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_52_circuit_of_regulator.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_52_circuit_of_regulator.png",
+      "page_num": 21,
+      "page_label": "EE-21",
+      "fig_id": "Fig. EE-52",
+      "code": "EE630",
+      "caption": "Fig. EE-52 Circuit of regulator",
+      "diagram_type": "electrical_schematic",
+      "description": "Internal electronic circuit schematic of the IC voltage regulator showing terminal connections B, S, L, F, E, transistors Tr1, Tr2, Tr3, zener diode ZD, thermistor Rh, and biasing resistors.",
+      "components": [
+        "Transistors Tr1, Tr2, Tr3",
+        "Zener diode ZD",
+        "Diode D10",
+        "Thermistor Rh",
+        "Resistors R1, R2, R3, R4, R5",
+        "Terminals B, S, L, F, E"
+      ],
+      "callouts": {
+        "B,S,L,E,F": "Terminals",
+        "R": "Resistor",
+        "Rh": "Thermistor",
+        "Tr": "Transistor",
+        "ZD": "Zener diode",
+        "D": "Diode"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Thermistor Rh compensates regulated voltage based on ambient temperature.",
+      "tags": [
+        "regulator schematic",
+        "internal circuit",
+        "transistors",
+        "zener diode"
+      ],
+      "dimensions": [
+        736,
+        551
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_53_testing_regulator_step_2_to_5",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_53_testing_regulator_step_2_to_5.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_53_testing_regulator_step_2_to_5.png",
+      "page_num": 22,
+      "page_label": "EE-22",
+      "fig_id": "Fig. EE-53",
+      "code": "EE631",
+      "caption": "Fig. EE-53 Testing regulator",
+      "diagram_type": "electrical_schematic",
+      "description": "Wiring test setup for IC regulator bench testing steps 2 through 5, showing two 12V batteries, 10-ohm resistor R1, variable resistor Rv, voltmeters V1, V2, V3, V4, and terminals E, F, L, S, B.",
+      "components": [
+        "IC regulator",
+        "Battery 1 (BAT1)",
+        "Battery 2 (BAT2)",
+        "Resistor R1 (10\u03a9 20W)",
+        "Variable resistor Rv (0-300\u03a9 20W)",
+        "Voltmeters V1, V2, V3, V4"
+      ],
+      "callouts": {
+        "E, F, L, S, B": "IC regulator terminals",
+        "BAT1": "12V Battery 1",
+        "BAT2": "12V Battery 2",
+        "R1": "10-ohm 20W resistor",
+        "Rv": "0-300 ohm variable resistor"
+      },
+      "measurements_and_specs": [
+        "V1: 10 to 13V",
+        "V2 (S disconnected): Below 2.0V",
+        "V3: 20 to 26V"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Stop test if resistors become excessively hot. Terminal S connected to center tap of Rv.",
+      "tags": [
+        "regulator bench test",
+        "test circuit",
+        "potentiometer"
+      ],
+      "dimensions": [
+        577,
+        428
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_54_regulator_voltage_vs_temperature",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_54_regulator_voltage_vs_temperature.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_54_regulator_voltage_vs_temperature.png",
+      "page_num": 22,
+      "page_label": "EE-22",
+      "fig_id": "Fig. EE-54",
+      "code": "EE632",
+      "caption": "Fig. EE-54 Testing regulator",
+      "diagram_type": "graph_chart",
+      "description": "Characteristic graph showing acceptable band of voltage V4 (V) on Procedure (5) (13.0 to 15.5V) versus regulator case temperature (-30\u00b0C to 110\u00b0C / -22\u00b0F to 230\u00b0F).",
+      "components": [
+        "Voltage V4 axis",
+        "Regulator case temperature axis",
+        "Operating band curve"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "At -20\u00b0C (-4\u00b0F): 14.5 to 15.6V",
+        "At 20\u00b0C (68\u00b0F): 14.1 to 14.9V",
+        "At 100\u00b0C (212\u00b0F): 13.2 to 14.0V"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Regulated voltage decreases with increasing temperature due to internal thermistor compensation.",
+      "tags": [
+        "voltage regulation curve",
+        "temperature compensation",
+        "V4 specification"
+      ],
+      "dimensions": [
+        612,
+        510
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_55_testing_regulator_step_6",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_55_testing_regulator_step_6.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_55_testing_regulator_step_6.png",
+      "page_num": 22,
+      "page_label": "EE-22",
+      "fig_id": "Fig. EE-55",
+      "code": "EE633",
+      "caption": "Fig. EE-55 Testing regulator",
+      "diagram_type": "electrical_schematic",
+      "description": "Modified circuit schematic for step 6 test of the IC regulator with terminal S disconnected from Rv and connected to BAT1.",
+      "components": [
+        "IC regulator",
+        "Batteries BAT1, BAT2",
+        "Resistor R1",
+        "Variable resistor Rv",
+        "Voltmeters V1, V2, V3, V4"
+      ],
+      "callouts": {
+        "E, F, L, S, B": "IC regulator terminals",
+        "BAT1, BAT2": "Batteries",
+        "R1": "10-ohm resistor",
+        "Rv": "Variable resistor"
+      },
+      "measurements_and_specs": [
+        "V4 must be 0.5 to 2.0V higher than in step 5"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Verifies regulator sense circuit switching behavior.",
+      "tags": [
+        "regulator test step 6",
+        "test circuit",
+        "sense terminal"
+      ],
+      "dimensions": [
+        573,
+        428
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_56_ignition_system_circuit_diagram",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_56_ignition_system_circuit_diagram.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_56_ignition_system_circuit_diagram.png",
+      "page_num": 24,
+      "page_label": "EE-24",
+      "fig_id": "Fig. EE-56",
+      "code": "EE634",
+      "caption": "Fig. EE-56 Ignition system circuit diagram",
+      "diagram_type": "electrical_schematic",
+      "description": "Functional circuit diagram of the contactless ignition system showing primary and secondary circuits, connections between the battery, ignition switch, starter, ignition coil, transistor ignition unit, distributor reluctor, pick-up coil, rotor head, and six spark plugs.",
+      "components": [
+        "Battery",
+        "Ignition switch",
+        "Starter",
+        "Primary winding",
+        "Secondary winding",
+        "Transistor ignition unit",
+        "Pick-up coil",
+        "Reluctor",
+        "Distributor",
+        "Rotor head",
+        "Spark plugs"
+      ],
+      "callouts": {
+        "1": "Spark plug 1",
+        "2": "Spark plug 2",
+        "3": "Spark plug 3",
+        "4": "Spark plug 4",
+        "5": "Spark plug 5",
+        "6": "Spark plug 6"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Battery positive to ignition switch and starter",
+        "Ignition switch to ignition coil primary winding and transistor ignition unit",
+        "Pick-up coil signal wires to transistor ignition unit",
+        "Secondary winding high tension wire to distributor rotor head",
+        "Distributor cap terminals to spark plugs 1, 2, 3, 4, 5, 6"
+      ],
+      "mechanic_notes": "Pick-up coil detects reluctor tooth pass and triggers the transistor ignition unit to open coil primary current, collapsing magnetic flux to fire secondary spark.",
+      "tags": [
+        "ignition circuit",
+        "circuit diagram",
+        "distributor",
+        "transistor ignition unit",
+        "ignition coil",
+        "spark plug wiring"
+      ],
+      "dimensions": [
+        864,
+        664
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_57_ignition_system_circuit_diagram",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_57_ignition_system_circuit_diagram.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_57_ignition_system_circuit_diagram.png",
+      "page_num": 25,
+      "page_label": "EE-25",
+      "fig_id": "Fig. EE-57",
+      "code": "EE635",
+      "caption": "Fig. EE-57 Ignition system circuit diagram",
+      "diagram_type": "electrical_schematic",
+      "description": "Detailed electrical system wiring diagram showing full vehicle connections between fusible link, battery, engine earth, ignition switch, distributor, terminal block, condenser, ignition coil (+ and - terminals), and transistor ignition unit with wire colors.",
+      "components": [
+        "Fusible link",
+        "Battery",
+        "Engine earth",
+        "Ignition switch",
+        "Distributor",
+        "Spark plugs",
+        "Terminal block",
+        "Ignition coil",
+        "Condenser",
+        "Transistor ignition unit"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "B : Black (Earth/ground)",
+        "BW : Black with white stripe (Switched power)",
+        "WR : White with red stripe (Battery feed)",
+        "R : Red (Pick-up coil lead)",
+        "G : Green (Pick-up coil lead)",
+        "L : Blue (Ignition coil negative to transistor ignition unit)"
+      ],
+      "mechanic_notes": "Color codes: B = Black, BW = Black with white stripe, WR = White with red stripe, R = Red, G = Green, L = Blue. Condenser connects to BW lead at ignition coil (+).",
+      "tags": [
+        "wiring diagram",
+        "ignition system",
+        "color codes",
+        "terminal block",
+        "transistor ignition unit",
+        "fusible link"
+      ],
+      "dimensions": [
+        1061,
+        1489
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_58_exploded_view_of_distributor",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_58_exploded_view_of_distributor.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_58_exploded_view_of_distributor.png",
+      "page_num": 26,
+      "page_label": "EE-26",
+      "fig_id": "Fig. EE-58",
+      "code": "EE635",
+      "caption": "Fig. EE-58 Exploded view of distributor",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view diagram of the complete contactless distributor assembly showing internal and external components numbered 1 through 18.",
+      "components": [
+        "Cap assembly",
+        "Rotor head assembly",
+        "Roll pin",
+        "Reluctor",
+        "Pick-up coil",
+        "Contactor",
+        "Breaker plate assembly",
+        "Packing",
+        "Rotor shaft",
+        "Governor spring",
+        "Governor weight",
+        "Shaft assembly",
+        "Cap setter",
+        "Vacuum controller",
+        "Housing",
+        "Fixing plate",
+        "O-ring",
+        "Collar"
+      ],
+      "callouts": {
+        "1": "Cap assembly",
+        "2": "Rotor head assembly",
+        "3": "Roll pin",
+        "4": "Reluctor",
+        "5": "Pick-up coil",
+        "6": "Contactor",
+        "7": "Breaker plate assembly",
+        "8": "Packing",
+        "9": "Rotor shaft",
+        "10": "Governor spring",
+        "11": "Governor weight",
+        "12": "Shaft assembly",
+        "13": "Cap setter",
+        "14": "Vacuum controller",
+        "15": "Housing",
+        "16": "Fixing plate",
+        "17": "O-ring",
+        "18": "Collar"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "The contactor on the breaker plate is used to eliminate vacuum advance hysteresis. Reluctor is keyed to the shaft with a roll pin.",
+      "tags": [
+        "distributor",
+        "exploded view",
+        "breaker plate",
+        "reluctor",
+        "pick-up coil",
+        "governor weight",
+        "vacuum controller"
+      ],
+      "dimensions": [
+        1029,
+        787
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_59_checking_air_gap",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_59_checking_air_gap.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_59_checking_air_gap.png",
+      "page_num": 27,
+      "page_label": "EE-27",
+      "fig_id": "Fig. EE-59",
+      "code": "EE638",
+      "caption": "Fig. EE-59 Checking air gap",
+      "diagram_type": "inspection_measurement",
+      "description": "Measurement illustration showing a flat feeler gauge inserted into the air gap between a reluctor tooth and the pick-up coil pole piece.",
+      "components": [
+        "Distributor body",
+        "Reluctor",
+        "Pick-up coil",
+        "Feeler gauge"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Air gap: 0.2 to 0.4 mm (0.008 to 0.016 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Loosen pick-up coil screws to adjust gap to 0.2-0.4 mm (0.008-0.016 in).",
+      "tags": [
+        "air gap",
+        "distributor",
+        "pick-up coil",
+        "feeler gauge",
+        "reluctor"
+      ],
+      "dimensions": [
+        335,
+        340
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_60_removing_pick_up_coil",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_60_removing_pick_up_coil.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_60_removing_pick_up_coil.png",
+      "page_num": 27,
+      "page_label": "EE-27",
+      "fig_id": "Fig. EE-60",
+      "code": "EE636",
+      "caption": "Fig. EE-60 Removing pick-up coil",
+      "diagram_type": "procedure_step",
+      "description": "Procedure illustration showing removal of screws securing the pick-up coil assembly and harness within the distributor housing.",
+      "components": [
+        "Distributor housing",
+        "Pick-up coil assembly",
+        "Distributor harness",
+        "Screws",
+        "Screwdriver"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Distributor harness disconnected at terminal block"
+      ],
+      "mechanic_notes": "Disconnect distributor harness at terminal block prior to removing securing screws.",
+      "tags": [
+        "pick-up coil removal",
+        "distributor disassembly",
+        "harness screws"
+      ],
+      "dimensions": [
+        353,
+        340
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_61_removing_vacuum_controller",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_61_removing_vacuum_controller.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_61_removing_vacuum_controller.png",
+      "page_num": 28,
+      "page_label": "EE-28",
+      "fig_id": "Fig. EE-61",
+      "code": "EE637",
+      "caption": "Fig. EE-61 Removing vacuum controller",
+      "diagram_type": "procedure_step",
+      "description": "Removing the two retaining screws securing the vacuum controller assembly to the distributor body.",
+      "components": [
+        "Vacuum controller",
+        "Distributor body",
+        "Screws"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Detach vacuum controller after removing the two securing screws.",
+      "tags": [
+        "vacuum controller",
+        "distributor disassembly",
+        "vacuum advance"
+      ],
+      "dimensions": [
+        284,
+        314
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_62_removing_breaker_plate_setscrews",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_62_removing_breaker_plate_setscrews.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_62_removing_breaker_plate_setscrews.png",
+      "page_num": 28,
+      "page_label": "EE-28",
+      "fig_id": "Fig. EE-62",
+      "code": "EE296",
+      "caption": "Fig. EE-62 Removing breaker plate setscrews",
+      "diagram_type": "procedure_step",
+      "description": "Using a screwdriver to unscrew the setscrews retaining the breaker plate assembly inside the distributor.",
+      "components": [
+        "Distributor body",
+        "Breaker plate assembly",
+        "Setscrews",
+        "Screwdriver"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove breaker plate setscrews to take out the breaker plate.",
+      "tags": [
+        "breaker plate",
+        "distributor disassembly",
+        "setscrews"
+      ],
+      "dimensions": [
+        335,
+        297
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_63_removing_knock_pin",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_63_removing_knock_pin.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_63_removing_knock_pin.png",
+      "page_num": 28,
+      "page_label": "EE-28",
+      "fig_id": "Fig. EE-63",
+      "code": "EE639",
+      "caption": "Fig. EE-63 Removing knock pin",
+      "diagram_type": "procedure_step",
+      "description": "Driving the knock pin out of the distributor drive pinion gear using a hammer and small pin punch.",
+      "components": [
+        "Pinion gear",
+        "Distributor shaft",
+        "Knock pin",
+        "Pin punch",
+        "Hammer"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Punch knock pin out to detach the lower drive pinion.",
+      "tags": [
+        "knock pin",
+        "pinion",
+        "distributor shaft",
+        "pin punch"
+      ],
+      "dimensions": [
+        316,
+        323
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_64_removing_rotor_shaft_and_drive_shaft_assembly",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_64_removing_rotor_shaft_and_drive_shaft_assembly.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_64_removing_rotor_shaft_and_drive_shaft_assembly.png",
+      "page_num": 28,
+      "page_label": "EE-28",
+      "fig_id": "Fig. EE-64",
+      "code": "EE297",
+      "caption": "Fig. EE-64 Removing rotor shaft and drive shaft assembly",
+      "diagram_type": "procedure_step",
+      "description": "Withdrawing the rotor shaft and drive shaft sub-assembly upward out of the distributor housing.",
+      "components": [
+        "Distributor housing",
+        "Rotor shaft",
+        "Drive shaft assembly"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Slide the combined rotor shaft and drive shaft out of housing once pinion is removed.",
+      "tags": [
+        "rotor shaft",
+        "drive shaft",
+        "distributor housing"
+      ],
+      "dimensions": [
+        348,
+        314
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_65_removing_rotor_shaft",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_65_removing_rotor_shaft.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_65_removing_rotor_shaft.png",
+      "page_num": 28,
+      "page_label": "EE-28",
+      "fig_id": "Fig. EE-65",
+      "code": "EE075",
+      "caption": "Fig. EE-65 Removing rotor shaft",
+      "diagram_type": "procedure_step",
+      "description": "Unscrewing the internal rotor shaft setscrew from the top cavity of the rotor shaft with a screwdriver.",
+      "components": [
+        "Rotor shaft",
+        "Drive shaft",
+        "Setscrew",
+        "Screwdriver"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Mark rotor shaft and drive shaft first; remove packing from top of rotor shaft to access setscrew.",
+      "tags": [
+        "rotor shaft",
+        "setscrew",
+        "match marks",
+        "packing"
+      ],
+      "dimensions": [
+        348,
+        305
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_66_cam_to_contactor_clearance",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_66_cam_to_contactor_clearance.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_66_cam_to_contactor_clearance.png",
+      "page_num": 28,
+      "page_label": "EE-28",
+      "fig_id": "Fig. EE-66",
+      "code": "EE368",
+      "caption": "Fig. EE-66 Cam-to-contactor clearance",
+      "diagram_type": "inspection_measurement",
+      "description": "Diagram illustrating clearance adjustment between the distributor shaft cam lobe and contactor arm on the breaker plate.",
+      "components": [
+        "Cam",
+        "Contactor arm",
+        "Breaker plate"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Clearance: 0.3 mm (0.012 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Adjust cam-to-contactor clearance to exactly 0.3 mm (0.012 in) after reinstalling contactor.",
+      "tags": [
+        "contactor",
+        "cam clearance",
+        "breaker plate",
+        "clearance specification"
+      ],
+      "dimensions": [
+        360,
+        261
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_67_driving_in_roll_pin",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_67_driving_in_roll_pin.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_67_driving_in_roll_pin.png",
+      "page_num": 28,
+      "page_label": "EE-28",
+      "fig_id": "Fig. EE-67",
+      "code": "EE373",
+      "caption": "Fig. EE-67 Driving in roll pin",
+      "diagram_type": "alignment_orientation",
+      "description": "Diagram showing correct rotational orientation of the reluctor roll pin with its longitudinal slit facing outward.",
+      "components": [
+        "Reluctor",
+        "Shaft",
+        "Roll pin"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Always drive in roll pin with its slit toward the outer end of shaft. Always use a new roll pin.",
+      "tags": [
+        "roll pin",
+        "reluctor",
+        "distributor shaft",
+        "slit orientation"
+      ],
+      "dimensions": [
+        341,
+        357
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_68_transistor_ignition_unit_circuit_diagram",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_68_transistor_ignition_unit_circuit_diagram.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_68_transistor_ignition_unit_circuit_diagram.png",
+      "page_num": 30,
+      "page_label": "EE-30",
+      "fig_id": "Fig. EE-68",
+      "code": "EE689",
+      "caption": "Fig. EE-68 Transistor ignition unit circuit diagram",
+      "diagram_type": "electrical_schematic",
+      "description": "Functional block diagram of the transistor ignition unit internal sub-circuits and wiring connections to the starter, ignition switch, battery, ignition coil, and distributor.",
+      "components": [
+        "Transistor ignition unit",
+        "Power switching circuit",
+        "Duty control circuit",
+        "Spark timing signal monitoring circuit",
+        "Lock preventing circuit",
+        "Ignition switch",
+        "Battery",
+        "Ignition coil",
+        "Distributor",
+        "Starter"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Power switching circuit connected to ignition coil (-)",
+        "Lock preventing circuit and duty control circuit connected to power switching",
+        "Distributor pick-up leads to spark timing signal monitoring circuit",
+        "Ignition switch lead connected to starter and coil (+)"
+      ],
+      "mechanic_notes": "Unit contains power switching, duty control, spark timing monitoring, and lock preventing circuits.",
+      "tags": [
+        "transistor ignition unit",
+        "block diagram",
+        "lock preventing circuit",
+        "duty control circuit"
+      ],
+      "dimensions": [
+        667,
+        507
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_69_external_view_of_ignition_unit",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_69_external_view_of_ignition_unit.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_69_external_view_of_ignition_unit.png",
+      "page_num": 30,
+      "page_label": "EE-30",
+      "fig_id": "Fig. EE-69",
+      "code": "EE564",
+      "caption": "Fig. EE-69 External view of ignition unit",
+      "diagram_type": "component_location",
+      "description": "Perspective view of the transistor ignition unit casing and multi-wire plug connector showing the push-release latch.",
+      "components": [
+        "Transistor ignition unit housing",
+        "Harness connector plug",
+        "Push release latch"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Harness multi-pin connector"
+      ],
+      "mechanic_notes": "Located on right-hand dash side panel in passenger compartment. Push latch of connector to remove.",
+      "tags": [
+        "transistor ignition unit",
+        "connector",
+        "push latch",
+        "component location"
+      ],
+      "dimensions": [
+        347,
+        340
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_70_checking_power_supply_wiring_and_battery",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_70_checking_power_supply_wiring_and_battery.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_70_checking_power_supply_wiring_and_battery.png",
+      "page_num": 31,
+      "page_label": "EE-31",
+      "fig_id": "Fig. EE-70",
+      "code": "EE565",
+      "caption": "Fig. EE-70 Checking power supply wiring and battery",
+      "diagram_type": "procedure_step",
+      "description": "Connecting a DC voltmeter (50-volt range) between terminal BW (+) and terminal B (-) of the disconnected transistor ignition unit harness connector.",
+      "components": [
+        "Transistor ignition unit harness connector",
+        "Circuit tester / DC voltmeter",
+        "Terminal BW",
+        "Terminal B"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tester range: DC 50-volt range",
+        "Expected voltage: Power source (battery) voltage"
+      ],
+      "wiring_and_connections": [
+        "BW (Black/White)",
+        "B (Black)"
+      ],
+      "mechanic_notes": "Turn on ignition switch before measuring. Full battery voltage must be present across BW and B.",
+      "tags": [
+        "power supply check",
+        "battery check",
+        "harness connector",
+        "voltmeter"
+      ],
+      "dimensions": [
+        360,
+        253
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_71_checking_primary_circuit",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_71_checking_primary_circuit.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_71_checking_primary_circuit.png",
+      "page_num": 31,
+      "page_label": "EE-31",
+      "fig_id": "Fig. EE-71",
+      "code": "EE566",
+      "caption": "Fig. EE-71 Checking primary circuit",
+      "diagram_type": "procedure_step",
+      "description": "Connecting a DC voltmeter (50-volt range) between terminal L and terminal B on the disconnected transistor ignition unit connector.",
+      "components": [
+        "Transistor ignition unit harness connector",
+        "Circuit tester / DC voltmeter",
+        "Terminal L",
+        "Terminal B"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tester range: DC 50-volt range",
+        "Expected voltage: Normal battery voltage"
+      ],
+      "wiring_and_connections": [
+        "L (Blue)",
+        "B (Black)"
+      ],
+      "mechanic_notes": "Checks primary coil circuit continuity through the ignition switch and coil primary winding to connector terminal L.",
+      "tags": [
+        "primary circuit",
+        "ignition coil",
+        "continuity check",
+        "voltmeter"
+      ],
+      "dimensions": [
+        366,
+        252
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_72_checking_ignition_coil_assembly",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_72_checking_ignition_coil_assembly.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_72_checking_ignition_coil_assembly.png",
+      "page_num": 31,
+      "page_label": "EE-31",
+      "fig_id": "Fig. EE-72",
+      "code": "EE567",
+      "caption": "Fig. EE-72 Checking ignition coil assembly",
+      "diagram_type": "procedure_step",
+      "description": "Measuring resistance across the positive (+) and negative (-) primary terminals of the isolated ignition coil using an ohmmeter on x 1 range.",
+      "components": [
+        "Ignition coil",
+        "Positive (+) terminal",
+        "Negative (-) terminal",
+        "Ohmmeter"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tester range: Resistance x 1 range",
+        "Criterion: Approx. 0 ohm is OK; more than 1.8 ohm is N.G."
+      ],
+      "wiring_and_connections": [
+        "Engine room harness disconnected from coil"
+      ],
+      "mechanic_notes": "Disconnect engine room harness before checking resistance across (+) and (-) terminals.",
+      "tags": [
+        "ignition coil",
+        "primary resistance",
+        "ohmmeter"
+      ],
+      "dimensions": [
+        360,
+        375
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_73_checking_pick_up_coil",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_73_checking_pick_up_coil.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_73_checking_pick_up_coil.png",
+      "page_num": 32,
+      "page_label": "EE-32",
+      "fig_id": "Fig. EE-73",
+      "code": "EE568",
+      "caption": "Fig. EE-73 Checking pick-up coil",
+      "diagram_type": "procedure_step",
+      "description": "Connecting an ohmmeter (Resistance: x 10 range) between terminals G and R on the disconnected transistor ignition unit connector.",
+      "components": [
+        "Transistor ignition unit harness connector",
+        "Ohmmeter",
+        "Terminal G",
+        "Terminal R"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tester range: Resistance x 10 range",
+        "Standard resistance: Approximately 720 ohm"
+      ],
+      "wiring_and_connections": [
+        "G (Green)",
+        "R (Red)"
+      ],
+      "mechanic_notes": "Pick-up coil resistance must be approximately 720 ohms. Far less or more indicates faulty coil.",
+      "tags": [
+        "pick-up coil",
+        "continuity check",
+        "resistance",
+        "ohmmeter"
+      ],
+      "dimensions": [
+        360,
+        288
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_74_checking_pick_up_coil_power_signal_pulse",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_74_checking_pick_up_coil_power_signal_pulse.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_74_checking_pick_up_coil_power_signal_pulse.png",
+      "page_num": 32,
+      "page_label": "EE-32",
+      "fig_id": "Fig. EE-74",
+      "code": "EE569",
+      "caption": "Fig. EE-74 Checking pick-up coil power signal pulse",
+      "diagram_type": "procedure_step",
+      "description": "Connecting a circuit tester on AC 2.5-volt range across terminals G and R while cranking the engine with starter motor.",
+      "components": [
+        "Transistor ignition unit harness connector",
+        "AC voltmeter / circuit tester",
+        "Terminal G",
+        "Terminal R"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tester range: AC 2.5-volt range"
+      ],
+      "wiring_and_connections": [
+        "G (Green)",
+        "R (Red)"
+      ],
+      "mechanic_notes": "Disconnect cold start valve harness before test. The needle should deflect slightly while cranking.",
+      "tags": [
+        "pick-up coil",
+        "signal pulse",
+        "AC voltmeter",
+        "cranking"
+      ],
+      "dimensions": [
+        360,
+        288
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_75_checking_pick_up_coil_power_signal_pulse_oscilloscope",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_75_checking_pick_up_coil_power_signal_pulse_oscilloscope.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_75_checking_pick_up_coil_power_signal_pulse_oscilloscope.png",
+      "page_num": 32,
+      "page_label": "EE-32",
+      "fig_id": "Fig. EE-75",
+      "code": "EE570",
+      "caption": "Fig. EE-75 Checking pick-up coil power signal pulse",
+      "diagram_type": "procedure_step",
+      "description": "Connecting oscilloscope positive probe to terminal R and negative probe to terminal G of the ignition unit harness connector.",
+      "components": [
+        "Transistor ignition unit harness connector",
+        "Oscilloscope",
+        "Terminal R",
+        "Terminal G"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Oscilloscope SLOPE switch: positive side"
+      ],
+      "wiring_and_connections": [
+        "Oscilloscope (+) to R",
+        "Oscilloscope (-) to G"
+      ],
+      "mechanic_notes": "Set SLOPE switch to positive. Crank engine and observe generated waveform.",
+      "tags": [
+        "oscilloscope",
+        "pick-up coil pulse",
+        "signal verification"
+      ],
+      "dimensions": [
+        367,
+        305
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_76_wave_form_of_pick_up_coil",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_76_wave_form_of_pick_up_coil.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_76_wave_form_of_pick_up_coil.png",
+      "page_num": 32,
+      "page_label": "EE-32",
+      "fig_id": "Fig. EE-76",
+      "code": "EE268",
+      "caption": "Fig. EE-76 Wave form of pick-up coil",
+      "diagram_type": "graph_chart",
+      "description": "Oscilloscope waveform comparison of pick-up coil signal: continuous full line represents normal (OK), dashed line or absence represents abnormal (N.G.).",
+      "components": [
+        "Oscilloscope trace display"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "A full smooth sine-like waveform confirms normal pick-up coil signal generation.",
+      "tags": [
+        "waveform",
+        "pick-up coil",
+        "oscilloscope trace"
+      ],
+      "dimensions": [
+        347,
+        279
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_77_checking_operation_of_transistor_ignition_unit",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_77_checking_operation_of_transistor_ignition_unit.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_77_checking_operation_of_transistor_ignition_unit.png",
+      "page_num": 33,
+      "page_label": "EE-33",
+      "fig_id": "Fig. EE-77",
+      "code": "EE571",
+      "caption": "Fig. EE-77 Checking operation of transistor ignition unit",
+      "diagram_type": "procedure_step",
+      "description": "Connecting oscilloscope positive lead to ignition coil (-) terminal and negative lead to body metal ground.",
+      "components": [
+        "Oscilloscope",
+        "Ignition coil",
+        "Ignition coil (-) terminal",
+        "Body metal ground"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Oscilloscope positive probe to coil (-) terminal",
+        "Oscilloscope negative probe to body ground"
+      ],
+      "mechanic_notes": "Tests transistor unit primary switching by monitoring primary voltage waveform at coil negative terminal.",
+      "tags": [
+        "oscilloscope",
+        "ignition coil",
+        "transistor ignition unit",
+        "switching waveform"
+      ],
+      "dimensions": [
+        565,
+        393
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_78_wave_form_of_pulse",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_78_wave_form_of_pulse.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_78_wave_form_of_pulse.png",
+      "page_num": 33,
+      "page_label": "EE-33",
+      "fig_id": "Fig. EE-78",
+      "code": "EE452",
+      "caption": "Fig. EE-78 Wave form of pulse",
+      "diagram_type": "graph_chart",
+      "description": "Oscilloscope voltage waveform traces: pattern (a) displays a proper high-voltage induced primary spike (OK); pattern (b) displays a deformed/flat pulse (N.G.).",
+      "components": [
+        "Oscilloscope display pattern (a)",
+        "Oscilloscope display pattern (b)"
+      ],
+      "callouts": {
+        "a": "Normal primary pulse spike (OK)",
+        "b": "Abnormal low/flat pulse (N.G.)"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Pattern (a) confirms proper switching transistor operation. Pattern (b) indicates internal transistor unit defect.",
+      "tags": [
+        "waveform",
+        "pulse trace",
+        "oscilloscope",
+        "transistor ignition unit"
+      ],
+      "dimensions": [
+        673,
+        296
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_79_wave_form_of_duty_pulse",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_79_wave_form_of_duty_pulse.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_79_wave_form_of_duty_pulse.png",
+      "page_num": 33,
+      "page_label": "EE-33",
+      "fig_id": "Fig. EE-79",
+      "code": "EE257",
+      "caption": "Fig. EE-79 Wave form of duty pulse",
+      "diagram_type": "graph_chart",
+      "description": "Oscilloscope trace illustrating duty cycle measurement at engine idle, showing conduction time t, total cycle period T, and formula t/T x 100 = 8 to 20%.",
+      "components": [
+        "Duty pulse waveform",
+        "Conduction time (t)",
+        "Cycle period (T)"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Formula: (t / T) * 100 = 8 to 20% (at idling)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Measure at engine idle speed. Duty ratio must be within 8% to 20%.",
+      "tags": [
+        "duty pulse",
+        "dwell angle",
+        "oscilloscope",
+        "duty ratio",
+        "idling"
+      ],
+      "dimensions": [
+        372,
+        297
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_80_checking_lock_preventive_circuit",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_80_checking_lock_preventive_circuit.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_80_checking_lock_preventive_circuit.png",
+      "page_num": 34,
+      "page_label": "EE-34",
+      "fig_id": "Fig. EE-80",
+      "code": "EE572",
+      "caption": "Fig. EE-80 Checking lock preventive circuit",
+      "diagram_type": "procedure_step",
+      "description": "Connecting a DC voltmeter (50-volt range) between the ignition coil (-) terminal and body metal ground to check the lock preventive circuit.",
+      "components": [
+        "Ignition coil",
+        "Ignition coil (-) terminal",
+        "Voltmeter / circuit tester",
+        "Body metal ground"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tester range: DC 50-volt range",
+        "Expected voltage: Power source (battery) voltage as soon as switch is turned ON"
+      ],
+      "wiring_and_connections": [
+        "Voltmeter (+) to ignition coil (-) terminal",
+        "Voltmeter (-) to body ground"
+      ],
+      "mechanic_notes": "When ignition switch is turned on without cranking, tester should immediately read battery voltage, verifying primary current cut-off.",
+      "tags": [
+        "lock preventive circuit",
+        "voltmeter",
+        "ignition coil",
+        "transistor ignition unit"
+      ],
+      "dimensions": [
+        545,
+        515
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_81_wave_form_of_lock_preventive_circuit",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_81_wave_form_of_lock_preventive_circuit.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_81_wave_form_of_lock_preventive_circuit.png",
+      "page_num": 34,
+      "page_label": "EE-34",
+      "fig_id": "Fig. EE-81",
+      "code": "EE430",
+      "caption": "Fig. EE-81 Wave form of lock preventive circuit",
+      "diagram_type": "graph_chart",
+      "description": "Oscilloscope voltage trace showing rapid rise from 0V up to power source (battery) voltage immediately upon turning ignition switch ON.",
+      "components": [
+        "Oscilloscope voltage trace",
+        "0V reference line",
+        "Power source voltage level",
+        "Ignition switch ON marker"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Voltage level: 0V to Power source voltage"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Waveform must sharply transition to full battery voltage upon switch closure, confirming lock prevention cut-off.",
+      "tags": [
+        "lock preventive circuit",
+        "waveform",
+        "oscilloscope trace"
+      ],
+      "dimensions": [
+        692,
+        437
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_82_wiring_diagram_item_1_power_supply_wiring_and_battery_check",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_82_wiring_diagram_item_1_power_supply_wiring_and_battery_check.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_82_wiring_diagram_item_1_power_supply_wiring_and_battery_check.png",
+      "page_num": 35,
+      "page_label": "EE-35",
+      "fig_id": "Fig. EE-82",
+      "code": "EE690",
+      "caption": "Fig. EE-82 Wiring diagram for item (1) (Power supply wiring and battery check)",
+      "diagram_type": "electrical_schematic",
+      "description": "Schematic highlighting in bold the power feed and ground circuit for test Item 1: from battery positive through fusible link and ignition switch to connector terminal BW, and from connector terminal B to earth ground.",
+      "components": [
+        "Battery",
+        "Fusible link",
+        "Ignition switch",
+        "Ignition coil assembly",
+        "Distributor",
+        "Terminal block",
+        "Connector",
+        "Ignition unit",
+        "Power switching circuit",
+        "Duty control circuit",
+        "Spark timing, signal monitoring circuit",
+        "Lock preventing circuit"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "B: Black (Ground)",
+        "BW: Black with white stripe (Switched battery feed)",
+        "L: Blue",
+        "R: Red",
+        "G: Green"
+      ],
+      "mechanic_notes": "Bold traces illustrate the exact supply and ground paths tested during Item 1 power supply verification.",
+      "tags": [
+        "wiring diagram",
+        "item 1",
+        "power supply check",
+        "battery check",
+        "schematic"
+      ],
+      "dimensions": [
+        1081,
+        1358
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_83_wiring_diagram_item_2_1_checking_primary_circuit",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_83_wiring_diagram_item_2_1_checking_primary_circuit.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_83_wiring_diagram_item_2_1_checking_primary_circuit.png",
+      "page_num": 36,
+      "page_label": "EE-36",
+      "fig_id": "Fig. EE-83",
+      "code": "EE691",
+      "caption": "Fig. EE-83 Wiring diagram for item (2)-1 (Checking primary circuit)",
+      "diagram_type": "electrical_schematic",
+      "description": "Schematic highlighting in bold the primary ignition circuit path for test Item 2-1: battery positive, fusible link, ignition switch, ignition coil (+) and (-) terminals, through lead L to the disconnected ignition unit connector.",
+      "components": [
+        "Battery",
+        "Fusible link",
+        "Ignition switch",
+        "Ignition coil assembly",
+        "Distributor",
+        "Terminal block",
+        "Connector",
+        "Ignition unit",
+        "Power switching circuit",
+        "Duty control circuit",
+        "Spark timing, signal monitoring circuit",
+        "Lock preventing circuit"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "BW: Black/White (Ignition switch to coil +)",
+        "L: Blue (Coil - to connector pin L)",
+        "B: Black (Ground pin B)"
+      ],
+      "mechanic_notes": "Bold lines show the complete circuit path tested when verifying primary coil voltage at connector pins L and B.",
+      "tags": [
+        "wiring diagram",
+        "item 2-1",
+        "primary circuit check",
+        "schematic"
+      ],
+      "dimensions": [
+        1036,
+        1348
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_84_wiring_diagram_item_2_2_checking_ignition_coil_assembly",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_84_wiring_diagram_item_2_2_checking_ignition_coil_assembly.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_84_wiring_diagram_item_2_2_checking_ignition_coil_assembly.png",
+      "page_num": 37,
+      "page_label": "EE-37",
+      "fig_id": "Fig. EE-84",
+      "code": "EE692",
+      "caption": "Fig. EE-84 Wiring diagram for item (2)-2 (Checking ignition coil assembly)",
+      "diagram_type": "electrical_schematic",
+      "description": "Schematic highlighting in bold the isolated ignition coil assembly for test Item 2-2 coil internal resistance measurement.",
+      "components": [
+        "Ignition coil assembly",
+        "Battery",
+        "Fusible link",
+        "Ignition switch",
+        "Distributor",
+        "Terminal block",
+        "Connector",
+        "Ignition unit"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Coil (+) terminal",
+        "Coil (-) terminal"
+      ],
+      "mechanic_notes": "Bold lines highlight the ignition coil alone, isolated from vehicle harness for primary winding testing.",
+      "tags": [
+        "wiring diagram",
+        "item 2-2",
+        "ignition coil check",
+        "schematic"
+      ],
+      "dimensions": [
+        1036,
+        1331
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_85_wiring_diagram_item_3_pick_up_coil_continuity_check",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_85_wiring_diagram_item_3_pick_up_coil_continuity_check.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_85_wiring_diagram_item_3_pick_up_coil_continuity_check.png",
+      "page_num": 38,
+      "page_label": "EE-38",
+      "fig_id": "Fig. EE-85",
+      "code": "EE693",
+      "caption": "Fig. EE-85 Wiring diagram for item (3) (Pick-up coil continuity check)",
+      "diagram_type": "electrical_schematic",
+      "description": "Schematic highlighting in bold the distributor pick-up coil circuit for test Item 3: distributor pick-up coil, terminal block, and red (R) and green (G) wires connecting to the ignition unit harness plug.",
+      "components": [
+        "Distributor pick-up coil",
+        "Terminal block",
+        "Connector",
+        "Ignition unit",
+        "Ignition coil assembly",
+        "Battery",
+        "Fusible link",
+        "Ignition switch"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "R: Red wire (Pick-up coil)",
+        "G: Green wire (Pick-up coil)"
+      ],
+      "mechanic_notes": "Bold lines highlight the signal wiring from distributor pick-up coil through terminal block to connector terminals G and R.",
+      "tags": [
+        "wiring diagram",
+        "item 3",
+        "pick-up coil continuity",
+        "schematic"
+      ],
+      "dimensions": [
+        1061,
+        1339
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_86_wiring_diagram_item_5_transistor_ignition_unit_check",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_86_wiring_diagram_item_5_transistor_ignition_unit_check.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_86_wiring_diagram_item_5_transistor_ignition_unit_check.png",
+      "page_num": 39,
+      "page_label": "EE-39",
+      "fig_id": "Fig. EE-86",
+      "code": "EE694",
+      "caption": "Fig. EE-86 Wiring diagram for item (5) (Transistor ignition unit check)",
+      "diagram_type": "electrical_schematic",
+      "description": "Schematic highlighting in bold the complete operating transistor ignition unit and all interconnected circuits during dynamic testing (Item 5).",
+      "components": [
+        "Transistor ignition unit",
+        "Power switching circuit",
+        "Duty control circuit",
+        "Spark timing, signal monitoring circuit",
+        "Lock preventing circuit",
+        "Connector",
+        "Battery",
+        "Fusible link",
+        "Ignition switch",
+        "Ignition coil assembly",
+        "Distributor",
+        "Terminal block"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "B: Black (Ground)",
+        "BW: Black/White (Ignition switch power)",
+        "L: Blue (Coil primary -)",
+        "R: Red (Pick-up signal)",
+        "G: Green (Pick-up signal)"
+      ],
+      "mechanic_notes": "Bold lines show all connected harnesses and components active during Item 5 unit functional testing.",
+      "tags": [
+        "wiring diagram",
+        "item 5",
+        "transistor ignition unit check",
+        "schematic"
+      ],
+      "dimensions": [
+        1068,
+        1322
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_87_correct_installation_of_high_tension_wire",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_87_correct_installation_of_high_tension_wire.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_87_correct_installation_of_high_tension_wire.png",
+      "page_num": 40,
+      "page_label": "EE-40",
+      "fig_id": "Fig. EE-87",
+      "code": "EE354",
+      "caption": "Fig. EE-87 Correct installation of high tension wire",
+      "diagram_type": "alignment_orientation",
+      "description": "Cross-sectional drawing showing proper seating of the high tension wire terminal and protective rubber cap onto the ignition coil secondary tower.",
+      "components": [
+        "High tension wire",
+        "Rubber cap",
+        "Ignition coil tower"
+      ],
+      "callouts": {
+        "1": "High tension wire",
+        "2": "Rubber cap"
+      },
+      "measurements_and_specs": [
+        "Clearance: No clearance between caps"
+      ],
+      "wiring_and_connections": [
+        "High tension wire secondary connection"
+      ],
+      "mechanic_notes": "Push rubber cap fully down so there is zero clearance between rubber cap and coil cap to prevent arcing.",
+      "tags": [
+        "high tension wire",
+        "rubber cap",
+        "ignition coil",
+        "installation"
+      ],
+      "dimensions": [
+        367,
+        358
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_88_sectional_view_of_ignition_coil",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_88_sectional_view_of_ignition_coil.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_88_sectional_view_of_ignition_coil.png",
+      "page_num": 40,
+      "page_label": "EE-40",
+      "fig_id": "Fig. EE-88",
+      "code": "EE578",
+      "caption": "Fig. EE-88 Sectional view of ignition coil",
+      "diagram_type": "cutaway_flow",
+      "description": "Internal cross-sectional cutaway view of the oil-filled ignition coil showing all 12 numbered internal and external parts.",
+      "components": [
+        "Rubber cap for ignition coil",
+        "Secondary terminal",
+        "Cap",
+        "Primary terminal",
+        "Spring",
+        "Secondary winding",
+        "Primary winding",
+        "Side core",
+        "Insulator",
+        "Center core",
+        "Segment",
+        "Case"
+      ],
+      "callouts": {
+        "1": "Rubber cap for ignition coil",
+        "2": "Secondary terminal",
+        "3": "Cap",
+        "4": "Primary terminal",
+        "5": "Spring",
+        "6": "Secondary winding",
+        "7": "Primary winding",
+        "8": "Side core",
+        "9": "Insulator",
+        "10": "Center core",
+        "11": "Segment",
+        "12": "Case"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Primary terminals (+) and (-)",
+        "Secondary center high tension socket"
+      ],
+      "mechanic_notes": "Case is oil-filled for optimal heat radiation and insulation; cap is made of arc-resistant alkyd resin.",
+      "tags": [
+        "ignition coil",
+        "cutaway",
+        "sectional view",
+        "primary winding",
+        "secondary winding",
+        "center core"
+      ],
+      "dimensions": [
+        660,
+        726
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_89_spark_plug",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_89_spark_plug.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_89_spark_plug.png",
+      "page_num": 41,
+      "page_label": "EE-41",
+      "fig_id": "Fig. EE-89",
+      "code": "EE079",
+      "caption": "Fig. EE-89 Spark plug",
+      "diagram_type": "inspection_measurement",
+      "description": "Visual comparison showing spark plug electrode condition under four operating states: Normal, Carbon fouled, Overheating, and Worn.",
+      "components": [
+        "Spark plug insulator",
+        "Center electrode",
+        "Side (ground) electrode",
+        "Threaded shell"
+      ],
+      "callouts": {
+        "Normal": "Normal operation (brown to grayish-tan deposits)",
+        "Carbon fouled": "Carbon fouled (dry fluffy black carbon)",
+        "Overheating": "Overheating (white/light gray insulator, burnt electrodes)",
+        "Worn": "Worn (rounded/eroded electrodes)"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Diagnose combustion and heat range from spark plug appearance. Use hot plug for short trips, cold plug for continuous high-speed/towing operation.",
+      "tags": [
+        "spark plug",
+        "inspection",
+        "carbon fouled",
+        "overheating",
+        "electrode wear"
+      ],
+      "dimensions": [
+        641,
+        533
+      ]
+    },
+    {
+      "section_title": "SECTION EE - ENGINE ELECTRICAL",
+      "source_md": "1978 280z FSM/EE Engine Electrical.md",
+      "slug": "fig_ee_90_setting_spark_plug_gap",
+      "file": "markdown/1978 280z FSM/diagrams/EE Engine Electrical/fig_ee_90_setting_spark_plug_gap.png",
+      "rel_link": "diagrams/EE Engine Electrical/fig_ee_90_setting_spark_plug_gap.png",
+      "page_num": 42,
+      "page_label": "EE-42",
+      "fig_id": "Fig. EE-90",
+      "code": "EE080",
+      "caption": "Fig. EE-90 Setting spark plug gap",
+      "diagram_type": "procedure_step",
+      "description": "Using a wire feeler gauge and bending slot tool to measure and adjust the spark plug side ground electrode gap.",
+      "components": [
+        "Spark plug",
+        "Round wire feeler gauge",
+        "Electrode bending tool"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Standard plug gap: 1.0 to 1.1 mm (0.039 to 0.043 in)",
+        "Canada plug gap: 0.7 to 0.8 mm (0.028 to 0.031 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Measure with a round wire feeler gauge. Always reset gap by carefully bending the ground electrode; never bend the center electrode.",
+      "tags": [
+        "spark plug gap",
+        "feeler gauge",
+        "regapping",
+        "electrode adjustment"
+      ],
+      "dimensions": [
+        373,
+        261
+      ]
+    }
+  ],
+  "torques": [
+    {
+      "component": "Starting motor terminal nuts",
+      "unit": "kg-cm (in-lb)",
+      "value": "115 to 160 (100 to 139)",
+      "page_label": "EE-11"
+    },
+    {
+      "component": "Starting motor magnetic switch attaching bolts",
+      "unit": "kg-cm (in-lb)",
+      "value": "38 to 51 (33 to 44)",
+      "page_label": "EE-11"
+    },
+    {
+      "component": "Starting motor gear case attaching bolts",
+      "unit": "kg-cm (in-lb)",
+      "value": "64 to 85 (56 to 74)",
+      "page_label": "EE-11"
+    },
+    {
+      "component": "Alternator pulley nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "4.5 to 6.0 (33 to 43)",
+      "page_label": "EE-19, EE-20"
+    },
+    {
+      "component": "Alternator through bolts",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.35 to 0.40 (2.5 to 2.9)",
+      "page_label": "EE-20"
+    },
+    {
+      "component": "Spark plug",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.5 to 2.0 (11 to 14)",
+      "page_label": "EE-41"
+    },
+    {
+      "component": "Spark plug",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.5 to 2.0 (11 to 14)",
+      "page_label": "EE-42"
+    }
+  ],
+  "specs": [
+    {
+      "system": "Battery",
+      "item": "Specific gravity of electrolyte (standard at 20\u00b0C / 68\u00b0F)",
+      "unit": "sp gr",
+      "standard": "1.260 [or 1.280 (N70Z)]",
+      "limit": "Recharge if below 1.200 (60% charge)",
+      "page_label": "EE-2, EE-3"
+    },
+    {
+      "system": "Battery",
+      "item": "Maximum recharging electrolyte temperature",
+      "unit": "\u00b0C (\u00b0F)",
+      "standard": "Do not exceed 45 (113)",
+      "limit": "45 (113)",
+      "page_label": "EE-3"
+    },
+    {
+      "system": "Starting Motor",
+      "item": "Model",
+      "unit": "-",
+      "standard": "Hitachi S114-254 (Reduction gear type)",
+      "limit": "-",
+      "page_label": "EE-4, EE-11"
+    },
+    {
+      "system": "Starting Motor",
+      "item": "System voltage",
+      "unit": "V",
+      "standard": "12",
+      "limit": "-",
+      "page_label": "EE-11"
+    },
+    {
+      "system": "Starting Motor",
+      "item": "No load terminal voltage",
+      "unit": "V",
+      "standard": "12",
+      "limit": "-",
+      "page_label": "EE-11"
+    },
+    {
+      "system": "Starting Motor",
+      "item": "No load current draw",
+      "unit": "A",
+      "standard": "Less than 100",
+      "limit": "100",
+      "page_label": "EE-11"
+    },
+    {
+      "system": "Starting Motor",
+      "item": "No load revolution",
+      "unit": "rpm",
+      "standard": "More than 4,300",
+      "limit": "4,300",
+      "page_label": "EE-11"
+    },
+    {
+      "system": "Starting Motor",
+      "item": "Pinion gear adjusting washer thickness",
+      "unit": "mm (in)",
+      "standard": "0.5 (0.020), 0.8 (0.031)",
+      "limit": "-",
+      "page_label": "EE-10, EE-11"
+    },
+    {
+      "system": "Starting Motor",
+      "item": "Pinion front edge clearance 'l' (pushed by switch vs pulled by hand)",
+      "unit": "mm (in)",
+      "standard": "0.3 to 1.5 (0.012 to 0.059)",
+      "limit": "0.3 to 1.5 (0.012 to 0.059)",
+      "page_label": "EE-10, EE-11"
+    },
+    {
+      "system": "Starting Motor",
+      "item": "Commutator outer diameter",
+      "unit": "mm (in)",
+      "standard": "-",
+      "limit": "More than 29 (1.14) [Wear limit 1 mm (0.04 in)]",
+      "page_label": "EE-8, EE-11"
+    },
+    {
+      "system": "Starting Motor",
+      "item": "Commutator mica undercut depth",
+      "unit": "mm (in)",
+      "standard": "0.5 to 0.8 (0.020 to 0.031)",
+      "limit": "Undercut when less than 0.2 (0.008)",
+      "page_label": "EE-8, EE-9"
+    },
+    {
+      "system": "Starting Motor",
+      "item": "Brush length",
+      "unit": "mm (in)",
+      "standard": "-",
+      "limit": "More than 11 (0.43)",
+      "page_label": "EE-8, EE-11"
+    },
+    {
+      "system": "Starting Motor",
+      "item": "Brush spring tension",
+      "unit": "kg (lb)",
+      "standard": "1.6 to 2.0 (3.5 to 4.4)",
+      "limit": "1.6 (3.5)",
+      "page_label": "EE-8, EE-11"
+    },
+    {
+      "system": "Alternator",
+      "item": "Model",
+      "unit": "-",
+      "standard": "Hitachi LR160-42",
+      "limit": "-",
+      "page_label": "EE-20"
+    },
+    {
+      "system": "Alternator",
+      "item": "Nominal rating",
+      "unit": "V-A",
+      "standard": "12-60",
+      "limit": "-",
+      "page_label": "EE-20"
+    },
+    {
+      "system": "Alternator",
+      "item": "Ground polarity",
+      "unit": "-",
+      "standard": "Negative",
+      "limit": "-",
+      "page_label": "EE-20"
+    },
+    {
+      "system": "Alternator",
+      "item": "Minimum revolution under no load (at 14 V)",
+      "unit": "rpm",
+      "standard": "Less than 1,000",
+      "limit": "1,000",
+      "page_label": "EE-20"
+    },
+    {
+      "system": "Alternator",
+      "item": "Hot output current",
+      "unit": "A/rpm",
+      "standard": "60/500 [alternator rpm / engine speed relation, pulley ratio 2.09]",
+      "limit": "-",
+      "page_label": "EE-20"
+    },
+    {
+      "system": "Alternator",
+      "item": "Pulley ratio",
+      "unit": "-",
+      "standard": "2.09",
+      "limit": "-",
+      "page_label": "EE-20"
+    },
+    {
+      "system": "Alternator",
+      "item": "Pulley V-groove deflection (runout)",
+      "unit": "mm (in)",
+      "standard": "Less than 0.3 (0.012)",
+      "limit": "0.3 (0.012)",
+      "page_label": "EE-19"
+    },
+    {
+      "system": "Alternator",
+      "item": "Brush length",
+      "unit": "mm (in)",
+      "standard": "-",
+      "limit": "More than 7 (0.28)",
+      "page_label": "EE-19, EE-20"
+    },
+    {
+      "system": "Alternator",
+      "item": "Brush spring pressure",
+      "unit": "gr (oz)",
+      "standard": "255 to 345 (8.99 to 12.17) [at 2 mm (0.08 in) projection]",
+      "limit": "Rate of decrease: ~20 gr (0.71 oz) per 1 mm wear",
+      "page_label": "EE-19, EE-20"
+    },
+    {
+      "system": "Alternator",
+      "item": "Slip ring outer diameter",
+      "unit": "mm (in)",
+      "standard": "-",
+      "limit": "More than 30 (1.18)",
+      "page_label": "EE-20"
+    },
+    {
+      "system": "Alternator",
+      "item": "Regulating voltage",
+      "unit": "V",
+      "standard": "14.4 to 15.0 [at 20\u00b0C (68\u00b0F)]",
+      "limit": "14.4 to 15.0",
+      "page_label": "EE-20, EE-22"
+    },
+    {
+      "system": "Distributor",
+      "item": "Air gap",
+      "unit": "mm (in)",
+      "standard": "0.2 to 0.4 (0.008 to 0.016)",
+      "limit": "",
+      "page_label": "EE-27"
+    },
+    {
+      "system": "Distributor",
+      "item": "Vacuum advance (California D6F4-03)",
+      "unit": "Distributor degree/distributor mmHg (inHg)",
+      "standard": "0\u00b0/200 (7.87), 7.5\u00b0/350 (13.78)",
+      "limit": "",
+      "page_label": "EE-27"
+    },
+    {
+      "system": "Distributor",
+      "item": "Vacuum advance (Non-California U.S.A. M/T D6F5-02, Canada M/T D6F6-06)",
+      "unit": "Distributor degree/distributor mmHg (inHg)",
+      "standard": "0\u00b0/150 (5.91), 9\u00b0/295 (11.61)",
+      "limit": "",
+      "page_label": "EE-27"
+    },
+    {
+      "system": "Distributor",
+      "item": "Vacuum advance (Non-California U.S.A. A/T D6F5-03, Canada A/T D6F6-07)",
+      "unit": "Distributor degree/distributor mmHg (inHg)",
+      "standard": "0\u00b0/150 (5.91), 5\u00b0/250 (9.84)",
+      "limit": "",
+      "page_label": "EE-27"
+    },
+    {
+      "system": "Distributor",
+      "item": "Centrifugal advance (All models)",
+      "unit": "Distributor degree/distributor rpm",
+      "standard": "0\u00b0/600, 8.5\u00b0/1,250",
+      "limit": "",
+      "page_label": "EE-27"
+    },
+    {
+      "system": "Distributor",
+      "item": "Cam-to-contactor clearance",
+      "unit": "mm (in)",
+      "standard": "0.3 (0.012)",
+      "limit": "",
+      "page_label": "EE-28"
+    },
+    {
+      "system": "Distributor",
+      "item": "Firing order",
+      "unit": "",
+      "standard": "1-5-3-6-2-4",
+      "limit": "",
+      "page_label": "EE-29"
+    },
+    {
+      "system": "Distributor",
+      "item": "Rotating direction",
+      "unit": "",
+      "standard": "Counterclockwise",
+      "limit": "",
+      "page_label": "EE-29"
+    },
+    {
+      "system": "Distributor",
+      "item": "Duty",
+      "unit": "%",
+      "standard": "70% (8 to 20% at idling)",
+      "limit": "",
+      "page_label": "EE-29"
+    },
+    {
+      "system": "Distributor",
+      "item": "Air gap",
+      "unit": "mm (in)",
+      "standard": "0.2 to 0.4 (0.008 to 0.016)",
+      "limit": "",
+      "page_label": "EE-29"
+    },
+    {
+      "system": "Distributor",
+      "item": "Cap insulation resistance",
+      "unit": "M\u03a9",
+      "standard": "More than 50",
+      "limit": "",
+      "page_label": "EE-29"
+    },
+    {
+      "system": "Distributor",
+      "item": "Rotor head insulation resistance",
+      "unit": "M\u03a9",
+      "standard": "More than 50",
+      "limit": "",
+      "page_label": "EE-29"
+    },
+    {
+      "system": "Distributor",
+      "item": "Cap carbon point length",
+      "unit": "mm (in)",
+      "standard": "10 (0.39)",
+      "limit": "",
+      "page_label": "EE-29"
+    },
+    {
+      "system": "Ignition Coil",
+      "item": "Primary winding resistance (Quick check)",
+      "unit": "\u03a9",
+      "standard": "Approximately 0",
+      "limit": "More than 1.8",
+      "page_label": "EE-32"
+    },
+    {
+      "system": "Distributor",
+      "item": "Pick-up coil resistance",
+      "unit": "\u03a9",
+      "standard": "Approximately 720",
+      "limit": "",
+      "page_label": "EE-32"
+    },
+    {
+      "system": "Transistor Ignition Unit",
+      "item": "Duty pulse ratio t/T (at idling)",
+      "unit": "%",
+      "standard": "8 to 20",
+      "limit": "",
+      "page_label": "EE-33"
+    },
+    {
+      "system": "Ignition System",
+      "item": "Secondary spark test clearance",
+      "unit": "mm (in)",
+      "standard": "4 to 5 (0.16 to 0.20)",
+      "limit": "",
+      "page_label": "EE-33"
+    },
+    {
+      "system": "Ignition Coil",
+      "item": "Type",
+      "unit": "",
+      "standard": "C1T-30, STC-30",
+      "limit": "",
+      "page_label": "EE-40"
+    },
+    {
+      "system": "Ignition Coil",
+      "item": "Primary voltage",
+      "unit": "V",
+      "standard": "12",
+      "limit": "",
+      "page_label": "EE-40"
+    },
+    {
+      "system": "Ignition Coil",
+      "item": "Spark gap",
+      "unit": "mm (in)",
+      "standard": "more than 7 (0.28)",
+      "limit": "",
+      "page_label": "EE-40"
+    },
+    {
+      "system": "Ignition Coil",
+      "item": "Primary resistance at 20\u00b0C (68\u00b0F)",
+      "unit": "\u03a9",
+      "standard": "0.84 to 1.02",
+      "limit": "",
+      "page_label": "EE-40"
+    },
+    {
+      "system": "Ignition Coil",
+      "item": "Secondary resistance at 20\u00b0C (68\u00b0F)",
+      "unit": "k\u03a9",
+      "standard": "8.2 to 12.4",
+      "limit": "",
+      "page_label": "EE-40"
+    },
+    {
+      "system": "Spark Plug",
+      "item": "Thread diameter",
+      "unit": "mm (in)",
+      "standard": "14 (0.55)",
+      "limit": "",
+      "page_label": "EE-41"
+    },
+    {
+      "system": "Spark Plug",
+      "item": "Plug gap (USA standard)",
+      "unit": "mm (in)",
+      "standard": "1.0 to 1.1 (0.039 to 0.043)",
+      "limit": "",
+      "page_label": "EE-41"
+    },
+    {
+      "system": "Spark Plug",
+      "item": "Plug gap (Canada)",
+      "unit": "mm (in)",
+      "standard": "0.7 to 0.8 (0.028 to 0.031)",
+      "limit": "",
+      "page_label": "EE-41"
+    },
+    {
+      "system": "Spark Plug",
+      "item": "Standard type",
+      "unit": "",
+      "standard": "B6ES-11, L45W-11, BR6ES (Canada)",
+      "limit": "",
+      "page_label": "EE-42"
+    },
+    {
+      "system": "Spark Plug",
+      "item": "Hot type",
+      "unit": "",
+      "standard": "B5ES-11, L46W-11, BR5ES (Canada)",
+      "limit": "",
+      "page_label": "EE-42"
+    },
+    {
+      "system": "Spark Plug",
+      "item": "Cold type",
+      "unit": "",
+      "standard": "B7ES-11, L44W-11, BR7ES (Canada)",
+      "limit": "",
+      "page_label": "EE-42"
+    },
+    {
+      "system": "Spark Plug",
+      "item": "Plug gap (Standard)",
+      "unit": "mm (in)",
+      "standard": "1.0 to 1.1 (0.039 to 0.043)",
+      "limit": "",
+      "page_label": "EE-42"
+    },
+    {
+      "system": "Spark Plug",
+      "item": "Plug gap (Canada)",
+      "unit": "mm (in)",
+      "standard": "0.7 to 0.8 (0.028 to 0.031)",
+      "limit": "",
+      "page_label": "EE-42"
+    },
+    {
+      "system": "Ignition System",
+      "item": "Spark length",
+      "unit": "mm (in)",
+      "standard": "More than 6 (0.236)",
+      "limit": "",
+      "page_label": "EE-43"
+    }
+  ],
+  "troubleshooting": [
+    {
+      "symptom": "Starting motor will not operate",
+      "probable_cause": "Discharged battery",
+      "corrective_action": "Charge or replace battery.",
+      "page_label": "EE-12"
+    },
+    {
+      "symptom": "Starting motor will not operate",
+      "probable_cause": "Damaged solenoid switch",
+      "corrective_action": "Repair or replace solenoid switch.",
+      "page_label": "EE-12"
+    },
+    {
+      "symptom": "Starting motor will not operate",
+      "probable_cause": "Loose connections of terminal",
+      "corrective_action": "Clean and tighten terminal.",
+      "page_label": "EE-12"
+    },
+    {
+      "symptom": "Starting motor will not operate",
+      "probable_cause": "Damaged field coil",
+      "corrective_action": "Replace yoke.",
+      "page_label": "EE-12"
+    },
+    {
+      "symptom": "Starting motor will not operate",
+      "probable_cause": "Damaged brushes",
+      "corrective_action": "Replace brushes.",
+      "page_label": "EE-12"
+    },
+    {
+      "symptom": "Starting motor will not operate",
+      "probable_cause": "Damaged bearing",
+      "corrective_action": "Replace bearing.",
+      "page_label": "EE-12"
+    },
+    {
+      "symptom": "Starting motor will not operate",
+      "probable_cause": "Starting motor inoperative",
+      "corrective_action": "Remove starting motor and make test.",
+      "page_label": "EE-12"
+    },
+    {
+      "symptom": "Starting motor will not operate",
+      "probable_cause": "Damaged armature",
+      "corrective_action": "Replace armature.",
+      "page_label": "EE-12"
+    },
+    {
+      "symptom": "Noisy starting motor",
+      "probable_cause": "Loose securing bolt",
+      "corrective_action": "Tighten.",
+      "page_label": "EE-12"
+    },
+    {
+      "symptom": "Noisy starting motor",
+      "probable_cause": "Worn pinion gear",
+      "corrective_action": "Replace.",
+      "page_label": "EE-12"
+    },
+    {
+      "symptom": "Noisy starting motor",
+      "probable_cause": "Poor lubrication",
+      "corrective_action": "Add oil.",
+      "page_label": "EE-12"
+    },
+    {
+      "symptom": "Noisy starting motor",
+      "probable_cause": "Worn commutator",
+      "corrective_action": "Replace.",
+      "page_label": "EE-12"
+    },
+    {
+      "symptom": "Noisy starting motor",
+      "probable_cause": "Worn brushes",
+      "corrective_action": "Replace.",
+      "page_label": "EE-12"
+    },
+    {
+      "symptom": "Starting motor cranks slowly",
+      "probable_cause": "Discharged battery",
+      "corrective_action": "Charge.",
+      "page_label": "EE-12"
+    },
+    {
+      "symptom": "Starting motor cranks slowly",
+      "probable_cause": "Loose connection of terminal",
+      "corrective_action": "Clean and tighten.",
+      "page_label": "EE-12"
+    },
+    {
+      "symptom": "Starting motor cranks slowly",
+      "probable_cause": "Worn brushes",
+      "corrective_action": "Replace.",
+      "page_label": "EE-12"
+    },
+    {
+      "symptom": "Starting motor cranks slowly",
+      "probable_cause": "Locked brushes",
+      "corrective_action": "Inspect brush spring tension or repair brush holder.",
+      "page_label": "EE-12"
+    },
+    {
+      "symptom": "Starting motor cranks slowly",
+      "probable_cause": "Damaged field coil",
+      "corrective_action": "Replace yoke.",
+      "page_label": "EE-12"
+    },
+    {
+      "symptom": "Starting motor cranks slowly",
+      "probable_cause": "Damaged bearing",
+      "corrective_action": "Replace bearing.",
+      "page_label": "EE-12"
+    },
+    {
+      "symptom": "Starting motor cranks slowly",
+      "probable_cause": "Damaged armature",
+      "corrective_action": "Replace armature.",
+      "page_label": "EE-12"
+    },
+    {
+      "symptom": "Alternator output below 12.5 Volts during on-vehicle test",
+      "probable_cause": "Alternator out of order (faulty IC regulator, open/grounded rotor coil, damaged stator coil, open/shorted diodes, worn brushes)",
+      "corrective_action": "Remove and check alternator condition; inspect diodes, rotor, stator, and IC regulator.",
+      "page_label": "EE-20"
+    },
+    {
+      "symptom": "No output",
+      "probable_cause": "Sticking brushes.",
+      "corrective_action": "Correct or replace brushes and brush springs.",
+      "page_label": "EE-23"
+    },
+    {
+      "symptom": "No output",
+      "probable_cause": "Dirty brushes and slip rings.",
+      "corrective_action": "Clean.",
+      "page_label": "EE-23"
+    },
+    {
+      "symptom": "No output",
+      "probable_cause": "Loose connections or broken leads.",
+      "corrective_action": "Retighten or solder connections. Replace leads if necessary.",
+      "page_label": "EE-23"
+    },
+    {
+      "symptom": "No output",
+      "probable_cause": "Open stator winding.",
+      "corrective_action": "Replace.",
+      "page_label": "EE-23"
+    },
+    {
+      "symptom": "No output",
+      "probable_cause": "Open rotor winding.",
+      "corrective_action": "Replace.",
+      "page_label": "EE-23"
+    },
+    {
+      "symptom": "No output",
+      "probable_cause": "Open diodes.",
+      "corrective_action": "Replace.",
+      "page_label": "EE-23"
+    },
+    {
+      "symptom": "No output",
+      "probable_cause": "Shorted rotor.",
+      "corrective_action": "Replace.",
+      "page_label": "EE-23"
+    },
+    {
+      "symptom": "No output",
+      "probable_cause": "Shorted stator.",
+      "corrective_action": "Replace.",
+      "page_label": "EE-23"
+    },
+    {
+      "symptom": "No output",
+      "probable_cause": "Grounded \"A\" terminal.",
+      "corrective_action": "Replace insulator.",
+      "page_label": "EE-23"
+    },
+    {
+      "symptom": "No output",
+      "probable_cause": "Broken fan belt.",
+      "corrective_action": "Replace.",
+      "page_label": "EE-23"
+    },
+    {
+      "symptom": "Excessive output",
+      "probable_cause": "Voltage regulator breakdown.",
+      "corrective_action": "Check regulator operation and repair or replace as required.",
+      "page_label": "EE-23"
+    },
+    {
+      "symptom": "Excessive output",
+      "probable_cause": "Poor grounding of alternator and voltage regulator \"E\" terminal.",
+      "corrective_action": "Retighten terminal connection.",
+      "page_label": "EE-23"
+    },
+    {
+      "symptom": "Excessive output",
+      "probable_cause": "Broken ground wire (color of wire is black.)",
+      "corrective_action": "Replace.",
+      "page_label": "EE-23"
+    },
+    {
+      "symptom": "Low output",
+      "probable_cause": "Loose or worn fan belt.",
+      "corrective_action": "Retighten or replace.",
+      "page_label": "EE-23"
+    },
+    {
+      "symptom": "Low output",
+      "probable_cause": "Sticking brushes.",
+      "corrective_action": "Correct or replace brushes and springs if necessary.",
+      "page_label": "EE-23"
+    },
+    {
+      "symptom": "Low output",
+      "probable_cause": "Low brush spring tension.",
+      "corrective_action": "Replace brush springs.",
+      "page_label": "EE-23"
+    },
+    {
+      "symptom": "Low output",
+      "probable_cause": "Voltage regulator breakdown.",
+      "corrective_action": "Check regulator operation and repair or replace as required.",
+      "page_label": "EE-23"
+    },
+    {
+      "symptom": "Low output",
+      "probable_cause": "Dirty slip rings.",
+      "corrective_action": "Clean.",
+      "page_label": "EE-23"
+    },
+    {
+      "symptom": "Low output",
+      "probable_cause": "Partial short, ground, or open in stator winding.",
+      "corrective_action": "Replace stator.",
+      "page_label": "EE-23"
+    },
+    {
+      "symptom": "Low output",
+      "probable_cause": "Partially shorted or grounded rotor winding.",
+      "corrective_action": "Replace rotor.",
+      "page_label": "EE-23"
+    },
+    {
+      "symptom": "Low output",
+      "probable_cause": "Open or damaged diode.",
+      "corrective_action": "Replace diode.",
+      "page_label": "EE-23"
+    },
+    {
+      "symptom": "Noisy alternator",
+      "probable_cause": "Loose mounting.",
+      "corrective_action": "Retighten bolts.",
+      "page_label": "EE-23"
+    },
+    {
+      "symptom": "Noisy alternator",
+      "probable_cause": "Loose drive pulley.",
+      "corrective_action": "Retighten.",
+      "page_label": "EE-23"
+    },
+    {
+      "symptom": "Noisy alternator",
+      "probable_cause": "Broken ball bearing.",
+      "corrective_action": "Replace.",
+      "page_label": "EE-23"
+    },
+    {
+      "symptom": "Noisy alternator",
+      "probable_cause": "Improperly seated brushes.",
+      "corrective_action": "Seat correctly.",
+      "page_label": "EE-23"
+    },
+    {
+      "symptom": "No spark at all (Distributor)",
+      "probable_cause": "Breakage of lead-wire on low tension side.",
+      "corrective_action": "Repair.",
+      "page_label": "EE-43"
+    },
+    {
+      "symptom": "No spark at all (Distributor)",
+      "probable_cause": "Poor insulation of cap and rotor head.",
+      "corrective_action": "Replace.",
+      "page_label": "EE-43"
+    },
+    {
+      "symptom": "No spark at all (Distributor)",
+      "probable_cause": "Open pick-up coil.",
+      "corrective_action": "Replace.",
+      "page_label": "EE-43"
+    },
+    {
+      "symptom": "No spark at all (Distributor)",
+      "probable_cause": "Air gap wider than specification.",
+      "corrective_action": "Adjust.",
+      "page_label": "EE-43"
+    },
+    {
+      "symptom": "No spark at all (Ignition coil)",
+      "probable_cause": "Wire breakage or short circuit of coil.",
+      "corrective_action": "Replace with new one.",
+      "page_label": "EE-43"
+    },
+    {
+      "symptom": "No spark at all (High tension wire)",
+      "probable_cause": "Wire coming off.",
+      "corrective_action": "Repair.",
+      "page_label": "EE-43"
+    },
+    {
+      "symptom": "No spark at all (High tension wire)",
+      "probable_cause": "Faulty insulation.",
+      "corrective_action": "Replace.",
+      "page_label": "EE-43"
+    },
+    {
+      "symptom": "No spark at all (Transistor ignition unit)",
+      "probable_cause": "Faulty transistor ignition unit.",
+      "corrective_action": "Replace.",
+      "page_label": "EE-43"
+    },
+    {
+      "symptom": "No spark at all (Transistor ignition unit)",
+      "probable_cause": "Breakage of circuit.",
+      "corrective_action": "Replace.",
+      "page_label": "EE-43"
+    },
+    {
+      "symptom": "No spark at all (Transistor ignition unit)",
+      "probable_cause": "Detaching of connection.",
+      "corrective_action": "Repair.",
+      "page_label": "EE-43"
+    },
+    {
+      "symptom": "Spark length More than 6 mm (0.236 in) (Spark plugs)",
+      "probable_cause": "Spark plug gap too wide.",
+      "corrective_action": "Correct or replace.",
+      "page_label": "EE-43"
+    },
+    {
+      "symptom": "Spark length More than 6 mm (0.236 in) (Spark plugs)",
+      "probable_cause": "Too much carbon.",
+      "corrective_action": "Clean or replace.",
+      "page_label": "EE-43"
+    },
+    {
+      "symptom": "Spark length More than 6 mm (0.236 in) (Spark plugs)",
+      "probable_cause": "Broken neck of insulator.",
+      "corrective_action": "Replace.",
+      "page_label": "EE-43"
+    },
+    {
+      "symptom": "Spark length More than 6 mm (0.236 in) (Spark plugs)",
+      "probable_cause": "Expiration of plug life.",
+      "corrective_action": "Replace.",
+      "page_label": "EE-43"
+    },
+    {
+      "symptom": "Spark length More than 6 mm (0.236 in) (Distributor)",
+      "probable_cause": "Air gap too wide.",
+      "corrective_action": "Correct.",
+      "page_label": "EE-43"
+    },
+    {
+      "symptom": "Spark length More than 6 mm (0.236 in) (Transistor ignition unit)",
+      "probable_cause": "Faulty transistor ignition unit.",
+      "corrective_action": "Replace.",
+      "page_label": "EE-43"
+    },
+    {
+      "symptom": "Spark length More than 6 mm (0.236 in) (Transistor ignition unit)",
+      "probable_cause": "Breakage of circuit.",
+      "corrective_action": "Replace.",
+      "page_label": "EE-43"
+    },
+    {
+      "symptom": "Spark length More than 6 mm (0.236 in) (Transistor ignition unit)",
+      "probable_cause": "Detaching of connection.",
+      "corrective_action": "Repair.",
+      "page_label": "EE-43"
+    },
+    {
+      "symptom": "Engine misses (Distributor)",
+      "probable_cause": "Foreign matter on pick-up coil.",
+      "corrective_action": "Clean.",
+      "page_label": "EE-44"
+    },
+    {
+      "symptom": "Engine misses (Distributor)",
+      "probable_cause": "Improper air gap.",
+      "corrective_action": "Correct.",
+      "page_label": "EE-44"
+    },
+    {
+      "symptom": "Engine misses (Distributor)",
+      "probable_cause": "Leak of electricity at cap and rotor head.",
+      "corrective_action": "Repair or replace.",
+      "page_label": "EE-44"
+    },
+    {
+      "symptom": "Engine misses (Distributor)",
+      "probable_cause": "Breakage of pick-up coil lead wire.",
+      "corrective_action": "Replace.",
+      "page_label": "EE-44"
+    },
+    {
+      "symptom": "Engine misses (Distributor)",
+      "probable_cause": "Worn or shaky breaker plate.",
+      "corrective_action": "Replace assembly.",
+      "page_label": "EE-44"
+    },
+    {
+      "symptom": "Engine misses (Distributor)",
+      "probable_cause": "Worn or shaky distributor driving shaft.",
+      "corrective_action": "Replace assembly.",
+      "page_label": "EE-44"
+    },
+    {
+      "symptom": "Engine misses (Ignition coil)",
+      "probable_cause": "Layer short circuit or inferior quality coil.",
+      "corrective_action": "Replace with good one.",
+      "page_label": "EE-44"
+    },
+    {
+      "symptom": "Engine misses (High tension wire)",
+      "probable_cause": "Deterioration of insulation with consequent leak of electricity.",
+      "corrective_action": "Replace.",
+      "page_label": "EE-44"
+    },
+    {
+      "symptom": "Engine misses (Spark plugs)",
+      "probable_cause": "Fouled.",
+      "corrective_action": "Clean.",
+      "page_label": "EE-44"
+    },
+    {
+      "symptom": "Engine misses (Spark plugs)",
+      "probable_cause": "Leak of electricity at upper porcelain insulator.",
+      "corrective_action": "Repair or replace.",
+      "page_label": "EE-44"
+    },
+    {
+      "symptom": "Engine misses (Spark plugs)",
+      "probable_cause": "Spark plug gap too narrow.",
+      "corrective_action": "Correct or replace.",
+      "page_label": "EE-44"
+    },
+    {
+      "symptom": "Engine misses (Transistor ignition unit)",
+      "probable_cause": "Faulty transistor ignition unit.",
+      "corrective_action": "Replace.",
+      "page_label": "EE-44"
+    },
+    {
+      "symptom": "Engine misses (Transistor ignition unit)",
+      "probable_cause": "Breakage of circuit.",
+      "corrective_action": "Replace.",
+      "page_label": "EE-44"
+    },
+    {
+      "symptom": "Engine misses (Transistor ignition unit)",
+      "probable_cause": "Detaching of connection.",
+      "corrective_action": "Repair.",
+      "page_label": "EE-44"
+    },
+    {
+      "symptom": "Engine causes knocking very often (Distributor)",
+      "probable_cause": "Improper ignition timing (too advanced).",
+      "corrective_action": "Correct.",
+      "page_label": "EE-44"
+    },
+    {
+      "symptom": "Engine causes knocking very often (Distributor)",
+      "probable_cause": "Coming off or breakage of governor spring.",
+      "corrective_action": "Correct or replace.",
+      "page_label": "EE-44"
+    },
+    {
+      "symptom": "Engine causes knocking very often (Distributor)",
+      "probable_cause": "Worn pin or hole of governor.",
+      "corrective_action": "Replace.",
+      "page_label": "EE-44"
+    },
+    {
+      "symptom": "Engine causes knocking very often (Spark plugs)",
+      "probable_cause": "Burnt too much.",
+      "corrective_action": "Replace.",
+      "page_label": "EE-44"
+    },
+    {
+      "symptom": "Engine does not deliver enough power (Distributor)",
+      "probable_cause": "Improper ignition timing (too retarded).",
+      "corrective_action": "Correct.",
+      "page_label": "EE-44"
+    },
+    {
+      "symptom": "Engine does not deliver enough power (Distributor)",
+      "probable_cause": "Improper functioning governor.",
+      "corrective_action": "Replace assembly.",
+      "page_label": "EE-44"
+    },
+    {
+      "symptom": "Engine does not deliver enough power (Distributor)",
+      "probable_cause": "Foreign particles stuck in air gap.",
+      "corrective_action": "Clean.",
+      "page_label": "EE-44"
+    },
+    {
+      "symptom": "Engine does not deliver enough power (Spark plugs)",
+      "probable_cause": "Fouled.",
+      "corrective_action": "Clean.",
+      "page_label": "EE-44"
+    }
+  ],
+  "special_tools": []
+}

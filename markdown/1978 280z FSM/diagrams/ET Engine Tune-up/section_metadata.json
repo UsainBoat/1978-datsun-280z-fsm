@@ -1,0 +1,2426 @@
+{
+  "section_title": "ENGINE TUNE-UP",
+  "source_pdf": "1978 280z FSM/ET Engine Tune-up.pdf",
+  "md_path": "1978 280z FSM/ET Engine Tune-up.md",
+  "pages_count": 22,
+  "diagrams": [
+    {
+      "section_title": "ENGINE TUNE-UP",
+      "source_md": "1978 280z FSM/ET Engine Tune-up.md",
+      "slug": "fig_et_1_l28_engine_system_piping",
+      "file": "markdown/1978 280z FSM/diagrams/ET Engine Tune-up/fig_et_1_l28_engine_system_piping.png",
+      "rel_link": "diagrams/ET Engine Tune-up/fig_et_1_l28_engine_system_piping.png",
+      "page_num": 3,
+      "page_label": "ET-3",
+      "fig_id": "Fig. ET-1",
+      "code": "ET431",
+      "caption": "Fig. ET-1 L28 engine system piping",
+      "diagram_type": "vacuum_routing",
+      "description": "Comprehensive schematic of the L28 engine system piping, detailing the routing of vacuum lines, fuel feed/return hoses, emission hoses, and coolant lines around the engine, intake manifold, throttle chamber, EGR/BPT valves, carbon canister, and pressure regulator.",
+      "components": [
+        "Purge control valve",
+        "Carbon canister",
+        "Vapor vent line",
+        "Canister purge line",
+        "Carbon canister to 3-way connector vacuum hose",
+        "Fuel filter",
+        "Fuel feed rubber hose",
+        "Fuel return rubber hose",
+        "Thermal transmitter",
+        "Thermotime switch",
+        "Water temperature sensor",
+        "3-way connector to distributor vacuum hose",
+        "Anti-stall dash pot (Manual Transmission only)",
+        "3-way connector to throttle chamber vacuum hose",
+        "Throttle chamber",
+        "Idle speed adjusting screw",
+        "Throttle chamber to air regulator rubber hose",
+        "Throttle valve switch",
+        "Air duct to air regulator pipe rubber hose",
+        "Cold start valve",
+        "Cold start valve to fuel pipe rubber hose",
+        "Throttle chamber to thermal vacuum valve vacuum hose",
+        "Air regulator",
+        "Heater housing to water pipe rubber hose",
+        "Thermal vacuum valve",
+        "Air regulator to air regulator pipe rubber hose",
+        "Air regulator pipe",
+        "Thermal vacuum valve to vacuum delay valve vacuum hose",
+        "Throttle chamber to rocker cover rubber hose",
+        "Vacuum delay valve",
+        "Vacuum delay valve to B.P.T. valve vacuum hose",
+        "B.P.T. valve",
+        "B.P.T. valve to E.G.R. control valve vacuum hose",
+        "E.G.R. control valve",
+        "Thermal vacuum valve to B.P.T. valve vacuum hose",
+        "Injector holder",
+        "Injector",
+        "Fuel pipe",
+        "Fuel pipe to pressure regulator rubber hose",
+        "Pressure regulator to intake manifold vacuum hose",
+        "Pressure regulator",
+        "Rubber hose to thermostat housing water pipe",
+        "Pressure regulator to Fuel pipe rubber hose",
+        "Heater housing to water pipe rubber hose",
+        "Rubber hose to cylinder head water pipe"
+      ],
+      "callouts": {
+        "1": "Purge control valve",
+        "2": "Carbon canister",
+        "3": "Vapor vent line",
+        "4": "Canister purge line",
+        "5": "Carbon canister to 3-way connector vacuum hose",
+        "6": "Fuel filter",
+        "7": "Fuel feed rubber hose",
+        "8": "Fuel return rubber hose",
+        "9": "Thermal transmitter",
+        "10": "Thermotime switch",
+        "11": "Water temperature sensor",
+        "12": "3-way connector to distributor vacuum hose",
+        "13": "Anti-stall dash pot (Manual Transmission only)",
+        "14": "3-way connector to throttle chamber vacuum hose",
+        "15": "Throttle chamber",
+        "16": "Idle speed adjusting screw",
+        "17": "Throttle chamber to air regulator rubber hose",
+        "18": "Throttle valve switch",
+        "19": "Air duct to air regulator pipe rubber hose",
+        "20": "Cold start valve",
+        "21": "Cold start valve to fuel pipe rubber hose",
+        "22": "Throttle chamber to thermal vacuum valve vacuum hose",
+        "23": "Air regulator",
+        "24": "Heater housing to water pipe rubber hose",
+        "25": "Thermal vacuum valve",
+        "26": "Air regulator to air regulator pipe rubber hose",
+        "27": "Air regulator pipe",
+        "28": "Thermal vacuum valve to vacuum delay valve vacuum hose (* California models only)",
+        "29": "Throttle chamber to rocker cover rubber hose",
+        "30": "Vacuum delay valve (* California models only)",
+        "31": "Vacuum delay valve to B.P.T. valve vacuum hose (* California models only)",
+        "32": "B.P.T. valve",
+        "33": "B.P.T. valve to E.G.R. control valve vacuum hose",
+        "34": "E.G.R. control valve",
+        "35": "Thermal vacuum valve to B.P.T. valve vacuum hose (** Non-California models only)",
+        "36": "Injector holder",
+        "37": "Injector",
+        "38": "Fuel pipe",
+        "39": "Fuel pipe to pressure regulator rubber hose",
+        "40": "Pressure regulator to intake manifold vacuum hose",
+        "41": "Pressure regulator",
+        "42": "Rubber hose to thermostat housing water pipe",
+        "43": "Pressure regulator to Fuel pipe rubber hose",
+        "44": "Heater housing to water pipe rubber hose",
+        "45": "Rubber hose to cylinder head water pipe"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Carbon canister purge line to throttle chamber",
+        "Distributor vacuum line via 3-way connector",
+        "EGR control vacuum lines via TVV and VDV (California) or TVV (Non-California)",
+        "Fuel rail feed and return plumbing",
+        "Coolant piping from heater housing and thermostat housing"
+      ],
+      "mechanic_notes": "California models incorporate Vacuum Delay Valve (30) between Thermal Vacuum Valve (25) and B.P.T. Valve (32); Non-California models connect directly via hose (35).",
+      "tags": [
+        "L28",
+        "piping",
+        "vacuum routing",
+        "emission system",
+        "EGR",
+        "BPT valve",
+        "canister",
+        "fuel piping"
+      ],
+      "dimensions": [
+        1091,
+        1501
+      ]
+    },
+    {
+      "section_title": "ENGINE TUNE-UP",
+      "source_md": "1978 280z FSM/ET Engine Tune-up.md",
+      "slug": "fig_et_2_adjusting_valve_clearance",
+      "file": "markdown/1978 280z FSM/diagrams/ET Engine Tune-up/fig_et_2_adjusting_valve_clearance.png",
+      "rel_link": "diagrams/ET Engine Tune-up/fig_et_2_adjusting_valve_clearance.png",
+      "page_num": 4,
+      "page_label": "ET-4",
+      "fig_id": "Fig. ET-2",
+      "code": "ET420",
+      "caption": "Fig. ET-2 Adjusting valve clearance",
+      "diagram_type": "procedure_step",
+      "description": "Illustration showing valve clearance adjustment using Pivot Adjuster ST10640001 and feeler gauge on an OHC L-series cylinder head, with valve positions numbered 1 through 12 from front to rear.",
+      "components": [
+        "ST10640001 Pivot adjuster",
+        "Feeler gauge",
+        "Rocker arm pivot lock nut",
+        "Rocker arm pivot screw",
+        "Camshaft lobes 1-12"
+      ],
+      "callouts": {
+        "1": "Exhaust valve No. 1",
+        "2": "Intake valve No. 1",
+        "3": "Intake valve No. 2",
+        "4": "Exhaust valve No. 2",
+        "5": "Intake valve No. 3",
+        "6": "Exhaust valve No. 3",
+        "7": "Exhaust valve No. 4",
+        "8": "Intake valve No. 4",
+        "9": "Intake valve No. 5",
+        "10": "Exhaust valve No. 5",
+        "11": "Intake valve No. 6",
+        "12": "Exhaust valve No. 6"
+      },
+      "measurements_and_specs": [
+        "Intake (Hot): 0.25 mm (0.010 in)",
+        "Exhaust (Hot): 0.30 mm (0.012 in)",
+        "Pivot lock nut torque: 5.0 to 6.0 kg-m (36 to 43 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Engine oil temperature must be above 80\u00b0C (176\u00b0F). Never adjust with engine running. Rotate crankshaft four complete turns to complete all four adjustment steps.",
+      "tags": [
+        "valve clearance",
+        "ST10640001",
+        "feeler gauge",
+        "rocker arm",
+        "cam lobe",
+        "lash adjustment"
+      ],
+      "dimensions": [
+        371,
+        314
+      ]
+    },
+    {
+      "section_title": "ENGINE TUNE-UP",
+      "source_md": "1978 280z FSM/ET Engine Tune-up.md",
+      "slug": "fig_et_3_fan_belt_tension",
+      "file": "markdown/1978 280z FSM/diagrams/ET Engine Tune-up/fig_et_3_fan_belt_tension.png",
+      "rel_link": "diagrams/ET Engine Tune-up/fig_et_3_fan_belt_tension.png",
+      "page_num": 4,
+      "page_label": "ET-4",
+      "fig_id": "Fig. ET-3",
+      "code": "EM612",
+      "caption": "Fig. ET-3 Fan belt tension",
+      "diagram_type": "inspection_measurement",
+      "description": "Illustration demonstrating fan belt tension measurement using thumb pressure midway between alternator pulley and fan pulley.",
+      "components": [
+        "Fan belt",
+        "Alternator pulley",
+        "Fan pulley",
+        "Cooling fan"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Deflection: 8 to 12 mm (0.315 to 0.472 in)",
+        "Thumb pressure: 10 kg (22 lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Check for cracks or damage prior to tension measurement.",
+      "tags": [
+        "fan belt",
+        "belt tension",
+        "deflection",
+        "alternator pulley"
+      ],
+      "dimensions": [
+        353,
+        340
+      ]
+    },
+    {
+      "section_title": "ENGINE TUNE-UP",
+      "source_md": "1978 280z FSM/ET Engine Tune-up.md",
+      "slug": "fig_et_4_cooler_compressor_belt_tension",
+      "file": "markdown/1978 280z FSM/diagrams/ET Engine Tune-up/fig_et_4_cooler_compressor_belt_tension.png",
+      "rel_link": "diagrams/ET Engine Tune-up/fig_et_4_cooler_compressor_belt_tension.png",
+      "page_num": 4,
+      "page_label": "ET-4",
+      "fig_id": "Fig. ET-4",
+      "code": "ET194",
+      "caption": "Fig. ET-4 Cooler compressor belt tension",
+      "diagram_type": "inspection_measurement",
+      "description": "Illustration of cooler (air conditioning) compressor belt tension check and idler pulley adjustment bolt.",
+      "components": [
+        "Cooler compressor belt",
+        "Idler pulley",
+        "Idler pulley bolt",
+        "Compressor pulley"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Deflection: 8 to 12 mm (0.315 to 0.472 in)",
+        "Thumb pressure: 10 kg (22 lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Adjust tension by turning idler pulley bolt in or out.",
+      "tags": [
+        "air conditioning",
+        "compressor belt",
+        "idler pulley",
+        "belt tension"
+      ],
+      "dimensions": [
+        366,
+        332
+      ]
+    },
+    {
+      "section_title": "ENGINE TUNE-UP",
+      "source_md": "1978 280z FSM/ET Engine Tune-up.md",
+      "slug": "fig_et_5_testing_radiator_cap",
+      "file": "markdown/1978 280z FSM/diagrams/ET Engine Tune-up/fig_et_5_testing_radiator_cap.png",
+      "rel_link": "diagrams/ET Engine Tune-up/fig_et_5_testing_radiator_cap.png",
+      "page_num": 5,
+      "page_label": "ET-5",
+      "fig_id": "Fig. ET-5",
+      "code": "ET012",
+      "caption": "Fig. ET-5 Testing radiator cap",
+      "diagram_type": "inspection_measurement",
+      "description": "Testing radiator pressure cap relief valve pressure using a hand pump cap tester and adapter.",
+      "components": [
+        "Radiator cap",
+        "Cap tester pump",
+        "Pressure gauge"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Reference pressure: 0.9 kg/cm\u00b2 (13 psi)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Replace cap assembly if pressure is not maintained within specification.",
+      "tags": [
+        "radiator cap",
+        "cooling system",
+        "pressure test",
+        "cap tester"
+      ],
+      "dimensions": [
+        368,
+        270
+      ]
+    },
+    {
+      "section_title": "ENGINE TUNE-UP",
+      "source_md": "1978 280z FSM/ET Engine Tune-up.md",
+      "slug": "fig_et_6_cooling_system_pressure_test",
+      "file": "markdown/1978 280z FSM/diagrams/ET Engine Tune-up/fig_et_6_cooling_system_pressure_test.png",
+      "rel_link": "diagrams/ET Engine Tune-up/fig_et_6_cooling_system_pressure_test.png",
+      "page_num": 5,
+      "page_label": "ET-5",
+      "fig_id": "Fig. ET-6",
+      "code": "ET237",
+      "caption": "Fig. ET-6 Cooling system pressure test",
+      "diagram_type": "inspection_measurement",
+      "description": "Testing engine cooling system for leaks by applying pressure with radiator tester attached to filler neck.",
+      "components": [
+        "Radiator filler neck",
+        "Pressure tester pump",
+        "Pressure gauge",
+        "Radiator"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Testing pressure: 1.6 kg/cm\u00b2 (23 psi)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Radiator cap must be removed. Inspect all hoses and joints while pressurized.",
+      "tags": [
+        "cooling system",
+        "leak test",
+        "pressure tester",
+        "radiator"
+      ],
+      "dimensions": [
+        353,
+        301
+      ]
+    },
+    {
+      "section_title": "ENGINE TUNE-UP",
+      "source_md": "1978 280z FSM/ET Engine Tune-up.md",
+      "slug": "fig_et_7_testing_compression_pressure",
+      "file": "markdown/1978 280z FSM/diagrams/ET Engine Tune-up/fig_et_7_testing_compression_pressure.png",
+      "rel_link": "diagrams/ET Engine Tune-up/fig_et_7_testing_compression_pressure.png",
+      "page_num": 6,
+      "page_label": "ET-6",
+      "fig_id": "Fig. ET-7",
+      "code": "ET010",
+      "caption": "Fig. ET-7 Testing compression pressure",
+      "diagram_type": "inspection_measurement",
+      "description": "Connecting compression tester gauge to spark plug port to measure cranking cylinder compression.",
+      "components": [
+        "Compression tester gauge",
+        "Flexible adapter hose",
+        "Cylinder head spark plug port"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Standard: 12.5 kg/cm\u00b2 (178 psi)",
+        "Minimum: 11.5 kg/cm\u00b2 (164 psi) at 300 to 400 rpm"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Disconnect cold start valve and all fuel injector connectors before cranking engine.",
+      "tags": [
+        "compression test",
+        "cylinder pressure",
+        "piston rings",
+        "valves"
+      ],
+      "dimensions": [
+        373,
+        284
+      ]
+    },
+    {
+      "section_title": "ENGINE TUNE-UP",
+      "source_md": "1978 280z FSM/ET Engine Tune-up.md",
+      "slug": "fig_et_8_checking_electrolyte_level",
+      "file": "markdown/1978 280z FSM/diagrams/ET Engine Tune-up/fig_et_8_checking_electrolyte_level.png",
+      "rel_link": "diagrams/ET Engine Tune-up/fig_et_8_checking_electrolyte_level.png",
+      "page_num": 6,
+      "page_label": "ET-6",
+      "fig_id": "Fig. ET-8",
+      "code": "EE358",
+      "caption": "Fig. ET-8 Checking electrolyte level",
+      "diagram_type": "inspection_measurement",
+      "description": "Visual guide for checking battery cell electrolyte levels showing Overflow, Correct, and Shortage conditions.",
+      "components": [
+        "Battery cell indicator tube",
+        "Electrolyte meniscus"
+      ],
+      "callouts": {
+        "Overflow": "Electrolyte level too high",
+        "Correct": "Proper electrolyte level",
+        "Shortage": "Electrolyte level too low (needs distilled water)"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Pour distilled water if shortage is indicated.",
+      "tags": [
+        "battery",
+        "electrolyte level",
+        "distilled water",
+        "maintenance"
+      ],
+      "dimensions": [
+        354,
+        221
+      ]
+    },
+    {
+      "section_title": "ENGINE TUNE-UP",
+      "source_md": "1978 280z FSM/ET Engine Tune-up.md",
+      "slug": "fig_et_9_checking_specific_gravity_of_battery_electrolyte",
+      "file": "markdown/1978 280z FSM/diagrams/ET Engine Tune-up/fig_et_9_checking_specific_gravity_of_battery_electrolyte.png",
+      "rel_link": "diagrams/ET Engine Tune-up/fig_et_9_checking_specific_gravity_of_battery_electrolyte.png",
+      "page_num": 6,
+      "page_label": "ET-6",
+      "fig_id": "Fig. ET-9",
+      "code": "ET238",
+      "caption": "Fig. ET-9 Checking specific gravity of battery electrolyte",
+      "diagram_type": "inspection_measurement",
+      "description": "Measuring battery electrolyte specific gravity with a glass hydrometer inserted into battery cell vent.",
+      "components": [
+        "Battery",
+        "Hydrometer",
+        "Suction bulb",
+        "Float scale"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Frigid climates: 1.28 full charge (permissible over 1.22)",
+        "Other climates: 1.26 full charge (permissible over 1.20) at 20\u00b0C (68\u00b0F)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Hold hydrometer vertical at eye level to read specific gravity scale.",
+      "tags": [
+        "battery",
+        "hydrometer",
+        "specific gravity",
+        "electrolyte"
+      ],
+      "dimensions": [
+        356,
+        326
+      ]
+    },
+    {
+      "section_title": "ENGINE TUNE-UP",
+      "source_md": "1978 280z FSM/ET Engine Tune-up.md",
+      "slug": "fig_et_10_adjusting_ignition_timing",
+      "file": "markdown/1978 280z FSM/diagrams/ET Engine Tune-up/fig_et_10_adjusting_ignition_timing.png",
+      "rel_link": "diagrams/ET Engine Tune-up/fig_et_10_adjusting_ignition_timing.png",
+      "page_num": 7,
+      "page_label": "ET-7",
+      "fig_id": "Fig. ET-10",
+      "code": "ET294",
+      "caption": "Fig. ET-10 Adjusting ignition timing",
+      "diagram_type": "procedure_step",
+      "description": "Adjusting ignition timing by loosening distributor set screw and rotating distributor housing while checking timing mark with timing light.",
+      "components": [
+        "Distributor",
+        "Distributor set screw",
+        "Vacuum advance canister",
+        "Mounting bracket"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Manual: 10\u00b0 B.T.D.C./800 rpm",
+        "Automatic: 10\u00b0 B.T.D.C./700 rpm"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Loosen set screw just enough to turn distributor by hand, align timing mark, then retighten securely.",
+      "tags": [
+        "ignition timing",
+        "distributor",
+        "advance",
+        "timing light"
+      ],
+      "dimensions": [
+        367,
+        310
+      ]
+    },
+    {
+      "section_title": "ENGINE TUNE-UP",
+      "source_md": "1978 280z FSM/ET Engine Tune-up.md",
+      "slug": "fig_et_11_ignition_timing_indicator",
+      "file": "markdown/1978 280z FSM/diagrams/ET Engine Tune-up/fig_et_11_ignition_timing_indicator.png",
+      "rel_link": "diagrams/ET Engine Tune-up/fig_et_11_ignition_timing_indicator.png",
+      "page_num": 7,
+      "page_label": "ET-7",
+      "fig_id": "Fig. ET-11",
+      "code": "ET240",
+      "caption": "Fig. ET-11 Ignition timing indicator",
+      "diagram_type": "alignment_orientation",
+      "description": "Diagram of crankshaft pulley notch aligned with timing indicator pointer at 10 degrees BTDC.",
+      "components": [
+        "Crankshaft pulley",
+        "Timing notch",
+        "Timing indicator tab"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "10\u00b0 B.T.D.C."
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Ensure dirt and dust are cleaned off pulley and indicator prior to reading with timing light.",
+      "tags": [
+        "timing mark",
+        "crank pulley",
+        "indicator",
+        "10 deg BTDC"
+      ],
+      "dimensions": [
+        344,
+        265
+      ]
+    },
+    {
+      "section_title": "ENGINE TUNE-UP",
+      "source_md": "1978 280z FSM/ET Engine Tune-up.md",
+      "slug": "fig_et_12_checking_spark_plug_gap",
+      "file": "markdown/1978 280z FSM/diagrams/ET Engine Tune-up/fig_et_12_checking_spark_plug_gap.png",
+      "rel_link": "diagrams/ET Engine Tune-up/fig_et_12_checking_spark_plug_gap.png",
+      "page_num": 7,
+      "page_label": "ET-7",
+      "fig_id": "Fig. ET-12",
+      "code": "EE080",
+      "caption": "Fig. ET-12 Checking spark plug gap",
+      "diagram_type": "inspection_measurement",
+      "description": "Checking spark plug electrode gap using a round wire feeler gauge.",
+      "components": [
+        "Spark plug",
+        "Center electrode",
+        "Ground electrode",
+        "Wire feeler gauge"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Standard gap: 1.0 to 1.1 mm (0.039 to 0.043 in)",
+        "Canada gap: 0.7 to 0.8 mm (0.028 to 0.031 in)",
+        "Tightening torque: 1.5 to 2.0 kg-m (11 to 14 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Adjust gap by bending ground electrode only; do not bend center electrode.",
+      "tags": [
+        "spark plug",
+        "plug gap",
+        "feeler gauge",
+        "electrodes"
+      ],
+      "dimensions": [
+        351,
+        306
+      ]
+    },
+    {
+      "section_title": "ENGINE TUNE-UP",
+      "source_md": "1978 280z FSM/ET Engine Tune-up.md",
+      "slug": "fig_et_13_checking_high_tension_cable",
+      "file": "markdown/1978 280z FSM/diagrams/ET Engine Tune-up/fig_et_13_checking_high_tension_cable.png",
+      "rel_link": "diagrams/ET Engine Tune-up/fig_et_13_checking_high_tension_cable.png",
+      "page_num": 7,
+      "page_label": "ET-7",
+      "fig_id": "Fig. ET-13",
+      "code": "EF125",
+      "caption": "Fig. ET-13 Checking high tension cable",
+      "diagram_type": "inspection_measurement",
+      "description": "Testing high tension ignition cable resistance using an ohmmeter connected between plug boot terminal and distributor cap internal terminal.",
+      "components": [
+        "High tension ignition cable",
+        "Distributor cap",
+        "Ohmmeter",
+        "Test probes"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Maximum resistance: 30,000 \u03a9"
+      ],
+      "wiring_and_connections": [
+        "Ohmmeter connected between spark plug terminal and distributor cap electrode"
+      ],
+      "mechanic_notes": "Do not remove cables from cap initially. If resistance exceeds 30,000 ohms, test cable alone before replacing.",
+      "tags": [
+        "high tension cables",
+        "ohmmeter",
+        "ignition wire",
+        "resistance"
+      ],
+      "dimensions": [
+        361,
+        308
+      ]
+    },
+    {
+      "section_title": "ENGINE TUNE-UP",
+      "source_md": "1978 280z FSM/ET Engine Tune-up.md",
+      "slug": "fig_et_14_adjusting_idling_speed",
+      "file": "markdown/1978 280z FSM/diagrams/ET Engine Tune-up/fig_et_14_adjusting_idling_speed.png",
+      "rel_link": "diagrams/ET Engine Tune-up/fig_et_14_adjusting_idling_speed.png",
+      "page_num": 8,
+      "page_label": "ET-8",
+      "fig_id": "Fig. ET-14",
+      "code": "ET295",
+      "caption": "Fig. ET-14 Adjusting idling speed",
+      "diagram_type": "procedure_step",
+      "description": "Adjusting idle speed using screwdriver on idle speed adjusting screw located on throttle chamber.",
+      "components": [
+        "Throttle chamber",
+        "Idle speed adjusting screw",
+        "Screwdriver"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Manual: 800 rpm",
+        "Automatic: 700 rpm (in 'D' position)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Air conditioner must be OFF during idle speed inspection and adjustment.",
+      "tags": [
+        "idle speed",
+        "adjusting screw",
+        "throttle chamber",
+        "carburetor idle",
+        "EFI"
+      ],
+      "dimensions": [
+        322,
+        323
+      ]
+    },
+    {
+      "section_title": "ENGINE TUNE-UP",
+      "source_md": "1978 280z FSM/ET Engine Tune-up.md",
+      "slug": "fig_et_15_idle_mixture_ratio_adjustment",
+      "file": "markdown/1978 280z FSM/diagrams/ET Engine Tune-up/fig_et_15_idle_mixture_ratio_adjustment.png",
+      "rel_link": "diagrams/ET Engine Tune-up/fig_et_15_idle_mixture_ratio_adjustment.png",
+      "page_num": 9,
+      "page_label": "ET-9",
+      "fig_id": "Fig. ET-15",
+      "code": "ET362",
+      "caption": "Fig. ET-15 Idle mixture ratio adjustment",
+      "diagram_type": "procedure_step",
+      "description": "Procedure for forcing full-load enrichment during idle CO adjustment by shorting terminals 3 and 18 of throttle valve switch connector with a jumper wire, and adjusting air flow meter bypass screw.",
+      "components": [
+        "Air flow meter",
+        "Air by-pass screw",
+        "Throttle chamber",
+        "Throttle valve switch",
+        "Connector of throttle valve switch harness",
+        "Leading wire"
+      ],
+      "callouts": {
+        "1": "Air flow meter",
+        "2": "Air by-pass screw",
+        "3": "Throttle chamber",
+        "4": "Throttle valve switch",
+        "5": "Connector of throttle valve switch harness",
+        "6": "Leading wire"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Jumper wire between terminal No. 3 and No. 18 on throttle valve switch harness connector"
+      ],
+      "mechanic_notes": "Turn bypass screw clockwise for rich mixture, counterclockwise for lean mixture.",
+      "tags": [
+        "idle mixture",
+        "CO adjustment",
+        "air bypass screw",
+        "throttle valve switch",
+        "AFM"
+      ],
+      "dimensions": [
+        730,
+        461
+      ]
+    },
+    {
+      "section_title": "ENGINE TUNE-UP",
+      "source_md": "1978 280z FSM/ET Engine Tune-up.md",
+      "slug": "fig_et_16_altitude_switch_california_models",
+      "file": "markdown/1978 280z FSM/diagrams/ET Engine Tune-up/fig_et_16_altitude_switch_california_models.png",
+      "rel_link": "diagrams/ET Engine Tune-up/fig_et_16_altitude_switch_california_models.png",
+      "page_num": 9,
+      "page_label": "ET-9",
+      "fig_id": "Fig. ET-16",
+      "code": "EF655",
+      "caption": "Fig. ET-16 Altitude switch (California models)",
+      "diagram_type": "component_location",
+      "description": "Location and harness disconnection point for the altitude switch on California models, situated near steering column / pedal support.",
+      "components": [
+        "Altitude switch",
+        "Harness connector",
+        "Bellows mechanism"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Threshold: 750 m (2,500 ft)"
+      ],
+      "wiring_and_connections": [
+        "Altitude switch harness connector"
+      ],
+      "mechanic_notes": "Disconnect connector when adjusting idle CO above 750 m (2,500 ft) on California models; reconnect after adjustment.",
+      "tags": [
+        "altitude switch",
+        "California model",
+        "CO adjustment",
+        "emission control"
+      ],
+      "dimensions": [
+        737,
+        412
+      ]
+    },
+    {
+      "section_title": "ENGINE TUNE-UP",
+      "source_md": "1978 280z FSM/ET Engine Tune-up.md",
+      "slug": "fig_et_17_rubber_plug",
+      "file": "markdown/1978 280z FSM/diagrams/ET Engine Tune-up/fig_et_17_rubber_plug.png",
+      "rel_link": "diagrams/ET Engine Tune-up/fig_et_17_rubber_plug.png",
+      "page_num": 9,
+      "page_label": "ET-9",
+      "fig_id": "Fig. ET-17",
+      "code": "ET363",
+      "caption": "Fig. ET-17 Rubber plug",
+      "diagram_type": "procedure_step",
+      "description": "Installing replacement rubber sealing plug into air flow meter bypass screw recess after mixture adjustment.",
+      "components": [
+        "Air flow meter",
+        "Rubber plug",
+        "Bypass screw cavity"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Install a new rubber plug (furnished as a service part) to seal air bypass screw cavity against moisture and unmetered air.",
+      "tags": [
+        "rubber plug",
+        "air flow meter",
+        "air bypass screw",
+        "tamper plug"
+      ],
+      "dimensions": [
+        360,
+        332
+      ]
+    },
+    {
+      "section_title": "ENGINE TUNE-UP",
+      "source_md": "1978 280z FSM/ET Engine Tune-up.md",
+      "slug": "fig_et_18_releasing_pressure_in_fuel_system",
+      "file": "markdown/1978 280z FSM/diagrams/ET Engine Tune-up/fig_et_18_releasing_pressure_in_fuel_system.png",
+      "rel_link": "diagrams/ET Engine Tune-up/fig_et_18_releasing_pressure_in_fuel_system.png",
+      "page_num": 10,
+      "page_label": "ET-10",
+      "fig_id": "Fig. ET-18",
+      "code": "EF754",
+      "caption": "Fig. ET-18 Releasing pressure in fuel system",
+      "diagram_type": "procedure_step",
+      "description": "Relieving residual fuel rail line pressure before filter replacement using jumper wires connected to battery and cold start valve for 2-3 seconds.",
+      "components": [
+        "Battery",
+        "Cold start valve",
+        "Jumper wires"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Activation duration: 2 to 3 seconds"
+      ],
+      "wiring_and_connections": [
+        "Jumper wires from 12V battery to cold start valve harness terminals"
+      ],
+      "mechanic_notes": "Prevent short circuits by keeping jumper clips separate.",
+      "tags": [
+        "fuel pressure relief",
+        "cold start valve",
+        "jumper wire",
+        "safety"
+      ],
+      "dimensions": [
+        406,
+        371
+      ]
+    },
+    {
+      "section_title": "ENGINE TUNE-UP",
+      "source_md": "1978 280z FSM/ET Engine Tune-up.md",
+      "slug": "fig_et_19_fuel_filter",
+      "file": "markdown/1978 280z FSM/diagrams/ET Engine Tune-up/fig_et_19_fuel_filter.png",
+      "rel_link": "diagrams/ET Engine Tune-up/fig_et_19_fuel_filter.png",
+      "page_num": 10,
+      "page_label": "ET-10",
+      "fig_id": "Fig. ET-19",
+      "code": "EF773",
+      "caption": "Fig. ET-19 Fuel filter",
+      "diagram_type": "component_location",
+      "description": "Fuel filter mounting bracket, fuel inlet/outlet hose orientation, and securing bolt location.",
+      "components": [
+        "Fuel filter",
+        "Mounting bracket",
+        "Inlet hose",
+        "Outlet hose",
+        "Securing bolt"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Clamp torque: 0.10 to 0.15 kg-m (0.7 to 1.1 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Do not reuse hose clamps after loosening. Ensure clamp is positioned 1 mm from hose end.",
+      "tags": [
+        "fuel filter",
+        "hose clamp",
+        "bracket",
+        "EFI fuel filter"
+      ],
+      "dimensions": [
+        335,
+        383
+      ]
+    },
+    {
+      "section_title": "ENGINE TUNE-UP",
+      "source_md": "1978 280z FSM/ET Engine Tune-up.md",
+      "slug": "fig_et_20_air_regulator_hoses",
+      "file": "markdown/1978 280z FSM/diagrams/ET Engine Tune-up/fig_et_20_air_regulator_hoses.png",
+      "rel_link": "diagrams/ET Engine Tune-up/fig_et_20_air_regulator_hoses.png",
+      "page_num": 10,
+      "page_label": "ET-10",
+      "fig_id": "Fig. ET-20",
+      "code": "ET415",
+      "caption": "Fig. ET-20 Air regulator hoses",
+      "diagram_type": "component_location",
+      "description": "Routing of air regulator bypass hoses connecting air duct, air regulator, and intake manifold.",
+      "components": [
+        "Air regulator hoses",
+        "Air regulator",
+        "Throttle chamber",
+        "Intake manifold"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Check for hardening, cracks, or loose clamps which introduce unmetered false air.",
+      "tags": [
+        "air regulator",
+        "hoses",
+        "idle auxiliary air",
+        "vacuum leak"
+      ],
+      "dimensions": [
+        327,
+        313
+      ]
+    },
+    {
+      "section_title": "ENGINE TUNE-UP",
+      "source_md": "1978 280z FSM/ET Engine Tune-up.md",
+      "slug": "fig_et_21_air_cleaner_filter",
+      "file": "markdown/1978 280z FSM/diagrams/ET Engine Tune-up/fig_et_21_air_cleaner_filter.png",
+      "rel_link": "diagrams/ET Engine Tune-up/fig_et_21_air_cleaner_filter.png",
+      "page_num": 11,
+      "page_label": "ET-11",
+      "fig_id": "Fig. ET-21",
+      "code": "EF647",
+      "caption": "Fig. ET-21 Air cleaner filter",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of the air cleaner assembly showing housing, filter element, cover, ducting, and wing nuts.",
+      "components": [
+        "Air cleaner cover",
+        "Viscous paper filter element",
+        "Air cleaner case",
+        "Wing nuts",
+        "Air intake duct"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Do not brush or blow compressed air on viscous paper filter; replace according to maintenance schedule.",
+      "tags": [
+        "air cleaner",
+        "air filter",
+        "intake duct",
+        "exploded view"
+      ],
+      "dimensions": [
+        1065,
+        624
+      ]
+    },
+    {
+      "section_title": "ENGINE TUNE-UP",
+      "source_md": "1978 280z FSM/ET Engine Tune-up.md",
+      "slug": "fig_et_22_crankcase_emission_control_system",
+      "file": "markdown/1978 280z FSM/diagrams/ET Engine Tune-up/fig_et_22_crankcase_emission_control_system.png",
+      "rel_link": "diagrams/ET Engine Tune-up/fig_et_22_crankcase_emission_control_system.png",
+      "page_num": 11,
+      "page_label": "ET-11",
+      "fig_id": "Fig. ET-22",
+      "code": "EC805",
+      "caption": "Fig. ET-22 Crankcase emission control system",
+      "diagram_type": "cutaway_flow",
+      "description": "Cutaway diagram of positive crankcase ventilation (PCV) flow, showing fresh air intake pathway and blow-by gas extraction through PCV valve into intake manifold.",
+      "components": [
+        "Seal rubber",
+        "Oil level gauge",
+        "Baffle plate",
+        "Oil cap",
+        "Flame arrester",
+        "Throttle chamber",
+        "P.C.V. valve",
+        "Steel net",
+        "Baffle plate"
+      ],
+      "callouts": {
+        "1": "Seal rubber",
+        "2": "Oil level gauge",
+        "3": "Baffle plate",
+        "4": "Oil cap",
+        "5": "Flame arrester",
+        "6": "Throttle chamber",
+        "7": "P.C.V. valve",
+        "8": "Steel net",
+        "9": "Baffle plate"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Ventilator hose between crankcase baffle and PCV valve",
+        "Ventilation hose with flame arrester between rocker cover and throttle chamber"
+      ],
+      "mechanic_notes": "White open arrows indicate fresh air intake; solid black arrows indicate blow-by gas flow through internal engine passages.",
+      "tags": [
+        "PCV valve",
+        "crankcase ventilation",
+        "blow-by",
+        "flame arrester",
+        "baffle"
+      ],
+      "dimensions": [
+        709,
+        569
+      ]
+    },
+    {
+      "section_title": "ENGINE TUNE-UP",
+      "source_md": "1978 280z FSM/ET Engine Tune-up.md",
+      "slug": "fig_et_23_checking_evaporative_emission_control_system",
+      "file": "markdown/1978 280z FSM/diagrams/ET Engine Tune-up/fig_et_23_checking_evaporative_emission_control_system.png",
+      "rel_link": "diagrams/ET Engine Tune-up/fig_et_23_checking_evaporative_emission_control_system.png",
+      "page_num": 12,
+      "page_label": "ET-12",
+      "fig_id": "Fig. ET-23",
+      "code": "EC715",
+      "caption": "Fig. ET-23 Checking evaporative emission control system",
+      "diagram_type": "inspection_measurement",
+      "description": "Test setup schematic for evaporative vapor line pressure leak check using 3-way cock, compressed air source, manometer, and connections to vapor-liquid separator and carbon canister.",
+      "components": [
+        "3-way connector",
+        "Cock",
+        "Manometer",
+        "Carbon canister",
+        "Vapor-liquid separator",
+        "Fuel filler cap"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Test pressure: 400 mmH2O (15.75 inH2O)",
+        "Allowable drop after 2.5 minutes: within 25 mmH2O (0.98 inH2O)"
+      ],
+      "wiring_and_connections": [
+        "Vapor line between carbon canister and vapor-liquid separator"
+      ],
+      "mechanic_notes": "Removing filler cap should cause manometer reading to drop quickly to zero; failure to drop indicates clogged vent line.",
+      "tags": [
+        "evaporative emission",
+        "vapor line",
+        "manometer",
+        "leak test",
+        "vapor separator"
+      ],
+      "dimensions": [
+        735,
+        379
+      ]
+    },
+    {
+      "section_title": "ENGINE TUNE-UP",
+      "source_md": "1978 280z FSM/ET Engine Tune-up.md",
+      "slug": "fig_et_24_replacing_carbon_canister_filter",
+      "file": "markdown/1978 280z FSM/diagrams/ET Engine Tune-up/fig_et_24_replacing_carbon_canister_filter.png",
+      "rel_link": "diagrams/ET Engine Tune-up/fig_et_24_replacing_carbon_canister_filter.png",
+      "page_num": 12,
+      "page_label": "ET-12",
+      "fig_id": "Fig. ET-24",
+      "code": "EF201",
+      "caption": "Fig. ET-24 Replacing carbon canister filter",
+      "diagram_type": "procedure_step",
+      "description": "Removal and replacement of bottom filter element from charcoal carbon canister body.",
+      "components": [
+        "Carbon canister",
+        "Filter element",
+        "Bottom retainer"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Check for saturated or contaminated filter element and replace periodically.",
+      "tags": [
+        "carbon canister",
+        "canister filter",
+        "evaporative emission"
+      ],
+      "dimensions": [
+        368,
+        300
+      ]
+    },
+    {
+      "section_title": "ENGINE TUNE-UP",
+      "source_md": "1978 280z FSM/ET Engine Tune-up.md",
+      "slug": "fig_et_25_fuel_filler_cap",
+      "file": "markdown/1978 280z FSM/diagrams/ET Engine Tune-up/fig_et_25_fuel_filler_cap.png",
+      "rel_link": "diagrams/ET Engine Tune-up/fig_et_25_fuel_filler_cap.png",
+      "page_num": 12,
+      "page_label": "ET-12",
+      "fig_id": "Fig. ET-25",
+      "code": "EC089A",
+      "caption": "Fig. ET-25 Fuel filler cap",
+      "diagram_type": "cutaway_flow",
+      "description": "Sectional view of fuel tank filler cap showing internal vacuum relief valve and spring mechanism.",
+      "components": [
+        "Fuel filler cap housing",
+        "Vacuum relief valve disc",
+        "Valve return spring",
+        "Cap gasket"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Clean housing and test by inhaling; slight initial resistance should be felt followed by audible valve clicking and opening.",
+      "tags": [
+        "fuel filler cap",
+        "vacuum relief valve",
+        "fuel tank venting"
+      ],
+      "dimensions": [
+        377,
+        356
+      ]
+    },
+    {
+      "section_title": "ENGINE TUNE-UP",
+      "source_md": "1978 280z FSM/ET Engine Tune-up.md",
+      "slug": "sst_st10640001_pivot_adjuster",
+      "file": "markdown/1978 280z FSM/diagrams/ET Engine Tune-up/sst_st10640001_pivot_adjuster.png",
+      "rel_link": "diagrams/ET Engine Tune-up/sst_st10640001_pivot_adjuster.png",
+      "page_num": 22,
+      "page_label": "ET-22",
+      "fig_id": "ST10640001",
+      "code": "",
+      "caption": "ST10640001 Pivot adjuster",
+      "diagram_type": "special_service_tool",
+      "description": "Special service tool ST10640001 (Kent-Moore J 25615-01) curved pivot adjuster offset wrench used for valve lash adjustment on L-series OHC engines.",
+      "components": [
+        "ST10640001 Pivot adjuster wrench"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Kent-Moore No. J 25615-01"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Enables loosening and tightening of rocker pivot lock nut while adjusting pivot screw.",
+      "tags": [
+        "special tool",
+        "SST",
+        "ST10640001",
+        "J 25615-01",
+        "pivot adjuster",
+        "valve clearance"
+      ],
+      "dimensions": [
+        344,
+        261
+      ]
+    },
+    {
+      "section_title": "ENGINE TUNE-UP",
+      "source_md": "1978 280z FSM/ET Engine Tune-up.md",
+      "slug": "sst_st19320000_oil_filter_wrench",
+      "file": "markdown/1978 280z FSM/diagrams/ET Engine Tune-up/sst_st19320000_oil_filter_wrench.png",
+      "rel_link": "diagrams/ET Engine Tune-up/sst_st19320000_oil_filter_wrench.png",
+      "page_num": 22,
+      "page_label": "ET-22",
+      "fig_id": "ST19320000",
+      "code": "",
+      "caption": "ST19320000 Oil filter wrench",
+      "diagram_type": "special_service_tool",
+      "description": "Special service tool ST19320000 (Kent-Moore J 25664) band-type oil filter removal wrench.",
+      "components": [
+        "ST19320000 Oil filter wrench band and handle"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Kent-Moore No. J 25664"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Use only for filter removal; replacement oil filter should be hand tightened.",
+      "tags": [
+        "special tool",
+        "SST",
+        "ST19320000",
+        "J 25664",
+        "oil filter wrench"
+      ],
+      "dimensions": [
+        299,
+        223
+      ]
+    }
+  ],
+  "torques": [
+    {
+      "component": "Pivot lock nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "5.0 to 6.0 (36 to 43)",
+      "page_label": "ET-4"
+    },
+    {
+      "component": "Spark plug",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.5 to 2.0 (11 to 14)",
+      "page_label": "ET-7"
+    },
+    {
+      "component": "Fuel hose clamps (high pressure rubber hose)",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.10 to 0.15 (0.7 to 1.1)",
+      "page_label": "ET-10"
+    },
+    {
+      "component": "Pivot lock nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "5.0 to 6.0 (36 to 43)",
+      "page_label": "ET-13"
+    },
+    {
+      "component": "Spark plug",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.5 to 2.0 (11 to 14)",
+      "page_label": "ET-13"
+    }
+  ],
+  "specs": [
+    {
+      "system": "Mechanical",
+      "item": "Intake valve clearance (hot)",
+      "unit": "mm (in)",
+      "standard": "0.25 (0.010)",
+      "limit": "",
+      "page_label": "ET-4"
+    },
+    {
+      "system": "Mechanical",
+      "item": "Exhaust valve clearance (hot)",
+      "unit": "mm (in)",
+      "standard": "0.30 (0.012)",
+      "limit": "",
+      "page_label": "ET-4"
+    },
+    {
+      "system": "Drive belts",
+      "item": "Fan and alternator belt deflection [under 10 kg (22 lb) thumb pressure]",
+      "unit": "mm (in)",
+      "standard": "8 to 12 (0.315 to 0.472)",
+      "limit": "",
+      "page_label": "ET-4"
+    },
+    {
+      "system": "Drive belts",
+      "item": "Cooler compressor belt deflection [under 10 kg (22 lb) thumb pressure]",
+      "unit": "mm (in)",
+      "standard": "8 to 12 (0.315 to 0.472)",
+      "limit": "",
+      "page_label": "ET-4"
+    },
+    {
+      "system": "Lubrication",
+      "item": "Engine oil capacity (with oil filter)",
+      "unit": "liters (US qt, Imp qt)",
+      "standard": "4.5 (4 3/4, 4)",
+      "limit": "",
+      "page_label": "ET-5"
+    },
+    {
+      "system": "Lubrication",
+      "item": "Engine oil capacity (without oil filter)",
+      "unit": "liters (US qt, Imp qt)",
+      "standard": "4.0 (4 1/4, 3 1/2)",
+      "limit": "",
+      "page_label": "ET-5"
+    },
+    {
+      "system": "Cooling",
+      "item": "Radiator cap relief pressure",
+      "unit": "kg/cm\u00b2 (psi)",
+      "standard": "0.9 (13)",
+      "limit": "",
+      "page_label": "ET-5"
+    },
+    {
+      "system": "Cooling",
+      "item": "Cooling system leakage testing pressure",
+      "unit": "kg/cm\u00b2 (psi)",
+      "standard": "1.6 (23)",
+      "limit": "",
+      "page_label": "ET-5"
+    },
+    {
+      "system": "Cooling",
+      "item": "Engine coolant capacity (Manual transmission)",
+      "unit": "liters (US qt, Imp qt)",
+      "standard": "10.3 (10 7/8, 9 1/8)",
+      "limit": "",
+      "page_label": "ET-5"
+    },
+    {
+      "system": "Cooling",
+      "item": "Engine coolant capacity (Automatic transmission)",
+      "unit": "liters (US qt, Imp qt)",
+      "standard": "10.1 (10 5/8, 8 7/8)",
+      "limit": "",
+      "page_label": "ET-5"
+    },
+    {
+      "system": "Mechanical",
+      "item": "Compression pressure at 300 to 400 rpm (Standard)",
+      "unit": "kg/cm\u00b2 (psi)",
+      "standard": "12.5 (178)",
+      "limit": "",
+      "page_label": "ET-6"
+    },
+    {
+      "system": "Mechanical",
+      "item": "Compression pressure at 300 to 400 rpm (Minimum)",
+      "unit": "kg/cm\u00b2 (psi)",
+      "standard": "11.5 (164)",
+      "limit": "11.5 (164)",
+      "page_label": "ET-6"
+    },
+    {
+      "system": "Mechanical",
+      "item": "Cylinder compression variation limit",
+      "unit": "%",
+      "standard": "Not less than 80% of highest reading",
+      "limit": "80%",
+      "page_label": "ET-5"
+    },
+    {
+      "system": "Electrical",
+      "item": "Battery electrolyte specific gravity at 20\u00b0C (Frigid climates)",
+      "unit": "specific gravity",
+      "standard": "1.28 (Full charge)",
+      "limit": "Over 1.22 (Permissible)",
+      "page_label": "ET-6"
+    },
+    {
+      "system": "Electrical",
+      "item": "Battery electrolyte specific gravity at 20\u00b0C (Other climates)",
+      "unit": "specific gravity",
+      "standard": "1.26 (Full charge)",
+      "limit": "Over 1.20 (Permissible)",
+      "page_label": "ET-6"
+    },
+    {
+      "system": "Ignition",
+      "item": "Idling speed (Manual transmission)",
+      "unit": "rpm",
+      "standard": "800",
+      "limit": "",
+      "page_label": "ET-6"
+    },
+    {
+      "system": "Ignition",
+      "item": "Idling speed (Automatic transmission in 'D' position)",
+      "unit": "rpm",
+      "standard": "700",
+      "limit": "",
+      "page_label": "ET-7"
+    },
+    {
+      "system": "Ignition",
+      "item": "Ignition timing (Manual transmission)",
+      "unit": "degree/rpm",
+      "standard": "10\u00b0 B.T.D.C./800 rpm",
+      "limit": "",
+      "page_label": "ET-7"
+    },
+    {
+      "system": "Ignition",
+      "item": "Ignition timing (Automatic transmission in 'D' position)",
+      "unit": "degree/rpm",
+      "standard": "10\u00b0 B.T.D.C./700 rpm",
+      "limit": "",
+      "page_label": "ET-7"
+    },
+    {
+      "system": "Ignition",
+      "item": "Spark plug gap (Standard)",
+      "unit": "mm (in)",
+      "standard": "1.0 to 1.1 (0.039 to 0.043)",
+      "limit": "",
+      "page_label": "ET-7"
+    },
+    {
+      "system": "Ignition",
+      "item": "Spark plug gap (Canada)",
+      "unit": "mm (in)",
+      "standard": "0.7 to 0.8 (0.028 to 0.031)",
+      "limit": "",
+      "page_label": "ET-7"
+    },
+    {
+      "system": "Ignition",
+      "item": "High tension cable resistance",
+      "unit": "\u03a9",
+      "standard": "",
+      "limit": "Max 30,000",
+      "page_label": "ET-7"
+    },
+    {
+      "system": "Fuel / Emission",
+      "item": "Idle mixture CO percentage (California models)",
+      "unit": "%",
+      "standard": "0.5 or lower",
+      "limit": "0.5%",
+      "page_label": "ET-8"
+    },
+    {
+      "system": "Fuel / Emission",
+      "item": "Idle mixture CO percentage (Non-California models)",
+      "unit": "%",
+      "standard": "1.0 or lower",
+      "limit": "1.0%",
+      "page_label": "ET-8"
+    },
+    {
+      "system": "Fuel / Emission",
+      "item": "Idle mixture CO % with full enrichment at 0 to 600 m (0 to 2,000 ft)",
+      "unit": "%",
+      "standard": "3.3",
+      "limit": "",
+      "page_label": "ET-9"
+    },
+    {
+      "system": "Fuel / Emission",
+      "item": "Idle mixture CO % with full enrichment at 600 to 1,200 m (2,000 to 4,000 ft)",
+      "unit": "%",
+      "standard": "4.7",
+      "limit": "",
+      "page_label": "ET-9"
+    },
+    {
+      "system": "Fuel / Emission",
+      "item": "Idle mixture CO % with full enrichment at 1,200 to 1,800 m (4,000 to 6,000 ft)",
+      "unit": "%",
+      "standard": "5.7",
+      "limit": "",
+      "page_label": "ET-9"
+    },
+    {
+      "system": "Fuel / Emission",
+      "item": "Idle mixture CO % with full enrichment above 1,800 m (6,000 ft)",
+      "unit": "%",
+      "standard": "6.7",
+      "limit": "",
+      "page_label": "ET-9"
+    },
+    {
+      "system": "Emission",
+      "item": "Evaporative fuel line test pressure",
+      "unit": "mmH2O (inH2O)",
+      "standard": "400 (15.75)",
+      "limit": "",
+      "page_label": "ET-12"
+    },
+    {
+      "system": "Emission",
+      "item": "Evaporative fuel line pressure variation after 2.5 minutes",
+      "unit": "mmH2O (inH2O)",
+      "standard": "Within 25 (0.98)",
+      "limit": "25 (0.98)",
+      "page_label": "ET-12"
+    }
+  ],
+  "troubleshooting": [
+    {
+      "symptom": "Cannot crank engine or slow cranking",
+      "probable_cause": "Improper grade oil.",
+      "corrective_action": "Replace with proper grade oil.",
+      "page_label": "ET-14"
+    },
+    {
+      "symptom": "Cannot crank engine or slow cranking",
+      "probable_cause": "Partially discharged battery.",
+      "corrective_action": "Charge battery.",
+      "page_label": "ET-14"
+    },
+    {
+      "symptom": "Cannot crank engine or slow cranking",
+      "probable_cause": "Malfunctioning battery.",
+      "corrective_action": "Replace.",
+      "page_label": "ET-14"
+    },
+    {
+      "symptom": "Cannot crank engine or slow cranking",
+      "probable_cause": "Loose fan belt.",
+      "corrective_action": "Adjust.",
+      "page_label": "ET-14"
+    },
+    {
+      "symptom": "Cannot crank engine or slow cranking",
+      "probable_cause": "Trouble in charging system.",
+      "corrective_action": "Inspect.",
+      "page_label": "ET-14"
+    },
+    {
+      "symptom": "Cannot crank engine or slow cranking",
+      "probable_cause": "Wiring connection trouble in starting circuit.",
+      "corrective_action": "Correct.",
+      "page_label": "ET-14"
+    },
+    {
+      "symptom": "Cannot crank engine or slow cranking",
+      "probable_cause": "Malfunctioning ignition switch.",
+      "corrective_action": "Repair or replace.",
+      "page_label": "ET-14"
+    },
+    {
+      "symptom": "Cannot crank engine or slow cranking",
+      "probable_cause": "Malfunctioning starting motor.",
+      "corrective_action": "Repair or replace.",
+      "page_label": "ET-14"
+    },
+    {
+      "symptom": "Cannot crank engine or slow cranking (head lights go off or dim considerably when starting motor switched ON)",
+      "probable_cause": "Battery discharged or connection/starter problem",
+      "corrective_action": "a. Check battery. b. Check connection and cable. c. Check starting motor.",
+      "page_label": "ET-14"
+    },
+    {
+      "symptom": "Cannot crank engine or slow cranking (head lights stay bright when starting motor switched ON)",
+      "probable_cause": "Open or disconnected starting circuit",
+      "corrective_action": "a. Check wiring connection between battery and starting motor. b. Check ignition switch. c. Check starting motor.",
+      "page_label": "ET-14"
+    },
+    {
+      "symptom": "Engine will crank normally but will not start (spark plug test: good spark occurs)",
+      "probable_cause": "Fuel system, timing, trigger signal, or low compression",
+      "corrective_action": "a. Check spark plug. b. Check ignition timing. c. Check fuel system. d. Check revolution trigger signal. e. Check cylinder compression.",
+      "page_label": "ET-14"
+    },
+    {
+      "symptom": "Engine will crank normally but will not start (spark plug test: no spark occurs, very high current)",
+      "probable_cause": "Primary circuit short or pick-up coil / transistor ignition malfunction",
+      "corrective_action": "Check the current flow in primary circuit. Inspect primary circuit for short. Check distributor pick-up coil operation. Check transistor ignition system.",
+      "page_label": "ET-14"
+    },
+    {
+      "symptom": "Engine will crank normally but will not start (spark plug test: no spark occurs, low or no current)",
+      "probable_cause": "Loose terminal or disconnection in primary circuit, or burned points",
+      "corrective_action": "Check for loose terminal or disconnection in primary circuit. Check for burned points.",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Ignition system in trouble)",
+      "probable_cause": "Malfunctioning distributor pick-up coil.",
+      "corrective_action": "Inspect and replace if defective.",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Ignition system in trouble)",
+      "probable_cause": "Improper air gap.",
+      "corrective_action": "Adjust.",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Ignition system in trouble)",
+      "probable_cause": "Leak at rotor cap and rotor.",
+      "corrective_action": "Clean or replace.",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Ignition system in trouble)",
+      "probable_cause": "Malfunctioning spark plug.",
+      "corrective_action": "Clean, adjust plug gap or replace.",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Ignition system in trouble)",
+      "probable_cause": "Improper ignition timing.",
+      "corrective_action": "Adjust.",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Ignition system in trouble)",
+      "probable_cause": "Malfunctioning ignition coil.",
+      "corrective_action": "Replace.",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Ignition system in trouble)",
+      "probable_cause": "Disconnection of high tension cable.",
+      "corrective_action": "Replace.",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Ignition system in trouble)",
+      "probable_cause": "Loose connection or disconnection in primary circuit.",
+      "corrective_action": "Repair or replace.",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Ignition system in trouble)",
+      "probable_cause": "Irregular revolution trigger pulse.",
+      "corrective_action": "Replace transistor ignition control unit.",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Ignition system in trouble)",
+      "probable_cause": "Malfunctioning full transistor ignition unit.",
+      "corrective_action": "Replace.",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Fuel system malfunction)",
+      "probable_cause": "Lack of fuel.",
+      "corrective_action": "Supply.",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Fuel system malfunction)",
+      "probable_cause": "Damaged electronic fuel injection harness or relay.",
+      "corrective_action": "Replace. (For inspection procedures for electronic fuel injection system components, refer to engine fuel section.)",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Fuel system malfunction)",
+      "probable_cause": "Malfunctioning fuel pump (Listen to operating sound).",
+      "corrective_action": "Replace. (For inspection procedures for electronic fuel injection system components, refer to engine fuel section.)",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Fuel system malfunction)",
+      "probable_cause": "Damaged control unit.",
+      "corrective_action": "Replace. (For inspection procedures for electronic fuel injection system components, refer to engine fuel section.)",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Fuel system malfunction)",
+      "probable_cause": "Seized injector (Listen to operating sound).",
+      "corrective_action": "Replace. (For inspection procedures for electronic fuel injection system components, refer to engine fuel section.)",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Fuel system malfunction)",
+      "probable_cause": "Seized cold start valve.",
+      "corrective_action": "Replace. (For inspection procedures for electronic fuel injection system components, refer to engine fuel section.)",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Fuel system malfunction)",
+      "probable_cause": "Malfunctioning air flow meter.",
+      "corrective_action": "Replace. (For inspection procedures for electronic fuel injection system components, refer to engine fuel section.)",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Fuel system malfunction)",
+      "probable_cause": "Damaged water temp. sensor.",
+      "corrective_action": "Replace. (For inspection procedures for electronic fuel injection system components, refer to engine fuel section.)",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Fuel system malfunction)",
+      "probable_cause": "Malfunctioning pressure regulator.",
+      "corrective_action": "Replace. (For inspection procedures for electronic fuel injection system components, refer to engine fuel section.)",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Fuel system malfunction)",
+      "probable_cause": "Dirty fuel filter.",
+      "corrective_action": "Replace.",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Fuel system malfunction)",
+      "probable_cause": "Dirty or clogged fuel pipe.",
+      "corrective_action": "Clean.",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Fuel system malfunction)",
+      "probable_cause": "Clogged fuel tank breather pipe.",
+      "corrective_action": "Repair and clean.",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Low compression)",
+      "probable_cause": "Incorrect spark plug tightening or damaged gasket.",
+      "corrective_action": "Tighten to normal torque or replace gasket.",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Low compression)",
+      "probable_cause": "Improper grade engine oil or low viscosity.",
+      "corrective_action": "Replace with proper grade oil.",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Low compression)",
+      "probable_cause": "Incorrect valve clearance.",
+      "corrective_action": "Adjust.",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Low compression)",
+      "probable_cause": "Compression leak from valve seat.",
+      "corrective_action": "Remove cylinder head and lap valves.",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Low compression)",
+      "probable_cause": "Sticky valve stem.",
+      "corrective_action": "Correct or replace valve and valve guide.",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Low compression)",
+      "probable_cause": "Weak or damaged valve springs.",
+      "corrective_action": "Replace valve springs.",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Low compression)",
+      "probable_cause": "Compression leak at cylinder head gasket.",
+      "corrective_action": "Replace gasket.",
+      "page_label": "ET-15"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Low compression)",
+      "probable_cause": "Sticking or defective piston ring.",
+      "corrective_action": "Replace piston rings.",
+      "page_label": "ET-16"
+    },
+    {
+      "symptom": "Engine cranks normally but will not start (Low compression)",
+      "probable_cause": "Worn piston ring or cylinder.",
+      "corrective_action": "Overhaul engine.",
+      "page_label": "ET-16"
+    },
+    {
+      "symptom": "Unstable engine idling (Ignition system)",
+      "probable_cause": "Incorrect idle adjustment",
+      "corrective_action": "Adjust.",
+      "page_label": "ET-16"
+    },
+    {
+      "symptom": "Unstable engine idling (Ignition system)",
+      "probable_cause": "Malfunctioning ignition system (spark plug, high tension cable, air gap, full transistor ignition unit, ignition coil, etc.)",
+      "corrective_action": "Replace.",
+      "page_label": "ET-16"
+    },
+    {
+      "symptom": "Unstable engine idling (Ignition system)",
+      "probable_cause": "Incorrect basic ignition timing.",
+      "corrective_action": "Adjust.",
+      "page_label": "ET-16"
+    },
+    {
+      "symptom": "Unstable engine idling (Engine mechanical system in trouble)",
+      "probable_cause": "Loose manifold and cylinder head bolts.",
+      "corrective_action": "Retighten bolts.",
+      "page_label": "ET-16"
+    },
+    {
+      "symptom": "Unstable engine idling (Engine mechanical system in trouble)",
+      "probable_cause": "Incorrect valve clearance.",
+      "corrective_action": "Adjust.",
+      "page_label": "ET-16"
+    },
+    {
+      "symptom": "Unstable engine idling (Fuel system malfunction)",
+      "probable_cause": "Clogged air cleaner filter.",
+      "corrective_action": "Replace filter.",
+      "page_label": "ET-16"
+    },
+    {
+      "symptom": "Unstable engine idling (Fuel system malfunction)",
+      "probable_cause": "Damaged manifold gaskets.",
+      "corrective_action": "Replace gasket.",
+      "page_label": "ET-16"
+    },
+    {
+      "symptom": "Unstable engine idling (Fuel system malfunction)",
+      "probable_cause": "Intake air leakage at following points: Dipstick, Oil filler cap, Blow-by hoses, Intake air duct\u2014air flow meter to throttle chamber.",
+      "corrective_action": "Repair or replace.",
+      "page_label": "ET-16"
+    },
+    {
+      "symptom": "Unstable engine idling (Fuel system malfunction)",
+      "probable_cause": "Damaged electronic fuel injection harness.",
+      "corrective_action": "Replace. (For inspection procedures for electronic fuel injection system components, refer to Engine Fuel Section.)",
+      "page_label": "ET-16"
+    },
+    {
+      "symptom": "Unstable engine idling (Fuel system malfunction)",
+      "probable_cause": "Seized injector (Listen to operating sound).",
+      "corrective_action": "Replace. (For inspection procedures for electronic fuel injection system components, refer to Engine Fuel Section.)",
+      "page_label": "ET-16"
+    },
+    {
+      "symptom": "Unstable engine idling (Fuel system malfunction)",
+      "probable_cause": "Malfunctioning air regulator (During warm-up driving only)",
+      "corrective_action": "Replace. (For inspection procedures for electronic fuel injection system components, refer to Engine Fuel Section.)",
+      "page_label": "ET-16"
+    },
+    {
+      "symptom": "Unstable engine idling (Fuel system malfunction)",
+      "probable_cause": "Damaged control unit.",
+      "corrective_action": "Replace. (For inspection procedures for electronic fuel injection system components, refer to Engine Fuel Section.)",
+      "page_label": "ET-16"
+    },
+    {
+      "symptom": "Unstable engine idling (Fuel system malfunction)",
+      "probable_cause": "Damaged water and air temp. sensor.",
+      "corrective_action": "Replace. (For inspection procedures for electronic fuel injection system components, refer to Engine Fuel Section.)",
+      "page_label": "ET-16"
+    },
+    {
+      "symptom": "Unstable engine idling (Fuel system malfunction)",
+      "probable_cause": "Malfunctioning throttle valve switch.",
+      "corrective_action": "Repair or replace.",
+      "page_label": "ET-16"
+    },
+    {
+      "symptom": "Unstable engine idling (Fuel system malfunction)",
+      "probable_cause": "Damaged altitude switch.",
+      "corrective_action": "Replace. (For inspection procedures for electronic fuel injection system components, refer to Engine Fuel Section.)",
+      "page_label": "ET-16"
+    },
+    {
+      "symptom": "Unstable engine idling (Fuel system malfunction)",
+      "probable_cause": "Irregular fuel pressure.",
+      "corrective_action": "Replace pressure regulator.",
+      "page_label": "ET-16"
+    },
+    {
+      "symptom": "Unstable engine idling (Others)",
+      "probable_cause": "Malfunctioning E.G.R. control valve.",
+      "corrective_action": "Clean or replace.",
+      "page_label": "ET-16"
+    },
+    {
+      "symptom": "High engine idle speed",
+      "probable_cause": "Dragged accelerator linkage.",
+      "corrective_action": "Check and correct accelerator linkage.",
+      "page_label": "ET-16"
+    },
+    {
+      "symptom": "High engine idle speed",
+      "probable_cause": "Malfunctioning B.C.D.D. system.",
+      "corrective_action": "If engine idling speed rises above 1,800 to 2,000 rpm, the cause may be a malfunctioning B.C.D.D. system. Check B.C.D.D. system. Repair or replace if necessary.",
+      "page_label": "ET-16"
+    },
+    {
+      "symptom": "High engine idle speed",
+      "probable_cause": "Malfunctioning air regulator.",
+      "corrective_action": "Replace. For inspection procedures for air regulator, refer to engine fuel section.",
+      "page_label": "ET-16"
+    },
+    {
+      "symptom": "High engine idle speed",
+      "probable_cause": "Incorrect adjustment of idle speed adjusting screw.",
+      "corrective_action": "Correct. For inspection procedures, refer to throttle chamber section.",
+      "page_label": "ET-17"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Low compression)",
+      "probable_cause": "Low compression causes",
+      "corrective_action": "Previously mentioned.",
+      "page_label": "ET-17"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Ignition system in trouble)",
+      "probable_cause": "Incorrect ignition timing.",
+      "corrective_action": "Adjust.",
+      "page_label": "ET-17"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Ignition system in trouble)",
+      "probable_cause": "Malfunctioning spark plugs.",
+      "corrective_action": "Clean, adjust or replace plugs.",
+      "page_label": "ET-17"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Ignition system in trouble)",
+      "probable_cause": "Malfunctioning distributor pick-up coil.",
+      "corrective_action": "Dress, or replace points. Also check condenser.",
+      "page_label": "ET-17"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Fuel system malfunction)",
+      "probable_cause": "Throttle valve does not open fully.",
+      "corrective_action": "Adjust. (For inspection procedures for electronic fuel injection system components, refer to Engine Fuel Section.)",
+      "page_label": "ET-17"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Fuel system malfunction)",
+      "probable_cause": "Damaged electronic fuel injection harness.",
+      "corrective_action": "Replace.",
+      "page_label": "ET-17"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Fuel system malfunction)",
+      "probable_cause": "Seized injector (Listen to operating sound).",
+      "corrective_action": "Replace.",
+      "page_label": "ET-17"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Fuel system malfunction)",
+      "probable_cause": "Malfunctioning air flow meter.",
+      "corrective_action": "Replace.",
+      "page_label": "ET-17"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Fuel system malfunction)",
+      "probable_cause": "Malfunctioning throttle valve switch.",
+      "corrective_action": "Repair or replace.",
+      "page_label": "ET-17"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Fuel system malfunction)",
+      "probable_cause": "Irregular fuel pressure.",
+      "corrective_action": "Replace pressure regulator if necessary.",
+      "page_label": "ET-17"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Fuel system malfunction)",
+      "probable_cause": "Clogged fuel pipe.",
+      "corrective_action": "Replace if necessary.",
+      "page_label": "ET-17"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Fuel system malfunction)",
+      "probable_cause": "Dirty or clogged fuel filter.",
+      "corrective_action": "Replace.",
+      "page_label": "ET-17"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Fuel system malfunction)",
+      "probable_cause": "Fuel pump will not work properly.",
+      "corrective_action": "Replace.",
+      "page_label": "ET-17"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Air intake system malfunction)",
+      "probable_cause": "Clogged air cleaner filter.",
+      "corrective_action": "Replace filter.",
+      "page_label": "ET-17"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Air intake system malfunction)",
+      "probable_cause": "Air leaking from manifold gasket.",
+      "corrective_action": "Replace gasket.",
+      "page_label": "ET-17"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Air intake system malfunction)",
+      "probable_cause": "Intake air leakage at following points: Dipstick, Oil filler cap, Blow-by hoses, Intake air duct\u2014air flow meter to throttle chamber etc.",
+      "corrective_action": "Repair or replace.",
+      "page_label": "ET-17"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Overheating)",
+      "probable_cause": "Insufficient coolant.",
+      "corrective_action": "Replenish.",
+      "page_label": "ET-17"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Overheating)",
+      "probable_cause": "Loose fan belt.",
+      "corrective_action": "Adjust fan belt.",
+      "page_label": "ET-17"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Overheating)",
+      "probable_cause": "Worn or damaged fan belt.",
+      "corrective_action": "Replace.",
+      "page_label": "ET-17"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Overheating)",
+      "probable_cause": "Malfunctioning thermostat.",
+      "corrective_action": "Replace.",
+      "page_label": "ET-17"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Overheating)",
+      "probable_cause": "Malfunctioning water pump.",
+      "corrective_action": "Replace.",
+      "page_label": "ET-17"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Overheating)",
+      "probable_cause": "Clogged or leaky radiator.",
+      "corrective_action": "Flush, repair or replace.",
+      "page_label": "ET-17"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Overheating)",
+      "probable_cause": "Malfunctioning radiator filler cap.",
+      "corrective_action": "Replace.",
+      "page_label": "ET-17"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Overheating)",
+      "probable_cause": "Air in cooling system.",
+      "corrective_action": "Retighten each part of cooling system.",
+      "page_label": "ET-17"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Overheating)",
+      "probable_cause": "Improper engine oil grade.",
+      "corrective_action": "Replace with proper grade oil.",
+      "page_label": "ET-17"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Overheating)",
+      "probable_cause": "Incorrect ignition timing.",
+      "corrective_action": "Adjust.",
+      "page_label": "ET-17"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Overcooling)",
+      "probable_cause": "Malfunctioning thermostat.",
+      "corrective_action": "Replace.",
+      "page_label": "ET-18"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Others)",
+      "probable_cause": "Improper octane fuel.",
+      "corrective_action": "Replace with specified octane fuel.",
+      "page_label": "ET-18"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Others)",
+      "probable_cause": "Improper tire pressure.",
+      "corrective_action": "Inflate to specified pressure.",
+      "page_label": "ET-18"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Others)",
+      "probable_cause": "Dragging brake.",
+      "corrective_action": "Adjust.",
+      "page_label": "ET-18"
+    },
+    {
+      "symptom": "Engine power not up to normal / below normal (Others)",
+      "probable_cause": "Clutch slipping.",
+      "corrective_action": "Adjust.",
+      "page_label": "ET-18"
+    },
+    {
+      "symptom": "Noisy engine (Car knocking)",
+      "probable_cause": "Overloaded engine.",
+      "corrective_action": "Use right gear in driving.",
+      "page_label": "ET-18"
+    },
+    {
+      "symptom": "Noisy engine (Car knocking)",
+      "probable_cause": "Carbon knocking.",
+      "corrective_action": "Disassemble cylinder head and remove carbon.",
+      "page_label": "ET-18"
+    },
+    {
+      "symptom": "Noisy engine (Car knocking)",
+      "probable_cause": "Timing knocking.",
+      "corrective_action": "Adjust ignition timing.",
+      "page_label": "ET-18"
+    },
+    {
+      "symptom": "Noisy engine (Car knocking)",
+      "probable_cause": "Fuel knocking.",
+      "corrective_action": "Use specified octane fuel.",
+      "page_label": "ET-18"
+    },
+    {
+      "symptom": "Noisy engine (Car knocking)",
+      "probable_cause": "Preignition (misusing of spark plug).",
+      "corrective_action": "Use specified spark plug.",
+      "page_label": "ET-18"
+    },
+    {
+      "symptom": "Noisy engine (Mechanical knocking - Crankshaft bearing knocking)",
+      "probable_cause": "Strong dull noise increases when engine is accelerated; stops by misfire on defective cylinder. Caused by worn or damaged bearings, or unevenly worn crankshaft.",
+      "corrective_action": "Renew bearings and adjust or change crankshaft. Check lubrication system.",
+      "page_label": "ET-18"
+    },
+    {
+      "symptom": "Noisy engine (Mechanical knocking - Connecting rod bearing knocking)",
+      "probable_cause": "Higher-pitched noise than crankshaft knocking, increases when engine accelerated; diminishes almost completely on misfire of defective cylinder.",
+      "corrective_action": "Same as the case of crankshaft bearings.",
+      "page_label": "ET-18"
+    },
+    {
+      "symptom": "Noisy engine (Mechanical knocking - Piston and cylinder noise)",
+      "probable_cause": "Overlapping metallic noise which increases with engine revolution and decreases as engine warms up; caused by piston and cylinder.",
+      "corrective_action": "This may cause an abnormal wearing of cylinder and lower compression which in turn will cause a lower out-put power and excessive consumption of oil. Overhaul engine.",
+      "page_label": "ET-18"
+    },
+    {
+      "symptom": "Noisy engine (Mechanical knocking - Piston pin noise)",
+      "probable_cause": "Noise heard at each highest and lowest dead end of piston; locate by causing misfire on each cylinder.",
+      "corrective_action": "This may cause a wear on piston pin, or piston pin hole. Renew piston and piston pin assembly.",
+      "page_label": "ET-18"
+    },
+    {
+      "symptom": "Noisy engine (Mechanical knocking - Water pump noise)",
+      "probable_cause": "Worn or damaged bearings, or uneven surface of sliding parts in water pump.",
+      "corrective_action": "Replace water pump with a new one.",
+      "page_label": "ET-18"
+    },
+    {
+      "symptom": "Noisy engine (Others)",
+      "probable_cause": "An improper adjustment of valve clearance.",
+      "corrective_action": "Adjust.",
+      "page_label": "ET-18"
+    },
+    {
+      "symptom": "Noisy engine (Others)",
+      "probable_cause": "Noise of timing chain.",
+      "corrective_action": "Adjust the tension of chain.",
+      "page_label": "ET-18"
+    },
+    {
+      "symptom": "Noisy engine (Others)",
+      "probable_cause": "An excessive end-play on crankshaft.",
+      "corrective_action": "Disassemble engine and renew main bearing.",
+      "page_label": "ET-18"
+    },
+    {
+      "symptom": "Noisy engine (Others - noise heard when clutch is disengaged)",
+      "probable_cause": "Wear on clutch pilot bushing.",
+      "corrective_action": "Renew bushing and adjust drive shaft.",
+      "page_label": "ET-19"
+    },
+    {
+      "symptom": "Abnormal combustion (backfire, after fire run-on etc. - Improper ignition timing)",
+      "probable_cause": "Improper ignition timing.",
+      "corrective_action": "Adjust ignition timing.",
+      "page_label": "ET-19"
+    },
+    {
+      "symptom": "Abnormal combustion (backfire, after fire run-on etc. - Improper ignition timing)",
+      "probable_cause": "Improper heat range of spark plugs.",
+      "corrective_action": "Use specified spark plugs.",
+      "page_label": "ET-19"
+    },
+    {
+      "symptom": "Abnormal combustion (backfire, after fire run-on etc. - Fuel system malfunction)",
+      "probable_cause": "Intake air leakage at following points: Dipstick, Oil filler cap, Blow-by hoses, Intake air duct\u2014air flow meter to throttle chamber, etc.",
+      "corrective_action": "Repair or replace. (For inspection procedures for electronic fuel injection system components, refer to Engine Fuel Section.)",
+      "page_label": "ET-19"
+    },
+    {
+      "symptom": "Abnormal combustion (backfire, after fire run-on etc. - Fuel system malfunction)",
+      "probable_cause": "Damaged electronic fuel injection harness.",
+      "corrective_action": "Replace. (For inspection procedures for electronic fuel injection system components, refer to Engine Fuel Section.)",
+      "page_label": "ET-19"
+    },
+    {
+      "symptom": "Abnormal combustion (backfire, after fire run-on etc. - Fuel system malfunction)",
+      "probable_cause": "Damaged control unit.",
+      "corrective_action": "Replace.",
+      "page_label": "ET-19"
+    },
+    {
+      "symptom": "Abnormal combustion (backfire, after fire run-on etc. - Fuel system malfunction)",
+      "probable_cause": "Malfunctioning air flow meter.",
+      "corrective_action": "Replace.",
+      "page_label": "ET-19"
+    },
+    {
+      "symptom": "Abnormal combustion (backfire, after fire run-on etc. - Fuel system malfunction)",
+      "probable_cause": "Damaged water temp. sensor.",
+      "corrective_action": "Replace.",
+      "page_label": "ET-19"
+    },
+    {
+      "symptom": "Abnormal combustion (backfire, after fire run-on etc. - Fuel system malfunction)",
+      "probable_cause": "Damaged altitude switch.",
+      "corrective_action": "Replace.",
+      "page_label": "ET-19"
+    },
+    {
+      "symptom": "Abnormal combustion (backfire, after fire run-on etc. - Defective cylinder head, etc.)",
+      "probable_cause": "Improperly adjusted valve clearance.",
+      "corrective_action": "Adjust.",
+      "page_label": "ET-19"
+    },
+    {
+      "symptom": "Abnormal combustion (backfire, after fire run-on etc. - Defective cylinder head, etc.)",
+      "probable_cause": "Excess carbon in combustion chamber.",
+      "corrective_action": "Remove head and get rid of carbon.",
+      "page_label": "ET-19"
+    },
+    {
+      "symptom": "Abnormal combustion (backfire, after fire run-on etc. - Defective cylinder head, etc.)",
+      "probable_cause": "Damaged valve spring (backfire, after fire).",
+      "corrective_action": "Replace it with a new one.",
+      "page_label": "ET-19"
+    },
+    {
+      "symptom": "Abnormal combustion (backfire, after fire run-on etc. - Others)",
+      "probable_cause": "Loose vacuum hoses.",
+      "corrective_action": "Check for loose vacuum hoses. Replace if necessary.",
+      "page_label": "ET-19"
+    },
+    {
+      "symptom": "Abnormal combustion (backfire, after fire run-on etc. - Others)",
+      "probable_cause": "Malfunctioning E.G.R. control valve.",
+      "corrective_action": "Replace.",
+      "page_label": "ET-19"
+    },
+    {
+      "symptom": "Excessive oil consumption (Oil leakage)",
+      "probable_cause": "Loose oil drain plug.",
+      "corrective_action": "Tighten it.",
+      "page_label": "ET-19"
+    },
+    {
+      "symptom": "Excessive oil consumption (Oil leakage)",
+      "probable_cause": "Loose or damaged oil pan gasket.",
+      "corrective_action": "Renew gasket or tighten it.",
+      "page_label": "ET-19"
+    },
+    {
+      "symptom": "Excessive oil consumption (Oil leakage)",
+      "probable_cause": "Loose or damaged chain cover gasket.",
+      "corrective_action": "Renew gasket or tighten it.",
+      "page_label": "ET-19"
+    },
+    {
+      "symptom": "Excessive oil consumption (Oil leakage)",
+      "probable_cause": "Damaged oil seal in front and rear of crankshaft.",
+      "corrective_action": "Renew oil seal.",
+      "page_label": "ET-19"
+    },
+    {
+      "symptom": "Excessive oil consumption (Oil leakage)",
+      "probable_cause": "Loose or damaged rocker cover gasket.",
+      "corrective_action": "Renew gasket or tighten it (but not too much).",
+      "page_label": "ET-19"
+    },
+    {
+      "symptom": "Excessive oil consumption (Oil leakage)",
+      "probable_cause": "Improper tightening of oil filter.",
+      "corrective_action": "Renew gasket and tighten it with the proper torque.",
+      "page_label": "ET-19"
+    },
+    {
+      "symptom": "Excessive oil consumption (Oil leakage)",
+      "probable_cause": "Loose or damaged oil pressure switch.",
+      "corrective_action": "Renew oil pressure switch or tighten it.",
+      "page_label": "ET-19"
+    },
+    {
+      "symptom": "Excessive oil consumption",
+      "probable_cause": "Cylinder and piston wear.",
+      "corrective_action": "Overhaul cylinder and renew piston.",
+      "page_label": "ET-20"
+    },
+    {
+      "symptom": "Excessive oil consumption",
+      "probable_cause": "Improper location of piston ring or reversely assembled piston ring.",
+      "corrective_action": "Remount piston rings.",
+      "page_label": "ET-20"
+    },
+    {
+      "symptom": "Excessive oil consumption",
+      "probable_cause": "Damaged piston rings.",
+      "corrective_action": "Renew rings. Repair or renew piston and cylinder.",
+      "page_label": "ET-20"
+    },
+    {
+      "symptom": "Excessive oil consumption",
+      "probable_cause": "Worn piston ring groove and ring.",
+      "corrective_action": "Renew piston and piston ring.",
+      "page_label": "ET-20"
+    },
+    {
+      "symptom": "Excessive oil consumption",
+      "probable_cause": "Fatigue of valve oil seal lip.",
+      "corrective_action": "Replace seal lip with a new one.",
+      "page_label": "ET-20"
+    },
+    {
+      "symptom": "Excessive oil consumption",
+      "probable_cause": "Worn valve stem.",
+      "corrective_action": "Renew valve or guide.",
+      "page_label": "ET-20"
+    },
+    {
+      "symptom": "Excessive oil consumption (Others)",
+      "probable_cause": "Inadequate quality of engine oil.",
+      "corrective_action": "Use the designated oil.",
+      "page_label": "ET-20"
+    },
+    {
+      "symptom": "Excessive oil consumption (Others)",
+      "probable_cause": "Engine overheat.",
+      "corrective_action": "Previously mentioned.",
+      "page_label": "ET-20"
+    },
+    {
+      "symptom": "Poor fuel economy (Ignition system)",
+      "probable_cause": "Ignition defects causing power decrease",
+      "corrective_action": "See the explanation of the power decrease.",
+      "page_label": "ET-20"
+    },
+    {
+      "symptom": "Poor fuel economy (Others)",
+      "probable_cause": "Exceeding idling revolution.",
+      "corrective_action": "Adjust it to the designated rpm.",
+      "page_label": "ET-20"
+    },
+    {
+      "symptom": "Poor fuel economy (Others)",
+      "probable_cause": "Loose connection of fuel pipes.",
+      "corrective_action": "Repair or tighten the connection of fuel pipes.",
+      "page_label": "ET-20"
+    },
+    {
+      "symptom": "Poor fuel economy (Emission control system)",
+      "probable_cause": "Malfunctioning E.G.R. system.",
+      "corrective_action": "Replace.",
+      "page_label": "ET-20"
+    },
+    {
+      "symptom": "Poor fuel economy (Fuel system malfunction)",
+      "probable_cause": "Fuel leakage.",
+      "corrective_action": "Repair or replace. (For inspection procedures for electronic fuel injection system components, refer to Engine Fuel Section.)",
+      "page_label": "ET-20"
+    },
+    {
+      "symptom": "Poor fuel economy (Fuel system malfunction)",
+      "probable_cause": "Damaged electronic fuel injection harness.",
+      "corrective_action": "Replace.",
+      "page_label": "ET-20"
+    },
+    {
+      "symptom": "Poor fuel economy (Fuel system malfunction)",
+      "probable_cause": "Damaged control unit.",
+      "corrective_action": "Replace.",
+      "page_label": "ET-20"
+    },
+    {
+      "symptom": "Poor fuel economy (Fuel system malfunction)",
+      "probable_cause": "Malfunctioning air flow meter.",
+      "corrective_action": "Replace.",
+      "page_label": "ET-20"
+    },
+    {
+      "symptom": "Poor fuel economy (Fuel system malfunction)",
+      "probable_cause": "Damaged air temperature sensor.",
+      "corrective_action": "Replace.",
+      "page_label": "ET-20"
+    },
+    {
+      "symptom": "Poor fuel economy (Fuel system malfunction)",
+      "probable_cause": "Malfunctioning throttle valve switch.",
+      "corrective_action": "Replace.",
+      "page_label": "ET-20"
+    },
+    {
+      "symptom": "Poor fuel economy (Fuel system malfunction)",
+      "probable_cause": "Fuel leakage at injector or cold start valve.",
+      "corrective_action": "Replace damaged part.",
+      "page_label": "ET-20"
+    },
+    {
+      "symptom": "Poor fuel economy (Fuel system malfunction)",
+      "probable_cause": "Fuel leakage at rubber fuel hose.",
+      "corrective_action": "Repair or replace.",
+      "page_label": "ET-20"
+    },
+    {
+      "symptom": "Poor fuel economy (Fuel system malfunction)",
+      "probable_cause": "Irregular fuel pressure.",
+      "corrective_action": "Replace pressure regulator if necessary.",
+      "page_label": "ET-20"
+    },
+    {
+      "symptom": "Trouble in other functions (Decreased oil pressure)",
+      "probable_cause": "Inadequate oil quality.",
+      "corrective_action": "Use the designated oil.",
+      "page_label": "ET-20"
+    },
+    {
+      "symptom": "Trouble in other functions (Decreased oil pressure)",
+      "probable_cause": "Overheat.",
+      "corrective_action": "Previously mentioned.",
+      "page_label": "ET-20"
+    },
+    {
+      "symptom": "Trouble in other functions (Decreased oil pressure)",
+      "probable_cause": "Malfunctioning oil pump regulator valve.",
+      "corrective_action": "Disassemble oil pump and repair or renew it.",
+      "page_label": "ET-20"
+    },
+    {
+      "symptom": "Trouble in other functions (Decreased oil pressure)",
+      "probable_cause": "Functional deterioration of oil pump.",
+      "corrective_action": "Repair or replace it with a new one.",
+      "page_label": "ET-20"
+    },
+    {
+      "symptom": "Trouble in other functions (Decreased oil pressure)",
+      "probable_cause": "Blocked oil filter.",
+      "corrective_action": "Renew it.",
+      "page_label": "ET-20"
+    },
+    {
+      "symptom": "Trouble in other functions (Decreased oil pressure)",
+      "probable_cause": "Increased clearance in various sliding parts.",
+      "corrective_action": "Disassemble and replace the worn parts with new ones.",
+      "page_label": "ET-21"
+    },
+    {
+      "symptom": "Trouble in other functions (Decreased oil pressure)",
+      "probable_cause": "Blocked oil strainer.",
+      "corrective_action": "Clean it.",
+      "page_label": "ET-21"
+    },
+    {
+      "symptom": "Trouble in other functions (Decreased oil pressure)",
+      "probable_cause": "Malfunctioning oil gauge pressure switch.",
+      "corrective_action": "Replace it with a new one.",
+      "page_label": "ET-21"
+    },
+    {
+      "symptom": "Excessive wear on the sliding parts",
+      "probable_cause": "Oil pressure decreases.",
+      "corrective_action": "Previously mentioned.",
+      "page_label": "ET-21"
+    },
+    {
+      "symptom": "Excessive wear on the sliding parts",
+      "probable_cause": "Damaged quality or contamination of oil.",
+      "corrective_action": "Exchange the oil with proper one and change element.",
+      "page_label": "ET-21"
+    },
+    {
+      "symptom": "Excessive wear on the sliding parts",
+      "probable_cause": "Air leakage from air intake duct.",
+      "corrective_action": "Repair or replace.",
+      "page_label": "ET-21"
+    },
+    {
+      "symptom": "Excessive wear on the sliding parts",
+      "probable_cause": "Damaged air cleaner.",
+      "corrective_action": "Change element.",
+      "page_label": "ET-21"
+    },
+    {
+      "symptom": "Excessive wear on the sliding parts",
+      "probable_cause": "Overheat or overcool.",
+      "corrective_action": "Previously mentioned.",
+      "page_label": "ET-21"
+    },
+    {
+      "symptom": "Excessive wear on the sliding parts",
+      "probable_cause": "Improper fuel mixture.",
+      "corrective_action": "Check the fuel system.",
+      "page_label": "ET-21"
+    },
+    {
+      "symptom": "Scuffing of sliding parts",
+      "probable_cause": "Decrease of oil pressure.",
+      "corrective_action": "Previously mentioned.",
+      "page_label": "ET-21"
+    },
+    {
+      "symptom": "Scuffing of sliding parts",
+      "probable_cause": "Insufficient clearances.",
+      "corrective_action": "Readjust to the designated clearances.",
+      "page_label": "ET-21"
+    },
+    {
+      "symptom": "Scuffing of sliding parts",
+      "probable_cause": "Overheat.",
+      "corrective_action": "Previously mentioned.",
+      "page_label": "ET-21"
+    },
+    {
+      "symptom": "Scuffing of sliding parts",
+      "probable_cause": "Improper fuel mixture.",
+      "corrective_action": "Check the fuel system.",
+      "page_label": "ET-21"
+    }
+  ],
+  "special_tools": [
+    {
+      "tool_number": "ST10640001",
+      "tool_name": "Pivot adjuster",
+      "kent_moore_no": "J 25615-01",
+      "ref": "Fig. ET-2",
+      "page_label": "ET-22"
+    },
+    {
+      "tool_number": "ST19320000",
+      "tool_name": "Oil filter wrench",
+      "kent_moore_no": "J 25664",
+      "ref": "Page ET-5",
+      "page_label": "ET-22"
+    }
+  ]
+}

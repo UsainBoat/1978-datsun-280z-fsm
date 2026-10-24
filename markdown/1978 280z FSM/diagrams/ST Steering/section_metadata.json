@@ -1,0 +1,2739 @@
+{
+  "section_title": "STEERING SYSTEM",
+  "source_pdf": "1978 280z FSM/ST Steering.pdf",
+  "md_path": "1978 280z FSM/ST Steering.md",
+  "pages_count": 17,
+  "diagrams": [
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_1_structural_view_of_steering_system",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_1_structural_view_of_steering_system.png",
+      "rel_link": "diagrams/ST Steering/fig_st_1_structural_view_of_steering_system.png",
+      "page_num": 2,
+      "page_label": "ST-2",
+      "fig_id": "Fig. ST-1",
+      "code": "ST429",
+      "caption": "Fig. ST-1 Structural view of steering system",
+      "diagram_type": "component_location",
+      "description": "Structural perspective drawing showing the complete steering system layout in relation to the front suspension and steering column assembly.",
+      "components": [
+        "Steering wheel",
+        "Steering column clamp",
+        "Steering column tube",
+        "Jacket tube bracket",
+        "Rubber coupling",
+        "Lower joint assembly",
+        "Steering lower joint",
+        "Steering gear",
+        "Gear housing",
+        "Side rod"
+      ],
+      "callouts": {
+        "1": "Steering wheel",
+        "2": "Steering column clamp",
+        "3": "Steering column tube",
+        "4": "Jacket tube bracket",
+        "5": "Rubber coupling",
+        "6": "Lower joint assembly",
+        "7": "Steering lower joint",
+        "8": "Steering gear",
+        "9": "Gear housing",
+        "10": "Side rod"
+      },
+      "measurements_and_specs": [
+        "Gear ratio: 18.0 : 1",
+        "Backlash: 0 mm (0 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Universal joints require no lubrication. Rubber coupling isolates road vibration.",
+      "tags": [
+        "steering system",
+        "rack and pinion",
+        "steering column",
+        "structural view",
+        "overview"
+      ],
+      "dimensions": [
+        1046,
+        732
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_2_removing_steering_wheel",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_2_removing_steering_wheel.png",
+      "rel_link": "diagrams/ST Steering/fig_st_2_removing_steering_wheel.png",
+      "page_num": 3,
+      "page_label": "ST-3",
+      "fig_id": "Fig. ST-2",
+      "code": "ST430",
+      "caption": "Fig. ST-2 Removing steering wheel",
+      "diagram_type": "procedure_step",
+      "description": "Removing steering wheel using Steering Wheel Puller ST27180001 threaded into the steering wheel hub.",
+      "components": [
+        "Steering wheel",
+        "Steering wheel puller ST27180001",
+        "Puller anchor screws",
+        "Center forcing bolt"
+      ],
+      "callouts": {
+        "ST27180001": "Steering wheel puller"
+      },
+      "measurements_and_specs": [
+        "Tool number: ST27180001 (Kent-Moore J 25726)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Do not strike end of steering column shaft with a hammer. Striking shaft will damage bearing or collapsible shaft. Be careful not to damage cancel pole.",
+      "tags": [
+        "steering wheel",
+        "puller",
+        "removal",
+        "ST27180001"
+      ],
+      "dimensions": [
+        322,
+        300
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_3_sectional_view_of_collapsible_type_steering",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_3_sectional_view_of_collapsible_type_steering.png",
+      "rel_link": "diagrams/ST Steering/fig_st_3_sectional_view_of_collapsible_type_steering.png",
+      "page_num": 3,
+      "page_label": "ST-3",
+      "fig_id": "Fig. ST-3",
+      "code": "ST431",
+      "caption": "Fig. ST-3 Sectional view of collapsible type steering",
+      "diagram_type": "cutaway_flow",
+      "description": "Sectional view of the steel ball collapsible steering column showing jacket tubes, bearing, spring, bracket, and rubber coupling.",
+      "components": [
+        "Upper bearing",
+        "Upper jacket shaft",
+        "Steering column clamp",
+        "Upper jacket tube",
+        "Steel ball",
+        "Lower jacket shaft",
+        "Lower jacket tube",
+        "Jacket tube bracket",
+        "Steering column spring",
+        "Rubber coupling",
+        "Column dust cover"
+      ],
+      "callouts": {
+        "1": "Upper bearing",
+        "2": "Upper jacket shaft",
+        "3": "Steering column clamp",
+        "4": "Upper jacket tube",
+        "5": "Steel ball",
+        "6": "Lower jacket shaft",
+        "7": "Lower jacket tube",
+        "8": "Jacket tube bracket",
+        "9": "Steering column spring",
+        "10": "Rubber coupling",
+        "11": "Column dust cover"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Never apply undue stress to steering column in axial direction. Do not apply bending force during installation.",
+      "tags": [
+        "steering column",
+        "collapsible type",
+        "sectional view",
+        "steel ball",
+        "construction"
+      ],
+      "dimensions": [
+        1099,
+        460
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_4_removing_rubber_coupling_bolt",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_4_removing_rubber_coupling_bolt.png",
+      "rel_link": "diagrams/ST Steering/fig_st_4_removing_rubber_coupling_bolt.png",
+      "page_num": 4,
+      "page_label": "ST-4",
+      "fig_id": "Fig. ST-4",
+      "code": "ST432",
+      "caption": "Fig. ST-4 Removing rubber coupling bolt",
+      "diagram_type": "procedure_step",
+      "description": "Removing bolt securing the steering column shaft to the rubber coupling flange.",
+      "components": [
+        "Rubber coupling",
+        "Steering column shaft",
+        "Coupling bolt"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Disconnect steering column assembly from lower joint shaft at rubber coupling by removing bolt.",
+      "tags": [
+        "rubber coupling",
+        "bolt",
+        "removal",
+        "steering column"
+      ],
+      "dimensions": [
+        359,
+        321
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_5_removing_jacket_tube_bracket_securing_bolts",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_5_removing_jacket_tube_bracket_securing_bolts.png",
+      "rel_link": "diagrams/ST Steering/fig_st_5_removing_jacket_tube_bracket_securing_bolts.png",
+      "page_num": 4,
+      "page_label": "ST-4",
+      "fig_id": "Fig. ST-5",
+      "code": "ST433",
+      "caption": "Fig. ST-5 Removing jacket tube bracket securing bolts",
+      "diagram_type": "procedure_step",
+      "description": "Location of four bolts securing jacket tube bracket to the dash panel under the dashboard.",
+      "components": [
+        "Jacket tube bracket",
+        "Dash panel mounting bolts"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove bolts securing jacket tube bracket to dash panel.",
+      "tags": [
+        "jacket tube bracket",
+        "dash panel",
+        "securing bolts"
+      ],
+      "dimensions": [
+        303,
+        314
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_6_removing_column_clamp_securing_bolts",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_6_removing_column_clamp_securing_bolts.png",
+      "rel_link": "diagrams/ST Steering/fig_st_6_removing_column_clamp_securing_bolts.png",
+      "page_num": 4,
+      "page_label": "ST-4",
+      "fig_id": "Fig. ST-6",
+      "code": "ST335",
+      "caption": "Fig. ST-6 Removing column clamp securing bolts",
+      "diagram_type": "procedure_step",
+      "description": "Removing two column clamp securing bolts while supporting the steering column assembly.",
+      "components": [
+        "Column clamp",
+        "Column clamp securing bolts",
+        "Steering column"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Support steering column at the top portion while removing two column clamp securing bolts.",
+      "tags": [
+        "column clamp",
+        "securing bolts",
+        "removal"
+      ],
+      "dimensions": [
+        361,
+        314
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_7_drawing_out_steering_column_assembly",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_7_drawing_out_steering_column_assembly.png",
+      "rel_link": "diagrams/ST Steering/fig_st_7_drawing_out_steering_column_assembly.png",
+      "page_num": 4,
+      "page_label": "ST-4",
+      "fig_id": "Fig. ST-7",
+      "code": "ST189",
+      "caption": "Fig. ST-7 Drawing out steering column assembly",
+      "diagram_type": "procedure_step",
+      "description": "Withdrawing the complete steering column assembly rearward into the passenger compartment.",
+      "components": [
+        "Steering column assembly",
+        "Pedal bracket",
+        "Dash interior"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Draw out steering column assembly from the interior side.",
+      "tags": [
+        "steering column",
+        "removal",
+        "interior"
+      ],
+      "dimensions": [
+        338,
+        331
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_8_loosening_nut_securing_lower_joint_to_pinion_gear",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_8_loosening_nut_securing_lower_joint_to_pinion_gear.png",
+      "rel_link": "diagrams/ST Steering/fig_st_8_loosening_nut_securing_lower_joint_to_pinion_gear.png",
+      "page_num": 4,
+      "page_label": "ST-4",
+      "fig_id": "Fig. ST-8",
+      "code": "ST434",
+      "caption": "Fig. ST-8 Loosening nut securing lower joint to pinion gear",
+      "diagram_type": "procedure_step",
+      "description": "Loosening pinch bolt nut clamping the lower steering joint to the pinion gear serration.",
+      "components": [
+        "Lower joint",
+        "Pinion gear shaft",
+        "Pinch nut"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Take lower joint assembly out by loosening nut securing lower joint to pinion gear.",
+      "tags": [
+        "lower joint",
+        "pinion gear",
+        "pinch nut"
+      ],
+      "dimensions": [
+        341,
+        320
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_column_shaft_spring",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_column_shaft_spring.png",
+      "rel_link": "diagrams/ST Steering/fig_st_column_shaft_spring.png",
+      "page_num": 4,
+      "page_label": "ST-4",
+      "fig_id": "",
+      "code": "",
+      "caption": "Column shaft spring dimensions",
+      "diagram_type": "inspection_measurement",
+      "description": "Inspection dimension diagram of the column shaft spring showing outer diameter and free length.",
+      "components": [
+        "Column shaft spring"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Wire diameter: 3.5 mm (0.138 in)",
+        "Free length: 27.3 mm (1.075 in)",
+        "Outer diameter: 26 mm (1.02 in) dia.",
+        "Load x length: 30 kg (66 lb) x 15 mm (0.59 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Replace spring if damaged or weakened.",
+      "tags": [
+        "column shaft spring",
+        "dimensions",
+        "inspection"
+      ],
+      "dimensions": [
+        326,
+        187
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_9_standard_dimension_between_column_clamp_and_the_top_end_of_lower_jacket_tube",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_9_standard_dimension_between_column_clamp_and_the_top_end_of_lower_jacket_tube.png",
+      "rel_link": "diagrams/ST Steering/fig_st_9_standard_dimension_between_column_clamp_and_the_top_end_of_lower_jacket_tube.png",
+      "page_num": 4,
+      "page_label": "ST-4",
+      "fig_id": "Fig. ST-9",
+      "code": "ST192",
+      "caption": "Fig. ST-9 Standard dimension between column clamp and the top end of lower jacket tube",
+      "diagram_type": "inspection_measurement",
+      "description": "Measuring dimension A between column clamp and the upper edge of lower jacket tube to inspect for collapse.",
+      "components": [
+        "Jacket tube",
+        "Column clamp"
+      ],
+      "callouts": {
+        "1": "Jacket tube",
+        "2": "Column clamp"
+      },
+      "measurements_and_specs": [
+        "Dimension A standard: 176.1 mm (6.93 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "When jacket tube is crushed in a collision, dimension A becomes smaller.",
+      "tags": [
+        "jacket tube",
+        "column clamp",
+        "dimension A",
+        "collision check"
+      ],
+      "dimensions": [
+        354,
+        326
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_10_standard_dimension_b",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_10_standard_dimension_b.png",
+      "rel_link": "diagrams/ST Steering/fig_st_10_standard_dimension_b.png",
+      "page_num": 4,
+      "page_label": "ST-4",
+      "fig_id": "Fig. ST-10",
+      "code": "ST193",
+      "caption": "Fig. ST-10 Standard dimension B",
+      "diagram_type": "inspection_measurement",
+      "description": "Checking dimension B gap at the column clamp block to determine if the column has begun collapsing.",
+      "components": [
+        "Column clamp",
+        "Block",
+        "Jacket tube"
+      ],
+      "callouts": {
+        "1": "Column clamp",
+        "2": "Block",
+        "3": "Jacket tube"
+      },
+      "measurements_and_specs": [
+        "Standard B dimension: 0 mm (0 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Standard B dimension is 0 mm (0 in). When jacket tube is crushed, dimension B becomes larger.",
+      "tags": [
+        "column clamp",
+        "dimension B",
+        "block",
+        "collision check"
+      ],
+      "dimensions": [
+        354,
+        384
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_11_inspecting_steering_wheel_for_axial_play",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_11_inspecting_steering_wheel_for_axial_play.png",
+      "rel_link": "diagrams/ST Steering/fig_st_11_inspecting_steering_wheel_for_axial_play.png",
+      "page_num": 5,
+      "page_label": "ST-5",
+      "fig_id": "Fig. ST-11",
+      "code": "ST194",
+      "caption": "Fig. ST-11 Inspecting steering wheel for axial play",
+      "diagram_type": "inspection_measurement",
+      "description": "Checking for 0 mm axial play along the column shaft axis at the steering wheel.",
+      "components": [
+        "Steering wheel",
+        "Steering column shaft"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Axial play: 0 mm (0 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "When steering jacket shaft is crushed, axial play occurs.",
+      "tags": [
+        "steering wheel",
+        "axial play",
+        "inspection"
+      ],
+      "dimensions": [
+        354,
+        243
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_12_installing_steering_column_assembly",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_12_installing_steering_column_assembly.png",
+      "rel_link": "diagrams/ST Steering/fig_st_12_installing_steering_column_assembly.png",
+      "page_num": 5,
+      "page_label": "ST-5",
+      "fig_id": "Fig. ST-12",
+      "code": "ST435",
+      "caption": "Fig. ST-12 Installing steering column assembly",
+      "diagram_type": "procedure_step",
+      "description": "Installation diagram of steering column assembly detailing mounting points 1-7 and tightening torques A through F.",
+      "components": [
+        "Steering wheel",
+        "Steering column assembly",
+        "Steering column clamp",
+        "Dash panel",
+        "Jacket tube bracket",
+        "Rubber coupling",
+        "Lower joint assembly"
+      ],
+      "callouts": {
+        "1": "Steering wheel",
+        "2": "Steering column assembly",
+        "3": "Steering column clamp",
+        "4": "Dash panel",
+        "5": "Jacket tube bracket",
+        "6": "Rubber coupling",
+        "7": "Lower joint assembly"
+      },
+      "measurements_and_specs": [
+        "A (Lower joint to rubber coupling): 2.3 to 2.7 kg-m (17 to 20 ft-lb)",
+        "B (Steering column clamp): 0.8 to 1.1 kg-m (5.8 to 8.0 ft-lb)",
+        "C (Jacket tube bracket to dash panel): 0.54 to 0.74 kg-m (3.9 to 5.4 ft-lb)",
+        "D (Rubber coupling securing bolt): 1.7 to 2.0 kg-m (12 to 14 ft-lb)",
+        "E (Lower joint to pinion gear): 4 to 5 kg-m (29 to 36 ft-lb)",
+        "F (Steering wheel nut): 4 to 5 kg-m (29 to 36 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Tighten bolts and nuts correctly and securely to specified torques. Make sure no undue stress is applied to rubber coupling.",
+      "tags": [
+        "steering column",
+        "installation",
+        "tightening torque",
+        "torques A-F"
+      ],
+      "dimensions": [
+        1086,
+        654
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_13_lining_up_slit_with_punched_mark",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_13_lining_up_slit_with_punched_mark.png",
+      "rel_link": "diagrams/ST Steering/fig_st_13_lining_up_slit_with_punched_mark.png",
+      "page_num": 5,
+      "page_label": "ST-5",
+      "fig_id": "Fig. ST-13",
+      "code": "ST117",
+      "caption": "Fig. ST-13 Lining up slit with punched mark",
+      "diagram_type": "alignment_orientation",
+      "description": "Aligning universal joint slit with punch mark on the top end of the upper steering shaft.",
+      "components": [
+        "Universal joint",
+        "Slit of universal joint",
+        "Punched mark",
+        "Steering shaft"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Line up the slits of universal joints with the punched mark located on the top end of upper steering shaft.",
+      "tags": [
+        "universal joint",
+        "slit",
+        "punch mark",
+        "alignment"
+      ],
+      "dimensions": [
+        354,
+        282
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_14_removing_steering_lock_securing_screws",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_14_removing_steering_lock_securing_screws.png",
+      "rel_link": "diagrams/ST Steering/fig_st_14_removing_steering_lock_securing_screws.png",
+      "page_num": 5,
+      "page_label": "ST-5",
+      "fig_id": "Fig. ST-14",
+      "code": "ST436",
+      "caption": "Fig. ST-14 Removing steering lock securing screws",
+      "diagram_type": "procedure_step",
+      "description": "Location of two headless self-shear screws securing the steering lock housing to the steering jacket tube.",
+      "components": [
+        "Steering lock",
+        "Self-shear type screws",
+        "Steering jacket tube"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Break two self-shear type screws with a drill or other proper tool. Upon installation, cut off screw heads.",
+      "tags": [
+        "steering lock",
+        "shear screws",
+        "removal",
+        "tamper-proof"
+      ],
+      "dimensions": [
+        372,
+        323
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_15_cross_section_of_rack_and_pinion_and_side_rod_assembly",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_15_cross_section_of_rack_and_pinion_and_side_rod_assembly.png",
+      "rel_link": "diagrams/ST Steering/fig_st_15_cross_section_of_rack_and_pinion_and_side_rod_assembly.png",
+      "page_num": 6,
+      "page_label": "ST-6",
+      "fig_id": "Fig. ST-15",
+      "code": "ST437",
+      "caption": "Fig. ST-15 Cross-section of rack-and-pinion and side rod assembly",
+      "diagram_type": "cutaway_flow",
+      "description": "Comprehensive cutaway illustration showing internal construction and callouts 1 through 21 of the rack-and-pinion steering gear and side rod linkage.",
+      "components": [
+        "Rack",
+        "Pinion",
+        "Oil seal",
+        "Pinion bearing",
+        "Retainer adjust screw",
+        "Adjust lock nut",
+        "Gear boot",
+        "Side rod lock nut",
+        "Lock nut spacer",
+        "Side rod spring seat",
+        "Retainer spring",
+        "Retainer",
+        "Side rod inner spring",
+        "Dust cover clamp",
+        "Side rod inner socket",
+        "Ball stud",
+        "Side rod",
+        "Side rod ball stud",
+        "Side rod ball stud nut",
+        "Gear boot clamp",
+        "Steering stopper nut"
+      ],
+      "callouts": {
+        "1": "Rack",
+        "2": "Pinion",
+        "3": "Oil seal",
+        "4": "Pinion bearing",
+        "5": "Retainer adjust screw",
+        "6": "Adjust lock nut",
+        "7": "Gear boot",
+        "8": "Side rod lock nut",
+        "9": "Lock nut spacer",
+        "10": "Side rod spring seat",
+        "11": "Retainer spring",
+        "12": "Retainer",
+        "13": "Side rod inner spring",
+        "14": "Dust cover clamp",
+        "15": "Side rod inner socket",
+        "16": "Ball stud",
+        "17": "Side rod",
+        "18": "Side rod ball stud",
+        "19": "Side rod ball stud nut",
+        "20": "Gear boot clamp",
+        "21": "Steering stopper nut"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Backlash is held to 0 mm (0 in) by the retainer and retainer spring.",
+      "tags": [
+        "rack and pinion",
+        "cross section",
+        "side rod",
+        "steering linkage",
+        "internal construction"
+      ],
+      "dimensions": [
+        1080,
+        551
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_16_loosening_bolts_securing_lower_joint_assembly",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_16_loosening_bolts_securing_lower_joint_assembly.png",
+      "rel_link": "diagrams/ST Steering/fig_st_16_loosening_bolts_securing_lower_joint_assembly.png",
+      "page_num": 6,
+      "page_label": "ST-6",
+      "fig_id": "Fig. ST-16",
+      "code": "ST432",
+      "caption": "Fig. ST-16 Loosening bolts securing lower joint assembly",
+      "diagram_type": "procedure_step",
+      "description": "Loosening coupling bolts connecting the lower joint shaft to the rubber coupling.",
+      "components": [
+        "Lower joint assembly",
+        "Rubber coupling",
+        "Securing bolts"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tightening torque: 1.7 to 2.0 kg-m (12 to 14 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Disconnect lower joint from steering column at rubber coupling.",
+      "tags": [
+        "lower joint",
+        "rubber coupling",
+        "removal",
+        "torque"
+      ],
+      "dimensions": [
+        366,
+        375
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_17_disconnecting_lower_joint_from_pinion",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_17_disconnecting_lower_joint_from_pinion.png",
+      "rel_link": "diagrams/ST Steering/fig_st_17_disconnecting_lower_joint_from_pinion.png",
+      "page_num": 6,
+      "page_label": "ST-6",
+      "fig_id": "Fig. ST-17",
+      "code": "ST434",
+      "caption": "Fig. ST-17 Disconnecting lower joint from pinion",
+      "diagram_type": "procedure_step",
+      "description": "Disconnecting lower joint pinch clamp from the steering pinion shaft in the engine compartment.",
+      "components": [
+        "Lower joint",
+        "Pinion shaft",
+        "Pinch bolt"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tightening torque: 4 to 5 kg-m (29 to 36 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Loosen bolt securing lower joint assembly to pinion, and then remove lower joint assembly from engine compartment.",
+      "tags": [
+        "lower joint",
+        "pinion",
+        "removal",
+        "torque"
+      ],
+      "dimensions": [
+        360,
+        358
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_18_removing_outer_ball_stud_nut",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_18_removing_outer_ball_stud_nut.png",
+      "rel_link": "diagrams/ST Steering/fig_st_18_removing_outer_ball_stud_nut.png",
+      "page_num": 6,
+      "page_label": "ST-6",
+      "fig_id": "Fig. ST-18",
+      "code": "ST439",
+      "caption": "Fig. ST-18 Removing outer ball stud nut",
+      "diagram_type": "procedure_step",
+      "description": "Removing the side rod outer ball stud nut and cotter pin at the steering knuckle arm.",
+      "components": [
+        "Side rod outer ball stud nut",
+        "Side rod",
+        "Knuckle arm"
+      ],
+      "callouts": {
+        "1": "Side rod outer ball stud nut",
+        "2": "Side rod",
+        "3": "Knuckle arm"
+      },
+      "measurements_and_specs": [
+        "Tightening torque: 5.5 to 7.6 kg-m (40 to 55 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Use Ball Joint Puller HT72520000 to detach ball studs from knuckle arms.",
+      "tags": [
+        "side rod ball stud",
+        "knuckle arm",
+        "outer ball stud",
+        "torque"
+      ],
+      "dimensions": [
+        366,
+        384
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_19_removing_bolts_securing_housing_to_suspension_member",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_19_removing_bolts_securing_housing_to_suspension_member.png",
+      "rel_link": "diagrams/ST Steering/fig_st_19_removing_bolts_securing_housing_to_suspension_member.png",
+      "page_num": 6,
+      "page_label": "ST-6",
+      "fig_id": "Fig. ST-19",
+      "code": "ST440",
+      "caption": "Fig. ST-19 Removing bolts securing housing to suspension member",
+      "diagram_type": "procedure_step",
+      "description": "Removing bolts and lock nuts securing steering gear housing mounting brackets to the front suspension member.",
+      "components": [
+        "Steering gear housing",
+        "Suspension member",
+        "Mounting bolts",
+        "Lock nuts"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Bolt to welded nut tightening torque: 2.6 to 3.0 kg-m (19 to 22 ft-lb)",
+        "Lock nut tightening torque: 3.1 to 3.5 kg-m (22 to 25 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove bolts securing steering gear housing to suspension member.",
+      "tags": [
+        "gear housing",
+        "suspension crossmember",
+        "mounting bolts",
+        "torque"
+      ],
+      "dimensions": [
+        365,
+        437
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_20_removing_clamps",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_20_removing_clamps.png",
+      "rel_link": "diagrams/ST Steering/fig_st_20_removing_clamps.png",
+      "page_num": 7,
+      "page_label": "ST-7",
+      "fig_id": "Fig. ST-20",
+      "code": "ST441",
+      "caption": "Fig. ST-20 Removing clamps",
+      "diagram_type": "procedure_step",
+      "description": "Removing gear boot clamp and dust cover clamp from the steering gear boot.",
+      "components": [
+        "Gear boot clamp",
+        "Dust cover clamp",
+        "Gear boot"
+      ],
+      "callouts": {
+        "1": "Gear boot clamp",
+        "2": "Dust cover clamp",
+        "3": "Gear boot"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove both left and right clamps.",
+      "tags": [
+        "gear boot",
+        "clamps",
+        "disassembly"
+      ],
+      "dimensions": [
+        354,
+        341
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_21_disconnecting_side_rod_assembly",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_21_disconnecting_side_rod_assembly.png",
+      "rel_link": "diagrams/ST Steering/fig_st_21_disconnecting_side_rod_assembly.png",
+      "page_num": 7,
+      "page_label": "ST-7",
+      "fig_id": "Fig. ST-21",
+      "code": "ST442",
+      "caption": "Fig. ST-21 Disconnecting side rod assembly",
+      "diagram_type": "procedure_step",
+      "description": "Unthreading side rod inner socket assembly from the end of the rack shaft.",
+      "components": [
+        "Side rod assembly",
+        "Inner socket",
+        "Rack shaft"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Do not disassemble side rod assembly.",
+      "tags": [
+        "side rod",
+        "inner socket",
+        "rack",
+        "disassembly"
+      ],
+      "dimensions": [
+        341,
+        288
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_22_removing_adjust_lock_nut",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_22_removing_adjust_lock_nut.png",
+      "rel_link": "diagrams/ST Steering/fig_st_22_removing_adjust_lock_nut.png",
+      "page_num": 7,
+      "page_label": "ST-7",
+      "fig_id": "Fig. ST-22",
+      "code": "ST443",
+      "caption": "Fig. ST-22 Removing adjust lock nut",
+      "diagram_type": "procedure_step",
+      "description": "Loosening adjust lock nut and unthreading the retainer adjust screw from gear housing.",
+      "components": [
+        "Adjust lock nut",
+        "Retainer adjust screw",
+        "Steering gear housing"
+      ],
+      "callouts": {
+        "1": "Adjust lock nut",
+        "2": "Retainer adjust screw"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove retainer spring and steering gear retainer after removing screw.",
+      "tags": [
+        "adjust lock nut",
+        "retainer adjust screw",
+        "disassembly"
+      ],
+      "dimensions": [
+        366,
+        314
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_23_removing_oil_seal",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_23_removing_oil_seal.png",
+      "rel_link": "diagrams/ST Steering/fig_st_23_removing_oil_seal.png",
+      "page_num": 7,
+      "page_label": "ST-7",
+      "fig_id": "Fig. ST-23",
+      "code": "ST444",
+      "caption": "Fig. ST-23 Removing oil seal",
+      "diagram_type": "procedure_step",
+      "description": "Prying the pinion shaft oil seal out from the top of the gear housing.",
+      "components": [
+        "Oil seal",
+        "Steering gear housing",
+        "Pry tool"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Replace oil seal every disassembly.",
+      "tags": [
+        "oil seal",
+        "pinion",
+        "disassembly"
+      ],
+      "dimensions": [
+        360,
+        331
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_24_removing_bolts_and_housing_cover",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_24_removing_bolts_and_housing_cover.png",
+      "rel_link": "diagrams/ST Steering/fig_st_24_removing_bolts_and_housing_cover.png",
+      "page_num": 7,
+      "page_label": "ST-7",
+      "fig_id": "Fig. ST-24",
+      "code": "ST444",
+      "caption": "Fig. ST-24 Removing bolts and housing cover",
+      "diagram_type": "procedure_step",
+      "description": "Removing bolts, pinion housing cover, and pinion adjust shims from the steering gear housing.",
+      "components": [
+        "Bolt",
+        "Housing cover",
+        "Pinion adjust shim"
+      ],
+      "callouts": {
+        "1": "Bolt",
+        "2": "Housing cover",
+        "3": "Pinion adjust shim"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Save shims for preload adjustment upon reassembly.",
+      "tags": [
+        "housing cover",
+        "pinion shim",
+        "disassembly"
+      ],
+      "dimensions": [
+        360,
+        411
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_25_pressing_pinion_bearing_out_of_pinion_shaft",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_25_pressing_pinion_bearing_out_of_pinion_shaft.png",
+      "rel_link": "diagrams/ST Steering/fig_st_25_pressing_pinion_bearing_out_of_pinion_shaft.png",
+      "page_num": 7,
+      "page_label": "ST-7",
+      "fig_id": "Fig. ST-25",
+      "code": "ST445",
+      "caption": "Fig. ST-25 Pressing pinion bearing out of pinion shaft",
+      "diagram_type": "procedure_step",
+      "description": "Pressing the ball bearing off the pinion shaft using a hydraulic/mechanical press.",
+      "components": [
+        "Pinion shaft",
+        "Pinion bearing",
+        "Press arbor",
+        "Support plate"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Properly support pinion to avoid damaging gear teeth.",
+      "tags": [
+        "pinion bearing",
+        "press",
+        "disassembly"
+      ],
+      "dimensions": [
+        366,
+        349
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_26_rack_and_pinion_and_side_rod_components",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_26_rack_and_pinion_and_side_rod_components.png",
+      "rel_link": "diagrams/ST Steering/fig_st_26_rack_and_pinion_and_side_rod_components.png",
+      "page_num": 8,
+      "page_label": "ST-8",
+      "fig_id": "Fig. ST-26",
+      "code": "ST446",
+      "caption": "Fig. ST-26 Rack-and-pinion and side rod components",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view diagram of complete steering rack, pinion gear, housing, boots, and side rod linkage with callouts 1 through 22.",
+      "components": [
+        "Pinion",
+        "Pinion bearing",
+        "Oil seal",
+        "Housing cover bolt",
+        "Housing cover",
+        "Side rod spring",
+        "Spring seat",
+        "Side rod lock nut",
+        "Inner socket assembly",
+        "Inner socket assembly",
+        "Steering stopper nut",
+        "Side rod",
+        "Rack",
+        "Steering gear housing",
+        "Retainer",
+        "Retainer spring",
+        "Retainer adjust screw",
+        "Lock nut",
+        "Dust cover clamp",
+        "Boot",
+        "Boot clamp",
+        "Outer ball stud nut"
+      ],
+      "callouts": {
+        "1": "Pinion",
+        "2": "Pinion bearing",
+        "3": "Oil seal",
+        "4": "Housing cover bolt",
+        "5": "Housing cover",
+        "6": "Side rod spring",
+        "7": "Spring seat",
+        "8": "Side rod lock nut",
+        "9": "Inner socket assembly",
+        "10": "Inner socket assembly",
+        "11": "Steering stopper nut",
+        "12": "Side rod",
+        "13": "Rack",
+        "14": "Steering gear housing",
+        "15": "Retainer",
+        "16": "Retainer spring",
+        "17": "Retainer adjust screw",
+        "18": "Lock nut",
+        "19": "Dust cover clamp",
+        "20": "Boot",
+        "21": "Boot clamp",
+        "22": "Outer ball stud nut"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Thoroughly clean all parts in cleaning solvent and blow dry before inspection.",
+      "tags": [
+        "exploded view",
+        "rack and pinion",
+        "components",
+        "side rod",
+        "steering gear"
+      ],
+      "dimensions": [
+        1112,
+        814
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_27_cross_section_of_outer_ball_joint",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_27_cross_section_of_outer_ball_joint.png",
+      "rel_link": "diagrams/ST Steering/fig_st_27_cross_section_of_outer_ball_joint.png",
+      "page_num": 8,
+      "page_label": "ST-8",
+      "fig_id": "Fig. ST-27",
+      "code": "ST179",
+      "caption": "Fig. ST-27 Cross-section of outer ball joint",
+      "diagram_type": "cutaway_flow",
+      "description": "Internal cross-section of the outer tie rod ball joint showing callouts 1-6 and clearance specification.",
+      "components": [
+        "Ball stud",
+        "Dust cover",
+        "Ball seat",
+        "Urethane ring",
+        "Plug",
+        "Spring seat"
+      ],
+      "callouts": {
+        "1": "Ball stud",
+        "2": "Dust cover",
+        "3": "Ball seat",
+        "4": "Urethane ring",
+        "5": "Plug",
+        "6": "Spring seat"
+      },
+      "measurements_and_specs": [
+        "Clearance (axial play): 0.1 to 0.5 mm (0.004 to 0.020 in)",
+        "Swinging torque: 0.8 to 1.5 kg-m (5.8 to 10.8 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Measure swinging torque and axial play. Replace when values are not within specified range.",
+      "tags": [
+        "outer ball joint",
+        "cross section",
+        "clearance",
+        "ball stud"
+      ],
+      "dimensions": [
+        354,
+        323
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_28_side_rod_inner_ball_joint",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_28_side_rod_inner_ball_joint.png",
+      "rel_link": "diagrams/ST Steering/fig_st_28_side_rod_inner_ball_joint.png",
+      "page_num": 8,
+      "page_label": "ST-8",
+      "fig_id": "Fig. ST-28",
+      "code": "ST447",
+      "caption": "Fig. ST-28 Side rod inner ball joint",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross-sectional view of the inner side rod ball socket assembly with callouts 1-8.",
+      "components": [
+        "Side rod spring",
+        "Spring seat",
+        "Boot",
+        "Welded",
+        "Dust cover clamp",
+        "Boot clamp",
+        "Side rod ball",
+        "Stopper nut"
+      ],
+      "callouts": {
+        "1": "Side rod spring",
+        "2": "Spring seat",
+        "3": "Boot",
+        "4": "Welded",
+        "5": "Dust cover clamp",
+        "6": "Boot clamp",
+        "7": "Side rod ball",
+        "8": "Stopper nut"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Check inner ball joint for play. If ball stud is worn and axial play is excessive or joint is hard to swing, replace as a complete unit.",
+      "tags": [
+        "inner ball joint",
+        "side rod",
+        "cross section",
+        "spring"
+      ],
+      "dimensions": [
+        354,
+        410
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_retainer_spring",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_retainer_spring.png",
+      "rel_link": "diagrams/ST Steering/fig_st_retainer_spring.png",
+      "page_num": 9,
+      "page_label": "ST-9",
+      "fig_id": "",
+      "code": "",
+      "caption": "Retainer spring dimensions",
+      "diagram_type": "inspection_measurement",
+      "description": "Dimensional sketch of retainer spring showing 21 mm (0.83 in) outside diameter and 19.6 mm (0.772 in) free length.",
+      "components": [
+        "Retainer spring"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Wire diameter: 2.9 mm (0.114 in)",
+        "Free length: 19.6 mm (0.772 in)",
+        "Outer diameter: 21 mm (0.83 in) dia.",
+        "Load x length: 20 kg (44 lb) x 16.3 mm (0.642 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Inspect spring free length and load before reassembly.",
+      "tags": [
+        "retainer spring",
+        "specifications",
+        "dimensions"
+      ],
+      "dimensions": [
+        258,
+        173
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_side_rod_spring",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_side_rod_spring.png",
+      "rel_link": "diagrams/ST Steering/fig_st_side_rod_spring.png",
+      "page_num": 9,
+      "page_label": "ST-9",
+      "fig_id": "",
+      "code": "",
+      "caption": "Side rod spring dimensions",
+      "diagram_type": "inspection_measurement",
+      "description": "Dimensional sketch of side rod inner spring showing 8 mm (0.31 in) diameter and 19.0 mm (0.748 in) free length.",
+      "components": [
+        "Side rod spring"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Wire diameter: 2.6 mm (0.102 in)",
+        "Free length: 19.0 mm (0.748 in)",
+        "Outer diameter: 8 mm (0.31 in) dia.",
+        "Load x length: 40 kg (88 lb) x 17.0 mm (0.669 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Inspect side rod spring free length and load before reassembly.",
+      "tags": [
+        "side rod spring",
+        "specifications",
+        "dimensions"
+      ],
+      "dimensions": [
+        294,
+        185
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_29_pressing_bearing_onto_pinion_gear",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_29_pressing_bearing_onto_pinion_gear.png",
+      "rel_link": "diagrams/ST Steering/fig_st_29_pressing_bearing_onto_pinion_gear.png",
+      "page_num": 9,
+      "page_label": "ST-9",
+      "fig_id": "Fig. ST-29",
+      "code": "ST448",
+      "caption": "Fig. ST-29 Pressing bearing onto pinion gear",
+      "diagram_type": "procedure_step",
+      "description": "Pressing the ball bearing squarely onto the pinion gear shaft using an arbor press.",
+      "components": [
+        "Pinion gear",
+        "Pinion bearing",
+        "Press arbor",
+        "Support tool"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Press bearing onto pinion gear until firmly seated.",
+      "tags": [
+        "pinion bearing",
+        "press",
+        "pinion gear",
+        "assembly"
+      ],
+      "dimensions": [
+        348,
+        305
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_30_measuring_protruding_portion_of_rack",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_30_measuring_protruding_portion_of_rack.png",
+      "rel_link": "diagrams/ST Steering/fig_st_30_measuring_protruding_portion_of_rack.png",
+      "page_num": 9,
+      "page_label": "ST-9",
+      "fig_id": "Fig. ST-30",
+      "code": "ST449",
+      "caption": "Fig. ST-30 Measuring protruding portion of rack",
+      "diagram_type": "inspection_measurement",
+      "description": "Measuring protruding length of rack bar from housing end with vernier calipers to establish 87.4 mm (3.441 in) center.",
+      "components": [
+        "Rack",
+        "Steering gear housing",
+        "Vernier caliper"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Rack protrusion: 87.4 mm (3.441 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Make sure that rack protrudes by the same amount from both ends of housing.",
+      "tags": [
+        "rack protrusion",
+        "centering",
+        "caliper",
+        "measurement"
+      ],
+      "dimensions": [
+        354,
+        279
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_31_inserting_pinion_assembly",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_31_inserting_pinion_assembly.png",
+      "rel_link": "diagrams/ST Steering/fig_st_31_inserting_pinion_assembly.png",
+      "page_num": 9,
+      "page_label": "ST-9",
+      "fig_id": "Fig. ST-31",
+      "code": "ST450",
+      "caption": "Fig. ST-31 Inserting pinion assembly",
+      "diagram_type": "procedure_step",
+      "description": "Inserting pinion assembly into housing with the groove on the pinion serration directed upward while meshing teeth.",
+      "components": [
+        "Pinion assembly",
+        "Steering gear housing",
+        "Pinion serration groove"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Properly mesh pinion with rack, and insert pinion assembly with the groove on the pinion serration part directed upward.",
+      "tags": [
+        "pinion assembly",
+        "meshing",
+        "serration groove",
+        "installation"
+      ],
+      "dimensions": [
+        367,
+        288
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_32_measuring_protruding_portion_of_rack",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_32_measuring_protruding_portion_of_rack.png",
+      "rel_link": "diagrams/ST Steering/fig_st_32_measuring_protruding_portion_of_rack.png",
+      "page_num": 9,
+      "page_label": "ST-9",
+      "fig_id": "Fig. ST-32",
+      "code": "ST451",
+      "caption": "Fig. ST-32 Measuring protruding portion of rack",
+      "diagram_type": "inspection_measurement",
+      "description": "Re-measuring rack protrusion from housing after pinion insertion to verify equal 87.4 mm (3.441 in) extension.",
+      "components": [
+        "Rack",
+        "Steering gear housing",
+        "Vernier caliper"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Rack protrusion: 87.4 mm (3.441 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Make sure again of the length protruding from both the left and right sides of housing.",
+      "tags": [
+        "rack protrusion",
+        "verification",
+        "measurement"
+      ],
+      "dimensions": [
+        347,
+        270
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_33_fitting_oil_seal",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_33_fitting_oil_seal.png",
+      "rel_link": "diagrams/ST Steering/fig_st_33_fitting_oil_seal.png",
+      "page_num": 10,
+      "page_label": "ST-10",
+      "fig_id": "Fig. ST-33",
+      "code": "ST452",
+      "caption": "Fig. ST-33 Fitting oil seal",
+      "diagram_type": "procedure_step",
+      "description": "Fitting the pinion shaft oil seal into the upper pinion bore of the gear housing.",
+      "components": [
+        "Oil seal",
+        "Steering gear housing",
+        "Pinion shaft"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Fit oil seal and make sure pinion rotates smoothly.",
+      "tags": [
+        "oil seal",
+        "pinion",
+        "installation"
+      ],
+      "dimensions": [
+        347,
+        299
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_34_locking_retainer_lock_nut",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_34_locking_retainer_lock_nut.png",
+      "rel_link": "diagrams/ST Steering/fig_st_34_locking_retainer_lock_nut.png",
+      "page_num": 10,
+      "page_label": "ST-10",
+      "fig_id": "Fig. ST-34",
+      "code": "ST454",
+      "caption": "Fig. ST-34 Locking retainer lock nut",
+      "diagram_type": "procedure_step",
+      "description": "Locking the retainer adjusting screw lock nut while holding the adjusting screw at the backed-off position.",
+      "components": [
+        "Retainer adjusting screw",
+        "Lock nut",
+        "Steering gear housing"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tightening torque: 4 to 6 kg-m (29 to 43 ft-lb)",
+        "Back-off angle: 20 to 25 degrees"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Fully tighten adjusting screw and then back it off 20 to 25 degrees. Tighten retainer lock nut to 4 to 6 kg-m.",
+      "tags": [
+        "retainer lock nut",
+        "adjusting screw",
+        "torque",
+        "preload adjustment"
+      ],
+      "dimensions": [
+        361,
+        305
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_35_area_to_which_liquid_sealant_is_applied",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_35_area_to_which_liquid_sealant_is_applied.png",
+      "rel_link": "diagrams/ST Steering/fig_st_35_area_to_which_liquid_sealant_is_applied.png",
+      "page_num": 10,
+      "page_label": "ST-10",
+      "fig_id": "Fig. ST-35",
+      "code": "ST455",
+      "caption": "Fig. ST-35 Area to which liquid sealant is applied",
+      "diagram_type": "cutaway_flow",
+      "description": "Sectional view of the steering gear housing showing retainer float play (0.09 mm / 0.0035 in), callouts 1-12, and liquid sealant application area 'A'.",
+      "components": [
+        "Adjust screw",
+        "Steering adjust shim",
+        "Lock nut",
+        "Retainer",
+        "Retainer spring",
+        "Rack",
+        "Pinion bearing",
+        "Oil seal",
+        "Pinion",
+        "Housing cover",
+        "Pinion adjust shim",
+        "Steering gear housing"
+      ],
+      "callouts": {
+        "1": "Adjust screw",
+        "2": "Steering adjust shim",
+        "3": "Lock nut",
+        "4": "Retainer",
+        "5": "Retainer spring",
+        "6": "Rack",
+        "7": "Pinion bearing",
+        "8": "Oil seal",
+        "9": "Pinion",
+        "10": "Housing cover",
+        "11": "Pinion adjust shim",
+        "12": "Steering gear housing"
+      },
+      "measurements_and_specs": [
+        "Retainer float play: 0.09 mm (0.0035 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Apply suitable liquid sealant around lock nut at 'A'.",
+      "tags": [
+        "liquid sealant",
+        "retainer float play",
+        "adjust screw",
+        "cross section"
+      ],
+      "dimensions": [
+        347,
+        628
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_36_measuring_pinion_rotary_torque",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_36_measuring_pinion_rotary_torque.png",
+      "rel_link": "diagrams/ST Steering/fig_st_36_measuring_pinion_rotary_torque.png",
+      "page_num": 10,
+      "page_label": "ST-10",
+      "fig_id": "Fig. ST-36",
+      "code": "ST456",
+      "caption": "Fig. ST-36 Measuring pinion rotary torque",
+      "diagram_type": "inspection_measurement",
+      "description": "Measuring pinion rotary torque using a torque gauge on the pinion serration shaft.",
+      "components": [
+        "Pinion shaft",
+        "Torque wrench / gauge",
+        "Steering gear housing"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Pinion rotary torque: Less than 20 kg-cm (17 in-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Measure torque required to keep pinion and rack in motion.",
+      "tags": [
+        "pinion rotary torque",
+        "torque measurement",
+        "inspection"
+      ],
+      "dimensions": [
+        347,
+        279
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_37_measuring_rack_force_to_pull",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_37_measuring_rack_force_to_pull.png",
+      "rel_link": "diagrams/ST Steering/fig_st_37_measuring_rack_force_to_pull.png",
+      "page_num": 10,
+      "page_label": "ST-10",
+      "fig_id": "Fig. ST-37",
+      "code": "ST457",
+      "caption": "Fig. ST-37 Measuring rack force to pull",
+      "diagram_type": "inspection_measurement",
+      "description": "Measuring force required to pull rack at neutral position using a spring scale.",
+      "components": [
+        "Rack",
+        "Spring scale",
+        "Steering gear housing"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Rack force to pull at neutral position: 14 to 17 kg (31 to 37 lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Re-adjust retainer adjusting screw as necessary to obtain proper torque.",
+      "tags": [
+        "rack force to pull",
+        "spring scale",
+        "neutral position"
+      ],
+      "dimensions": [
+        360,
+        262
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_38_fitting_side_rod_assembly_to_rack",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_38_fitting_side_rod_assembly_to_rack.png",
+      "rel_link": "diagrams/ST Steering/fig_st_38_fitting_side_rod_assembly_to_rack.png",
+      "page_num": 10,
+      "page_label": "ST-10",
+      "fig_id": "Fig. ST-38",
+      "code": "ST442",
+      "caption": "Fig. ST-38 Fitting side rod assembly to rack",
+      "diagram_type": "procedure_step",
+      "description": "Fitting side rod inner socket onto rack end with inner spring and spring seat.",
+      "components": [
+        "Side rod assembly",
+        "Rack",
+        "Inner spring",
+        "Spring seat"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Apply recommended grease to sliding surfaces of side rod inner socket and spring seat. Boot must be positioned toward ball stud end.",
+      "tags": [
+        "side rod",
+        "rack",
+        "inner socket",
+        "installation"
+      ],
+      "dimensions": [
+        347,
+        279
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_39_l_mark",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_39_l_mark.png",
+      "rel_link": "diagrams/ST Steering/fig_st_39_l_mark.png",
+      "page_num": 10,
+      "page_label": "ST-10",
+      "fig_id": "Fig. ST-39",
+      "code": "ST458",
+      "caption": "Fig. ST-39 L-mark",
+      "diagram_type": "alignment_orientation",
+      "description": "Identification L-mark stamped on the left side rod assembly.",
+      "components": [
+        "Side rod assembly",
+        "L-mark"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Side rod assembly for the left side has an L-mark. No mark is used for the right side.",
+      "tags": [
+        "side rod",
+        "L-mark",
+        "identification",
+        "left side"
+      ],
+      "dimensions": [
+        341,
+        279
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_40_tightening_lock_nut",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_40_tightening_lock_nut.png",
+      "rel_link": "diagrams/ST Steering/fig_st_40_tightening_lock_nut.png",
+      "page_num": 11,
+      "page_label": "ST-11",
+      "fig_id": "Fig. ST-40",
+      "code": "ST459",
+      "caption": "Fig. ST-40 Tightening lock nut",
+      "diagram_type": "procedure_step",
+      "description": "Tightening the inner socket lock nut against the rack end using two wrenches.",
+      "components": [
+        "Inner socket",
+        "Lock nut",
+        "Rack shaft"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tightening torque: 8 to 10 kg-m (58 to 72 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Screw inner socket portion until ball seat reaches rack end, then tighten lock nut securely.",
+      "tags": [
+        "inner socket",
+        "lock nut",
+        "torque",
+        "side rod"
+      ],
+      "dimensions": [
+        347,
+        305
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_41_measuring_swinging_torque",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_41_measuring_swinging_torque.png",
+      "rel_link": "diagrams/ST Steering/fig_st_41_measuring_swinging_torque.png",
+      "page_num": 11,
+      "page_label": "ST-11",
+      "fig_id": "Fig. ST-41",
+      "code": "ST460",
+      "caption": "Fig. ST-41 Measuring swinging torque",
+      "diagram_type": "inspection_measurement",
+      "description": "Measuring swinging torque of the inner side rod ball joint with a spring scale.",
+      "components": [
+        "Side rod",
+        "Inner ball joint",
+        "Spring scale"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Swinging torque: 0 to 0.5 kg-m (0 to 3.6 ft-lb)",
+        "Axial play: 0 to 0.05 mm (0 to 0.0020 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Measure swinging torque and axial play upon completion of side rod assembly.",
+      "tags": [
+        "swinging torque",
+        "inner ball joint",
+        "axial play",
+        "inspection"
+      ],
+      "dimensions": [
+        347,
+        323
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_42_measuring_rack_stroke",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_42_measuring_rack_stroke.png",
+      "rel_link": "diagrams/ST Steering/fig_st_42_measuring_rack_stroke.png",
+      "page_num": 11,
+      "page_label": "ST-11",
+      "fig_id": "Fig. ST-42",
+      "code": "ST461",
+      "caption": "Fig. ST-42 Measuring rack stroke",
+      "diagram_type": "inspection_measurement",
+      "description": "Measuring rack stroke from lock to lock using vernier calipers: 60.7 mm (2.390 in).",
+      "components": [
+        "Rack",
+        "Steering gear housing",
+        "Vernier caliper"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Rack stroke: 60.7 mm (2.390 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Verify full stroke of 60.7 mm (2.390 in) without interference.",
+      "tags": [
+        "rack stroke",
+        "caliper",
+        "travel",
+        "measurement"
+      ],
+      "dimensions": [
+        354,
+        306
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_43_tightening_boot_clamp",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_43_tightening_boot_clamp.png",
+      "rel_link": "diagrams/ST Steering/fig_st_43_tightening_boot_clamp.png",
+      "page_num": 11,
+      "page_label": "ST-11",
+      "fig_id": "Fig. ST-43",
+      "code": "ST462",
+      "caption": "Fig. ST-43 Tightening boot clamp",
+      "diagram_type": "procedure_step",
+      "description": "Tightening boot clamp screw until the specified lug gap clearance of 2 mm (0.08 in) is reached.",
+      "components": [
+        "Boot clamp",
+        "Clamp screw"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Clearance: 2 mm (0.08 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Tighten inside boot clamp securely. Boot should be neither too inflated nor too elongated.",
+      "tags": [
+        "boot clamp",
+        "clearance",
+        "boot installation"
+      ],
+      "dimensions": [
+        316,
+        314
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_st_44_adjusting_side_rod_length",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_st_44_adjusting_side_rod_length.png",
+      "rel_link": "diagrams/ST Steering/fig_st_44_adjusting_side_rod_length.png",
+      "page_num": 11,
+      "page_label": "ST-11",
+      "fig_id": "Fig. ST-44",
+      "code": "ST447",
+      "caption": "Fig. ST-44 Adjusting side rod length",
+      "diagram_type": "inspection_measurement",
+      "description": "Sectional view of side rod length adjustment showing 37.9 mm (1.492 in) setting from stopper nut to ball stud center.",
+      "components": [
+        "Side rod ball",
+        "Stopper nut"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Side rod length: 37.9 mm (1.492 in)",
+        "Tightening torque: 8 to 10 kg-m (58 to 72 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Adjust side rod length both left and right, and tighten steering stopper nuts to specified torque.",
+      "tags": [
+        "side rod length",
+        "stopper nut",
+        "adjustment",
+        "torque"
+      ],
+      "dimensions": [
+        342,
+        261
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_sst_st27180001_steering_wheel_puller",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_sst_st27180001_steering_wheel_puller.png",
+      "rel_link": "diagrams/ST Steering/fig_sst_st27180001_steering_wheel_puller.png",
+      "page_num": 17,
+      "page_label": "ST-17",
+      "fig_id": "ST27180001",
+      "code": "",
+      "caption": "Steering wheel puller (ST27180001 / J 25726)",
+      "diagram_type": "special_service_tool",
+      "description": "Steering wheel puller tool ST27180001 (Kent-Moore J 25726) featuring puller yoke, center bolt, and two side anchor bolts.",
+      "components": [
+        "Steering wheel puller yoke",
+        "Center forcing screw",
+        "Anchor bolts"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Kent-Moore No.: J 25726",
+        "Reference: Fig. ST-2"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Use to pull steering wheel hub off splined shaft without hammer impact.",
+      "tags": [
+        "special service tool",
+        "steering wheel puller",
+        "ST27180001",
+        "J 25726",
+        "SST"
+      ],
+      "dimensions": [
+        239,
+        200
+      ]
+    },
+    {
+      "section_title": "STEERING SYSTEM",
+      "source_md": "1978 280z FSM/ST Steering.md",
+      "slug": "fig_sst_ht72520000_ball_joint_remover",
+      "file": "markdown/1978 280z FSM/diagrams/ST Steering/fig_sst_ht72520000_ball_joint_remover.png",
+      "rel_link": "diagrams/ST Steering/fig_sst_ht72520000_ball_joint_remover.png",
+      "page_num": 17,
+      "page_label": "ST-17",
+      "fig_id": "HT72520000",
+      "code": "",
+      "caption": "Ball joint remover (HT72520000)",
+      "diagram_type": "special_service_tool",
+      "description": "Ball joint remover HT72520000 lever type tool with forcing screw and pivot pin marked PAT. P.",
+      "components": [
+        "Ball joint remover body",
+        "Forcing screw",
+        "Lever"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Reference: Page ST-6"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Insert between side rod ball stud and knuckle arm, tighten bolt to separate ball stud.",
+      "tags": [
+        "special service tool",
+        "ball joint remover",
+        "HT72520000",
+        "SST"
+      ],
+      "dimensions": [
+        296,
+        217
+      ]
+    }
+  ],
+  "torques": [
+    {
+      "component": "Steering wheel nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "4 to 5 (29 to 36)",
+      "page_label": "ST-3"
+    },
+    {
+      "component": "Lower joint to rubber coupling bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "2.3 to 2.7 (17 to 20)",
+      "page_label": "ST-5"
+    },
+    {
+      "component": "Steering column clamp bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.8 to 1.1 (5.8 to 8.0)",
+      "page_label": "ST-5"
+    },
+    {
+      "component": "Jacket tube bracket to dash panel bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.54 to 0.74 (3.9 to 5.4)",
+      "page_label": "ST-5"
+    },
+    {
+      "component": "Rubber coupling securing bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.7 to 2.0 (12 to 14)",
+      "page_label": "ST-5"
+    },
+    {
+      "component": "Lower joint to pinion gear bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "4 to 5 (29 to 36)",
+      "page_label": "ST-5"
+    },
+    {
+      "component": "Nut securing side rod ball stud to knuckle arm",
+      "unit": "kg-m (ft-lb)",
+      "value": "5.5 to 7.6 (40 to 55)",
+      "page_label": "ST-6"
+    },
+    {
+      "component": "Steering gear housing to suspension member bolt (to welded nut)",
+      "unit": "kg-m (ft-lb)",
+      "value": "2.6 to 3.0 (19 to 22)",
+      "page_label": "ST-6"
+    },
+    {
+      "component": "Steering gear housing to suspension member lock nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.1 to 3.5 (22 to 25)",
+      "page_label": "ST-6"
+    },
+    {
+      "component": "Gear housing cover bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "2.0 to 3.0 (14 to 22)",
+      "page_label": "ST-9"
+    },
+    {
+      "component": "Retainer lock nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "4 to 6 (29 to 43)",
+      "page_label": "ST-10"
+    },
+    {
+      "component": "Side rod inner socket lock nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "8 to 10 (58 to 72)",
+      "page_label": "ST-11"
+    },
+    {
+      "component": "Side rod stopper nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "8 to 10 (58 to 72)",
+      "page_label": "ST-11"
+    },
+    {
+      "component": "Side rod lock nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "8 to 10 (58 to 72)",
+      "page_label": "ST-13"
+    }
+  ],
+  "specs": [
+    {
+      "system": "Steering System",
+      "item": "Steering gear type",
+      "unit": "",
+      "standard": "Rack-and-pinion type",
+      "limit": "",
+      "page_label": "ST-12"
+    },
+    {
+      "system": "Steering System",
+      "item": "Turns of steering wheel (lock to lock)",
+      "unit": "turns",
+      "standard": "3.1",
+      "limit": "",
+      "page_label": "ST-12"
+    },
+    {
+      "system": "Steering System",
+      "item": "Steering gear ratio",
+      "unit": "ratio",
+      "standard": "18 : 1 (18.0 : 1)",
+      "limit": "",
+      "page_label": "ST-12"
+    },
+    {
+      "system": "Steering System",
+      "item": "Rack-and-pinion backlash",
+      "unit": "mm (in)",
+      "standard": "0 (0)",
+      "limit": "",
+      "page_label": "ST-2"
+    },
+    {
+      "system": "Steering System",
+      "item": "Turning angle of front wheel - inside (2 seater)",
+      "unit": "degree",
+      "standard": "33\u00b054' to 34\u00b054'",
+      "limit": "",
+      "page_label": "ST-12"
+    },
+    {
+      "system": "Steering System",
+      "item": "Turning angle of front wheel - outside (2 seater)",
+      "unit": "degree",
+      "standard": "32\u00b06' to 34\u00b06'",
+      "limit": "",
+      "page_label": "ST-12"
+    },
+    {
+      "system": "Steering System",
+      "item": "Turning angle of front wheel - inside (2+2 seater)",
+      "unit": "degree",
+      "standard": "36\u00b018' to 37\u00b018'",
+      "limit": "",
+      "page_label": "ST-12"
+    },
+    {
+      "system": "Steering System",
+      "item": "Turning angle of front wheel - outside (2+2 seater)",
+      "unit": "degree",
+      "standard": "34\u00b024' to 36\u00b024'",
+      "limit": "",
+      "page_label": "ST-12"
+    },
+    {
+      "system": "Steering System",
+      "item": "Minimum turning radius",
+      "unit": "m (ft)",
+      "standard": "4.8 (15.7)",
+      "limit": "",
+      "page_label": "ST-12"
+    },
+    {
+      "system": "Steering System",
+      "item": "Steering wheel free play",
+      "unit": "mm (in)",
+      "standard": "20 to 30 (0.79 to 1.18)",
+      "limit": "",
+      "page_label": "ST-12"
+    },
+    {
+      "system": "Steering Column",
+      "item": "Steering wheel axial play",
+      "unit": "mm (in)",
+      "standard": "0 (0)",
+      "limit": "0 (0)",
+      "page_label": "ST-5"
+    },
+    {
+      "system": "Steering Column",
+      "item": "Standard clearance between clamp and lower jacket (dimension A)",
+      "unit": "mm (in)",
+      "standard": "176.1 (6.93)",
+      "limit": "",
+      "page_label": "ST-4"
+    },
+    {
+      "system": "Steering Column",
+      "item": "Column clamp clearance gap (dimension B)",
+      "unit": "mm (in)",
+      "standard": "0 (0)",
+      "limit": "0 (0)",
+      "page_label": "ST-4"
+    },
+    {
+      "system": "Steering Column",
+      "item": "Column shaft spring wire diameter",
+      "unit": "mm (in)",
+      "standard": "3.5 (0.138)",
+      "limit": "",
+      "page_label": "ST-4"
+    },
+    {
+      "system": "Steering Column",
+      "item": "Column shaft spring free length",
+      "unit": "mm (in)",
+      "standard": "27.3 (1.075)",
+      "limit": "",
+      "page_label": "ST-4"
+    },
+    {
+      "system": "Steering Column",
+      "item": "Column shaft spring load x length",
+      "unit": "kg (lb) x mm (in)",
+      "standard": "30 (66) x 15 (0.59)",
+      "limit": "",
+      "page_label": "ST-4"
+    },
+    {
+      "system": "Steering Column",
+      "item": "Column shaft spring outer diameter",
+      "unit": "mm (in)",
+      "standard": "26 (1.02)",
+      "limit": "",
+      "page_label": "ST-4"
+    },
+    {
+      "system": "Steering Gear",
+      "item": "Rack stroke",
+      "unit": "mm (in)",
+      "standard": "60.7 (2.390)",
+      "limit": "",
+      "page_label": "ST-11"
+    },
+    {
+      "system": "Steering Gear",
+      "item": "Rack protrusion at center position",
+      "unit": "mm (in)",
+      "standard": "87.4 (3.441)",
+      "limit": "",
+      "page_label": "ST-9"
+    },
+    {
+      "system": "Steering Gear",
+      "item": "Rotary torque of pinion (housing cover shim adjustment)",
+      "unit": "kg-cm (in-lb)",
+      "standard": "3 to 6 (2.6 to 5.2)",
+      "limit": "",
+      "page_label": "ST-9"
+    },
+    {
+      "system": "Steering Gear",
+      "item": "Rotary torque of pinion (complete assembly)",
+      "unit": "kg-cm (in-lb)",
+      "standard": "Less than 20 (17)",
+      "limit": "20 (17)",
+      "page_label": "ST-10"
+    },
+    {
+      "system": "Steering Gear",
+      "item": "Rack force to pull at neutral position",
+      "unit": "kg (lb)",
+      "standard": "14 to 17 (31 to 37)",
+      "limit": "",
+      "page_label": "ST-10"
+    },
+    {
+      "system": "Steering Gear",
+      "item": "Retainer float play",
+      "unit": "mm (in)",
+      "standard": "0.09 (0.0035)",
+      "limit": "",
+      "page_label": "ST-10"
+    },
+    {
+      "system": "Steering Gear",
+      "item": "Retainer spring wire diameter",
+      "unit": "mm (in)",
+      "standard": "2.9 (0.114)",
+      "limit": "",
+      "page_label": "ST-9"
+    },
+    {
+      "system": "Steering Gear",
+      "item": "Retainer spring free length",
+      "unit": "mm (in)",
+      "standard": "19.6 (0.772)",
+      "limit": "",
+      "page_label": "ST-9"
+    },
+    {
+      "system": "Steering Gear",
+      "item": "Retainer spring load x length",
+      "unit": "kg (lb) x mm (in)",
+      "standard": "20 (44) x 16.3 (0.642)",
+      "limit": "",
+      "page_label": "ST-9"
+    },
+    {
+      "system": "Steering Gear",
+      "item": "Retainer spring outer diameter",
+      "unit": "mm (in)",
+      "standard": "21 (0.83)",
+      "limit": "",
+      "page_label": "ST-9"
+    },
+    {
+      "system": "Steering Linkage",
+      "item": "Side rod spring wire diameter",
+      "unit": "mm (in)",
+      "standard": "2.6 (0.102)",
+      "limit": "",
+      "page_label": "ST-9"
+    },
+    {
+      "system": "Steering Linkage",
+      "item": "Side rod spring free length",
+      "unit": "mm (in)",
+      "standard": "19.0 (0.748)",
+      "limit": "",
+      "page_label": "ST-9"
+    },
+    {
+      "system": "Steering Linkage",
+      "item": "Side rod spring load x length",
+      "unit": "kg (lb) x mm (in)",
+      "standard": "40 (88) x 17.0 (0.669)",
+      "limit": "",
+      "page_label": "ST-9"
+    },
+    {
+      "system": "Steering Linkage",
+      "item": "Side rod spring outer diameter",
+      "unit": "mm (in)",
+      "standard": "8 (0.31)",
+      "limit": "",
+      "page_label": "ST-9"
+    },
+    {
+      "system": "Steering Linkage",
+      "item": "Side rod outer ball joint swinging torque",
+      "unit": "kg-m (ft-lb)",
+      "standard": "0.8 to 1.5 (5.8 to 10.8)",
+      "limit": "",
+      "page_label": "ST-8"
+    },
+    {
+      "system": "Steering Linkage",
+      "item": "Side rod outer ball joint axial play (clearance)",
+      "unit": "mm (in)",
+      "standard": "0.1 to 0.5 (0.004 to 0.020)",
+      "limit": "0.5 (0.020)",
+      "page_label": "ST-8"
+    },
+    {
+      "system": "Steering Linkage",
+      "item": "Side rod inner ball joint swinging torque",
+      "unit": "kg-m (ft-lb)",
+      "standard": "0 to 0.5 (0 to 3.6)",
+      "limit": "",
+      "page_label": "ST-9"
+    },
+    {
+      "system": "Steering Linkage",
+      "item": "Side rod inner ball joint axial play",
+      "unit": "mm (in)",
+      "standard": "0 to 0.05 (0 to 0.0020)",
+      "limit": "0.05 (0.0020)",
+      "page_label": "ST-9"
+    },
+    {
+      "system": "Steering Linkage",
+      "item": "Side rod length",
+      "unit": "mm (in)",
+      "standard": "37.9 (1.492)",
+      "limit": "",
+      "page_label": "ST-11"
+    },
+    {
+      "system": "Steering Gear",
+      "item": "Boot clamp lug clearance",
+      "unit": "mm (in)",
+      "standard": "2 (0.08)",
+      "limit": "",
+      "page_label": "ST-11"
+    },
+    {
+      "system": "Steering Gear",
+      "item": "Pinion adjust shim oversize thickness",
+      "unit": "mm (in)",
+      "standard": "0.05 (0.0020), 0.127 (0.0050), 0.25 (0.0098), 0.50 (0.0197), 1.00 (0.0394)",
+      "limit": "",
+      "page_label": "ST-9"
+    },
+    {
+      "system": "Steering Gear",
+      "item": "Steering adjust shim oversize thickness",
+      "unit": "mm (in)",
+      "standard": "0.25 (0.0098), 0.50 (0.0197), 1.00 (0.0394)",
+      "limit": "",
+      "page_label": "ST-10"
+    }
+  ],
+  "troubleshooting": [
+    {
+      "symptom": "Vibration, shock and shimmying of steering wheel",
+      "probable_cause": "Improper tire pressure or insufficient tightening of wheel nuts.",
+      "corrective_action": "Adjust or tighten.",
+      "page_label": "ST-13"
+    },
+    {
+      "symptom": "Vibration, shock and shimmying of steering wheel",
+      "probable_cause": "Difference in height of right and left tire treads.",
+      "corrective_action": "Replace tires.",
+      "page_label": "ST-13"
+    },
+    {
+      "symptom": "Vibration, shock and shimmying of steering wheel",
+      "probable_cause": "Incorrect adjustment or wear of front wheel bearing.",
+      "corrective_action": "Adjust or replace.",
+      "page_label": "ST-13"
+    },
+    {
+      "symptom": "Vibration, shock and shimmying of steering wheel",
+      "probable_cause": "Collapsing or twisting of front spring.",
+      "corrective_action": "Replace.",
+      "page_label": "ST-13"
+    },
+    {
+      "symptom": "Vibration, shock and shimmying of steering wheel",
+      "probable_cause": "Incorrect brake (binding) adjustment.",
+      "corrective_action": "Adjust.",
+      "page_label": "ST-13"
+    },
+    {
+      "symptom": "Vibration, shock and shimmying of steering wheel",
+      "probable_cause": "Incorrect adjustment of brakes (binding).",
+      "corrective_action": "Readjust.",
+      "page_label": "ST-13"
+    },
+    {
+      "symptom": "Vibration, shock and shimmying of steering wheel",
+      "probable_cause": "Wear of rubber bushings for fitting transverse link and compression rod.",
+      "corrective_action": "Replace.",
+      "page_label": "ST-13"
+    },
+    {
+      "symptom": "Vibration, shock and shimmying of steering wheel",
+      "probable_cause": "Deformation of steering linkage and suspension link.",
+      "corrective_action": "Replace.",
+      "page_label": "ST-13"
+    },
+    {
+      "symptom": "Vibration, shock and shimmying of steering wheel",
+      "probable_cause": "Excessive clearance of side rod inner or outer ball joint.",
+      "corrective_action": "Replace.",
+      "page_label": "ST-14"
+    },
+    {
+      "symptom": "Vibration, shock and shimmying of steering wheel",
+      "probable_cause": "Loose side rod lock nut.",
+      "corrective_action": "Tighten more.",
+      "page_label": "ST-14"
+    },
+    {
+      "symptom": "Vibration, shock and shimmying of steering wheel",
+      "probable_cause": "Car level unbalance.",
+      "corrective_action": "Correct the unbalance.",
+      "page_label": "ST-14"
+    },
+    {
+      "symptom": "Wandering of car in one direction",
+      "probable_cause": "Improper tire pressure.",
+      "corrective_action": "Adjust.",
+      "page_label": "ST-14"
+    },
+    {
+      "symptom": "Wandering of car in one direction",
+      "probable_cause": "Unbalance or deformation of load wheel.",
+      "corrective_action": "Correct the unbalance or replace.",
+      "page_label": "ST-14"
+    },
+    {
+      "symptom": "Wandering of car in one direction",
+      "probable_cause": "Uneven tire wear or insufficient tightening.",
+      "corrective_action": "Replace or tighten.",
+      "page_label": "ST-14"
+    },
+    {
+      "symptom": "Wandering of car in one direction",
+      "probable_cause": "Faulty wheel alignment.",
+      "corrective_action": "Adjust.",
+      "page_label": "ST-14"
+    },
+    {
+      "symptom": "Wandering of car in one direction",
+      "probable_cause": "Wear of bushings for fitting transverse link and compression rod.",
+      "corrective_action": "Replace.",
+      "page_label": "ST-14"
+    },
+    {
+      "symptom": "Wandering of car in one direction",
+      "probable_cause": "Loose steering post clamp.",
+      "corrective_action": "Retighten.",
+      "page_label": "ST-14"
+    },
+    {
+      "symptom": "Wandering of car in one direction",
+      "probable_cause": "Wear of steering column bearing.",
+      "corrective_action": "Replace steering column assembly.",
+      "page_label": "ST-14"
+    },
+    {
+      "symptom": "Wandering of car in one direction",
+      "probable_cause": "Breakage or collapsing of steering column shaft spring.",
+      "corrective_action": "Replace.",
+      "page_label": "ST-14"
+    },
+    {
+      "symptom": "Wandering of car in one direction",
+      "probable_cause": "Loose rubber coupling bolts or wear of rubber coupling.",
+      "corrective_action": "Retighten or replace.",
+      "page_label": "ST-14"
+    },
+    {
+      "symptom": "Wandering of car in one direction",
+      "probable_cause": "Excessive serration play.",
+      "corrective_action": "Replace.",
+      "page_label": "ST-14"
+    },
+    {
+      "symptom": "Wandering of car in one direction",
+      "probable_cause": "Wear of lower joint journal.",
+      "corrective_action": "Replace.",
+      "page_label": "ST-14"
+    },
+    {
+      "symptom": "Wandering of car in one direction",
+      "probable_cause": "Insufficient tightening of steering gear housing.",
+      "corrective_action": "Retighten.",
+      "page_label": "ST-14"
+    },
+    {
+      "symptom": "Wandering of car in one direction",
+      "probable_cause": "Wear of suspension ball joint.",
+      "corrective_action": "Replace.",
+      "page_label": "ST-14"
+    },
+    {
+      "symptom": "Wandering of car in one direction",
+      "probable_cause": "Improper adjustment of retainer. (Too much backlash)",
+      "corrective_action": "Adjust.",
+      "page_label": "ST-14"
+    },
+    {
+      "symptom": "Wandering of car in one direction",
+      "probable_cause": "Malfunction of shock absorber (inside strut) or loose bolts.",
+      "corrective_action": "Replace or tighten.",
+      "page_label": "ST-14"
+    },
+    {
+      "symptom": "Wandering of car in one direction",
+      "probable_cause": "Car level unbalance.",
+      "corrective_action": "Correct the unbalance.",
+      "page_label": "ST-14"
+    },
+    {
+      "symptom": "Instability of car",
+      "probable_cause": "Improper tire pressure.",
+      "corrective_action": "Adjust.",
+      "page_label": "ST-15"
+    },
+    {
+      "symptom": "Instability of car",
+      "probable_cause": "Wear of rubber bushings for fitting transverse link and compression rod.",
+      "corrective_action": "Replace.",
+      "page_label": "ST-15"
+    },
+    {
+      "symptom": "Instability of car",
+      "probable_cause": "Incorrect wheel alignment.",
+      "corrective_action": "Adjust.",
+      "page_label": "ST-15"
+    },
+    {
+      "symptom": "Instability of car",
+      "probable_cause": "Wear or deformation of steering linkage and suspension link.",
+      "corrective_action": "Replace.",
+      "page_label": "ST-15"
+    },
+    {
+      "symptom": "Instability of car",
+      "probable_cause": "Worn mounting rubber.",
+      "corrective_action": "Replace.",
+      "page_label": "ST-15"
+    },
+    {
+      "symptom": "Instability of car",
+      "probable_cause": "Loose gear housing bolt.",
+      "corrective_action": "Retighten.",
+      "page_label": "ST-15"
+    },
+    {
+      "symptom": "Instability of car",
+      "probable_cause": "Loose side rod lock nut.",
+      "corrective_action": "Retighten.",
+      "page_label": "ST-15"
+    },
+    {
+      "symptom": "Instability of car",
+      "probable_cause": "Excessive play of side rod inner or outer ball joint.",
+      "corrective_action": "Replace.",
+      "page_label": "ST-15"
+    },
+    {
+      "symptom": "Instability of car",
+      "probable_cause": "Incorrect adjustment of retainer.",
+      "corrective_action": "Readjust.",
+      "page_label": "ST-15"
+    },
+    {
+      "symptom": "Instability of car",
+      "probable_cause": "Deformation and unbalance of wheel.",
+      "corrective_action": "Correct or replace.",
+      "page_label": "ST-15"
+    },
+    {
+      "symptom": "Steering wheel resistance",
+      "probable_cause": "Improper tire pressure.",
+      "corrective_action": "Adjust.",
+      "page_label": "ST-15"
+    },
+    {
+      "symptom": "Steering wheel resistance",
+      "probable_cause": "Insufficient grease or impurities in gear housing.",
+      "corrective_action": "Replenish grease or replace gear housing.",
+      "page_label": "ST-15"
+    },
+    {
+      "symptom": "Steering wheel resistance",
+      "probable_cause": "Insufficient grease, impurities in steering linkage, or abnormal wear.",
+      "corrective_action": "Replenish grease or replace the part.",
+      "page_label": "ST-15"
+    },
+    {
+      "symptom": "Steering wheel resistance",
+      "probable_cause": "Stiffness, damage, or insufficient grease in suspension ball joint.",
+      "corrective_action": "Replace.",
+      "page_label": "ST-15"
+    },
+    {
+      "symptom": "Steering wheel resistance",
+      "probable_cause": "Wear or incorrect adjustment of wheel bearing.",
+      "corrective_action": "Replace or adjust.",
+      "page_label": "ST-15"
+    },
+    {
+      "symptom": "Steering wheel resistance",
+      "probable_cause": "Seizing of housing bushing.",
+      "corrective_action": "Replace with gear housing.",
+      "page_label": "ST-15"
+    },
+    {
+      "symptom": "Steering wheel resistance",
+      "probable_cause": "Wear or damage of rack-and-pinion or bearing.",
+      "corrective_action": "Replace.",
+      "page_label": "ST-15"
+    },
+    {
+      "symptom": "Steering wheel resistance",
+      "probable_cause": "Incorrect adjustment of retainer.",
+      "corrective_action": "Readjust.",
+      "page_label": "ST-15"
+    },
+    {
+      "symptom": "Steering wheel resistance",
+      "probable_cause": "Tight retainer.",
+      "corrective_action": "Adjust.",
+      "page_label": "ST-15"
+    },
+    {
+      "symptom": "Steering wheel resistance",
+      "probable_cause": "Deformation of steering linkage.",
+      "corrective_action": "Replace.",
+      "page_label": "ST-15"
+    },
+    {
+      "symptom": "Steering wheel resistance",
+      "probable_cause": "Incorrect wheel alignment.",
+      "corrective_action": "Adjust.",
+      "page_label": "ST-16"
+    },
+    {
+      "symptom": "Steering wheel resistance",
+      "probable_cause": "Damage of bearing at upper end of strut.",
+      "corrective_action": "Replace.",
+      "page_label": "ST-16"
+    },
+    {
+      "symptom": "Steering wheel resistance",
+      "probable_cause": "Damage or stiffness of piston or rod of shock absorber (in the strut).",
+      "corrective_action": "Replace.",
+      "page_label": "ST-16"
+    },
+    {
+      "symptom": "Steering wheel resistance",
+      "probable_cause": "Interference of steering column with turn signal switch.",
+      "corrective_action": "Adjust.",
+      "page_label": "ST-16"
+    },
+    {
+      "symptom": "Steering wheel resistance",
+      "probable_cause": "Damage, seizing, or stiffness of steering column bearing.",
+      "corrective_action": "Replace with steering column jacket.",
+      "page_label": "ST-16"
+    },
+    {
+      "symptom": "Excessive steering wheel play",
+      "probable_cause": "Incorrect adjustment of retainer.",
+      "corrective_action": "Adjust.",
+      "page_label": "ST-16"
+    },
+    {
+      "symptom": "Excessive steering wheel play",
+      "probable_cause": "Wear of steering linkage.",
+      "corrective_action": "Replace.",
+      "page_label": "ST-16"
+    },
+    {
+      "symptom": "Excessive steering wheel play",
+      "probable_cause": "Improper fitting of gear housing.",
+      "corrective_action": "Tighten.",
+      "page_label": "ST-16"
+    },
+    {
+      "symptom": "Excessive steering wheel play",
+      "probable_cause": "Worn mounting rubber.",
+      "corrective_action": "Replace.",
+      "page_label": "ST-16"
+    },
+    {
+      "symptom": "Excessive steering wheel play",
+      "probable_cause": "Incorrect adjustment of wheel bearing.",
+      "corrective_action": "Adjust.",
+      "page_label": "ST-16"
+    },
+    {
+      "symptom": "Excessive steering wheel play",
+      "probable_cause": "Wear of bushings for fitting transverse link and tension rod.",
+      "corrective_action": "Replace.",
+      "page_label": "ST-16"
+    },
+    {
+      "symptom": "Excessive steering wheel play",
+      "probable_cause": "Loose rubber coupling bolts.",
+      "corrective_action": "Retighten.",
+      "page_label": "ST-16"
+    },
+    {
+      "symptom": "Excessive steering wheel play",
+      "probable_cause": "Wear of rubber coupling.",
+      "corrective_action": "Replace.",
+      "page_label": "ST-16"
+    },
+    {
+      "symptom": "Excessive steering wheel play",
+      "probable_cause": "Loose lower joint bolts.",
+      "corrective_action": "Retighten.",
+      "page_label": "ST-16"
+    },
+    {
+      "symptom": "Noises",
+      "probable_cause": "Improper tire pressure.",
+      "corrective_action": "Adjust.",
+      "page_label": "ST-16"
+    },
+    {
+      "symptom": "Noises",
+      "probable_cause": "Insufficient grease for suspension ball joint and steering linkage, or breakage.",
+      "corrective_action": "Replenish grease, or replace.",
+      "page_label": "ST-16"
+    },
+    {
+      "symptom": "Noises",
+      "probable_cause": "Loose bolts of steering gear housing, linkage, and suspension groups.",
+      "corrective_action": "Retighten.",
+      "page_label": "ST-16"
+    },
+    {
+      "symptom": "Noises",
+      "probable_cause": "Faulty shock absorber (inside strut).",
+      "corrective_action": "Replace.",
+      "page_label": "ST-16"
+    },
+    {
+      "symptom": "Noises",
+      "probable_cause": "Faulty wheel bearing.",
+      "corrective_action": "Replace.",
+      "page_label": "ST-16"
+    },
+    {
+      "symptom": "Noises",
+      "probable_cause": "Wear of steering linkage and rack-and-pinion.",
+      "corrective_action": "Replace.",
+      "page_label": "ST-17"
+    },
+    {
+      "symptom": "Noises",
+      "probable_cause": "Wear of bushings for fitting transverse link and compression rod.",
+      "corrective_action": "Replace.",
+      "page_label": "ST-17"
+    },
+    {
+      "symptom": "Noises",
+      "probable_cause": "Breakage or collapsing of coil spring.",
+      "corrective_action": "Replace.",
+      "page_label": "ST-17"
+    },
+    {
+      "symptom": "Noises",
+      "probable_cause": "Loose nuts (holding strut mounting insulator).",
+      "corrective_action": "Retighten.",
+      "page_label": "ST-17"
+    },
+    {
+      "symptom": "Noises",
+      "probable_cause": "Wear of housing bushing.",
+      "corrective_action": "Replace housing gear assembly.",
+      "page_label": "ST-17"
+    },
+    {
+      "symptom": "Noises",
+      "probable_cause": "Excessive thrust play of pinion.",
+      "corrective_action": "Adjust or replace.",
+      "page_label": "ST-17"
+    },
+    {
+      "symptom": "Noises",
+      "probable_cause": "Loose retainer part.",
+      "corrective_action": "Replace retainer spring or tighten lock nut.",
+      "page_label": "ST-17"
+    }
+  ],
+  "special_tools": [
+    {
+      "tool_number": "ST27180001",
+      "tool_name": "Steering wheel puller",
+      "kent_moore_no": "J 25726",
+      "ref": "Fig. ST-2",
+      "page_label": "ST-17"
+    },
+    {
+      "tool_number": "HT72520000",
+      "tool_name": "Ball joint remover",
+      "kent_moore_no": "\u2014",
+      "ref": "Page ST-6",
+      "page_label": "ST-17"
+    }
+  ]
+}

@@ -1,0 +1,1394 @@
+{
+  "section_title": "ENGINE CONTROL, FUEL & EXHAUST SYSTEMS",
+  "source_pdf": "1978 280z FSM/FE Engine Control fuel and Exhaust.pdf",
+  "md_path": "1978 280z FSM/FE Engine Control fuel and Exhaust.md",
+  "pages_count": 15,
+  "diagrams": [
+    {
+      "section_title": "ENGINE CONTROL, FUEL & EXHAUST SYSTEMS",
+      "source_md": "1978 280z FSM/FE Engine Control fuel and Exhaust.md",
+      "slug": "fig_fe_1_accelerator_linkage",
+      "file": "markdown/1978 280z FSM/diagrams/FE Engine Control fuel and Exhaust/fig_fe_1_accelerator_linkage.png",
+      "rel_link": "diagrams/FE Engine Control fuel and Exhaust/fig_fe_1_accelerator_linkage.png",
+      "page_num": 2,
+      "page_label": "FE-2",
+      "fig_id": "Fig. FE-1",
+      "code": "FE222",
+      "caption": "Fig. FE-1 Accelerator linkage",
+      "diagram_type": "exploded_view",
+      "description": "Exploded overview diagram of the accelerator pedal, linkage rods, and ball joint connections leading to the engine compartment.",
+      "components": [
+        "Accelerator pedal",
+        "Ball joint No. 1",
+        "Ball joint No. 2",
+        "Joint rod",
+        "Torsion shaft",
+        "Pedal arm"
+      ],
+      "callouts": {
+        "1": "Ball joint No. 1",
+        "2": "Ball joint No. 2",
+        "3": "Joint rod"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Separate accelerator rod from pedal arm at ball joint during disassembly.",
+      "tags": [
+        "accelerator linkage",
+        "pedal arm",
+        "ball joint",
+        "joint rod"
+      ],
+      "dimensions": [
+        743,
+        559
+      ]
+    },
+    {
+      "section_title": "ENGINE CONTROL, FUEL & EXHAUST SYSTEMS",
+      "source_md": "1978 280z FSM/FE Engine Control fuel and Exhaust.md",
+      "slug": "fig_fe_2_removing_accelerator_pedal_arm",
+      "file": "markdown/1978 280z FSM/diagrams/FE Engine Control fuel and Exhaust/fig_fe_2_removing_accelerator_pedal_arm.png",
+      "rel_link": "diagrams/FE Engine Control fuel and Exhaust/fig_fe_2_removing_accelerator_pedal_arm.png",
+      "page_num": 2,
+      "page_label": "FE-2",
+      "fig_id": "Fig. FE-2",
+      "code": "FE164",
+      "caption": "Fig. FE-2 Removing accelerator pedal arm",
+      "diagram_type": "procedure_step",
+      "description": "Illustration showing removal of accelerator pedal arm and bracket securing screws from floor/firewall.",
+      "components": [
+        "Accelerator pedal",
+        "Pedal arm",
+        "Bracket screws",
+        "Mounting bracket",
+        "Ball joint"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove three screws from accelerator pedal bracket to detach assembly.",
+      "tags": [
+        "accelerator pedal",
+        "removal",
+        "bracket",
+        "screws"
+      ],
+      "dimensions": [
+        361,
+        428
+      ]
+    },
+    {
+      "section_title": "ENGINE CONTROL, FUEL & EXHAUST SYSTEMS",
+      "source_md": "1978 280z FSM/FE Engine Control fuel and Exhaust.md",
+      "slug": "fig_fe_3_disconnecting_ball_joints_and_joint_rods",
+      "file": "markdown/1978 280z FSM/diagrams/FE Engine Control fuel and Exhaust/fig_fe_3_disconnecting_ball_joints_and_joint_rods.png",
+      "rel_link": "diagrams/FE Engine Control fuel and Exhaust/fig_fe_3_disconnecting_ball_joints_and_joint_rods.png",
+      "page_num": 2,
+      "page_label": "FE-2",
+      "fig_id": "Fig. FE-3",
+      "code": "FE385",
+      "caption": "Fig. FE-3 Disconnecting ball joints and joint rods",
+      "diagram_type": "procedure_step",
+      "description": "Engine bay perspective showing disconnection of ball joints and joint rods from the torsion shaft and bell-crank.",
+      "components": [
+        "Torsion shaft",
+        "Boot",
+        "Ball joint",
+        "Ball joint No. 2",
+        "Joint rod",
+        "Bell-crank",
+        "Torsion shaft support",
+        "Bell-crank bracket"
+      ],
+      "callouts": {
+        "1": "Torsion shaft",
+        "2": "Boot",
+        "3": "Ball joint",
+        "4": "Ball joint No. 2",
+        "5": "Joint rod",
+        "6": "Bell-crank",
+        "7": "Torsion shaft support",
+        "8": "Bell-crank bracket"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Disconnect ball joints of each rod at torsion shaft support and bell crank bracket to remove joint rods.",
+      "tags": [
+        "torsion shaft",
+        "bell crank",
+        "ball joint",
+        "joint rod",
+        "engine compartment"
+      ],
+      "dimensions": [
+        354,
+        569
+      ]
+    },
+    {
+      "section_title": "ENGINE CONTROL, FUEL & EXHAUST SYSTEMS",
+      "source_md": "1978 280z FSM/FE Engine Control fuel and Exhaust.md",
+      "slug": "fig_fe_4_accelerator_linkage_setting",
+      "file": "markdown/1978 280z FSM/diagrams/FE Engine Control fuel and Exhaust/fig_fe_4_accelerator_linkage_setting.png",
+      "rel_link": "diagrams/FE Engine Control fuel and Exhaust/fig_fe_4_accelerator_linkage_setting.png",
+      "page_num": 3,
+      "page_label": "FE-3",
+      "fig_id": "Fig. FE-4",
+      "code": "FE165",
+      "caption": "Fig. FE-4 Accelerator linkage setting",
+      "diagram_type": "alignment_orientation",
+      "description": "Dimensional and schematic diagram showing accelerator linkage adjustments including rod lengths L and 6, stopper bolt height N, and pedal height.",
+      "components": [
+        "Torsion shaft",
+        "Boot",
+        "Stopper",
+        "Ball joint No. 1",
+        "Bell crank",
+        "Joint rod",
+        "Ball joint No. 2",
+        "Torsion shaft support",
+        "Pedal stopper and nut",
+        "Joint rod",
+        "Accelerator pedal"
+      ],
+      "callouts": {
+        "1": "Torsion shaft",
+        "2": "Boot",
+        "3": "Stopper",
+        "4": "Ball joint No. 1",
+        "5": "Bell crank",
+        "6": "Joint rod",
+        "7": "Ball joint No. 2",
+        "8": "Torsion shaft support",
+        "9": "Pedal stopper and nut",
+        "10": "Joint rod"
+      },
+      "measurements_and_specs": [
+        "Stopper bolt height 'N': 22.5 mm (0.886 in) from toe board",
+        "Dashboard joint rod length 'L': 117 mm (4.61 in)",
+        "Joint rod (6) length: 123 mm (4.84 in)",
+        "Pedal height: 194.5 mm (7.66 in)",
+        "Stopper bolt contact: contact pedal at throttle 'Fully Open', then turn clockwise one full turn and lock"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Lock stopper bolt securely with lock nut after one full turn clockwise beyond initial contact at full throttle.",
+      "tags": [
+        "accelerator linkage",
+        "adjustment",
+        "stopper bolt",
+        "pedal height",
+        "rod length"
+      ],
+      "dimensions": [
+        724,
+        638
+      ]
+    },
+    {
+      "section_title": "ENGINE CONTROL, FUEL & EXHAUST SYSTEMS",
+      "source_md": "1978 280z FSM/FE Engine Control fuel and Exhaust.md",
+      "slug": "fig_fe_5_fuel_tank_and_fuel_line",
+      "file": "markdown/1978 280z FSM/diagrams/FE Engine Control fuel and Exhaust/fig_fe_5_fuel_tank_and_fuel_line.png",
+      "rel_link": "diagrams/FE Engine Control fuel and Exhaust/fig_fe_5_fuel_tank_and_fuel_line.png",
+      "page_num": 4,
+      "page_label": "FE-4",
+      "fig_id": "Fig. FE-5",
+      "code": "FE379",
+      "caption": "Fig. FE-5 Fuel tank and fuel line",
+      "diagram_type": "exploded_view",
+      "description": "Perspective layout of the fuel tank, vapor reservoir tank, filler hose, breather hoses, and fuel feed/return lines.",
+      "components": [
+        "Fuel tank",
+        "Fuel hose (return)",
+        "Fuel hose (outlet)",
+        "Fuel tank gauge",
+        "Vapor vent line",
+        "Filler hose",
+        "Reservoir tank",
+        "Breather hose"
+      ],
+      "callouts": {
+        "1": "Fuel tank",
+        "2": "Fuel hose (return)",
+        "3": "Fuel hose (outlet)",
+        "4": "Fuel tank gauge",
+        "5": "Vapor vent line",
+        "6": "Filler hose",
+        "7": "Reservoir tank",
+        "8": "Breather hose",
+        "9": "Breather hose",
+        "10": "Breather hose"
+      },
+      "measurements_and_specs": [
+        "Fuel warning lamp activation level: below 10 liters (10-5/8 U.S. qt., 8-3/4 Imper. qt.)"
+      ],
+      "wiring_and_connections": [
+        "Ventilation hoses to reservoir tank",
+        "Fuel return hose",
+        "Fuel outlet hose"
+      ],
+      "mechanic_notes": "Pay close attention to fuel line due to high operating pressure of the EFI system. Note orientation arrow pointing toward front.",
+      "tags": [
+        "fuel tank",
+        "fuel lines",
+        "reservoir tank",
+        "breather hose",
+        "filler hose"
+      ],
+      "dimensions": [
+        813,
+        516
+      ]
+    },
+    {
+      "section_title": "ENGINE CONTROL, FUEL & EXHAUST SYSTEMS",
+      "source_md": "1978 280z FSM/FE Engine Control fuel and Exhaust.md",
+      "slug": "fig_fe_6_removing_nuts_from_tank_securing_bands",
+      "file": "markdown/1978 280z FSM/diagrams/FE Engine Control fuel and Exhaust/fig_fe_6_removing_nuts_from_tank_securing_bands.png",
+      "rel_link": "diagrams/FE Engine Control fuel and Exhaust/fig_fe_6_removing_nuts_from_tank_securing_bands.png",
+      "page_num": 4,
+      "page_label": "FE-4",
+      "fig_id": "Fig. FE-6",
+      "code": "FE180",
+      "caption": "Fig. FE-6 Removing nuts from tank securing bands",
+      "diagram_type": "procedure_step",
+      "description": "Underbody view showing removal of the nuts from the two fuel tank securing strap bands.",
+      "components": [
+        "Fuel tank",
+        "Tank securing bands",
+        "Securing band nuts",
+        "Rear underbody"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Lower tank slightly after removing nuts from two securing bands to access top hose connections.",
+      "tags": [
+        "fuel tank removal",
+        "securing bands",
+        "mounting nuts"
+      ],
+      "dimensions": [
+        367,
+        340
+      ]
+    },
+    {
+      "section_title": "ENGINE CONTROL, FUEL & EXHAUST SYSTEMS",
+      "source_md": "1978 280z FSM/FE Engine Control fuel and Exhaust.md",
+      "slug": "fig_fe_7_removing_rear_quarter_trim",
+      "file": "markdown/1978 280z FSM/diagrams/FE Engine Control fuel and Exhaust/fig_fe_7_removing_rear_quarter_trim.png",
+      "rel_link": "diagrams/FE Engine Control fuel and Exhaust/fig_fe_7_removing_rear_quarter_trim.png",
+      "page_num": 5,
+      "page_label": "FE-5",
+      "fig_id": "Fig. FE-7",
+      "code": "FE380",
+      "caption": "Fig. FE-7 Removing rear quarter trim",
+      "diagram_type": "procedure_step",
+      "description": "View of the right-hand rear interior quarter compartment showing removal of quarter trim to expose fuel reservoir and hoses.",
+      "components": [
+        "Rear quarter trim",
+        "Reservoir tank protector",
+        "Rear deck"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Refer to Section BF for detailed interior trim fastener removal.",
+      "tags": [
+        "quarter trim",
+        "reservoir protector",
+        "interior removal"
+      ],
+      "dimensions": [
+        357,
+        340
+      ]
+    },
+    {
+      "section_title": "ENGINE CONTROL, FUEL & EXHAUST SYSTEMS",
+      "source_md": "1978 280z FSM/FE Engine Control fuel and Exhaust.md",
+      "slug": "fig_fe_8_removing_fuel_filler_hose_protector",
+      "file": "markdown/1978 280z FSM/diagrams/FE Engine Control fuel and Exhaust/fig_fe_8_removing_fuel_filler_hose_protector.png",
+      "rel_link": "diagrams/FE Engine Control fuel and Exhaust/fig_fe_8_removing_fuel_filler_hose_protector.png",
+      "page_num": 5,
+      "page_label": "FE-5",
+      "fig_id": "Fig. FE-8",
+      "code": "FE381",
+      "caption": "Fig. FE-8 Removing fuel filler hose protector",
+      "diagram_type": "procedure_step",
+      "description": "Wheel well view showing screws securing the metal protective cover around the fuel filler hose.",
+      "components": [
+        "Fuel filler hose protector",
+        "Mounting screws",
+        "Wheelhouse"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Loosen screws attaching fuel filler hose protector and remove it before attempting hose detachment.",
+      "tags": [
+        "filler hose protector",
+        "wheel arch",
+        "fuel filler"
+      ],
+      "dimensions": [
+        335,
+        341
+      ]
+    },
+    {
+      "section_title": "ENGINE CONTROL, FUEL & EXHAUST SYSTEMS",
+      "source_md": "1978 280z FSM/FE Engine Control fuel and Exhaust.md",
+      "slug": "fig_fe_9_cross_sectional_view_of_fuel_hose",
+      "file": "markdown/1978 280z FSM/diagrams/FE Engine Control fuel and Exhaust/fig_fe_9_cross_sectional_view_of_fuel_hose.png",
+      "rel_link": "diagrams/FE Engine Control fuel and Exhaust/fig_fe_9_cross_sectional_view_of_fuel_hose.png",
+      "page_num": 5,
+      "page_label": "FE-5",
+      "fig_id": "Fig. FE-9",
+      "code": "FE382",
+      "caption": "Fig. FE-9 Cross-sectional view of fuel hose",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross-sectional cutaway detailing the fuel filler neck, hose, clamp, rubber grommet attachment, and California shutter valve.",
+      "components": [
+        "Hose clamp",
+        "Filler hose",
+        "Filler tube neck",
+        "Rubber grommet attaching nuts",
+        "Shutter (For California models)"
+      ],
+      "callouts": {
+        "1": "Clamp tightening hose with tube",
+        "2": "Rubber grommet attaching nuts"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Be sure to place stopper of clamp in place when tightening clamp to prevent hose from being pulled out.",
+      "tags": [
+        "filler hose",
+        "cross section",
+        "grommet",
+        "shutter",
+        "california model"
+      ],
+      "dimensions": [
+        647,
+        411
+      ]
+    },
+    {
+      "section_title": "ENGINE CONTROL, FUEL & EXHAUST SYSTEMS",
+      "source_md": "1978 280z FSM/FE Engine Control fuel and Exhaust.md",
+      "slug": "fig_fe_10_fuel_tank_gauge",
+      "file": "markdown/1978 280z FSM/diagrams/FE Engine Control fuel and Exhaust/fig_fe_10_fuel_tank_gauge.png",
+      "rel_link": "diagrams/FE Engine Control fuel and Exhaust/fig_fe_10_fuel_tank_gauge.png",
+      "page_num": 6,
+      "page_label": "FE-6",
+      "fig_id": "Fig. FE-10",
+      "code": "FE241",
+      "caption": "Fig. FE-10 Fuel tank gauge",
+      "diagram_type": "electrical_schematic",
+      "description": "Electrical inspection diagram of the fuel sending unit showing terminal pins (1=B, 2=Y, 3=YL), float arm, rheostat, and low-fuel warning thermistor.",
+      "components": [
+        "Fuel sender body",
+        "Float arm",
+        "Float",
+        "Thermistor",
+        "Electrical connector"
+      ],
+      "callouts": {
+        "1": "Terminal B (Black)",
+        "2": "Terminal Y (Yellow)",
+        "3": "Terminal YL (Yellow/Blue)"
+      },
+      "measurements_and_specs": [
+        "Resistance between terminals 1 and 2: 10 to 80 \u03a9",
+        "Thermistor terminal 1-3 resistance changes between submerged and drained state"
+      ],
+      "wiring_and_connections": [
+        "B: Black wire (terminal 1)",
+        "Y: Yellow wire (terminal 2)",
+        "YL: Yellow/Blue wire (terminal 3)"
+      ],
+      "mechanic_notes": "Use a low-reading ohmmeter. Bayonet twist-lock mounting; replace O-ring whenever removed.",
+      "tags": [
+        "fuel tank gauge",
+        "sending unit",
+        "thermistor",
+        "wiring",
+        "resistance test"
+      ],
+      "dimensions": [
+        704,
+        551
+      ]
+    },
+    {
+      "section_title": "ENGINE CONTROL, FUEL & EXHAUST SYSTEMS",
+      "source_md": "1978 280z FSM/FE Engine Control fuel and Exhaust.md",
+      "slug": "fig_fe_11_heat_shield_plate_to_muffler_clearance",
+      "file": "markdown/1978 280z FSM/diagrams/FE Engine Control fuel and Exhaust/fig_fe_11_heat_shield_plate_to_muffler_clearance.png",
+      "rel_link": "diagrams/FE Engine Control fuel and Exhaust/fig_fe_11_heat_shield_plate_to_muffler_clearance.png",
+      "page_num": 7,
+      "page_label": "FE-7",
+      "fig_id": "Fig. FE-11",
+      "code": "FE508",
+      "caption": "Fig. FE-11 Heat shield plate-to-muffler clearance",
+      "diagram_type": "inspection_measurement",
+      "description": "Dimensional check of clearance between muffler body and outer heat shield plate.",
+      "components": [
+        "Muffler body",
+        "Heat shield plate",
+        "Mounting seats"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Fore-and-aft clearance: 3 mm (0.12 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Up-and-down and in-and-out alignment can be readily adjusted by means of seats.",
+      "tags": [
+        "muffler",
+        "heat shield plate",
+        "clearance",
+        "adjustment"
+      ],
+      "dimensions": [
+        360,
+        270
+      ]
+    },
+    {
+      "section_title": "ENGINE CONTROL, FUEL & EXHAUST SYSTEMS",
+      "source_md": "1978 280z FSM/FE Engine Control fuel and Exhaust.md",
+      "slug": "fig_fe_12_installing_muffler_front_mounting",
+      "file": "markdown/1978 280z FSM/diagrams/FE Engine Control fuel and Exhaust/fig_fe_12_installing_muffler_front_mounting.png",
+      "rel_link": "diagrams/FE Engine Control fuel and Exhaust/fig_fe_12_installing_muffler_front_mounting.png",
+      "page_num": 7,
+      "page_label": "FE-7",
+      "fig_id": "Fig. FE-12",
+      "code": "FE255",
+      "caption": "Fig. FE-12 Installing muffler front mounting",
+      "diagram_type": "inspection_measurement",
+      "description": "Dimensioning diagram showing mounting bracket location relative to the front outer face of muffler.",
+      "components": [
+        "Muffler front mounting bracket",
+        "Center tube",
+        "Muffler front face",
+        "Mounting rubber",
+        "Securing bolt"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Distance between center of securing bolt and front outer face of muffler: 38 mm (1.50 in)",
+        "Distance between front outer face of muffler heat shield plate and rear end face of mounting rubber: 17 mm (0.67 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Ensure 38 mm distance is accurately maintained before tightening mounting.",
+      "tags": [
+        "muffler front mounting",
+        "center tube",
+        "spacing",
+        "measurement"
+      ],
+      "dimensions": [
+        329,
+        545
+      ]
+    },
+    {
+      "section_title": "ENGINE CONTROL, FUEL & EXHAUST SYSTEMS",
+      "source_md": "1978 280z FSM/FE Engine Control fuel and Exhaust.md",
+      "slug": "fig_fe_13_installing_lower_heat_shield_plate",
+      "file": "markdown/1978 280z FSM/diagrams/FE Engine Control fuel and Exhaust/fig_fe_13_installing_lower_heat_shield_plate.png",
+      "rel_link": "diagrams/FE Engine Control fuel and Exhaust/fig_fe_13_installing_lower_heat_shield_plate.png",
+      "page_num": 7,
+      "page_label": "FE-7",
+      "fig_id": "Fig. FE-13",
+      "code": "FE266",
+      "caption": "Fig. FE-13 Installing lower heat shield plate",
+      "diagram_type": "procedure_step",
+      "description": "3D perspective and cross-sectional view showing attachment of lower heat shield plate 1 to muffler front bracket using securing bolt.",
+      "components": [
+        "Muffler front bracket",
+        "Lower heat shield plate",
+        "Securing bolt",
+        "Center tube"
+      ],
+      "callouts": {
+        "1": "Lower heat shield plate"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Install plate 1 on lower face of muffler front bracket and secure with bolt.",
+      "tags": [
+        "heat shield plate",
+        "muffler bracket",
+        "installation"
+      ],
+      "dimensions": [
+        686,
+        541
+      ]
+    },
+    {
+      "section_title": "ENGINE CONTROL, FUEL & EXHAUST SYSTEMS",
+      "source_md": "1978 280z FSM/FE Engine Control fuel and Exhaust.md",
+      "slug": "fig_fe_14_installing_upper_heat_shield_plate",
+      "file": "markdown/1978 280z FSM/diagrams/FE Engine Control fuel and Exhaust/fig_fe_14_installing_upper_heat_shield_plate.png",
+      "rel_link": "diagrams/FE Engine Control fuel and Exhaust/fig_fe_14_installing_upper_heat_shield_plate.png",
+      "page_num": 8,
+      "page_label": "FE-8",
+      "fig_id": "Fig. FE-14",
+      "code": "FE267",
+      "caption": "Fig. FE-14 Installing upper heat shield plate",
+      "diagram_type": "procedure_step",
+      "description": "Procedure diagram showing clamping of upper heat shield plate 2 to lower plate 1 around the exhaust pipe.",
+      "components": [
+        "Upper heat shield plate",
+        "Lower heat shield plate",
+        "Clamp",
+        "Exhaust tube"
+      ],
+      "callouts": {
+        "1": "Lower heat shield plate",
+        "2": "Upper heat shield plate"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Tighten upper and lower plates together by clamp at arrow position.",
+      "tags": [
+        "upper heat shield",
+        "lower heat shield",
+        "clamp",
+        "muffler pipe"
+      ],
+      "dimensions": [
+        360,
+        340
+      ]
+    },
+    {
+      "section_title": "ENGINE CONTROL, FUEL & EXHAUST SYSTEMS",
+      "source_md": "1978 280z FSM/FE Engine Control fuel and Exhaust.md",
+      "slug": "fig_fe_15_installing_upper_and_lower_heat_shield_plates",
+      "file": "markdown/1978 280z FSM/diagrams/FE Engine Control fuel and Exhaust/fig_fe_15_installing_upper_and_lower_heat_shield_plates.png",
+      "rel_link": "diagrams/FE Engine Control fuel and Exhaust/fig_fe_15_installing_upper_and_lower_heat_shield_plates.png",
+      "page_num": 8,
+      "page_label": "FE-8",
+      "fig_id": "Fig. FE-15",
+      "code": "FE268",
+      "caption": "Fig. FE-15 Installing upper and lower heat shield plates",
+      "diagram_type": "exploded_view",
+      "description": "Exploded perspective view showing center tube heat shield plates 1, 2, 3, 4, 5 and clamps.",
+      "components": [
+        "Exhaust center tube",
+        "Lower heat shield plate (1)",
+        "Upper heat shield plate (2)",
+        "Upper heat shield plate (3)",
+        "Lower heat shield plate (4)",
+        "Lower heat shield plate (5)",
+        "Securing clamps and bolts"
+      ],
+      "callouts": {
+        "1": "Lower heat shield plate",
+        "2": "Upper heat shield plate",
+        "3": "Upper heat shield plate",
+        "4": "Lower heat shield plate",
+        "5": "Lower heat shield plate",
+        "8": "Lower heat shield plate"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Plates 3 and 4 must be adjusted in fore-and-aft direction so they remain strictly parallel with exhaust tube.",
+      "tags": [
+        "center tube",
+        "heat shield plates",
+        "assembly",
+        "exhaust pipe"
+      ],
+      "dimensions": [
+        692,
+        437
+      ]
+    },
+    {
+      "section_title": "ENGINE CONTROL, FUEL & EXHAUST SYSTEMS",
+      "source_md": "1978 280z FSM/FE Engine Control fuel and Exhaust.md",
+      "slug": "fig_fe_16_mounting_position_of_exhaust_front_tube_heat_shield_plate",
+      "file": "markdown/1978 280z FSM/diagrams/FE Engine Control fuel and Exhaust/fig_fe_16_mounting_position_of_exhaust_front_tube_heat_shield_plate.png",
+      "rel_link": "diagrams/FE Engine Control fuel and Exhaust/fig_fe_16_mounting_position_of_exhaust_front_tube_heat_shield_plate.png",
+      "page_num": 8,
+      "page_label": "FE-8",
+      "fig_id": "Fig. FE-16",
+      "code": "FE269",
+      "caption": "Fig. FE-16 Mounting position of exhaust front tube heat shield plate",
+      "diagram_type": "inspection_measurement",
+      "description": "Measurement setup showing the 108 mm (4.25 in) offset from the rear flange face of the front tube to the heat shield plate edge.",
+      "components": [
+        "Exhaust front tube",
+        "Heat shield plate",
+        "Mounting bracket"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Distance between rear face of exhaust front tube and rear end of heat shield plate: 108 mm (4.25 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Adjust position on brackets until exact 108 mm (4.25 in) spacing is achieved before final tightening.",
+      "tags": [
+        "front tube",
+        "heat shield position",
+        "measurement",
+        "spacing"
+      ],
+      "dimensions": [
+        354,
+        282
+      ]
+    },
+    {
+      "section_title": "ENGINE CONTROL, FUEL & EXHAUST SYSTEMS",
+      "source_md": "1978 280z FSM/FE Engine Control fuel and Exhaust.md",
+      "slug": "fig_fe_17_exhaust_front_tube_heat_shield_plate",
+      "file": "markdown/1978 280z FSM/diagrams/FE Engine Control fuel and Exhaust/fig_fe_17_exhaust_front_tube_heat_shield_plate.png",
+      "rel_link": "diagrams/FE Engine Control fuel and Exhaust/fig_fe_17_exhaust_front_tube_heat_shield_plate.png",
+      "page_num": 8,
+      "page_label": "FE-8",
+      "fig_id": "Fig. FE-17",
+      "code": "FE270",
+      "caption": "Fig. FE-17 Exhaust front tube heat shield plate",
+      "diagram_type": "exploded_view",
+      "description": "Side assembly view of exhaust front tube showing upper plate 6, lower plate 7, and rear lower plate 8.",
+      "components": [
+        "Exhaust front tube",
+        "Upper heat shield plate",
+        "Lower heat shield plate",
+        "Rear bracket",
+        "Mounting bolts"
+      ],
+      "callouts": {
+        "6": "Upper heat shield plate",
+        "7": "Lower heat shield plate",
+        "8": "Lower heat shield plate"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Plate 8 is secured at two places together with rear bracket of heat shield plates 6 and 7.",
+      "tags": [
+        "front tube",
+        "heat shield plates",
+        "mounting bolts"
+      ],
+      "dimensions": [
+        564,
+        502
+      ]
+    },
+    {
+      "section_title": "ENGINE CONTROL, FUEL & EXHAUST SYSTEMS",
+      "source_md": "1978 280z FSM/FE Engine Control fuel and Exhaust.md",
+      "slug": "fig_fe_18_exhaust_front_tube_mounting_bracket",
+      "file": "markdown/1978 280z FSM/diagrams/FE Engine Control fuel and Exhaust/fig_fe_18_exhaust_front_tube_mounting_bracket.png",
+      "rel_link": "diagrams/FE Engine Control fuel and Exhaust/fig_fe_18_exhaust_front_tube_mounting_bracket.png",
+      "page_num": 8,
+      "page_label": "FE-8",
+      "fig_id": "Fig. FE-18",
+      "code": "FE271",
+      "caption": "Fig. FE-18 Exhaust front tube mounting bracket",
+      "diagram_type": "procedure_step",
+      "description": "Cross-sectional detail of front tube mounting bracket, U-bolt clamp, and attachment of lower heat shield plate 8 at weld nut hole.",
+      "components": [
+        "Exhaust front tube",
+        "Mounting bracket",
+        "U-bolt clamp",
+        "Lower heat shield plate",
+        "Weld nut"
+      ],
+      "callouts": {
+        "8": "Lower heat shield plate"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Snugly tighten mounting bracket and U-bolt on front tube. Attach plate 8 at weld nut hole.",
+      "tags": [
+        "front tube",
+        "mounting bracket",
+        "U-bolt",
+        "weld nut"
+      ],
+      "dimensions": [
+        446,
+        453
+      ]
+    },
+    {
+      "section_title": "ENGINE CONTROL, FUEL & EXHAUST SYSTEMS",
+      "source_md": "1978 280z FSM/FE Engine Control fuel and Exhaust.md",
+      "slug": "fig_fe_19_exploded_view_of_exhaust_system_california_models",
+      "file": "markdown/1978 280z FSM/diagrams/FE Engine Control fuel and Exhaust/fig_fe_19_exploded_view_of_exhaust_system_california_models.png",
+      "rel_link": "diagrams/FE Engine Control fuel and Exhaust/fig_fe_19_exploded_view_of_exhaust_system_california_models.png",
+      "page_num": 9,
+      "page_label": "FE-9",
+      "fig_id": "Fig. FE-19",
+      "code": "FE509",
+      "caption": "Fig. FE-19 Exploded view of exhaust system (California models)",
+      "diagram_type": "exploded_view",
+      "description": "Comprehensive exploded view of the complete exhaust system for California models, featuring front tube, catalytic converter, center tube, muffler, all 8 heat shield plates, and rubber mounting details A, B, and C.",
+      "components": [
+        "Exhaust front tube",
+        "Catalytic converter",
+        "Center tube",
+        "Main muffler",
+        "Lower heat shield plate (1)",
+        "Upper heat shield plate (2)",
+        "Upper heat shield plate (3)",
+        "Lower heat shield plate (4)",
+        "Lower heat shield plate (5)",
+        "Upper heat shield plate (6)",
+        "Lower heat shield plate (7)",
+        "Lower heat shield plate (8)",
+        "Mounting Detail A (muffler hanger)",
+        "Mounting Detail B (center hanger)",
+        "Mounting Detail C (transmission bracket)"
+      ],
+      "callouts": {
+        "1": "Lower heat shield plate",
+        "2": "Upper heat shield plate",
+        "3": "Upper heat shield plate",
+        "4": "Lower heat shield plate",
+        "5": "Lower heat shield plate",
+        "6": "Upper heat shield plate",
+        "7": "Lower heat shield plate",
+        "8": "Lower heat shield plate"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "California models incorporate catalytic converter and extensive dual-layer heat shielding. Use new gaskets and bolts at all joints.",
+      "tags": [
+        "california model",
+        "catalytic converter",
+        "exhaust system",
+        "exploded view",
+        "heat shield plates"
+      ],
+      "dimensions": [
+        985,
+        1418
+      ]
+    },
+    {
+      "section_title": "ENGINE CONTROL, FUEL & EXHAUST SYSTEMS",
+      "source_md": "1978 280z FSM/FE Engine Control fuel and Exhaust.md",
+      "slug": "fig_fe_20_exhaust_system_california_models",
+      "file": "markdown/1978 280z FSM/diagrams/FE Engine Control fuel and Exhaust/fig_fe_20_exhaust_system_california_models.png",
+      "rel_link": "diagrams/FE Engine Control fuel and Exhaust/fig_fe_20_exhaust_system_california_models.png",
+      "page_num": 11,
+      "page_label": "FE-11",
+      "fig_id": "Fig. FE-20",
+      "code": "FE510",
+      "caption": "Fig. FE-20 Exhaust system (California models)",
+      "diagram_type": "alignment_orientation",
+      "description": "Full-vehicle underbody exhaust clearance schematic and section drawings (F-F through L-L) and torque specification details (A through E) for California models.",
+      "components": [
+        "Exhaust front tube",
+        "Catalytic converter",
+        "Exhaust center tube",
+        "Main muffler",
+        "Heat shield plates",
+        "Compression rod rubber heat shield plate",
+        "Transmission extension bracket",
+        "Differential mounting member",
+        "Transverse link bracket",
+        "Spare tire housing"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "SEC. F-F: 7 mm (0.28 in) min.",
+        "SEC. G-G: 15 mm (0.59 in) min.",
+        "SEC. H-H: 8 mm (0.31 in) min., 15 mm (0.59 in) min.",
+        "SEC. I-I: 18 mm (0.71 in) min., flatness -5 to +5 mm (-0.20 to +0.20 in)",
+        "SEC. J-J: 10 mm (0.39 in) min.",
+        "SEC. K-K: 10 mm (0.39 in) min., 17 mm (0.67 in) min.",
+        "SEC. L-L: 8 mm (0.31 in) min., 10 mm (0.39 in) min.",
+        "DETAIL A torque: 4.6 to 6.1 kg-m (33 to 44 ft-lb)",
+        "DETAIL B torques: 1.6 to 2.1 kg-m (12 to 15 ft-lb), 1.8 to 2.1 kg-m (13 to 15 ft-lb), 1.1 to 1.2 kg-m (8 to 9 ft-lb)",
+        "DETAIL B reference distance: 135 mm (5.31 in)",
+        "DETAIL C torque: 3.2 to 4.3 kg-m (23 to 31 ft-lb)",
+        "Catalytic converter rear flange torque: 1.1 to 1.2 kg-m (8 to 9 ft-lb)",
+        "DETAIL D torques: 1.1 to 1.2 kg-m (8 to 9 ft-lb), 1.1 to 1.2 kg-m (8 to 9 ft-lb)",
+        "DETAIL D reference distance: 136 mm (5.35 in)",
+        "DETAIL E clearance: 3 mm (0.12 in)",
+        "DETAIL E torques: 0.93 to 1.2 kg-m (6.7 to 8.7 ft-lb), 1.1 to 1.2 kg-m (8 to 9 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Always replace gaskets and bolts/nuts marked with asterisk '*'. Maintain all specified section clearances to prevent body contact or overheating.",
+      "tags": [
+        "california models",
+        "exhaust clearances",
+        "tightening torques",
+        "chassis cross sections",
+        "installation dimensions"
+      ],
+      "dimensions": [
+        985,
+        1427
+      ]
+    },
+    {
+      "section_title": "ENGINE CONTROL, FUEL & EXHAUST SYSTEMS",
+      "source_md": "1978 280z FSM/FE Engine Control fuel and Exhaust.md",
+      "slug": "fig_fe_21_mounting_rubbers",
+      "file": "markdown/1978 280z FSM/diagrams/FE Engine Control fuel and Exhaust/fig_fe_21_mounting_rubbers.png",
+      "rel_link": "diagrams/FE Engine Control fuel and Exhaust/fig_fe_21_mounting_rubbers.png",
+      "page_num": 12,
+      "page_label": "FE-12",
+      "fig_id": "Fig. FE-21",
+      "code": "FE274",
+      "caption": "Fig. FE-21 Mounting rubbers",
+      "diagram_type": "alignment_orientation",
+      "description": "Inspection and alignment tolerance diagram for exhaust rubber mounting insulators in fore-and-aft, lateral, and rotational twist directions.",
+      "components": [
+        "Mounting rubber insulators",
+        "Muffler hangers",
+        "Chassis mounting brackets"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Fore-and-aft direction tolerance: 2 to 10 mm (0.08 to 0.39 in)",
+        "Lateral direction tolerance: -3 to 3 mm (-0.12 to 0.12 in)",
+        "Twist in horizontal direction: Muffler mounting should not be visually twisted."
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Ensure mounting insulators are not under undue preload or twisting stress due to misaligned piping.",
+      "tags": [
+        "mounting rubbers",
+        "hangers",
+        "exhaust alignment",
+        "tolerances"
+      ],
+      "dimensions": [
+        1017,
+        414
+      ]
+    },
+    {
+      "section_title": "ENGINE CONTROL, FUEL & EXHAUST SYSTEMS",
+      "source_md": "1978 280z FSM/FE Engine Control fuel and Exhaust.md",
+      "slug": "fig_fe_22_exploded_view_of_exhaust_system_non_california_models",
+      "file": "markdown/1978 280z FSM/diagrams/FE Engine Control fuel and Exhaust/fig_fe_22_exploded_view_of_exhaust_system_non_california_models.png",
+      "rel_link": "diagrams/FE Engine Control fuel and Exhaust/fig_fe_22_exploded_view_of_exhaust_system_non_california_models.png",
+      "page_num": 13,
+      "page_label": "FE-13",
+      "fig_id": "Fig. FE-22",
+      "code": "FE275",
+      "caption": "Fig. FE-22 Exploded view of exhaust system (Non-California models)",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of the Non-California exhaust system showing front tube, pre-muffler, center tube, main muffler, and mounting details A, B, and C.",
+      "components": [
+        "Exhaust front tube",
+        "Pre-muffler",
+        "Center tube",
+        "Main muffler",
+        "Front tube heat shield plates",
+        "Mounting Detail A (muffler rear hanger)",
+        "Mounting Detail B (center hanger)",
+        "Mounting Detail C (transmission extension bracket)"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Non-California models utilize a pre-muffler (resonator) instead of a catalytic converter, and do not use the extensive center tube heat shields.",
+      "tags": [
+        "non-california models",
+        "pre-muffler",
+        "exhaust exploded view",
+        "center tube",
+        "main muffler"
+      ],
+      "dimensions": [
+        953,
+        1401
+      ]
+    },
+    {
+      "section_title": "ENGINE CONTROL, FUEL & EXHAUST SYSTEMS",
+      "source_md": "1978 280z FSM/FE Engine Control fuel and Exhaust.md",
+      "slug": "fig_fe_23_exhaust_system_non_california_models",
+      "file": "markdown/1978 280z FSM/diagrams/FE Engine Control fuel and Exhaust/fig_fe_23_exhaust_system_non_california_models.png",
+      "rel_link": "diagrams/FE Engine Control fuel and Exhaust/fig_fe_23_exhaust_system_non_california_models.png",
+      "page_num": 14,
+      "page_label": "FE-14",
+      "fig_id": "Fig. FE-23",
+      "code": "FE276",
+      "caption": "Fig. FE-23 Exhaust system (Non-California models)",
+      "diagram_type": "alignment_orientation",
+      "description": "Underbody layout, cross-sectional clearance checks (F-F through L-L), and tightening torque details (A through E) for Non-California models.",
+      "components": [
+        "Exhaust front tube",
+        "Pre-muffler",
+        "Center tube",
+        "Main muffler",
+        "Transmission extension mounting bracket",
+        "Propeller shaft",
+        "Front differential mounting member",
+        "Differential case",
+        "Transverse link mounting bracket",
+        "Spare tire housing"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "SEC. F-F: 7 mm (0.28 in) min.",
+        "SEC. G-G: 15 mm (0.59 in) min.",
+        "SEC. H-H: 8 mm (0.31 in) min., 15 mm (0.59 in) min.",
+        "SEC. I-I (propeller shaft to pre-muffler): 40 mm (1.57 in) min.",
+        "SEC. J-J: 10 mm (0.39 in) min.",
+        "SEC. K-K: 10 mm (0.39 in) min., 10 mm (0.39 in) min.",
+        "SEC. L-L: 15 mm (0.59 in) min., 15 mm (0.59 in) min.",
+        "DETAIL A torque: 4.6 to 6.1 kg-m (33 to 44 ft-lb)",
+        "DETAIL B torques: 1.6 to 2.1 kg-m (12 to 15 ft-lb), 1.8 to 2.1 kg-m (13 to 15 ft-lb), 1.1 to 1.2 kg-m (8 to 9 ft-lb), 0.38 to 0.51 kg-m (2.7 to 3.7 ft-lb)",
+        "DETAIL B reference distance: 162.6 mm (6.40 in)",
+        "DETAIL C torque: 3.2 to 4.3 kg-m (23 to 31 ft-lb)",
+        "Pre-muffler to center tube connection torque: 1.1 to 1.2 kg-m (8 to 9 ft-lb)",
+        "DETAIL D torque: 1.1 to 1.2 kg-m (8 to 9 ft-lb)",
+        "DETAIL D reference distance: 140 mm (5.51 in)",
+        "DETAIL E torques: 0.93 to 1.2 kg-m (6.7 to 8.7 ft-lb), 1.1 to 1.2 kg-m (8 to 9 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Note difference in clearance specs compared to California models (e.g. 40 mm propeller shaft clearance, 15 mm spare tire housing and shock absorber clearance). Always replace gaskets and fasteners marked '*'.",
+      "tags": [
+        "non-california models",
+        "exhaust clearances",
+        "tightening torques",
+        "pre-muffler",
+        "cross sections"
+      ],
+      "dimensions": [
+        1023,
+        1541
+      ]
+    }
+  ],
+  "torques": [
+    {
+      "component": "Exhaust manifold to front tube securing nuts (Detail A)",
+      "unit": "kg-m (ft-lb)",
+      "value": "4.6 - 6.1 (33 - 44)",
+      "page_label": "FE-11"
+    },
+    {
+      "component": "Front tube mounting bracket upper clamp bolt/nut (Detail B)",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.6 - 2.1 (12 - 15)",
+      "page_label": "FE-11"
+    },
+    {
+      "component": "Front tube mounting bracket lower clamp bolt/nut (Detail B)",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.8 - 2.1 (13 - 15)",
+      "page_label": "FE-11"
+    },
+    {
+      "component": "Front tube mounting bracket to transmission extension bolt (Detail B)",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.1 - 1.2 (8 - 9)",
+      "page_label": "FE-11"
+    },
+    {
+      "component": "Catalytic converter front flange connecting bolt (Detail C)",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.2 - 4.3 (23 - 31)",
+      "page_label": "FE-11"
+    },
+    {
+      "component": "Catalytic converter rear flange connecting bolt/nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.1 - 1.2 (8 - 9)",
+      "page_label": "FE-11"
+    },
+    {
+      "component": "Center tube mounting securing bolt (Detail D)",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.1 - 1.2 (8 - 9)",
+      "page_label": "FE-11"
+    },
+    {
+      "component": "Center tube mounting bracket securing bolt (Detail D)",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.1 - 1.2 (8 - 9)",
+      "page_label": "FE-11"
+    },
+    {
+      "component": "Main muffler rear mounting upper bolt (Detail E)",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.93 - 1.2 (6.7 - 8.7)",
+      "page_label": "FE-11"
+    },
+    {
+      "component": "Main muffler rear mounting lower bolt (Detail E)",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.1 - 1.2 (8 - 9)",
+      "page_label": "FE-11"
+    },
+    {
+      "component": "Exhaust manifold to front tube securing nuts (Detail A, Non-California)",
+      "unit": "kg-m (ft-lb)",
+      "value": "4.6 - 6.1 (33 - 44)",
+      "page_label": "FE-14"
+    },
+    {
+      "component": "Front tube mounting bracket upper clamp bolt/nut (Detail B, Non-California)",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.6 - 2.1 (12 - 15)",
+      "page_label": "FE-14"
+    },
+    {
+      "component": "Front tube mounting bracket lower clamp bolt/nut (Detail B, Non-California)",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.8 - 2.1 (13 - 15)",
+      "page_label": "FE-14"
+    },
+    {
+      "component": "Front tube mounting bracket to transmission extension bolt (Detail B, Non-California)",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.1 - 1.2 (8 - 9)",
+      "page_label": "FE-14"
+    },
+    {
+      "component": "Front tube mounting bracket lower plate bolt (Detail B, Non-California)",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.38 - 0.51 (2.7 - 3.7)",
+      "page_label": "FE-14"
+    },
+    {
+      "component": "Front tube to pre-muffler flange connecting bolt/nut (Detail C, Non-California)",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.2 - 4.3 (23 - 31)",
+      "page_label": "FE-14"
+    },
+    {
+      "component": "Pre-muffler to center tube connecting bolt/nut (Non-California)",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.1 - 1.2 (8 - 9)",
+      "page_label": "FE-14"
+    },
+    {
+      "component": "Center tube mounting securing bolt (Detail D, Non-California)",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.1 - 1.2 (8 - 9)",
+      "page_label": "FE-14"
+    },
+    {
+      "component": "Main muffler rear mounting upper bolt (Detail E, Non-California)",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.93 - 1.2 (6.7 - 8.7)",
+      "page_label": "FE-14"
+    },
+    {
+      "component": "Main muffler rear mounting lower bolt (Detail E, Non-California)",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.1 - 1.2 (8 - 9)",
+      "page_label": "FE-14"
+    },
+    {
+      "component": "General standard bolts and nuts (unless otherwise indicated)",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.38 - 0.51 (2.7 - 3.7)",
+      "page_label": "FE-15"
+    }
+  ],
+  "specs": [
+    {
+      "system": "Accelerator Control System",
+      "item": "Pedal stopper bolt height 'N' from toe board",
+      "unit": "mm (in)",
+      "standard": "22.5 (0.886)",
+      "limit": "",
+      "page_label": "FE-3"
+    },
+    {
+      "system": "Accelerator Control System",
+      "item": "Joint rod running through dashboard length 'L'",
+      "unit": "mm (in)",
+      "standard": "117 (4.61)",
+      "limit": "",
+      "page_label": "FE-3"
+    },
+    {
+      "system": "Accelerator Control System",
+      "item": "Joint rod (6) length",
+      "unit": "mm (in)",
+      "standard": "123 (4.84)",
+      "limit": "",
+      "page_label": "FE-3"
+    },
+    {
+      "system": "Accelerator Control System",
+      "item": "Accelerator pedal height",
+      "unit": "mm (in)",
+      "standard": "194.5 (7.66)",
+      "limit": "",
+      "page_label": "FE-3"
+    },
+    {
+      "system": "Fuel System",
+      "item": "Fuel warning thermistor activation fuel level",
+      "unit": "liters (U.S. qt, Imp qt)",
+      "standard": "below 10 (10-5/8, 8-3/4)",
+      "limit": "",
+      "page_label": "FE-4"
+    },
+    {
+      "system": "Fuel System",
+      "item": "Fuel tank gauge unit resistance between terminals 1 and 2",
+      "unit": "\u03a9",
+      "standard": "10 - 80",
+      "limit": "",
+      "page_label": "FE-6"
+    },
+    {
+      "system": "Exhaust System (California)",
+      "item": "Muffler heat shield plate-to-muffler clearance (fore-and-aft)",
+      "unit": "mm (in)",
+      "standard": "3 (0.12)",
+      "limit": "",
+      "page_label": "FE-7"
+    },
+    {
+      "system": "Exhaust System (California)",
+      "item": "Muffler front mounting securing bolt center to muffler front outer face distance",
+      "unit": "mm (in)",
+      "standard": "38 (1.50)",
+      "limit": "",
+      "page_label": "FE-7"
+    },
+    {
+      "system": "Exhaust System (California)",
+      "item": "Muffler heat shield plate front outer face to mounting rubber rear end face distance",
+      "unit": "mm (in)",
+      "standard": "17 (0.67)",
+      "limit": "",
+      "page_label": "FE-7"
+    },
+    {
+      "system": "Exhaust System (California)",
+      "item": "Exhaust front tube rear face to rear end of heat shield plate distance",
+      "unit": "mm (in)",
+      "standard": "108 (4.25)",
+      "limit": "",
+      "page_label": "FE-8"
+    },
+    {
+      "system": "Exhaust System (California)",
+      "item": "Exhaust front tube to compression rod rubber heat shield plate clearance (SEC. F-F)",
+      "unit": "mm (in)",
+      "standard": "7 (0.28) min.",
+      "limit": "",
+      "page_label": "FE-10"
+    },
+    {
+      "system": "Exhaust System (California)",
+      "item": "Exhaust front tube heat shield plate to transmission lower face/body floor clearance (SEC. G-G)",
+      "unit": "mm (in)",
+      "standard": "15 (0.59) min.",
+      "limit": "",
+      "page_label": "FE-10"
+    },
+    {
+      "system": "Exhaust System (California)",
+      "item": "Exhaust front tube heat shield plate to rear engine mounting lower face clearance (SEC. H-H)",
+      "unit": "mm (in)",
+      "standard": "8 (0.31) min.",
+      "limit": "",
+      "page_label": "FE-10"
+    },
+    {
+      "system": "Exhaust System (California)",
+      "item": "Floor heat shield plate to catalytic converter heat shield plate clearance (SEC. I-I)",
+      "unit": "mm (in)",
+      "standard": "18 (0.71) min.",
+      "limit": "",
+      "page_label": "FE-10"
+    },
+    {
+      "system": "Exhaust System (California)",
+      "item": "Side member lower face to catalytic converter lower face flatness (SEC. I-I)",
+      "unit": "mm (in)",
+      "standard": "-5 to +5 (-0.20 to +0.20)",
+      "limit": "",
+      "page_label": "FE-10"
+    },
+    {
+      "system": "Exhaust System (California)",
+      "item": "Front differential mounting member to exhaust center tube clearance (SEC. J-J)",
+      "unit": "mm (in)",
+      "standard": "10 (0.39) min.",
+      "limit": "",
+      "page_label": "FE-10"
+    },
+    {
+      "system": "Exhaust System (California)",
+      "item": "Exhaust center tube heat shield plate to differential case lower face clearance (SEC. K-K)",
+      "unit": "mm (in)",
+      "standard": "17 (0.67) min.",
+      "limit": "",
+      "page_label": "FE-10"
+    },
+    {
+      "system": "Exhaust System (California)",
+      "item": "Transverse link mounting bracket to exhaust center tube heat shield plate clearance (SEC. K-K)",
+      "unit": "mm (in)",
+      "standard": "10 (0.39) min.",
+      "limit": "",
+      "page_label": "FE-10"
+    },
+    {
+      "system": "Exhaust System (California)",
+      "item": "Spare tire housing heat shield plate to main muffler heat shield plate clearance (SEC. L-L)",
+      "unit": "mm (in)",
+      "standard": "10 (0.39) min.",
+      "limit": "",
+      "page_label": "FE-10"
+    },
+    {
+      "system": "Exhaust System (California)",
+      "item": "Shock absorber heat shield plate to main muffler heat shield plate clearance (SEC. L-L)",
+      "unit": "mm (in)",
+      "standard": "8 (0.31) min.",
+      "limit": "",
+      "page_label": "FE-10"
+    },
+    {
+      "system": "Exhaust System (California)",
+      "item": "Front tube mounting bracket reference value (Detail B)",
+      "unit": "mm (in)",
+      "standard": "135 (5.31)",
+      "limit": "",
+      "page_label": "FE-11"
+    },
+    {
+      "system": "Exhaust System (California)",
+      "item": "Center tube mounting reference value (Detail D)",
+      "unit": "mm (in)",
+      "standard": "136 (5.35)",
+      "limit": "",
+      "page_label": "FE-11"
+    },
+    {
+      "system": "Exhaust System (California)",
+      "item": "Main muffler rear mounting clearance (Detail E)",
+      "unit": "mm (in)",
+      "standard": "3 (0.12)",
+      "limit": "",
+      "page_label": "FE-11"
+    },
+    {
+      "system": "Exhaust System",
+      "item": "Mounting rubbers fore-and-aft direction play/limit",
+      "unit": "mm (in)",
+      "standard": "2 to 10 (0.08 to 0.39)",
+      "limit": "",
+      "page_label": "FE-12"
+    },
+    {
+      "system": "Exhaust System",
+      "item": "Mounting rubbers lateral direction play/limit",
+      "unit": "mm (in)",
+      "standard": "-3 to 3 (-0.12 to 0.12)",
+      "limit": "",
+      "page_label": "FE-12"
+    },
+    {
+      "system": "Exhaust System (Non-California)",
+      "item": "Exhaust front tube to compression rod rubber heat shield plate clearance (SEC. F-F)",
+      "unit": "mm (in)",
+      "standard": "7 (0.28) min.",
+      "limit": "",
+      "page_label": "FE-12"
+    },
+    {
+      "system": "Exhaust System (Non-California)",
+      "item": "Exhaust front tube heat shield plate to transmission lower face/body floor clearance (SEC. G-G)",
+      "unit": "mm (in)",
+      "standard": "15 (0.59) min.",
+      "limit": "",
+      "page_label": "FE-12"
+    },
+    {
+      "system": "Exhaust System (Non-California)",
+      "item": "Exhaust front tube heat shield plate to rear engine mounting member lower face clearance (SEC. H-H)",
+      "unit": "mm (in)",
+      "standard": "8 (0.31) min.",
+      "limit": "",
+      "page_label": "FE-12"
+    },
+    {
+      "system": "Exhaust System (Non-California)",
+      "item": "Propeller shaft to pre-muffler clearance (SEC. I-I)",
+      "unit": "mm (in)",
+      "standard": "40 (1.57) min.",
+      "limit": "",
+      "page_label": "FE-12"
+    },
+    {
+      "system": "Exhaust System (Non-California)",
+      "item": "Front differential mounting member to exhaust center tube clearance (SEC. J-J)",
+      "unit": "mm (in)",
+      "standard": "10 (0.39) min.",
+      "limit": "",
+      "page_label": "FE-12"
+    },
+    {
+      "system": "Exhaust System (Non-California)",
+      "item": "Exhaust center tube to differential case clearance (SEC. K-K)",
+      "unit": "mm (in)",
+      "standard": "10 (0.39) min.",
+      "limit": "",
+      "page_label": "FE-12"
+    },
+    {
+      "system": "Exhaust System (Non-California)",
+      "item": "Exhaust center tube to transverse link mounting bracket clearance (SEC. K-K)",
+      "unit": "mm (in)",
+      "standard": "10 (0.39) min.",
+      "limit": "",
+      "page_label": "FE-12"
+    },
+    {
+      "system": "Exhaust System (Non-California)",
+      "item": "Spare tire housing heat shield plate to main muffler clearance (SEC. L-L)",
+      "unit": "mm (in)",
+      "standard": "15 (0.59) min.",
+      "limit": "",
+      "page_label": "FE-12"
+    },
+    {
+      "system": "Exhaust System (Non-California)",
+      "item": "Shock absorber heat shield plate to main muffler clearance (SEC. L-L)",
+      "unit": "mm (in)",
+      "standard": "15 (0.59) min.",
+      "limit": "",
+      "page_label": "FE-12"
+    },
+    {
+      "system": "Exhaust System (Non-California)",
+      "item": "Front tube mounting bracket reference value (Detail B)",
+      "unit": "mm (in)",
+      "standard": "162.6 (6.40)",
+      "limit": "",
+      "page_label": "FE-14"
+    },
+    {
+      "system": "Exhaust System (Non-California)",
+      "item": "Center tube mounting reference value (Detail D)",
+      "unit": "mm (in)",
+      "standard": "140 (5.51)",
+      "limit": "",
+      "page_label": "FE-14"
+    }
+  ],
+  "troubleshooting": [],
+  "special_tools": []
+}

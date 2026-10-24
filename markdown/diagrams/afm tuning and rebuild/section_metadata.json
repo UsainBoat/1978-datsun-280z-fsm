@@ -1,0 +1,550 @@
+{
+  "section_title": "AFM TUNING AND REBUILD GUIDE (1975-1978 280Z)",
+  "source_pdf": "afm tuning and rebuild.html",
+  "md_path": "afm tuning and rebuild.md",
+  "pages_count": 1,
+  "diagrams": [
+    {
+      "section_title": "AFM TUNING AND REBUILD GUIDE (1975-1978 280Z)",
+      "source_md": "afm tuning and rebuild.md",
+      "slug": "fig_afm_internal_construction_cutaway",
+      "file": "markdown/diagrams/afm tuning and rebuild/fig_afm_internal_construction_cutaway.png",
+      "rel_link": "diagrams/afm tuning and rebuild/fig_afm_internal_construction_cutaway.png",
+      "page_num": 1,
+      "page_label": "AFM-1",
+      "fig_id": "Fig. AFM-1",
+      "code": "afm[1].gif",
+      "caption": "Cutaway schematic of Bosch L-Jetronic Air Flow Meter (AFM) showing internal air bypass, damper chamber, flap, helical spring, and potentiometer housing",
+      "diagram_type": "cutaway_flow",
+      "description": "Schematic isometric cutaway diagram illustrating the complete internal air path and electro-mechanical mechanisms of the 280Z AFM. Incoming air from the air cleaner pushes against the pivoted measuring flap, which is counter-balanced by a damper plate moving within a closed damper chamber. An idle air bypass passage runs underneath the main measuring bore, regulated by an adjustable idle bypass needle screw. The intake air temperature sensor probe extends directly into the incoming airstream. The flap pivot shaft connects to the external electrical housing containing the helical return spring and potentiometer.",
+      "components": [
+        "Measuring flap",
+        "Helical return spring",
+        "Damper chamber",
+        "Damper plate (counterweight vane)",
+        "Main air passage",
+        "By-pass port",
+        "Air by-pass screw",
+        "Air temperature sensor (thermistor)",
+        "Potentiometer assembly",
+        "Cast aluminum case",
+        "To intake manifold duct",
+        "From air cleaner duct",
+        "EFI harness connector"
+      ],
+      "callouts": {
+        "Helical spring": "Helical return spring controlling flap resistance",
+        "Case": "Cast aluminum main housing",
+        "Damper chamber": "Sealed chamber damping intake air pulses",
+        "Damper plate": "Vane counteracting intake air pulsations",
+        "Flap": "Main airflow measuring flap",
+        "From air cleaner": "Air inlet from air filter",
+        "By-pass port": "Idle air bypass channel beneath main air passage",
+        "Air by-pass screw": "Idle air bypass adjustment screw",
+        "To intake manifold": "Air outlet to throttle body and intake manifold",
+        "Air temperature sensor": "Intake air temperature thermistor probe",
+        "Potentiometer": "Potentiometer resistive board and wiper assembly",
+        "To EFI harness": "Electrical connector socket to engine wiring harness"
+      },
+      "measurements_and_specs": [
+        "Air-fuel ratio nominal target: 12:1 to 15:1",
+        "Air temperature sensor enrichment threshold: \u2264 20\u00b0C (70\u00b0F)"
+      ],
+      "wiring_and_connections": [
+        "To EFI harness connector (7-pin terminal block)"
+      ],
+      "mechanic_notes": "Bypass channel allows idle airflow to bypass the measuring flap. If the bypass screw is closed completely, backfire ('front fire') shock waves cannot vent through the passage and will bend or destroy the measuring flap.",
+      "tags": [
+        "AFM",
+        "air flow meter",
+        "cutaway",
+        "damper chamber",
+        "bypass screw",
+        "flap",
+        "potentiometer",
+        "intake air temperature sensor",
+        "Bosch L-Jetronic"
+      ],
+      "dimensions": [
+        250,
+        202
+      ]
+    },
+    {
+      "section_title": "AFM TUNING AND REBUILD GUIDE (1975-1978 280Z)",
+      "source_md": "afm tuning and rebuild.md",
+      "slug": "chart_afr_vs_o2_sensor_voltage",
+      "file": "markdown/diagrams/afm tuning and rebuild/chart_afr_vs_o2_sensor_voltage.png",
+      "rel_link": "diagrams/afm tuning and rebuild/chart_afr_vs_o2_sensor_voltage.png",
+      "page_num": 1,
+      "page_label": "AFM-1",
+      "fig_id": "Fig. AFM-2",
+      "code": "hal1.jpg",
+      "caption": "Characteristic curve of Air-Fuel Ratio (AFR) vs. Zirconia Oxygen Sensor output voltage showing steep transition at stoichiometric (14.7:1)",
+      "diagram_type": "graph_chart",
+      "description": "Graph plotting narrow-band zirconia O2 sensor output voltage (0 to 1.0 V) as a function of air-fuel ratio (11:1 to 18:1). Rich mixtures (12:1 - 14.5:1) produce a high sensor output of 0.90 - 0.95 V. At the stoichiometric ratio (~14.7:1), the voltage drops sharply from 0.9 V to ~0.15 V. Lean mixtures (15:1 - 18:1) produce a low output of 0.12 - 0.15 V.",
+      "components": [
+        "Sensor Output Voltage (Y-axis, 0 - 1.0 V)",
+        "Air-Fuel Ratio (X-axis, 11:1 - 18:1)",
+        "Stoichiometric transition cliff (14.7:1)",
+        "Rich zone (12 - 14.5:1)",
+        "Lean zone (15 - 18:1)"
+      ],
+      "callouts": {
+        "Sensor Output Voltage": "Y-axis spanning 0.0 to 1.0 Volts",
+        "Air-Fuel Ratio": "X-axis spanning 11:1 to 18:1 AFR",
+        "Rich Mixture Region": "12:1 to 14.5:1 AFR corresponds to 0.90 - 0.95 V",
+        "Stoichiometric Transition": "Steep voltage cliff at ~14.7:1 AFR",
+        "Lean Mixture Region": "15:1 to 18:1 AFR corresponds to 0.12 - 0.15 V"
+      },
+      "measurements_and_specs": [
+        "Nominal rich voltage: ~0.9 V (AFR 12:1 - 14.5:1)",
+        "Stoichiometric switch: 14.7:1 AFR",
+        "Nominal lean voltage: ~0.15 V (AFR 15:1 - 18:1)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Narrow-band O2 sensors exhibit extreme sensitivity right at 14.7:1 AFR but provide little resolution deep in rich or lean zones. Tuning the AFM without a wideband AFR meter relies on spark plug color reading, fingering responsiveness, and fuel economy measurement.",
+      "tags": [
+        "O2 sensor",
+        "air fuel ratio",
+        "AFR",
+        "voltage curve",
+        "stoichiometric",
+        "rich mixture",
+        "lean mixture"
+      ],
+      "dimensions": [
+        500,
+        428
+      ]
+    },
+    {
+      "section_title": "AFM TUNING AND REBUILD GUIDE (1975-1978 280Z)",
+      "source_md": "afm tuning and rebuild.md",
+      "slug": "fig_afm_internal_features_picture_1",
+      "file": "markdown/diagrams/afm tuning and rebuild/fig_afm_internal_features_picture_1.png",
+      "rel_link": "diagrams/afm tuning and rebuild/fig_afm_internal_features_picture_1.png",
+      "page_num": 1,
+      "page_label": "AFM-1",
+      "fig_id": "Fig. AFM-3",
+      "code": "afm1.jpg",
+      "caption": "Picture 1: AFM mechanical chamber showing locking screw for black wheel, factory glue blob, reference mark, counterweight, return-to-zero shock absorber, and fuel pump shut-off switch",
+      "diagram_type": "component_location",
+      "description": "Top view of the AFM mechanical and electrical compartment with black plastic dust cover removed. Shows the black notched adjustment wheel under tension of the clock spring, the upper-left locking screw with clamp washer, the factory glue blob, user-scribed reference marks on the gear teeth and aluminum casting, the cast zinc counterweight, the return-to-zero spring steel shock absorber, the fuel pump safety shut-off switch contacts, and the internal idle flow bypass adjuster passage.",
+      "components": [
+        "Black toothed adjustment wheel",
+        "Locking screw with clamp tab for black wheel",
+        "Coil spring (clock spring)",
+        "Zinc counterweight",
+        "Return to zero shock absorber spring",
+        "Fuel pump shut-off switch leaf contacts",
+        "Factory glue blob",
+        "Scribed reference mark",
+        "Idle 'flow' adjuster bore",
+        "Wiring leads to connector pins"
+      ],
+      "callouts": {
+        "Locking Screw for Black Wheel": "Upper left screw securing the toothed black spring tension wheel",
+        "Reference Mark": "Red paint / scribe line marking original factory tooth position against casting",
+        "Glue Blob": "Original factory silicone / glue seal locking black wheel; broken blob indicates prior tampering",
+        "Return to Zero shock absorber": "Curved spring steel strip absorbing rotational inertia when flap snaps shut",
+        "Fuel Pump Shut Off Switch": "Dual contact leaf switch actuated by wiper arm to cut fuel pump when engine stalls",
+        "Idle \"flow\" adjuster": "Access port for internal idle bypass needle valve"
+      },
+      "measurements_and_specs": [
+        "Return-to-zero shock absorber clearance: contacts ~5 mm (1/2 cm) before physical stop",
+        "Pin 36-39 fuel pump switch: Flap closed = infinite \u03a9 (open), Flap cracked = 0 \u03a9 (closed)"
+      ],
+      "wiring_and_connections": [
+        "Black wire leads from fuel pump safety switch to connector terminals (Pins 36 and 39)"
+      ],
+      "mechanic_notes": "WARNING: The black toothed wheel is under spring tension! Loosening the locking screw without holding firm finger pressure on the wheel will cause it to violently recoil ('sprong') and lose all factory calibration. ALWAYS scribe a reference mark on the tooth and case before loosening!",
+      "tags": [
+        "AFM",
+        "Picture 1",
+        "black wheel",
+        "locking screw",
+        "counterweight",
+        "shock absorber",
+        "fuel pump switch",
+        "glue blob",
+        "reference mark"
+      ],
+      "dimensions": [
+        1024,
+        768
+      ]
+    },
+    {
+      "section_title": "AFM TUNING AND REBUILD GUIDE (1975-1978 280Z)",
+      "source_md": "afm tuning and rebuild.md",
+      "slug": "fig_afm_wiper_and_carbon_trace_picture_2",
+      "file": "markdown/diagrams/afm tuning and rebuild/fig_afm_wiper_and_carbon_trace_picture_2.png",
+      "rel_link": "diagrams/afm tuning and rebuild/fig_afm_wiper_and_carbon_trace_picture_2.png",
+      "page_num": 1,
+      "page_label": "AFM-1",
+      "fig_id": "Fig. AFM-4",
+      "code": "afm2.jpg",
+      "caption": "Picture 2: AFM potentiometer board, wiper contacts, second glue blob locking screw, and carbon resistance trace",
+      "diagram_type": "component_location",
+      "description": "Detailed close-up of the ceramic potentiometer printed circuit board, dual-finger beryllium copper wiper arm, center pivot locking screw with glue blob #2, fuel pump switch actuator arm (silver nail-like pin), and curved carbon resistor trace. The wiper picks up an analog voltage signal ranging from approximately 2V (idle/closed) to 7V (wide-open throttle) and routes it to the ECU.",
+      "components": [
+        "Ceramic potentiometer circuit board",
+        "Dual beryllium copper wiper contacts",
+        "Curved carbon resistance trace",
+        "Wiper center pivot locking screw",
+        "Glue blob #2",
+        "Silver nail-like actuator pin for fuel switch",
+        "Gold-plated PCB terminal pads",
+        "Return-to-zero shock absorber leaf",
+        "Lead wires with spade push-on terminals"
+      ],
+      "callouts": {
+        "Potentiometer Carbon Trace": "Curved resistive carbon track dividing voltage from ~2.0V to 7.0V",
+        "Wiper Contact": "Dual flexible copper wiper fingers sweeping along the carbon track",
+        "Glue Blob": "Glue blob #2 securing the center wiper pivot locking screw (adjusts 0V rest position and fuel pump switch arm)"
+      },
+      "measurements_and_specs": [
+        "Potentiometer total resistance (Pins 8 & 6): ~180 \u03a9",
+        "Reference resistor (Pins 8 & 9): 100 \u03a9",
+        "Wiper sweep voltage range: ~2.0 V to ~7.0 V",
+        "Wiper rest limit: Stops 2 to 4 mm before the end of the carbon trace (must not fall off trace)"
+      ],
+      "wiring_and_connections": [
+        "Pin 6: Low side of potentiometer",
+        "Pin 7: Wiper pickup arm",
+        "Pin 8: High side of potentiometer",
+        "Pin 9: Reference/control resistor",
+        "Spade terminals connected to internal base pins"
+      ],
+      "mechanic_notes": "Ensure the wiper does not overshoot the clockwise end of the carbon trace when the flap is closed; it must stop 2-4 mm before the edge. If the wiper shoots off the trace, it registers an open circuit (infinite resistance) and causes severe lean stumble or engine stall. Loosen the center pivot screw to recalibrate wiper rest position.",
+      "tags": [
+        "AFM",
+        "Picture 2",
+        "potentiometer",
+        "carbon trace",
+        "wiper contact",
+        "resistance",
+        "pins 6 7 8 9",
+        "DeoxIT"
+      ],
+      "dimensions": [
+        1024,
+        768
+      ]
+    },
+    {
+      "section_title": "AFM TUNING AND REBUILD GUIDE (1975-1978 280Z)",
+      "source_md": "afm tuning and rebuild.md",
+      "slug": "fig_afm_fingering_and_mixture_direction_picture_3",
+      "file": "markdown/diagrams/afm tuning and rebuild/fig_afm_fingering_and_mixture_direction_picture_3.png",
+      "rel_link": "diagrams/afm tuning and rebuild/fig_afm_fingering_and_mixture_direction_picture_3.png",
+      "page_num": 1,
+      "page_label": "AFM-1",
+      "fig_id": "Fig. AFM-5",
+      "code": "afm3.jpg",
+      "caption": "Picture 3: Fingering check technique demonstrating manual deflection of the wiper counterweight towards 'More Fuel' (CCW) and 'Less Fuel' (CW)",
+      "diagram_type": "procedure_step",
+      "description": "Illustration of the live engine 'fingering' diagnostic check. With the AFM cover removed and engine running, a finger gently rotates the counterweight/wiper assembly clockwise (CW, toward 'Less Fuel' / lean) or counter-clockwise (CCW, toward 'More Fuel' / rich). Listening to engine RPM and smoothness at idle and at 3,000 RPM reveals whether the engine is starved for fuel (lean) or drowning in fuel (rich) before altering the black gear setting.",
+      "components": [
+        "Technician finger applying manual deflection",
+        "Counterweight and wiper carrier",
+        "Direction arrow: More Fuel (CCW)",
+        "Direction arrow: Less Fuel (CW)",
+        "Black toothed adjustment wheel",
+        "Clock spring",
+        "Circuit board and wiper arm"
+      ],
+      "callouts": {
+        "More Fuel": "Counter-clockwise (CCW) rotation opens flap further, increasing output voltage and enriching mixture",
+        "Less Fuel": "Clockwise (CW) rotation moves flap towards closed position, lowering output voltage and leaning mixture"
+      },
+      "measurements_and_specs": [
+        "Idle wiper displacement: ~10 mm (1 cm) from rest",
+        "Stock calibrated AFM optimal fingering deflection: ~4 mm to rich (CCW) for maximum RPM",
+        "Test RPM levels: Idle (~750-800 RPM) and steady 3,000 RPM",
+        "Adjustment step increment: ~4 teeth per adjustment"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Always verify ignition timing, mechanical cam timing, valve lash, vacuum leaks, and EFI coolant temperature sensor integrity BEFORE modifying AFM spring tension. False lean symptoms caused by vacuum leaks or over-advanced timing will lead to improper over-enrichment of the AFM.",
+      "tags": [
+        "AFM",
+        "Picture 3",
+        "fingering",
+        "more fuel",
+        "less fuel",
+        "tuning",
+        "CCW rich",
+        "CW lean",
+        "mixture adjustment"
+      ],
+      "dimensions": [
+        1024,
+        768
+      ]
+    },
+    {
+      "section_title": "AFM TUNING AND REBUILD GUIDE (1975-1978 280Z)",
+      "source_md": "afm tuning and rebuild.md",
+      "slug": "fig_afm_idle_bypass_adjustment_screw",
+      "file": "markdown/diagrams/afm tuning and rebuild/fig_afm_idle_bypass_adjustment_screw.png",
+      "rel_link": "diagrams/afm tuning and rebuild/fig_afm_idle_bypass_adjustment_screw.png",
+      "page_num": 1,
+      "page_label": "AFM-1",
+      "fig_id": "Fig. AFM-6",
+      "code": "idleadjust.jpg",
+      "caption": "AFM idle air bypass adjustment screw removed from housing, showing adjustment slot, O-ring seal, and bypass port",
+      "diagram_type": "component_location",
+      "description": "View of the complete AFM cast aluminum body with the idle air bypass adjustment screw backed out of its threaded bore in the casting (highlighted with yellow circle). The screw features a slotted drive head, threaded shank, and rubber O-ring seal. Turning this screw CW restricts unmetered bypass airflow beneath the flap, enriching idle mixture; turning CCW increases bypass airflow, leaning idle mixture.",
+      "components": [
+        "Idle air bypass needle screw",
+        "Rubber sealing O-ring",
+        "Threaded bypass adjustment bore in AFM body",
+        "7-pin electrical harness receptacle",
+        "Main air measuring duct (outlet side)",
+        "Mechanical / electrical upper housing casting"
+      ],
+      "callouts": {
+        "Yellow circle": "Slotted idle air bypass needle adjustment screw and threaded passage bore"
+      },
+      "measurements_and_specs": [
+        "Turn Clockwise (CW): Restricts bypass passage -> Forces more air past flap -> Enriches idle mixture",
+        "Turn Counter-Clockwise (CCW): Opens bypass passage -> Bypasses more air around flap -> Leans idle mixture"
+      ],
+      "wiring_and_connections": [
+        "7-pin female electrical socket integrated into side casting"
+      ],
+      "mechanic_notes": "CAUTION: Do not bottom out or completely seal the idle bypass screw. When an intake backfire ('front fire') occurs due to lean mixture, explosive pressure waves vent harmlessly through the bypass passage. If the screw is closed shut, the pressure wave has nowhere to go and will bend or fracture the delicate aluminum measuring flap.",
+      "tags": [
+        "AFM",
+        "idle adjust",
+        "bypass screw",
+        "idle mixture",
+        "O-ring",
+        "front fire protection",
+        "idle air bleed"
+      ],
+      "dimensions": [
+        640,
+        490
+      ]
+    }
+  ],
+  "torques": [
+    {
+      "component": "AFM mounting bracket / chassis securing bolts (4 bolts)",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.5 - 0.8 (3.6 - 5.8)",
+      "page_label": "AFM-1"
+    },
+    {
+      "component": "AFM rubber duct hose clamp screws (inlet duct and outlet boot)",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.15 - 0.25 (1.1 - 1.8)",
+      "page_label": "AFM-1"
+    }
+  ],
+  "specs": [
+    {
+      "system": "Air Flow Meter (AFM)",
+      "item": "Fuel Pump Shut-Off Switch Resistance (Flap Closed)",
+      "unit": "\u03a9",
+      "standard": "\u221e (Infinite / Open Circuit)",
+      "limit": "Open",
+      "page_label": "AFM-1"
+    },
+    {
+      "system": "Air Flow Meter (AFM)",
+      "item": "Fuel Pump Shut-Off Switch Resistance (Flap Cracked Open)",
+      "unit": "\u03a9",
+      "standard": "0",
+      "limit": "0",
+      "page_label": "AFM-1"
+    },
+    {
+      "system": "Air Flow Meter (AFM)",
+      "item": "Potentiometer Total Track Resistance (Pins 8 & 6)",
+      "unit": "\u03a9",
+      "standard": "~180",
+      "limit": "160 - 200",
+      "page_label": "AFM-1"
+    },
+    {
+      "system": "Air Flow Meter (AFM)",
+      "item": "Reference / Control Resistor (Pins 8 & 9)",
+      "unit": "\u03a9",
+      "standard": "100",
+      "limit": "95 - 105",
+      "page_label": "AFM-1"
+    },
+    {
+      "system": "Air Flow Meter (AFM)",
+      "item": "Potentiometer Wiper Output Resistance (Pins 7 & 8)",
+      "unit": "\u03a9",
+      "standard": "Continuously variable as flap sweeps",
+      "limit": "Smooth transition, no open circuits",
+      "page_label": "AFM-1"
+    },
+    {
+      "system": "Air Flow Meter (AFM)",
+      "item": "Potentiometer Wiper Output Resistance (Pins 6 & 7)",
+      "unit": "\u03a9",
+      "standard": "Continuously variable as flap sweeps",
+      "limit": "Smooth transition, no open circuits",
+      "page_label": "AFM-1"
+    },
+    {
+      "system": "Air Flow Meter (AFM)",
+      "item": "Intake Air Temperature Sensor Resistance at 20\u00b0C (68\u00b0F)",
+      "unit": "\u03a9",
+      "standard": "2,500 \u00b1 250",
+      "limit": "2,250 - 2,750",
+      "page_label": "AFM-1"
+    },
+    {
+      "system": "Air Flow Meter (AFM)",
+      "item": "Intake Air Temperature ECU Fuel Enrichment Threshold",
+      "unit": "\u00b0C (\u00b0F)",
+      "standard": "\u2264 20\u00b0C (70\u00b0F)",
+      "limit": "Enrichment active only below 20\u00b0C",
+      "page_label": "AFM-1"
+    },
+    {
+      "system": "Air Flow Meter (AFM)",
+      "item": "Potentiometer Signal Voltage to ECU",
+      "unit": "V",
+      "standard": "~2.0 (Idle) to ~7.0 (WOT)",
+      "limit": "2.0 - 7.0",
+      "page_label": "AFM-1"
+    },
+    {
+      "system": "Air Flow Meter (AFM)",
+      "item": "Potentiometer Wiper Rest Margin from Track End",
+      "unit": "mm",
+      "standard": "2.0 - 4.0 mm before CW track edge",
+      "limit": "Must never run off carbon trace",
+      "page_label": "AFM-1"
+    },
+    {
+      "system": "Air Flow Meter (AFM)",
+      "item": "Return-to-Zero Shock Absorber Contact Clearance",
+      "unit": "mm",
+      "standard": "Contacts ~5 mm before mechanical stop",
+      "limit": "Must cushion flap before stop contact",
+      "page_label": "AFM-1"
+    },
+    {
+      "system": "Engine Fuel Mixture",
+      "item": "Target Air-Fuel Ratio (AFR)",
+      "unit": "ratio",
+      "standard": "12:1 to 15:1 (Stoichiometric: 14.7:1)",
+      "limit": "12.0:1 - 15.0:1",
+      "page_label": "AFM-1"
+    },
+    {
+      "system": "Air Flow Meter (AFM)",
+      "item": "Tuning Adjustment Increment",
+      "unit": "teeth",
+      "standard": "~4 teeth per step (CW = Lean, CCW = Rich)",
+      "limit": "Close to factory reference mark",
+      "page_label": "AFM-1"
+    },
+    {
+      "system": "Air Flow Meter (AFM)",
+      "item": "Economy Setting Offset from Maximum Power",
+      "unit": "teeth",
+      "standard": "4 to 6 teeth CW (Leaner)",
+      "limit": "~2.5 - 3 teeth leaner than optimum power",
+      "page_label": "AFM-1"
+    },
+    {
+      "system": "Fuel Economy",
+      "item": "Fuel Mileage (Highway / Mixed Driving)",
+      "unit": "MPG (US)",
+      "standard": "23 - 26 (Lean / Factory setting) vs 19 (Rich / Power setting)",
+      "limit": "23 - 26",
+      "page_label": "AFM-1"
+    }
+  ],
+  "troubleshooting": [
+    {
+      "symptom": "Engine runs excessively rich (black exhaust smoke, carbon-fouled plugs, sooty tailpipe, exhaust backfiring, poor fuel economy)",
+      "probable_cause": "AFM black wheel adjusted too loose (under-tensioned); measuring flap sticking open; leaking cold start valve; CHT/coolant temperature sensor disconnected or corroded; stuck thermotime switch; fuel pressure excessive; wiper shorted",
+      "corrective_action": "Check and clean spark plugs; inspect CHT/water temp sensor harness for corrosion; test cold start valve; rotate AFM black wheel Clockwise (CW) in ~4-tooth increments to increase spring tension; verify flap pivots freely",
+      "page_label": "AFM-1"
+    },
+    {
+      "symptom": "Engine runs dangerously lean (intake backfire/'front fire', severe hesitation on acceleration, white spark plug insulators with melted electrode erosion, high engine temperatures)",
+      "probable_cause": "AFM black wheel adjusted too tight (over-tensioned); unmetered vacuum leak (cracked intake boot, split vacuum hoses, valve cover or manifold gasket leak); fuel pressure too low; clogged injectors; idle bypass screw opened too far",
+      "corrective_action": "Perform smoke/vacuum leak inspection; test fuel pump delivery pressure; perform live 'fingering' check (deflect wiper CCW to test enrichment); rotate black wheel Counter-Clockwise (CCW) in ~4-tooth increments to reduce tension; readjust idle bypass screw",
+      "page_label": "AFM-1"
+    },
+    {
+      "symptom": "Engine starts on cranking but stalls immediately when ignition key is released to ON",
+      "probable_cause": "AFM fuel pump safety shut-off switch contacts dirty, oxidized, or out of adjustment (Pins 36 and 39 failing to make contact when flap opens); fuel switch actuator pin misaligned",
+      "corrective_action": "Measure resistance across Pins 36 and 39 while deflecting flap (must drop from \u221e to 0 \u03a9 immediately as flap opens); clean switch contacts with Caig DeoxIT; adjust silver actuator arm if required",
+      "page_label": "AFM-1"
+    },
+    {
+      "symptom": "Flat spot, stumble, or dead hesitation during throttle tip-in or mid-range acceleration",
+      "probable_cause": "Potentiometer wiper arm resting off the clockwise end of the carbon track (registering open circuit at idle); carbon trace worn, scratched, or contaminated with oil/carbon film; wiper finger tension weak",
+      "corrective_action": "Clean ceramic carbon trace and wiper fingers with DeoxIT; ensure wiper rests 2-4 mm before end of track when flap is closed; loosen center pivot locking screw to recalibrate wiper sweep if resting off track",
+      "page_label": "AFM-1"
+    },
+    {
+      "symptom": "Black wheel recoils violently ('sprong') and loses all spring preload",
+      "probable_cause": "Locking screw loosened or removed without maintaining firm finger counter-pressure on the black toothed gear wheel",
+      "corrective_action": "Re-engage clock spring; realign to previously scribed reference marks or factory glue residue (~2.5-3 teeth lean of power setting); perform live engine fingering test at idle and 3,000 RPM to recalibrate base tension",
+      "page_label": "AFM-1"
+    },
+    {
+      "symptom": "Measuring flap bent, binding, or destroyed after intake backfire ('front fire')",
+      "probable_cause": "Idle air bypass screw was turned fully CW (bottomed out), sealing the secondary passage and eliminating the pressure relief corridor for intake backfire shock waves",
+      "corrective_action": "Replace or carefully straighten measuring flap; verify flap swings without rubbing or binding throughout complete arc; back out idle air bypass screw to restore pressure relief corridor",
+      "page_label": "AFM-1"
+    },
+    {
+      "symptom": "False lean condition incorrectly compensated by over-enriching the AFM",
+      "probable_cause": "Over-advanced ignition timing; unmetered air leaks in intake boots, PCV, or valve cover gasket bypassing the AFM flap",
+      "corrective_action": "Check and set base ignition timing to factory specification on under-hood label; repair all vacuum and intake duct leaks before modifying AFM spring tension",
+      "page_label": "AFM-1"
+    }
+  ],
+  "special_tools": [
+    {
+      "tool_number": "DMM-01",
+      "tool_name": "Digital Multimeter (DMM) / High-Impedance Ohmmeter",
+      "kent_moore_no": "J-25400",
+      "ref": "Pins 36, 39, 6, 7, 8, 9 resistance checks and voltage verification",
+      "page_label": "AFM-1"
+    },
+    {
+      "tool_number": "CHEM-01",
+      "tool_name": "Caig DeoxIT D5 Contact Cleaner & Rejuvenator",
+      "kent_moore_no": "N/A",
+      "ref": "Fuel pump switch contacts, carbon trace, wiper fingers, and connector pins",
+      "page_label": "AFM-1"
+    },
+    {
+      "tool_number": "SCRIB-01",
+      "tool_name": "Precision Mechanical Scribe / Paint Marker",
+      "kent_moore_no": "N/A",
+      "ref": "Indexing reference mark on black toothed gear wheel and aluminum casting",
+      "page_label": "AFM-1"
+    },
+    {
+      "tool_number": "SCREW-01",
+      "tool_name": "Flathead Precision Screwdriver",
+      "kent_moore_no": "N/A",
+      "ref": "Black wheel locking screw, center pivot locking screw, and idle bypass screw adjustment",
+      "page_label": "AFM-1"
+    },
+    {
+      "tool_number": "TACH-01",
+      "tool_name": "Engine Diagnostic Tachometer",
+      "kent_moore_no": "J-26500",
+      "ref": "Setting idle RPM and maintaining steady 3,000 RPM during fingering test",
+      "page_label": "AFM-1"
+    }
+  ]
+}

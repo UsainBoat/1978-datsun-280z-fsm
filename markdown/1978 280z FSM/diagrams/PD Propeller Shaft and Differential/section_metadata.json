@@ -1,0 +1,3176 @@
+{
+  "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+  "source_pdf": "1978 280z FSM/PD Propeller Shaft and Differential.pdf",
+  "md_path": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+  "pages_count": 31,
+  "diagrams": [
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_1_propeller_shaft_cross_section",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_1_propeller_shaft_cross_section.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_1_propeller_shaft_cross_section.png",
+      "page_num": 2,
+      "page_label": "PD-2",
+      "fig_id": "Fig. PD-1",
+      "code": "PD368",
+      "caption": "Fig. PD-1 Cross-sectional view of propeller shaft",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross-sectional view of the 2-joint propeller shaft showing sleeve yoke, journal, bearing race, tube assembly, and flange yoke with dimensions.",
+      "components": [
+        "Sleeve yoke assembly",
+        "Journal assembly",
+        "Bearing race assembly",
+        "Propeller shaft tube assembly",
+        "Flange yoke"
+      ],
+      "callouts": {
+        "1": "Sleeve yoke assembly",
+        "2": "Journal assembly",
+        "3": "Bearing race assembly",
+        "4": "Propeller shaft tube assembly",
+        "5": "Flange yoke"
+      },
+      "measurements_and_specs": [
+        "L: 565 mm (22.24 in) for HLS30 (2 seater)",
+        "L: 865 mm (34.06 in) for GHLS30 (2 + 2 seater)",
+        "Sleeve yoke length: 150.5 mm (5.93 in)",
+        "Tube diameter: 63.5 mm (2.50 in) dia."
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Propeller shaft and universal joint are balanced as an assembly. Dynamic unbalance under 35 gr-cm (0.49 in-oz) at 5,800 rpm.",
+      "tags": [
+        "propeller shaft",
+        "driveshaft",
+        "universal joint",
+        "sleeve yoke",
+        "flange yoke"
+      ],
+      "dimensions": [
+        1106,
+        323
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_2_r180_cross_sectional_view",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_2_r180_cross_sectional_view.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_2_r180_cross_sectional_view.png",
+      "page_num": 5,
+      "page_label": "PD-5",
+      "fig_id": "Fig. PD-2",
+      "code": "PD416",
+      "caption": "Fig. PD-2 Cross-sectional view of differential carrier",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross-sectional longitudinal view of the Type R180 differential carrier showing the internal pinion, differential case, bearings, seals, retainers, and torque callouts.",
+      "components": [
+        "Companion flange",
+        "Front oil seal",
+        "Front pilot bearing",
+        "Spacer-front pilot bearing",
+        "Pinion front bearing",
+        "Drive pinion",
+        "Pinion rear bearing",
+        "Differential case",
+        "Side retainer adjusting shim",
+        "Side bearing",
+        "O-ring",
+        "Side retainer",
+        "Side oil seal",
+        "Side gear",
+        "Thrust washer",
+        "Pinion mate",
+        "Thrust washer",
+        "Pinion mate shaft",
+        "Diff. mounting member",
+        "Ring gear",
+        "Rear cover",
+        "Side flange lock nut",
+        "Lock pin",
+        "Lock strap",
+        "Pinion height adjusting washer",
+        "Pinion bearing adjusting spacer",
+        "Pinion bearing adjusting washer"
+      ],
+      "callouts": {
+        "1": "Companion flange",
+        "2": "Front oil seal (Supply grease to oil seal lip when assembling)",
+        "3": "Front pilot bearing",
+        "4": "Spacer-front pilot bearing",
+        "5": "Pinion front bearing",
+        "6": "Drive pinion",
+        "7": "Pinion rear bearing",
+        "8": "Differential case",
+        "9": "Side retainer adjusting shim (Adjust side bearing preload and ring gear-to-drive pinion backlash by selecting 9.)",
+        "10": "Side bearing",
+        "11": "O-ring",
+        "12": "Side retainer",
+        "13": "Side oil seal (Supply grease to oil seal lip when assembly.)",
+        "14": "Side gear",
+        "15": "Thrust washer (Adjust the pinion mate-to-side gear backlash to 0.1 to 0.2 mm (0.004 to 0.008 in) by 15.)",
+        "16": "Pinion mate",
+        "17": "Thrust washer",
+        "18": "Pinion mate shaft",
+        "19": "Diff. mounting member",
+        "20": "Ring gear",
+        "21": "Rear cover",
+        "22": "Side flange lock nut",
+        "23": "Lock pin",
+        "24": "Lock strap",
+        "25": "Pinion height adjusting washer",
+        "26": "Pinion bearing adjusting spacer",
+        "27": "Pinion bearing adjusting washer (Adjust pinion bearing preload by selecting 26 and 27.)",
+        "A": "Tightening torque: 17 to 20 kg-m (123 to 145 ft-lb)",
+        "B": "Tightening torque: 0.9 to 1.2 kg-m (6.5 to 8.7 ft-lb)",
+        "C": "Tightening torque: 6.0 to 7.0 kg-m (43 to 51 ft-lb)",
+        "D": "Tightening torque: 9.0 to 10.0 kg-m (65 to 72 ft-lb)"
+      },
+      "measurements_and_specs": [
+        "Pinion mate-to-side gear backlash: 0.1 to 0.2 mm (0.004 to 0.008 in)",
+        "Companion flange nut tightening torque: 17 to 20 kg-m (123 to 145 ft-lb)",
+        "Side retainer bolt tightening torque: 0.9 to 1.2 kg-m (6.5 to 8.7 ft-lb)",
+        "Rear cover to mounting member lock nut tightening torque: 6.0 to 7.0 kg-m (43 to 51 ft-lb)",
+        "Ring gear bolt tightening torque: 9.0 to 10.0 kg-m (65 to 72 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Supply grease to front oil seal lip and side oil seal lip when assembling.",
+      "tags": [
+        "differential carrier",
+        "R180",
+        "cross section",
+        "drive pinion",
+        "ring gear",
+        "differential case",
+        "bearings",
+        "preload"
+      ],
+      "dimensions": [
+        1100,
+        1348
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_3_holding_differential_carrier",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_3_holding_differential_carrier.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_3_holding_differential_carrier.png",
+      "page_num": 6,
+      "page_label": "PD-6",
+      "fig_id": "Fig. PD-3",
+      "code": "PD419",
+      "caption": "Fig. PD-3 Holding differential carrier",
+      "diagram_type": "procedure_step",
+      "description": "Differential carrier clamped onto Gear Carrier Attachment KV38100800.",
+      "components": [
+        "Differential carrier",
+        "Gear Carrier Attachment KV38100800"
+      ],
+      "callouts": {
+        "KV38100800": "Gear carrier attachment"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Mount carrier on Gear Carrier Attachment KV38100800 before removing rear cover.",
+      "tags": [
+        "differential carrier",
+        "KV38100800",
+        "bench stand",
+        "attachment"
+      ],
+      "dimensions": [
+        347,
+        314
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_4_removing_side_bearing_outer_race",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_4_removing_side_bearing_outer_race.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_4_removing_side_bearing_outer_race.png",
+      "page_num": 6,
+      "page_label": "PD-6",
+      "fig_id": "Fig. PD-4",
+      "code": "PD243",
+      "caption": "Fig. PD-4 Removing side bearing outer race",
+      "diagram_type": "procedure_step",
+      "description": "Extracting side bearing outer race from side retainer using puller ST33290001.",
+      "components": [
+        "Side retainer",
+        "Side bearing outer race",
+        "Puller ST33290001"
+      ],
+      "callouts": {
+        "ST33290001": "Puller"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Extract bearing outer race from side retainer using puller ST33290001.",
+      "tags": [
+        "side retainer",
+        "side bearing",
+        "outer race",
+        "ST33290001"
+      ],
+      "dimensions": [
+        348,
+        314
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_5_removing_drive_pinion_nut",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_5_removing_drive_pinion_nut.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_5_removing_drive_pinion_nut.png",
+      "page_num": 6,
+      "page_label": "PD-6",
+      "fig_id": "Fig. PD-5",
+      "code": "PD178",
+      "caption": "Fig. PD-5 Removing drive pinion nut",
+      "diagram_type": "procedure_step",
+      "description": "Loosening drive pinion nut using flange wrench ST31530000 on companion flange.",
+      "components": [
+        "Drive pinion nut",
+        "Companion flange",
+        "Drive Pinion Flange Wrench ST31530000"
+      ],
+      "callouts": {
+        "ST31530000": "Drive pinion flange wrench"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Hold companion flange with wrench ST31530000 while loosening nut.",
+      "tags": [
+        "drive pinion nut",
+        "ST31530000",
+        "flange wrench",
+        "companion flange"
+      ],
+      "dimensions": [
+        348,
+        323
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_6_removing_pinion_rear_bearing_inner_race",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_6_removing_pinion_rear_bearing_inner_race.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_6_removing_pinion_rear_bearing_inner_race.png",
+      "page_num": 6,
+      "page_label": "PD-6",
+      "fig_id": "Fig. PD-6",
+      "code": "PD179",
+      "caption": "Fig. PD-6 Removing pinion rear bearing inner race",
+      "diagram_type": "procedure_step",
+      "description": "Holding rear bearing inner race with puller ST30031000 and extracting from drive pinion with a press.",
+      "components": [
+        "Drive pinion",
+        "Pinion rear bearing inner race",
+        "Puller ST30031000"
+      ],
+      "callouts": {
+        "ST30031000": "Inner race puller"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Extract from drive pinion with a press.",
+      "tags": [
+        "drive pinion",
+        "rear bearing inner race",
+        "ST30031000",
+        "press"
+      ],
+      "dimensions": [
+        354,
+        332
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_7_removing_side_bearing",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_7_removing_side_bearing.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_7_removing_side_bearing.png",
+      "page_num": 6,
+      "page_label": "PD-6",
+      "fig_id": "Fig. PD-7",
+      "code": "PD081",
+      "caption": "Fig. PD-7 Removing side bearing",
+      "diagram_type": "procedure_step",
+      "description": "Extracting side bearing from differential case using puller set ST3306S001.",
+      "components": [
+        "Differential case",
+        "Side bearing",
+        "Puller set ST3306S001",
+        "ST33051001",
+        "ST33061000"
+      ],
+      "callouts": {
+        "ST33051001": "Puller body",
+        "ST33061000": "Adapter"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Handle puller with care catching the edge of bearing inner race.",
+      "tags": [
+        "differential case",
+        "side bearing",
+        "ST3306S001",
+        "ST33051001",
+        "ST33061000"
+      ],
+      "dimensions": [
+        360,
+        314
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_8_measuring_clearance",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_8_measuring_clearance.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_8_measuring_clearance.png",
+      "page_num": 7,
+      "page_label": "PD-7",
+      "fig_id": "Fig. PD-8",
+      "code": "PD023",
+      "caption": "Fig. PD-8 Measuring clearance",
+      "diagram_type": "inspection_measurement",
+      "description": "Feeler gauge inserted between rear face of side gear and thrust washer to measure backlash/clearance.",
+      "components": [
+        "Differential case",
+        "Side gear",
+        "Thrust washer",
+        "Feeler gauge"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Normal backlash or clearance: 0.1 to 0.2 mm (0.004 to 0.008 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Adjust side gear-to-pinion mate backlash or adjust clearance between rear face of side gear and thrust washer.",
+      "tags": [
+        "differential case",
+        "side gear",
+        "thrust washer",
+        "feeler gauge",
+        "clearance",
+        "backlash"
+      ],
+      "dimensions": [
+        354,
+        297
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_9_tapping_bolt_head",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_9_tapping_bolt_head.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_9_tapping_bolt_head.png",
+      "page_num": 8,
+      "page_label": "PD-8",
+      "fig_id": "Fig. PD-9",
+      "code": "PD124",
+      "caption": "Fig. PD-9 Tapping bolt head",
+      "diagram_type": "procedure_step",
+      "description": "Tapping bolt heads lightly with hammer while tightening in criss-cross pattern.",
+      "components": [
+        "Differential case",
+        "Ring gear",
+        "Hammer",
+        "Wrench"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Tighten bolts in criss-cross fashion lightly tapping around bolt heads with a hammer.",
+      "tags": [
+        "ring gear",
+        "bolts",
+        "criss-cross",
+        "hammer"
+      ],
+      "dimensions": [
+        354,
+        288
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_10_measuring_bearing_width",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_10_measuring_bearing_width.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_10_measuring_bearing_width.png",
+      "page_num": 8,
+      "page_label": "PD-8",
+      "fig_id": "Fig. PD-10",
+      "code": "PD320",
+      "caption": "Fig. PD-10 Measuring bearing width",
+      "diagram_type": "inspection_measurement",
+      "description": "Measuring side bearing width with Master Gauge KV38101900 and Weight Block ST32501000 under a dial indicator.",
+      "components": [
+        "Master Gauge KV38101900",
+        "Weight Block ST32501000",
+        "Bearing",
+        "Dial gauge"
+      ],
+      "callouts": {
+        "KV38101900": "Master gauge",
+        "ST32501000": "Weight block",
+        "Bearing": "Side bearing"
+      },
+      "measurements_and_specs": [
+        "Standard bearing width: 20.00 mm (0.7874 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Measure bearing width using Master Gauge KV38101900 and Weight Block ST32501000 prior to installation.",
+      "tags": [
+        "side bearing",
+        "bearing width",
+        "KV38101900",
+        "ST32501000",
+        "master gauge"
+      ],
+      "dimensions": [
+        354,
+        323
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_11_installing_side_bearing_cone",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_11_installing_side_bearing_cone.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_11_installing_side_bearing_cone.png",
+      "page_num": 8,
+      "page_label": "PD-8",
+      "fig_id": "Fig. PD-11",
+      "code": "PD244",
+      "caption": "Fig. PD-11 Installing side bearing cone",
+      "diagram_type": "procedure_step",
+      "description": "Press fitting side bearing cone on differential case with drift ST33230000 and adapter ST33061000.",
+      "components": [
+        "Differential case",
+        "Side bearing cone",
+        "Drift ST33230000",
+        "Adapter ST33061000"
+      ],
+      "callouts": {
+        "ST33230000": "Gear Carrier Side Bearing Drift",
+        "ST33061000": "Adapter"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Press fit side bearing cone on differential case using drift ST33230000 and adapter ST33061000.",
+      "tags": [
+        "side bearing",
+        "ST33230000",
+        "ST33061000",
+        "press fit"
+      ],
+      "dimensions": [
+        360,
+        358
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_12_tightening_drive_pinion_nut",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_12_tightening_drive_pinion_nut.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_12_tightening_drive_pinion_nut.png",
+      "page_num": 8,
+      "page_label": "PD-8",
+      "fig_id": "Fig. PD-12",
+      "code": "PD424",
+      "caption": "Fig. PD-12 Tightening drive pinion nut",
+      "diagram_type": "procedure_step",
+      "description": "Tightening drive pinion nut on dummy shaft using stopper ST31852000.",
+      "components": [
+        "Carrier housing",
+        "Dummy shaft",
+        "Pinion nut",
+        "Stopper ST31852000",
+        "Wrench"
+      ],
+      "callouts": {
+        "ST31852000": "Stopper"
+      },
+      "measurements_and_specs": [
+        "Pinion nut torque: 17 to 20 kg-m (123 to 145 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Tighten drive pinion nut to specified torque using Stopper ST31852000.",
+      "tags": [
+        "drive pinion nut",
+        "ST31852000",
+        "dummy shaft",
+        "stopper"
+      ],
+      "dimensions": [
+        354,
+        262
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_13_measuring_pinion_preload",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_13_measuring_pinion_preload.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_13_measuring_pinion_preload.png",
+      "page_num": 8,
+      "page_label": "PD-8",
+      "fig_id": "Fig. PD-13",
+      "code": "PD245",
+      "caption": "Fig. PD-13 Measuring pinion preload",
+      "diagram_type": "inspection_measurement",
+      "description": "Measuring pinion bearing preload using torque wrench preload gauge ST3127S000.",
+      "components": [
+        "Differential carrier",
+        "Preload gauge ST3127S000",
+        "Pinion nut"
+      ],
+      "callouts": {
+        "ST3127S000": "Preload gauge"
+      },
+      "measurements_and_specs": [
+        "Pinion bearing preload (without oil seal): 10 to 13 kg-cm (8.7 to 11.3 in-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Measure preload without oil seal inserted.",
+      "tags": [
+        "pinion preload",
+        "ST3127S000",
+        "preload gauge",
+        "torque wrench"
+      ],
+      "dimensions": [
+        361,
+        358
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_14_measuring_clearance",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_14_measuring_clearance.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_14_measuring_clearance.png",
+      "page_num": 9,
+      "page_label": "PD-9",
+      "fig_id": "Fig. PD-14",
+      "code": "PD246",
+      "caption": "Fig. PD-14 Measuring the clearance",
+      "diagram_type": "inspection_measurement",
+      "description": "Cross-sectional drawing showing height gauge ST31211000, dummy shaft ST31212000, spacer ST31851000, and collar ST31214000 setup for measuring clearance N.",
+      "components": [
+        "Height gauge ST31211000",
+        "Dummy shaft ST31212000",
+        "Spacer ST31851000",
+        "Collar ST31214000"
+      ],
+      "callouts": {
+        "ST31211000": "Height gauge",
+        "ST31212000": "Dummy shaft",
+        "ST31851000": "Spacer",
+        "ST31214000": "Collar",
+        "N": "Clearance"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Install Height Gauge ST31211000 on carrier with dummy shaft mounted to measure clearance N.",
+      "tags": [
+        "pinion height",
+        "height gauge",
+        "dummy shaft",
+        "ST31211000",
+        "clearance N"
+      ],
+      "dimensions": [
+        679,
+        410
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_15_adjusting_pinion_height",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_15_adjusting_pinion_height.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_15_adjusting_pinion_height.png",
+      "page_num": 9,
+      "page_label": "PD-9",
+      "fig_id": "Fig. PD-15",
+      "code": "PD091",
+      "caption": "Fig. PD-15 Adjusting pinion height",
+      "diagram_type": "inspection_measurement",
+      "description": "Using thickness gauge to measure clearance between height gauge ST31211000 and dummy shaft ST31212000.",
+      "components": [
+        "Differential carrier",
+        "Height gauge ST31211000",
+        "Dummy shaft ST31212000",
+        "Thickness gauge"
+      ],
+      "callouts": {
+        "ST31211000": "Height gauge",
+        "ST31212000": "Dummy shaft"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Measure clearance N between tip end of height gauge and end surface of dummy shaft.",
+      "tags": [
+        "pinion height",
+        "thickness gauge",
+        "ST31211000",
+        "ST31212000"
+      ],
+      "dimensions": [
+        360,
+        296
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_16_variation_number_on_drive_pinion",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_16_variation_number_on_drive_pinion.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_16_variation_number_on_drive_pinion.png",
+      "page_num": 9,
+      "page_label": "PD-9",
+      "fig_id": "Fig. PD-16",
+      "code": "PD186",
+      "caption": "Fig. PD-16 Variation number on drive pinion",
+      "diagram_type": "alignment_orientation",
+      "description": "Drive pinion head showing set number 41 and head number (H) stamped as +2.",
+      "components": [
+        "Drive pinion"
+      ],
+      "callouts": {
+        "Head number (H)": "+2",
+        "Set number": "41"
+      },
+      "measurements_and_specs": [
+        "Variation figure in units of 1/100 mm"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Head number (H) represents dimensional variation in 1/100 mm against standard measurement.",
+      "tags": [
+        "drive pinion",
+        "head number",
+        "variation number",
+        "set number"
+      ],
+      "dimensions": [
+        348,
+        209
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_17_pressing_rear_bearing_cone",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_17_pressing_rear_bearing_cone.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_17_pressing_rear_bearing_cone.png",
+      "page_num": 10,
+      "page_label": "PD-10",
+      "fig_id": "Fig. PD-17",
+      "code": "PD417",
+      "caption": "Fig. PD-17 Pressing rear bearing cone",
+      "diagram_type": "procedure_step",
+      "description": "Pressing drive pinion rear bearing cone onto drive pinion using Base ST30901000.",
+      "components": [
+        "Drive pinion",
+        "Rear bearing cone",
+        "Base ST30901000"
+      ],
+      "callouts": {
+        "ST30901000": "Base"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Fit determined pinion height adjusting washer on drive pinion and press fit rear bearing cone.",
+      "tags": [
+        "drive pinion",
+        "bearing cone",
+        "ST30901000",
+        "press"
+      ],
+      "dimensions": [
+        341,
+        331
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_18_thickness_of_left_and_right_shims",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_18_thickness_of_left_and_right_shims.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_18_thickness_of_left_and_right_shims.png",
+      "page_num": 10,
+      "page_label": "PD-10",
+      "fig_id": "Fig. PD-18",
+      "code": "PD093",
+      "caption": "Fig. PD-18 Thickness of left and right shims",
+      "diagram_type": "cutaway_flow",
+      "description": "Section diagram of differential carrier highlighting dimensions A, B, C, D, G1, G2, T1, and T2 for calculating side retainer shim thicknesses.",
+      "components": [
+        "Differential carrier",
+        "Differential case",
+        "Side retainers",
+        "Side bearings",
+        "Shims"
+      ],
+      "callouts": {
+        "A": "Carrier left bore depth variation",
+        "B": "Carrier right bore depth variation",
+        "C": "Diff case left bearing seat variation",
+        "D": "Diff case right bearing seat variation",
+        "G1": "Left side retainer variation",
+        "G2": "Right side retainer variation",
+        "T1": "Left side retainer shim thickness",
+        "T2": "Right side retainer shim thickness"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Use formulas for T1 and T2 to determine proper shim pack thicknesses.",
+      "tags": [
+        "differential carrier",
+        "side retainer",
+        "shims",
+        "T1",
+        "T2",
+        "preload",
+        "backlash"
+      ],
+      "dimensions": [
+        347,
+        420
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_19_a_and_b_figure",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_19_a_and_b_figure.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_19_a_and_b_figure.png",
+      "page_num": 10,
+      "page_label": "PD-10",
+      "fig_id": "Fig. PD-19",
+      "code": "PD187",
+      "caption": "Fig. PD-19 A & B figure",
+      "diagram_type": "component_location",
+      "description": "Differential carrier casting showing stamped figures A and B.",
+      "components": [
+        "Differential carrier housing"
+      ],
+      "callouts": {
+        "A": "Left bore variation mark",
+        "B": "Right bore variation mark"
+      },
+      "measurements_and_specs": [
+        "Unit of 1/100 mm (4/10,000 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "If values are not given, regard them as zero.",
+      "tags": [
+        "carrier housing",
+        "stamped figures",
+        "A and B"
+      ],
+      "dimensions": [
+        347,
+        279
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_20_c_and_d_figures",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_20_c_and_d_figures.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_20_c_and_d_figures.png",
+      "page_num": 10,
+      "page_label": "PD-10",
+      "fig_id": "Fig. PD-20",
+      "code": "PD188",
+      "caption": "Fig. PD-20 C & D figures",
+      "diagram_type": "component_location",
+      "description": "Differential case showing location of stamped figures C and D.",
+      "components": [
+        "Differential case",
+        "Ring gear"
+      ],
+      "callouts": {
+        "C": "Left side case variation",
+        "D": "Right side case variation"
+      },
+      "measurements_and_specs": [
+        "Unit of 1/100 mm"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Figures C & D stamped on differential case flange.",
+      "tags": [
+        "differential case",
+        "stamped figures",
+        "C and D"
+      ],
+      "dimensions": [
+        315,
+        287
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_21_g1_and_g2_figure",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_21_g1_and_g2_figure.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_21_g1_and_g2_figure.png",
+      "page_num": 10,
+      "page_label": "PD-10",
+      "fig_id": "Fig. PD-21",
+      "code": "PD189",
+      "caption": "Fig. PD-21 G1 & G2 figure",
+      "diagram_type": "component_location",
+      "description": "Side retainer showing stamped figures G1 and G2.",
+      "components": [
+        "Side retainer"
+      ],
+      "callouts": {
+        "G1": "Left retainer variation mark",
+        "G2": "Right retainer variation mark"
+      },
+      "measurements_and_specs": [
+        "Unit of 1/100 mm"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Figures stamped on side retainer flange.",
+      "tags": [
+        "side retainer",
+        "stamped figures",
+        "G1 and G2"
+      ],
+      "dimensions": [
+        315,
+        296
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_22_installing_side_retainer",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_22_installing_side_retainer.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_22_installing_side_retainer.png",
+      "page_num": 11,
+      "page_label": "PD-11",
+      "fig_id": "Fig. PD-22",
+      "code": "PD191",
+      "caption": "Fig. PD-22 Installing side retainer",
+      "diagram_type": "procedure_step",
+      "description": "Installing side retainer into differential carrier using Gear Carrier Side Retainer Guide ST33720000.",
+      "components": [
+        "Side retainer",
+        "Differential carrier",
+        "Gear Carrier Side Retainer Guide ST33720000"
+      ],
+      "callouts": {
+        "ST33720000": "Gear carrier side retainer guide"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "When installing retainers, take care that side bearing outer races are not damaged by roller.",
+      "tags": [
+        "side retainer",
+        "ST33720000",
+        "differential carrier",
+        "guide"
+      ],
+      "dimensions": [
+        348,
+        314
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_23_arrow_mark_on_retainer",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_23_arrow_mark_on_retainer.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_23_arrow_mark_on_retainer.png",
+      "page_num": 11,
+      "page_label": "PD-11",
+      "fig_id": "Fig. PD-23",
+      "code": "PD192",
+      "caption": "Fig. PD-23 The arrow mark on retainer",
+      "diagram_type": "alignment_orientation",
+      "description": "Orientation of side retainer showing upward pointing arrow mark.",
+      "components": [
+        "Side retainer",
+        "Differential carrier housing"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Arrow mark on retainer must point in the prescribed direction as shown.",
+      "tags": [
+        "side retainer",
+        "arrow mark",
+        "alignment",
+        "orientation"
+      ],
+      "dimensions": [
+        348,
+        314
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_24_measuring_backlash_ring_gear_pinion",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_24_measuring_backlash_ring_gear_pinion.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_24_measuring_backlash_ring_gear_pinion.png",
+      "page_num": 11,
+      "page_label": "PD-11",
+      "fig_id": "Fig. PD-24",
+      "code": "PD097",
+      "caption": "Fig. PD-24 Measuring the backlash of ring gear and pinion",
+      "diagram_type": "inspection_measurement",
+      "description": "Dial indicator mounted to check backlash of ring gear against drive pinion.",
+      "components": [
+        "Differential carrier",
+        "Ring gear",
+        "Dial indicator"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Ring gear backlash: 0.10 to 0.20 mm (0.0039 to 0.0079 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "If backlash is below specified value, move shim from right to left; if over, move inversely.",
+      "tags": [
+        "backlash",
+        "ring gear",
+        "drive pinion",
+        "dial indicator"
+      ],
+      "dimensions": [
+        347,
+        270
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_25_heel_contact",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_25_heel_contact.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_25_heel_contact.png",
+      "page_num": 11,
+      "page_label": "PD-11",
+      "fig_id": "Fig. PD-25",
+      "code": "PD193",
+      "caption": "Fig. PD-25 Heel contact",
+      "diagram_type": "inspection_measurement",
+      "description": "Tooth contact pattern showing heel contact and correction arrow.",
+      "components": [
+        "Gear tooth"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "To correct, increase thickness of drive pinion adjusting washer to bring drive pinion closer to ring gear.",
+      "tags": [
+        "tooth contact",
+        "heel contact",
+        "adjustment"
+      ],
+      "dimensions": [
+        360,
+        209
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_26_toe_contact",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_26_toe_contact.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_26_toe_contact.png",
+      "page_num": 11,
+      "page_label": "PD-11",
+      "fig_id": "Fig. PD-26",
+      "code": "PD194",
+      "caption": "Fig. PD-26 Toe contact",
+      "diagram_type": "inspection_measurement",
+      "description": "Tooth contact pattern showing toe contact and correction arrow.",
+      "components": [
+        "Gear tooth"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "To correct, reduce thickness of drive pinion adjusting washer to move pinion away from ring gear.",
+      "tags": [
+        "tooth contact",
+        "toe contact",
+        "adjustment"
+      ],
+      "dimensions": [
+        360,
+        217
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_27_flank_contact",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_27_flank_contact.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_27_flank_contact.png",
+      "page_num": 11,
+      "page_label": "PD-11",
+      "fig_id": "Fig. PD-27",
+      "code": "PD195",
+      "caption": "Fig. PD-27 Flank contact",
+      "diagram_type": "inspection_measurement",
+      "description": "Tooth contact pattern showing flank contact and correction arrow.",
+      "components": [
+        "Gear tooth"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Adjust in the same manner as toe contact (reduce thickness of washer).",
+      "tags": [
+        "tooth contact",
+        "flank contact",
+        "adjustment"
+      ],
+      "dimensions": [
+        360,
+        209
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_28_face_contact",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_28_face_contact.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_28_face_contact.png",
+      "page_num": 11,
+      "page_label": "PD-11",
+      "fig_id": "Fig. PD-28",
+      "code": "PD196",
+      "caption": "Fig. PD-28 Face contact",
+      "diagram_type": "inspection_measurement",
+      "description": "Tooth contact pattern showing face contact and correction arrow.",
+      "components": [
+        "Gear tooth"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Adjust in the same manner as heel contact (increase thickness of washer).",
+      "tags": [
+        "tooth contact",
+        "face contact",
+        "adjustment"
+      ],
+      "dimensions": [
+        360,
+        226
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_29_correct_tooth_contact",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_29_correct_tooth_contact.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_29_correct_tooth_contact.png",
+      "page_num": 12,
+      "page_label": "PD-12",
+      "fig_id": "Fig. PD-29",
+      "code": "PD197",
+      "caption": "Fig. PD-29 Correct tooth contact",
+      "diagram_type": "inspection_measurement",
+      "description": "Ideal tooth contact pattern showing centered contact on tooth flank.",
+      "components": [
+        "Gear tooth"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Ideal contact pattern centered across gear tooth profile.",
+      "tags": [
+        "tooth contact",
+        "correct contact",
+        "ideal pattern"
+      ],
+      "dimensions": [
+        348,
+        244
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_30_removing_companion_flange",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_30_removing_companion_flange.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_30_removing_companion_flange.png",
+      "page_num": 12,
+      "page_label": "PD-12",
+      "fig_id": "Fig. PD-30",
+      "code": "PD264",
+      "caption": "Fig. PD-30 Removing companion flange",
+      "diagram_type": "procedure_step",
+      "description": "Standard puller attached to companion flange to extract it from pinion shaft.",
+      "components": [
+        "Differential carrier",
+        "Companion flange",
+        "Puller"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Extract companion flange using a standard puller.",
+      "tags": [
+        "companion flange",
+        "puller",
+        "front oil seal"
+      ],
+      "dimensions": [
+        315,
+        296
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_31_r200_sectional_view",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_31_r200_sectional_view.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_31_r200_sectional_view.png",
+      "page_num": 14,
+      "page_label": "PD-14",
+      "fig_id": "Fig. PD-31",
+      "code": "PD369",
+      "caption": "Fig. PD-31 Sectional view of differential carrier",
+      "diagram_type": "cutaway_flow",
+      "description": "Detailed cross-sectional and cutaway view of the Type R200 differential carrier showing internal components, bearings, shims, side flanges, breather, and tightening torques.",
+      "components": [
+        "Companion flange",
+        "Front oil seal",
+        "Front pilot bearing",
+        "Front pilot bearing spacer",
+        "Drive pinion",
+        "Pinion front bearing",
+        "Pinion bearing adjusting washer",
+        "Pinion bearing adjusting spacer",
+        "Pinion rear bearing",
+        "Pinion height adjusting washer",
+        "Side bearing",
+        "Side bearing adjusting washer",
+        "Side bearing spacer",
+        "Side oil seal",
+        "Side flange",
+        "Side flange circlip",
+        "Side bearing cap",
+        "Breather",
+        "Differential case",
+        "Rear cover",
+        "Differential rear mounting member",
+        "Special washer",
+        "Pinion mate shaft",
+        "Pinion mate",
+        "Side gear",
+        "Thrust washer",
+        "Lock pin",
+        "Ring gear"
+      ],
+      "callouts": {
+        "1": "Companion flange",
+        "2": "Front oil seal (Supply multi-purpose grease to oil seal lip when assembling)",
+        "3": "Front pilot bearing",
+        "4": "Front pilot bearing spacer",
+        "5": "Drive pinion",
+        "6": "Pinion front bearing",
+        "7": "Pinion bearing adjusting washer (Adjust pinion bearing preload by selecting 7 and 8)",
+        "8": "Pinion bearing adjusting spacer",
+        "9": "Pinion rear bearing",
+        "10": "Pinion height adjusting washer (Adjust pinion height by selecting 10)",
+        "11": "Side bearing",
+        "12": "Side bearing adjusting washer (Adjust side bearing preload and ring gear-to-drive pinion backlash by selecting 12)",
+        "13": "Side bearing spacer",
+        "14": "Side oil seal (Supply multi-purpose grease to oil seal lip when assembling)",
+        "15": "Side flange",
+        "16": "Side flange circlip",
+        "17": "Side bearing cap",
+        "18": "Breather (Install with an arrow towards front.)",
+        "19": "Differential case",
+        "20": "Rear cover",
+        "21": "Differential rear mounting member",
+        "22": "Special washer",
+        "23": "Pinion mate shaft",
+        "24": "Pinion mate",
+        "25": "Side gear",
+        "26": "Thrust washer (Adjust the pinion mate-to-side gear backlash to 0.1 to 0.2 mm (0.004 to 0.008 in) by 26)",
+        "27": "Lock pin",
+        "28": "Ring gear",
+        "A": "Tightening torque: 19 to 22 kg-m (137 to 159 ft-lb)",
+        "B": "Tightening torque: 1.6 to 2.4 kg-m (12 to 17 ft-lb)",
+        "C": "Tightening torque: 9.0 to 10.0 kg-m (65 to 72 ft-lb)",
+        "D": "Tightening torque: 4.2 to 6.9 kg-m (30 to 50 ft-lb)",
+        "E": "Tightening torque: 7.5 to 9.5 kg-m (54 to 69 ft-lb)",
+        "F": "Tightening torque: 6.0 to 7.0 kg-m (43 to 51 ft-lb) Using locking agent [Locktite (stud lock) or equivalent]"
+      },
+      "measurements_and_specs": [
+        "Pinion mate-to-side gear backlash: 0.1 to 0.2 mm (0.004 to 0.008 in)",
+        "Drive pinion nut torque: 19 to 22 kg-m (137 to 159 ft-lb)",
+        "Rear cover fixing bolt torque: 1.6 to 2.4 kg-m (12 to 17 ft-lb)",
+        "Side bearing cap bolt torque: 9.0 to 10.0 kg-m (65 to 72 ft-lb)",
+        "Drain/filler plug torque: 4.2 to 6.9 kg-m (30 to 50 ft-lb)",
+        "Rear cover to mounting member lock nut torque: 7.5 to 9.5 kg-m (54 to 69 ft-lb)",
+        "Ring gear bolt torque: 6.0 to 7.0 kg-m (43 to 51 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Breather must be installed with arrow facing forward. Use Loctite (stud lock) or equivalent on ring gear bolts.",
+      "tags": [
+        "differential carrier",
+        "R200",
+        "sectional view",
+        "drive pinion",
+        "ring gear",
+        "differential case",
+        "tightening torque"
+      ],
+      "dimensions": [
+        1126,
+        1479
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_32_mounting_differential_carrier",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_32_mounting_differential_carrier.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_32_mounting_differential_carrier.png",
+      "page_num": 15,
+      "page_label": "PD-15",
+      "fig_id": "Fig. PD-32",
+      "code": "PD418",
+      "caption": "Fig. PD-32 Mounting differential carrier",
+      "diagram_type": "procedure_step",
+      "description": "R200 Differential carrier mounted on attachment KV38100800 using three 45 mm spacers.",
+      "components": [
+        "Differential carrier",
+        "Gear Carrier Attachment KV38100800",
+        "Spacers"
+      ],
+      "callouts": {
+        "KV38100800": "Gear carrier attachment"
+      },
+      "measurements_and_specs": [
+        "Spacer length: 45 mm (1.77 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Use three 45 mm (1.77 in) spacers to mount carrier on attachment.",
+      "tags": [
+        "differential carrier",
+        "R200",
+        "KV38100800",
+        "stand"
+      ],
+      "dimensions": [
+        354,
+        332
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_33_measuring_pinion_preload_predisassembly",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_33_measuring_pinion_preload_predisassembly.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_33_measuring_pinion_preload_predisassembly.png",
+      "page_num": 15,
+      "page_label": "PD-15",
+      "fig_id": "Fig. PD-33",
+      "code": "PD340",
+      "caption": "Fig. PD-33 Measuring pinion preload",
+      "diagram_type": "inspection_measurement",
+      "description": "Measuring pinion preload with Preload Gauge ST3127S000 before disassembly.",
+      "components": [
+        "Differential carrier",
+        "Preload gauge ST3127S000"
+      ],
+      "callouts": {
+        "ST3127S000": "Preload gauge"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Check preload before disassembling parts.",
+      "tags": [
+        "pinion preload",
+        "ST3127S000",
+        "pre-disassembly"
+      ],
+      "dimensions": [
+        354,
+        297
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_34_measuring_backlash_ring_gear_pinion_r200",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_34_measuring_backlash_ring_gear_pinion_r200.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_34_measuring_backlash_ring_gear_pinion_r200.png",
+      "page_num": 15,
+      "page_label": "PD-15",
+      "fig_id": "Fig. PD-34",
+      "code": "PD341",
+      "caption": "Fig. PD-34 Measuring the backlash of ring gear and pinion",
+      "diagram_type": "inspection_measurement",
+      "description": "Dial indicator checking ring gear backlash on R200 carrier.",
+      "components": [
+        "Differential carrier",
+        "Ring gear",
+        "Dial indicator"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Backlash: 0.13 to 0.18 mm (0.0051 to 0.0071 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Check backlash at several points around ring gear.",
+      "tags": [
+        "backlash",
+        "ring gear",
+        "drive pinion",
+        "R200"
+      ],
+      "dimensions": [
+        348,
+        349
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_35_removing_side_flange",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_35_removing_side_flange.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_35_removing_side_flange.png",
+      "page_num": 15,
+      "page_label": "PD-15",
+      "fig_id": "Fig. PD-35",
+      "code": "PD342",
+      "caption": "Fig. PD-35 Removing side flange",
+      "diagram_type": "procedure_step",
+      "description": "Prying side flange out of differential carrier with pry bar while holding flange.",
+      "components": [
+        "Differential carrier",
+        "Side flange",
+        "Pry bar"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Hold side flange with hand to prevent it from jumping out.",
+      "tags": [
+        "side flange",
+        "pry bar",
+        "removal"
+      ],
+      "dimensions": [
+        348,
+        331
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_36_removing_side_bearing_cap",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_36_removing_side_bearing_cap.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_36_removing_side_bearing_cap.png",
+      "page_num": 15,
+      "page_label": "PD-15",
+      "fig_id": "Fig. PD-36",
+      "code": "PD343",
+      "caption": "Fig. PD-36 Removing side bearing cap",
+      "diagram_type": "procedure_step",
+      "description": "Loosening and removing side bearing cap bolts on differential carrier.",
+      "components": [
+        "Differential carrier",
+        "Side bearing cap",
+        "Wrench"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Put match marks on side bearing caps and carrier before removing.",
+      "tags": [
+        "side bearing cap",
+        "bolts",
+        "match marks"
+      ],
+      "dimensions": [
+        354,
+        322
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_37_removing_differential_case_assembly",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_37_removing_differential_case_assembly.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_37_removing_differential_case_assembly.png",
+      "page_num": 15,
+      "page_label": "PD-15",
+      "fig_id": "Fig. PD-37",
+      "code": "PD344",
+      "caption": "Fig. PD-37 Removing differential case assembly",
+      "diagram_type": "procedure_step",
+      "description": "Lifting differential case assembly out using Slide Hammer HT72400000.",
+      "components": [
+        "Differential carrier",
+        "Differential case",
+        "Slide Hammer HT72400000"
+      ],
+      "callouts": {
+        "HT72400000": "Slide hammer"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Care should be taken not to confuse left and right bearing outer races.",
+      "tags": [
+        "differential case",
+        "slide hammer",
+        "HT72400000"
+      ],
+      "dimensions": [
+        315,
+        331
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_38_removing_drive_pinion_nut_r200",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_38_removing_drive_pinion_nut_r200.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_38_removing_drive_pinion_nut_r200.png",
+      "page_num": 15,
+      "page_label": "PD-15",
+      "fig_id": "Fig. PD-38",
+      "code": "PD345",
+      "caption": "Fig. PD-38 Removing drive pinion nut",
+      "diagram_type": "procedure_step",
+      "description": "Holding companion flange with wrench ST31530000 while loosening drive pinion nut.",
+      "components": [
+        "Drive Pinion Flange Wrench ST31530000",
+        "Companion flange",
+        "Pinion nut"
+      ],
+      "callouts": {
+        "ST31530000": "Drive pinion flange wrench"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Hold companion flange with wrench ST31530000.",
+      "tags": [
+        "drive pinion nut",
+        "companion flange",
+        "ST31530000"
+      ],
+      "dimensions": [
+        354,
+        279
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_39_removing_companion_flange_r200",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_39_removing_companion_flange_r200.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_39_removing_companion_flange_r200.png",
+      "page_num": 16,
+      "page_label": "PD-16",
+      "fig_id": "Fig. PD-39",
+      "code": "PD346",
+      "caption": "Fig. PD-39 Removing companion flange",
+      "diagram_type": "procedure_step",
+      "description": "Standard puller pulling companion flange off drive pinion shaft.",
+      "components": [
+        "Differential carrier",
+        "Companion flange",
+        "Puller"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Pull off companion flange using a suitable puller.",
+      "tags": [
+        "companion flange",
+        "puller",
+        "R200"
+      ],
+      "dimensions": [
+        366,
+        323
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_40_removing_pilot_bearing",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_40_removing_pilot_bearing.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_40_removing_pilot_bearing.png",
+      "page_num": 16,
+      "page_label": "PD-16",
+      "fig_id": "Fig. PD-40",
+      "code": "PD348",
+      "caption": "Fig. PD-40 Removing pilot bearing",
+      "diagram_type": "procedure_step",
+      "description": "Cross-sectional and isometric views showing drift KV38100401 driving out pilot bearing, spacer, and front bearing cone.",
+      "components": [
+        "Differential carrier housing",
+        "Pilot Bearing Drift KV38100401",
+        "Pilot bearing",
+        "Front bearing cone"
+      ],
+      "callouts": {
+        "KV38100401": "Pilot bearing drift"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove pilot bearing together with pilot bearing spacer and front bearing inner race using KV38100401.",
+      "tags": [
+        "pilot bearing",
+        "KV38100401",
+        "drift",
+        "carrier"
+      ],
+      "dimensions": [
+        590,
+        542
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_41_removing_pinion_rear_bearing_inner_race_r200",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_41_removing_pinion_rear_bearing_inner_race_r200.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_41_removing_pinion_rear_bearing_inner_race_r200.png",
+      "page_num": 16,
+      "page_label": "PD-16",
+      "fig_id": "Fig. PD-41",
+      "code": "PD179",
+      "caption": "Fig. PD-41 Removing pinion rear bearing inner race",
+      "diagram_type": "procedure_step",
+      "description": "Inner race puller ST30031000 supporting pinion rear bearing inner race under a press.",
+      "components": [
+        "Drive pinion",
+        "Rear bearing inner race",
+        "Puller ST30031000"
+      ],
+      "callouts": {
+        "ST30031000": "Inner race puller"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Extract rear bearing inner race from drive pinion with a press.",
+      "tags": [
+        "drive pinion",
+        "inner race",
+        "ST30031000",
+        "press"
+      ],
+      "dimensions": [
+        366,
+        323
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_42_removing_pinion_bearing_outer_races",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_42_removing_pinion_bearing_outer_races.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_42_removing_pinion_bearing_outer_races.png",
+      "page_num": 16,
+      "page_label": "PD-16",
+      "fig_id": "Fig. PD-42",
+      "code": "PD349",
+      "caption": "Fig. PD-42 Removing pinion bearing outer races",
+      "diagram_type": "procedure_step",
+      "description": "Drift placed through housing to tap out bearing outer races.",
+      "components": [
+        "Differential carrier housing",
+        "Bearing outer race",
+        "Drift"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Withdraw races by tapping top of drift with a hammer.",
+      "tags": [
+        "bearing outer races",
+        "drift",
+        "carrier housing"
+      ],
+      "dimensions": [
+        361,
+        323
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_43_removing_side_bearing_r200",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_43_removing_side_bearing_r200.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_43_removing_side_bearing_r200.png",
+      "page_num": 16,
+      "page_label": "PD-16",
+      "fig_id": "Fig. PD-43",
+      "code": "PD350",
+      "caption": "Fig. PD-43 Removing side bearing",
+      "diagram_type": "procedure_step",
+      "description": "Differential side bearing puller set ST3306S001 removing side bearing from differential case.",
+      "components": [
+        "Differential case",
+        "Side bearing",
+        "Puller ST33051001",
+        "Adapter ST33061000"
+      ],
+      "callouts": {
+        "ST33051001": "Puller body",
+        "ST33061000": "Adapter"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Utilize two grooves in differential case to securely attach puller.",
+      "tags": [
+        "side bearing",
+        "differential case",
+        "ST33051001",
+        "ST33061000",
+        "puller"
+      ],
+      "dimensions": [
+        360,
+        314
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_44_measuring_clearance_r200",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_44_measuring_clearance_r200.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_44_measuring_clearance_r200.png",
+      "page_num": 17,
+      "page_label": "PD-17",
+      "fig_id": "Fig. PD-44",
+      "code": "PD023",
+      "caption": "Fig. PD-44 Measuring clearance",
+      "diagram_type": "inspection_measurement",
+      "description": "Feeler gauge measuring clearance between rear face of side gear and thrust washer in differential case.",
+      "components": [
+        "Differential case",
+        "Side gear",
+        "Thrust washer",
+        "Feeler gauge"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Normal clearance: 0.1 to 0.2 mm (0.004 to 0.008 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Measure clearance between rear face of side gear and thrust washer.",
+      "tags": [
+        "side gear",
+        "clearance",
+        "thrust washer",
+        "feeler gauge"
+      ],
+      "dimensions": [
+        360,
+        305
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_45_tapping_bolt_heads_r200",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_45_tapping_bolt_heads_r200.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_45_tapping_bolt_heads_r200.png",
+      "page_num": 17,
+      "page_label": "PD-17",
+      "fig_id": "Fig. PD-45",
+      "code": "PD351",
+      "caption": "Fig. PD-45 Tapping bolt heads",
+      "diagram_type": "procedure_step",
+      "description": "Lightly tapping ring gear bolt heads with a hammer while tightening in criss-cross fashion.",
+      "components": [
+        "Differential case",
+        "Ring gear",
+        "Hammer",
+        "Wrench",
+        "Vise"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tightening torque: 7 to 8 kg-m (51 to 58 ft-lb) [Note: later specified as 6.0 to 7.0 kg-m (43 to 51 ft-lb) in SDS]"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Apply Loctite (stud lock) to bolts and tighten in criss-cross fashion.",
+      "tags": [
+        "ring gear",
+        "bolts",
+        "criss-cross",
+        "torque",
+        "hammer"
+      ],
+      "dimensions": [
+        354,
+        323
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_46_measuring_bearing_width_r200",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_46_measuring_bearing_width_r200.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_46_measuring_bearing_width_r200.png",
+      "page_num": 17,
+      "page_label": "PD-17",
+      "fig_id": "Fig. PD-46",
+      "code": "PD425",
+      "caption": "Fig. PD-46 Measuring bearing width",
+      "diagram_type": "inspection_measurement",
+      "description": "Measuring side bearing width using Master Gauge KV38102000 and Weight Block ST32501000 under a dial indicator.",
+      "components": [
+        "Master Gauge KV38102000",
+        "Weight Block ST32501000",
+        "Bearing",
+        "Dial gauge"
+      ],
+      "callouts": {
+        "KV38102000": "Master gauge",
+        "ST32501000": "Weight block",
+        "Bearing": "Side bearing"
+      },
+      "measurements_and_specs": [
+        "Standard bearing width: 21.00 mm (0.8268 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Measure bearing width using Master Gauge KV38102000 prior to installation.",
+      "tags": [
+        "side bearing",
+        "bearing width",
+        "KV38102000",
+        "ST32501000",
+        "dial indicator"
+      ],
+      "dimensions": [
+        360,
+        332
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_47_installing_side_bearing_inner_race_r200",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_47_installing_side_bearing_inner_race_r200.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_47_installing_side_bearing_inner_race_r200.png",
+      "page_num": 18,
+      "page_label": "PD-18",
+      "fig_id": "Fig. PD-47",
+      "code": "PD353",
+      "caption": "Fig. PD-47 Installing side bearing inner race",
+      "diagram_type": "procedure_step",
+      "description": "Press fitting side bearing inner race on differential case using drift KV38100300 and adapter ST33061000.",
+      "components": [
+        "Differential case",
+        "Side bearing inner race",
+        "Drift KV38100300",
+        "Adapter ST33061000"
+      ],
+      "callouts": {
+        "KV38100300": "Diff side bearing drift",
+        "ST33061000": "Adapter"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Press fit side bearing inner race on differential case with drift KV38100300 and adapter ST33061000.",
+      "tags": [
+        "side bearing",
+        "differential case",
+        "KV38100300",
+        "ST33061000"
+      ],
+      "dimensions": [
+        354,
+        366
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_48_tightening_drive_pinion_nut_r200",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_48_tightening_drive_pinion_nut_r200.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_48_tightening_drive_pinion_nut_r200.png",
+      "page_num": 18,
+      "page_label": "PD-18",
+      "fig_id": "Fig. PD-48",
+      "code": "PD354",
+      "caption": "Fig. PD-48 Tightening drive pinion nut",
+      "diagram_type": "procedure_step",
+      "description": "Tightening drive pinion nut on dummy shaft using stopper KV38100140.",
+      "components": [
+        "Differential carrier",
+        "Dummy shaft",
+        "Stopper KV38100140",
+        "Wrench"
+      ],
+      "callouts": {
+        "KV38100140": "Stopper"
+      },
+      "measurements_and_specs": [
+        "Pinion nut torque: 19 to 22 kg-m (137 to 159 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Tighten drive pinion nut to specified torque with Stopper KV38100140.",
+      "tags": [
+        "drive pinion nut",
+        "dummy shaft",
+        "KV38100140",
+        "stopper"
+      ],
+      "dimensions": [
+        360,
+        305
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_49_measuring_pinion_preload_r200",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_49_measuring_pinion_preload_r200.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_49_measuring_pinion_preload_r200.png",
+      "page_num": 18,
+      "page_label": "PD-18",
+      "fig_id": "Fig. PD-49",
+      "code": "PD340",
+      "caption": "Fig. PD-49 Measuring pinion preload",
+      "diagram_type": "inspection_measurement",
+      "description": "Measuring pinion preload using torque wrench gauge ST3127S000.",
+      "components": [
+        "Differential carrier",
+        "Preload gauge ST3127S000"
+      ],
+      "callouts": {
+        "ST3127S000": "Preload gauge"
+      },
+      "measurements_and_specs": [
+        "Preload (without oil seal): 10 to 13 kg-cm (8.7 to 11.3 in-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Preload of old bearing is the same value as that of a new bearing.",
+      "tags": [
+        "pinion preload",
+        "ST3127S000",
+        "preload gauge"
+      ],
+      "dimensions": [
+        361,
+        279
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_50_measuring_clearance_n_r200",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_50_measuring_clearance_n_r200.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_50_measuring_clearance_n_r200.png",
+      "page_num": 19,
+      "page_label": "PD-19",
+      "fig_id": "Fig. PD-50",
+      "code": "PD355",
+      "caption": "Fig. PD-50 Measuring the clearance (N)",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross-sectional drawing showing dummy shaft KV38100110, collar KV38100130, and height gauge KV38100120 assembled in carrier to measure clearance N.",
+      "components": [
+        "Differential carrier",
+        "Height gauge KV38100120",
+        "Dummy shaft KV38100110",
+        "Collar KV38100130"
+      ],
+      "callouts": {
+        "Height gauge (KV38100120)": "Height gauge",
+        "Dummy shaft (KV38100110)": "Dummy shaft",
+        "Collar (KV38100130)": "Collar",
+        "N": "Clearance"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Measure clearance N between tip of height gauge and end surface of dummy shaft.",
+      "tags": [
+        "dummy shaft",
+        "height gauge",
+        "KV38100120",
+        "KV38100110",
+        "clearance N"
+      ],
+      "dimensions": [
+        660,
+        542
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_51_adjusting_pinion_height_r200",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_51_adjusting_pinion_height_r200.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_51_adjusting_pinion_height_r200.png",
+      "page_num": 19,
+      "page_label": "PD-19",
+      "fig_id": "Fig. PD-51",
+      "code": "PD356",
+      "caption": "Fig. PD-51 Adjusting pinion height",
+      "diagram_type": "inspection_measurement",
+      "description": "Using a feeler/thickness gauge to measure clearance between height gauge KV38100120 and dummy shaft KV38100110.",
+      "components": [
+        "Differential carrier",
+        "Height gauge KV38100120",
+        "Dummy shaft KV38100110",
+        "Thickness gauge"
+      ],
+      "callouts": {
+        "KV38100120": "Height gauge",
+        "KV38100110": "Dummy shaft"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Measure clearance N using a thickness gauge.",
+      "tags": [
+        "pinion height",
+        "thickness gauge",
+        "KV38100120",
+        "KV38100110"
+      ],
+      "dimensions": [
+        322,
+        279
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_52_variation_number_on_drive_pinion_r200",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_52_variation_number_on_drive_pinion_r200.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_52_variation_number_on_drive_pinion_r200.png",
+      "page_num": 19,
+      "page_label": "PD-19",
+      "fig_id": "Fig. PD-52",
+      "code": "PD186",
+      "caption": "Fig. PD-52 Variation number on drive pinion",
+      "diagram_type": "alignment_orientation",
+      "description": "Head of drive pinion showing set number 41 and head variation number (H) stamped as +2.",
+      "components": [
+        "Drive pinion"
+      ],
+      "callouts": {
+        "Head number (H)": "+2",
+        "Set number": "41"
+      },
+      "measurements_and_specs": [
+        "Unit of 1/100 mm (4/10,000 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Figure marked on the drive pinion head is used for calculation formula.",
+      "tags": [
+        "drive pinion",
+        "head number",
+        "variation number",
+        "set number"
+      ],
+      "dimensions": [
+        348,
+        227
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_53_pressing_rear_bearing_inner_race_r200",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_53_pressing_rear_bearing_inner_race_r200.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_53_pressing_rear_bearing_inner_race_r200.png",
+      "page_num": 20,
+      "page_label": "PD-20",
+      "fig_id": "Fig. PD-53",
+      "code": "PD092",
+      "caption": "Fig. PD-53 Pressing rear bearing inner race",
+      "diagram_type": "procedure_step",
+      "description": "Press fitting drive pinion rear bearing inner race onto pinion using Base ST30901000.",
+      "components": [
+        "Drive pinion",
+        "Rear bearing inner race",
+        "Base ST30901000"
+      ],
+      "callouts": {
+        "ST30901000": "Base"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Insert washer into pinion with the chamfered side towards gear.",
+      "tags": [
+        "drive pinion",
+        "rear bearing",
+        "ST30901000",
+        "press fit"
+      ],
+      "dimensions": [
+        361,
+        332
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_54_thickness_left_right_washers_r200",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_54_thickness_left_right_washers_r200.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_54_thickness_left_right_washers_r200.png",
+      "page_num": 20,
+      "page_label": "PD-20",
+      "fig_id": "Fig. PD-54",
+      "code": "PD357",
+      "caption": "Fig. PD-54 Thickness of left and right washers",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross section of differential carrier showing dimensions T1 and T2 for left and right side bearing adjusting washers.",
+      "components": [
+        "Differential carrier housing",
+        "Differential case",
+        "Side bearings",
+        "Adjusting washers"
+      ],
+      "callouts": {
+        "T1": "Left side washer thickness",
+        "T2": "Right side washer thickness"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Use formulas for T1 and T2 to calculate required washer thicknesses.",
+      "tags": [
+        "side bearing",
+        "adjusting washer",
+        "T1",
+        "T2",
+        "preload",
+        "backlash"
+      ],
+      "dimensions": [
+        334,
+        349
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_55_a_and_b_figures_r200",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_55_a_and_b_figures_r200.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_55_a_and_b_figures_r200.png",
+      "page_num": 20,
+      "page_label": "PD-20",
+      "fig_id": "Fig. PD-55",
+      "code": "PD358",
+      "caption": "Fig. PD-55 A & B figures",
+      "diagram_type": "component_location",
+      "description": "Carrier casting showing locations of stamped figures A and B.",
+      "components": [
+        "Differential carrier housing"
+      ],
+      "callouts": {
+        "A": "Left bearing seat variation mark",
+        "B": "Right bearing seat variation mark"
+      },
+      "measurements_and_specs": [
+        "Unit of 1/100 mm"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Figures marked on the gear carrier casting.",
+      "tags": [
+        "carrier housing",
+        "stamped figures",
+        "A and B",
+        "R200"
+      ],
+      "dimensions": [
+        354,
+        279
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_56_c_and_d_figures_r200",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_56_c_and_d_figures_r200.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_56_c_and_d_figures_r200.png",
+      "page_num": 20,
+      "page_label": "PD-20",
+      "fig_id": "Fig. PD-56",
+      "code": "PD359",
+      "caption": "Fig. PD-56 C & D figures",
+      "diagram_type": "component_location",
+      "description": "Differential case showing stamped variation figures C and D.",
+      "components": [
+        "Differential case",
+        "Ring gear"
+      ],
+      "callouts": {
+        "C": "Left side variation mark",
+        "D": "Right side variation mark"
+      },
+      "measurements_and_specs": [
+        "Unit of 1/100 mm"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Figures marked on the differential case.",
+      "tags": [
+        "differential case",
+        "stamped figures",
+        "C and D",
+        "R200"
+      ],
+      "dimensions": [
+        309,
+        305
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_57_variation_number_on_ring_gear_r200",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_57_variation_number_on_ring_gear_r200.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_57_variation_number_on_ring_gear_r200.png",
+      "page_num": 20,
+      "page_label": "PD-20",
+      "fig_id": "Fig. PD-57",
+      "code": "PD190",
+      "caption": "Fig. PD-57 Variation number on ring gear",
+      "diagram_type": "component_location",
+      "description": "Ring gear back face showing set number and stamped variation number (H').",
+      "components": [
+        "Ring gear"
+      ],
+      "callouts": {
+        "Set number": "41",
+        "Variation number (H')": "-2"
+      },
+      "measurements_and_specs": [
+        "Unit of 1/100 mm"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Figure marked on ring gear back face.",
+      "tags": [
+        "ring gear",
+        "variation number",
+        "H'",
+        "set number"
+      ],
+      "dimensions": [
+        347,
+        236
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_58_driving_spacer_into_place",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_58_driving_spacer_into_place.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_58_driving_spacer_into_place.png",
+      "page_num": 21,
+      "page_label": "PD-21",
+      "fig_id": "Fig. PD-58",
+      "code": "PD361",
+      "caption": "Fig. PD-58 Driving spacer into place",
+      "diagram_type": "procedure_step",
+      "description": "Driving side bearing spacer into carrier between R.H. washer and housing using drift KV38100600.",
+      "components": [
+        "Differential carrier",
+        "Side bearing spacer",
+        "Side Bearing Spacer Drift KV38100600",
+        "Hammer"
+      ],
+      "callouts": {
+        "KV38100600": "Side bearing spacer drift"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Be careful not to tilt side bearing outer race to either side when driving spacer into place.",
+      "tags": [
+        "side bearing spacer",
+        "KV38100600",
+        "drift",
+        "R200"
+      ],
+      "dimensions": [
+        354,
+        288
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_59_tightening_side_bearing_cap",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_59_tightening_side_bearing_cap.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_59_tightening_side_bearing_cap.png",
+      "page_num": 21,
+      "page_label": "PD-21",
+      "fig_id": "Fig. PD-59",
+      "code": "PD362",
+      "caption": "Fig. PD-59 Tightening side bearing cap",
+      "diagram_type": "procedure_step",
+      "description": "Torquing side bearing cap bolts with torque wrench.",
+      "components": [
+        "Differential carrier",
+        "Bearing cap",
+        "Torque wrench"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tightening torque: 9 to 10 kg-m (65 to 72 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Align mark on bearing cap with that on carrier before tightening.",
+      "tags": [
+        "side bearing cap",
+        "torque wrench",
+        "tightening torque",
+        "R200"
+      ],
+      "dimensions": [
+        348,
+        314
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_60_measuring_backlash_ring_gear_pinion",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_60_measuring_backlash_ring_gear_pinion.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_60_measuring_backlash_ring_gear_pinion.png",
+      "page_num": 21,
+      "page_label": "PD-21",
+      "fig_id": "Fig. PD-60",
+      "code": "PD341",
+      "caption": "Fig. PD-60 Measuring the backlash of ring gear and pinion",
+      "diagram_type": "inspection_measurement",
+      "description": "Dial indicator set up against ring gear tooth to verify backlash on R200 differential.",
+      "components": [
+        "Differential carrier",
+        "Ring gear",
+        "Dial indicator"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Backlash: 0.13 to 0.18 mm (0.0051 to 0.0071 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Do not change total thickness of washers to maintain correct preload at all times.",
+      "tags": [
+        "backlash",
+        "ring gear",
+        "drive pinion",
+        "dial indicator",
+        "R200"
+      ],
+      "dimensions": [
+        277,
+        305
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_61_heel_contact_r200",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_61_heel_contact_r200.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_61_heel_contact_r200.png",
+      "page_num": 22,
+      "page_label": "PD-22",
+      "fig_id": "Fig. PD-61",
+      "code": "PD193",
+      "caption": "Fig. PD-61 Heel contact",
+      "diagram_type": "inspection_measurement",
+      "description": "Tooth contact showing heel contact.",
+      "components": [
+        "Gear tooth"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Increase thickness of pinion height adjusting washer to correct.",
+      "tags": [
+        "tooth contact",
+        "heel contact"
+      ],
+      "dimensions": [
+        347,
+        208
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_62_toe_contact_r200",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_62_toe_contact_r200.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_62_toe_contact_r200.png",
+      "page_num": 22,
+      "page_label": "PD-22",
+      "fig_id": "Fig. PD-62",
+      "code": "PD194",
+      "caption": "Fig. PD-62 Toe contact",
+      "diagram_type": "inspection_measurement",
+      "description": "Tooth contact showing toe contact.",
+      "components": [
+        "Gear tooth"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Reduce thickness of pinion height adjusting washer to correct.",
+      "tags": [
+        "tooth contact",
+        "toe contact"
+      ],
+      "dimensions": [
+        366,
+        200
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_63_flank_contact_r200",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_63_flank_contact_r200.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_63_flank_contact_r200.png",
+      "page_num": 22,
+      "page_label": "PD-22",
+      "fig_id": "Fig. PD-63",
+      "code": "PD195",
+      "caption": "Fig. PD-63 Flank contact",
+      "diagram_type": "inspection_measurement",
+      "description": "Tooth contact showing flank contact.",
+      "components": [
+        "Gear tooth"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Adjust in the same manner as toe contact (reduce thickness).",
+      "tags": [
+        "tooth contact",
+        "flank contact"
+      ],
+      "dimensions": [
+        366,
+        200
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_64_face_contact_r200",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_64_face_contact_r200.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_64_face_contact_r200.png",
+      "page_num": 22,
+      "page_label": "PD-22",
+      "fig_id": "Fig. PD-64",
+      "code": "PD196",
+      "caption": "Fig. PD-64 Face contact",
+      "diagram_type": "inspection_measurement",
+      "description": "Tooth contact showing face contact.",
+      "components": [
+        "Gear tooth"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Adjust in the same manner as heel contact (increase thickness).",
+      "tags": [
+        "tooth contact",
+        "face contact"
+      ],
+      "dimensions": [
+        366,
+        209
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_65_correct_tooth_contact_r200",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_65_correct_tooth_contact_r200.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_65_correct_tooth_contact_r200.png",
+      "page_num": 22,
+      "page_label": "PD-22",
+      "fig_id": "Fig. PD-65",
+      "code": "PD197",
+      "caption": "Fig. PD-65 Correct contact",
+      "diagram_type": "inspection_measurement",
+      "description": "Diagram illustrating correct hypoid gear tooth contact pattern.",
+      "components": [
+        "Gear tooth"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Proper pattern centered on tooth flank.",
+      "tags": [
+        "tooth contact",
+        "correct contact"
+      ],
+      "dimensions": [
+        335,
+        209
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_66_installing_side_oil_seal",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_66_installing_side_oil_seal.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_66_installing_side_oil_seal.png",
+      "page_num": 22,
+      "page_label": "PD-22",
+      "fig_id": "Fig. PD-66",
+      "code": "PD363",
+      "caption": "Fig. PD-66 Installing side oil seal",
+      "diagram_type": "procedure_step",
+      "description": "Pressing side oil seal into carrier housing using Drift KV38100200.",
+      "components": [
+        "Differential carrier",
+        "Side oil seal",
+        "Drift KV38100200"
+      ],
+      "callouts": {
+        "KV38100200": "Side oil seal drift"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Apply grease to cavity at sealing lips of oil seal before driving in.",
+      "tags": [
+        "side oil seal",
+        "KV38100200",
+        "drift",
+        "carrier"
+      ],
+      "dimensions": [
+        354,
+        262
+      ]
+    },
+    {
+      "section_title": "PROPELLER SHAFT & DIFFERENTIAL CARRIER",
+      "source_md": "1978 280z FSM/PD Propeller Shaft and Differential.md",
+      "slug": "fig_pd_67_installing_side_flange",
+      "file": "markdown/1978 280z FSM/diagrams/PD Propeller Shaft and Differential/fig_pd_67_installing_side_flange.png",
+      "rel_link": "diagrams/PD Propeller Shaft and Differential/fig_pd_67_installing_side_flange.png",
+      "page_num": 22,
+      "page_label": "PD-22",
+      "fig_id": "Fig. PD-67",
+      "code": "PD364",
+      "caption": "Fig. PD-67 Installing side flange",
+      "diagram_type": "procedure_step",
+      "description": "Installing side flange into carrier housing with light hammer taps to engage circlip.",
+      "components": [
+        "Differential carrier",
+        "Side flange",
+        "Hammer"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Engage spline and apply light hammer blows until side flange circlip is fitted into groove. Shorter flange on left, longer on right.",
+      "tags": [
+        "side flange",
+        "circlip",
+        "hammer",
+        "installation"
+      ],
+      "dimensions": [
+        348,
+        279
+      ]
+    }
+  ],
+  "torques": [
+    {
+      "component": "Propeller shaft to companion flange bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.5 to 4.5 (25 to 33)",
+      "page_label": "PD-2"
+    },
+    {
+      "component": "Drive pinion nut (R180)",
+      "unit": "kg-m (ft-lb)",
+      "value": "17 to 20 (123 to 145)",
+      "page_label": "PD-5"
+    },
+    {
+      "component": "Ring gear bolt (R180)",
+      "unit": "kg-m (ft-lb)",
+      "value": "9.0 to 10.0 (65 to 72)",
+      "page_label": "PD-5"
+    },
+    {
+      "component": "Side retainer bolt (R180)",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.9 to 1.2 (6.5 to 8.7)",
+      "page_label": "PD-5"
+    },
+    {
+      "component": "Rear cover to rear mounting member lock nut (R180)",
+      "unit": "kg-m (ft-lb)",
+      "value": "6.0 to 7.0 (43 to 51)",
+      "page_label": "PD-5"
+    },
+    {
+      "component": "Rear cover fixing bolt (R180)",
+      "unit": "kg-m (ft-lb)",
+      "value": "4.0 to 5.0 (29 to 36)",
+      "page_label": "PD-25"
+    },
+    {
+      "component": "Flange yoke to side gear fixing bolt (R180)",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.2 to 4.3 (23 to 31)",
+      "page_label": "PD-12"
+    },
+    {
+      "component": "Drive shaft to companion flange fixing bolt (R180)",
+      "unit": "kg-m (ft-lb)",
+      "value": "5.0 to 6.0 (36 to 43)",
+      "page_label": "PD-12"
+    },
+    {
+      "component": "Drive pinion nut (R200)",
+      "unit": "kg-m (ft-lb)",
+      "value": "19 to 22 (137 to 159)",
+      "page_label": "PD-14"
+    },
+    {
+      "component": "Ring gear bolt (R200)",
+      "unit": "kg-m (ft-lb)",
+      "value": "6.0 to 7.0 (43 to 51)",
+      "page_label": "PD-14"
+    },
+    {
+      "component": "Side bearing cap bolt (R200)",
+      "unit": "kg-m (ft-lb)",
+      "value": "9.0 to 10.0 (65 to 72)",
+      "page_label": "PD-14"
+    },
+    {
+      "component": "Rear cover fixing bolt (R200)",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.6 to 2.4 (12 to 17)",
+      "page_label": "PD-14"
+    },
+    {
+      "component": "Rear cover to rear mounting member lock nut (R200)",
+      "unit": "kg-m (ft-lb)",
+      "value": "7.5 to 9.5 (54 to 69)",
+      "page_label": "PD-14"
+    },
+    {
+      "component": "Side flange to drive shaft fixing nut (R200)",
+      "unit": "kg-m (ft-lb)",
+      "value": "5.0 to 6.0 (36 to 43)",
+      "page_label": "PD-23"
+    },
+    {
+      "component": "Differential carrier to front mounting insulator fixing bolt (both)",
+      "unit": "kg-m (ft-lb)",
+      "value": "6.0 to 8.0 (43 to 58)",
+      "page_label": "PD-25"
+    },
+    {
+      "component": "Filler and drain plug (both)",
+      "unit": "kg-m (ft-lb)",
+      "value": "4.2 to 6.9 (30 to 50)",
+      "page_label": "PD-14"
+    }
+  ],
+  "specs": [
+    {
+      "system": "Propeller Shaft",
+      "item": "Permissible dynamic unbalance",
+      "unit": "gr-cm (in-oz)",
+      "standard": "35 (0.49) at 5,800 rpm",
+      "limit": "35 (0.49)",
+      "page_label": "PD-3"
+    },
+    {
+      "system": "Propeller Shaft",
+      "item": "Axial play of spider journal",
+      "unit": "mm (in)",
+      "standard": "0 (0)",
+      "limit": "0 (0)",
+      "page_label": "PD-3"
+    },
+    {
+      "system": "Propeller Shaft",
+      "item": "Journal swinging torque",
+      "unit": "kg-cm (in-lb)",
+      "standard": "3 to 15 (2.6 to 13.0)",
+      "limit": "-",
+      "page_label": "PD-3"
+    },
+    {
+      "system": "Differential Carrier (R180)",
+      "item": "Gear ratio (number of teeth)",
+      "unit": "-",
+      "standard": "3.545 (39/11)",
+      "limit": "-",
+      "page_label": "PD-24"
+    },
+    {
+      "system": "Differential Carrier (R180)",
+      "item": "Drive pinion preload (without oil seal)",
+      "unit": "kg-cm (in-lb)",
+      "standard": "10 to 13 (8.7 to 11.3)",
+      "limit": "-",
+      "page_label": "PD-24"
+    },
+    {
+      "system": "Differential Carrier (R180)",
+      "item": "Drive pinion preload (with oil seal)",
+      "unit": "kg-cm (in-lb)",
+      "standard": "11 to 17 (9.5 to 14.8)",
+      "limit": "-",
+      "page_label": "PD-24"
+    },
+    {
+      "system": "Differential Carrier (R180)",
+      "item": "Side gear to pinion mate backlash / clearance",
+      "unit": "mm (in)",
+      "standard": "0.1 to 0.2 (0.004 to 0.008)",
+      "limit": "-",
+      "page_label": "PD-25"
+    },
+    {
+      "system": "Differential Carrier (R180)",
+      "item": "Ring gear-to-drive pinion backlash",
+      "unit": "mm (in)",
+      "standard": "0.10 to 0.20 (0.0039 to 0.0079)",
+      "limit": "-",
+      "page_label": "PD-25"
+    },
+    {
+      "system": "Differential Carrier (R180)",
+      "item": "Side bearing standard width",
+      "unit": "mm (in)",
+      "standard": "20.00 (0.7874)",
+      "limit": "-",
+      "page_label": "PD-25"
+    },
+    {
+      "system": "Differential Carrier (R180)",
+      "item": "Oil capacity",
+      "unit": "liter (U.S. pt., Imp. pt.)",
+      "standard": "1.0 (2 1/8, 1 3/4)",
+      "limit": "-",
+      "page_label": "PD-25"
+    },
+    {
+      "system": "Differential Carrier (R200)",
+      "item": "Gear ratio (number of teeth)",
+      "unit": "-",
+      "standard": "3.545 (39/11)",
+      "limit": "-",
+      "page_label": "PD-24"
+    },
+    {
+      "system": "Differential Carrier (R200)",
+      "item": "Drive pinion preload (without oil seal)",
+      "unit": "kg-cm (in-lb)",
+      "standard": "10 to 13 (8.7 to 11.3)",
+      "limit": "-",
+      "page_label": "PD-24"
+    },
+    {
+      "system": "Differential Carrier (R200)",
+      "item": "Drive pinion preload (with oil seal)",
+      "unit": "kg-cm (in-lb)",
+      "standard": "11 to 17 (9.5 to 14.8)",
+      "limit": "-",
+      "page_label": "PD-24"
+    },
+    {
+      "system": "Differential Carrier (R200)",
+      "item": "Side gear to pinion mate backlash / clearance",
+      "unit": "mm (in)",
+      "standard": "0.1 to 0.2 (0.004 to 0.008)",
+      "limit": "-",
+      "page_label": "PD-25"
+    },
+    {
+      "system": "Differential Carrier (R200)",
+      "item": "Ring gear-to-drive pinion backlash",
+      "unit": "mm (in)",
+      "standard": "0.13 to 0.18 (0.0051 to 0.0071)",
+      "limit": "-",
+      "page_label": "PD-25"
+    },
+    {
+      "system": "Differential Carrier (R200)",
+      "item": "Side bearing standard width",
+      "unit": "mm (in)",
+      "standard": "21.00 (0.8268)",
+      "limit": "-",
+      "page_label": "PD-25"
+    },
+    {
+      "system": "Differential Carrier (R200)",
+      "item": "Oil capacity",
+      "unit": "liter (U.S. pt., Imp. pt.)",
+      "standard": "1.3 (2 3/4, 2 1/4)",
+      "limit": "-",
+      "page_label": "PD-25"
+    }
+  ],
+  "troubleshooting": [
+    {
+      "symptom": "Vibration at medium or high speed",
+      "probable_cause": "Worn or damaged universal joint needle bearing",
+      "corrective_action": "Replace propeller shaft assembly.",
+      "page_label": "PD-3"
+    },
+    {
+      "symptom": "Vibration at medium or high speed",
+      "probable_cause": "Unbalance due to bent or dented propeller shaft",
+      "corrective_action": "Replace propeller shaft assembly.",
+      "page_label": "PD-3"
+    },
+    {
+      "symptom": "Vibration at medium or high speed",
+      "probable_cause": "Loose propeller shaft installation",
+      "corrective_action": "Retighten.",
+      "page_label": "PD-3"
+    },
+    {
+      "symptom": "Vibration at medium or high speed",
+      "probable_cause": "Worn transmission rear extension bushing",
+      "corrective_action": "Replace.",
+      "page_label": "PD-3"
+    },
+    {
+      "symptom": "Vibration at medium or high speed",
+      "probable_cause": "Undercoating or mud on the shaft causing unbalance",
+      "corrective_action": "Clean shaft.",
+      "page_label": "PD-3"
+    },
+    {
+      "symptom": "Vibration at medium or high speed",
+      "probable_cause": "Tire unbalance",
+      "corrective_action": "Balance wheel and tire assembly.",
+      "page_label": "PD-3"
+    },
+    {
+      "symptom": "Vibration at medium or high speed",
+      "probable_cause": "Balance weights missing",
+      "corrective_action": "Replace.",
+      "page_label": "PD-3"
+    },
+    {
+      "symptom": "Knocking sound on propeller shaft while starting or noise while coasting",
+      "probable_cause": "Worn or damaged universal joint",
+      "corrective_action": "Replace propeller shaft assembly.",
+      "page_label": "PD-3"
+    },
+    {
+      "symptom": "Knocking sound on propeller shaft while starting or noise while coasting",
+      "probable_cause": "Worn sleeve yoke and main shaft spline",
+      "corrective_action": "Replace propeller shaft assembly.",
+      "page_label": "PD-3"
+    },
+    {
+      "symptom": "Knocking sound on propeller shaft while starting or noise while coasting",
+      "probable_cause": "Loose propeller shaft installation",
+      "corrective_action": "Retighten.",
+      "page_label": "PD-3"
+    },
+    {
+      "symptom": "Scraping noise",
+      "probable_cause": "Dust cover on sleeve yoke rubbing on transmission rear extension. Dust cover on companion flange rubbing on differential carrier.",
+      "corrective_action": "Straighten dust cover to remove interference.",
+      "page_label": "PD-3"
+    },
+    {
+      "symptom": "Noise during driving and/or coasting",
+      "probable_cause": "Shortage of oil",
+      "corrective_action": "Supply gear oil. Rebuild gear carrier if necessary.",
+      "page_label": "PD-26"
+    },
+    {
+      "symptom": "Noise during driving and/or coasting",
+      "probable_cause": "Incorrect tooth contact between ring gear and drive pinion",
+      "corrective_action": "Adjust tooth contact or replace the hypoid gear set.",
+      "page_label": "PD-26"
+    },
+    {
+      "symptom": "Noise during driving and/or coasting",
+      "probable_cause": "Incorrect backlash between ring gear and drive pinion",
+      "corrective_action": "Adjust backlash or replace the hypoid gear set if necessary.",
+      "page_label": "PD-26"
+    },
+    {
+      "symptom": "Noise during driving and/or coasting",
+      "probable_cause": "Seized or damaged ring gear and drive pinion",
+      "corrective_action": "Replace the hypoid gear set.",
+      "page_label": "PD-26"
+    },
+    {
+      "symptom": "Noise during driving and/or coasting",
+      "probable_cause": "Seized, damaged or broken drive pinion bearing",
+      "corrective_action": "Replace the pinion bearing and faulty parts.",
+      "page_label": "PD-26"
+    },
+    {
+      "symptom": "Noise during driving and/or coasting",
+      "probable_cause": "Seized, damaged or broken side bearing",
+      "corrective_action": "Replace the side bearing and faulty parts.",
+      "page_label": "PD-26"
+    },
+    {
+      "symptom": "Noise during driving and/or coasting",
+      "probable_cause": "Loose bolts or nuts fixing ring gear, side bearing caps, etc.",
+      "corrective_action": "Tighten to specified torque, and replace faulty parts.",
+      "page_label": "PD-26"
+    },
+    {
+      "symptom": "Noise on turns",
+      "probable_cause": "Seized, damaged or broken side and pinion gears",
+      "corrective_action": "Replace faulty parts.",
+      "page_label": "PD-26"
+    },
+    {
+      "symptom": "Noise on turns",
+      "probable_cause": "Seized, damaged or broken side gear and pinion thrust washer",
+      "corrective_action": "Replace faulty parts.",
+      "page_label": "PD-26"
+    },
+    {
+      "symptom": "Noise on turns",
+      "probable_cause": "Pinion gears too tight on their shaft",
+      "corrective_action": "Replace faulty parts.",
+      "page_label": "PD-26"
+    },
+    {
+      "symptom": "Noise on turns",
+      "probable_cause": "Interference between side flange and differential case",
+      "corrective_action": "Repair the part responsible for interference, or replace the side flange and differential case.",
+      "page_label": "PD-26"
+    },
+    {
+      "symptom": "Knocking sound during starting or gear shifting",
+      "probable_cause": "Excessive backlash (ring gear-to-drive pinion or side gear-to-pinion gear)",
+      "corrective_action": "Adjust backlash.",
+      "page_label": "PD-26"
+    },
+    {
+      "symptom": "Knocking sound during starting or gear shifting",
+      "probable_cause": "Worn gears or case",
+      "corrective_action": "Replace worn parts.",
+      "page_label": "PD-26"
+    },
+    {
+      "symptom": "Knocking sound during starting or gear shifting",
+      "probable_cause": "Worn side flange and side gear spline",
+      "corrective_action": "Replace worn parts.",
+      "page_label": "PD-26"
+    },
+    {
+      "symptom": "Knocking sound during starting or gear shifting",
+      "probable_cause": "Pinion bearing under preload",
+      "corrective_action": "Adjust preload.",
+      "page_label": "PD-26"
+    },
+    {
+      "symptom": "Knocking sound during starting or gear shifting",
+      "probable_cause": "Loose drive pinion nut",
+      "corrective_action": "Repair or replace.",
+      "page_label": "PD-26"
+    },
+    {
+      "symptom": "Knocking sound during starting or gear shifting",
+      "probable_cause": "Loose bolts or nuts fixing ring gear, side bearing caps, etc.",
+      "corrective_action": "Tighten or replace if necessary.",
+      "page_label": "PD-26"
+    },
+    {
+      "symptom": "Seizure or breakage",
+      "probable_cause": "Shortage of oil or use of unsuitable oil",
+      "corrective_action": "Replace faulty parts.",
+      "page_label": "PD-26"
+    },
+    {
+      "symptom": "Seizure or breakage",
+      "probable_cause": "Excessively small backlash",
+      "corrective_action": "Adjust backlash and replace as required.",
+      "page_label": "PD-26"
+    },
+    {
+      "symptom": "Seizure or breakage",
+      "probable_cause": "Incorrect adjustment of bearings or gears",
+      "corrective_action": "Replace faulty parts.",
+      "page_label": "PD-26"
+    },
+    {
+      "symptom": "Seizure or breakage",
+      "probable_cause": "Severe service due to excessive loading, improper use of clutch",
+      "corrective_action": "Replace faulty parts.",
+      "page_label": "PD-26"
+    },
+    {
+      "symptom": "Seizure or breakage",
+      "probable_cause": "Loose bolts and nuts, such as ring gear bolts",
+      "corrective_action": "Replace faulty parts.",
+      "page_label": "PD-26"
+    },
+    {
+      "symptom": "Oil leakage",
+      "probable_cause": "Worn-out, damaged or improperly driven front oil seal, or bruised, dented or abnormally worn slide face of companion flange",
+      "corrective_action": "Replace the faulty oil seal. Amend the affected flange with sandpaper or replace if necessary.",
+      "page_label": "PD-27"
+    },
+    {
+      "symptom": "Oil leakage",
+      "probable_cause": "Worn, damaged or improperly driven side oil seal, or bruised, dented or abnormally worn slide flange",
+      "corrective_action": "Treat as above.",
+      "page_label": "PD-27"
+    },
+    {
+      "symptom": "Oil leakage",
+      "probable_cause": "Loose rear cover bolts",
+      "corrective_action": "Tighten the bolts to specified torque.",
+      "page_label": "PD-27"
+    },
+    {
+      "symptom": "Oil leakage",
+      "probable_cause": "Worn rear cover gasket",
+      "corrective_action": "Replace the faulty gasket with new one.",
+      "page_label": "PD-27"
+    },
+    {
+      "symptom": "Oil leakage",
+      "probable_cause": "Loose filler or drain plug",
+      "corrective_action": "Tighten the plug.",
+      "page_label": "PD-27"
+    },
+    {
+      "symptom": "Oil leakage",
+      "probable_cause": "Clogged or damaged breather",
+      "corrective_action": "Repair or replace.",
+      "page_label": "PD-27"
+    }
+  ],
+  "special_tools": [
+    {
+      "tool_number": "ST30611000",
+      "tool_name": "Drive pinion outer race drift bar",
+      "kent_moore_no": "J 25742-1",
+      "ref": "Page PD-8, Page PD-18",
+      "page_label": "PD-28"
+    },
+    {
+      "tool_number": "ST30613000",
+      "tool_name": "Drive pinion outer race drift",
+      "kent_moore_no": "J 25742-3",
+      "ref": "Page PD-18",
+      "page_label": "PD-28"
+    },
+    {
+      "tool_number": "ST30621000",
+      "tool_name": "Drive pinion outer race drift",
+      "kent_moore_no": "-",
+      "ref": "Page PD-8, Page PD-18",
+      "page_label": "PD-28"
+    },
+    {
+      "tool_number": "ST30650001",
+      "tool_name": "Pilot bearing drift",
+      "kent_moore_no": "J 25749",
+      "ref": "Page PD-6",
+      "page_label": "PD-28"
+    },
+    {
+      "tool_number": "ST30701000",
+      "tool_name": "Drive pinion outer race drift",
+      "kent_moore_no": "J 25742-2",
+      "ref": "Page PD-8",
+      "page_label": "PD-28"
+    },
+    {
+      "tool_number": "ST30720000",
+      "tool_name": "Gear carrier front oil seal drift",
+      "kent_moore_no": "J 25751",
+      "ref": "Page PD-10, Page PD-12",
+      "page_label": "PD-28"
+    },
+    {
+      "tool_number": "ST3090S000",
+      "tool_name": "Drive pinion rear inner race puller set (1 ST30031000 Puller, 2 ST30901000 Base)",
+      "kent_moore_no": "-",
+      "ref": "Fig. PD-6, Fig. PD-17, Fig. PD-41, Fig. PD-53, Page PD-9",
+      "page_label": "PD-28"
+    },
+    {
+      "tool_number": "ST3127S000",
+      "tool_name": "Preload gauge (1 GG91030000 Torque wrench, 2 HT62940000 Socket adapter, 3 HT62900000 Socket adapter)",
+      "kent_moore_no": "See J 25765",
+      "ref": "Fig. PD-13, Fig. PD-33, Fig. PD-49",
+      "page_label": "PD-28"
+    },
+    {
+      "tool_number": "ST31530000",
+      "tool_name": "Drive pinion flange wrench",
+      "kent_moore_no": "J 25774",
+      "ref": "Page PD-12, Page PD-22, Fig. PD-5, Fig. PD-38",
+      "page_label": "PD-29"
+    },
+    {
+      "tool_number": "ST3121S000",
+      "tool_name": "Height gauge assembly (R160, R180) (1 ST31211000 Height gauge, 2 ST31212000 Dummy shaft, 3 ST31213000 Stopper (R160 only), 4 ST31214000 Collar)",
+      "kent_moore_no": "See J 25269-01",
+      "ref": "Fig. PD-14, Fig. PD-15, Page PD-8",
+      "page_label": "PD-29"
+    },
+    {
+      "tool_number": "ST31851000",
+      "tool_name": "Spacer (R180)",
+      "kent_moore_no": "See J 25269-01",
+      "ref": "Page PD-8",
+      "page_label": "PD-29"
+    },
+    {
+      "tool_number": "ST31852000",
+      "tool_name": "Stopper (R180)",
+      "kent_moore_no": "-",
+      "ref": "Fig. PD-12",
+      "page_label": "PD-29"
+    },
+    {
+      "tool_number": "ST32501000",
+      "tool_name": "Weight block",
+      "kent_moore_no": "J 25407-3",
+      "ref": "Fig. PD-10, Fig. PD-46",
+      "page_label": "PD-29"
+    },
+    {
+      "tool_number": "ST3306S001",
+      "tool_name": "Diff. side bearing puller set (1 ST33051001 Body, 2 ST33061000 Adapter)",
+      "kent_moore_no": "-",
+      "ref": "Fig. PD-7, Fig. PD-11, Fig. PD-43, Fig. PD-47",
+      "page_label": "PD-29"
+    },
+    {
+      "tool_number": "ST33230000",
+      "tool_name": "Diff. side bearing drift",
+      "kent_moore_no": "J 25805-01",
+      "ref": "Fig. PD-11",
+      "page_label": "PD-29"
+    },
+    {
+      "tool_number": "ST33270000",
+      "tool_name": "Gear carrier side oil seal drift",
+      "kent_moore_no": "J 25809",
+      "ref": "Page PD-8",
+      "page_label": "PD-29"
+    },
+    {
+      "tool_number": "ST33290001",
+      "tool_name": "Side bearing outer race puller",
+      "kent_moore_no": "J 25810",
+      "ref": "Fig. PD-4",
+      "page_label": "PD-30"
+    },
+    {
+      "tool_number": "ST33720000",
+      "tool_name": "Gear carrier side retainer guide (R160, R180)",
+      "kent_moore_no": "J 25817",
+      "ref": "Fig. PD-22",
+      "page_label": "PD-30"
+    },
+    {
+      "tool_number": "KV38100800",
+      "tool_name": "Gear carrier attachment",
+      "kent_moore_no": "-",
+      "ref": "Fig. PD-3, Fig. PD-32",
+      "page_label": "PD-30"
+    },
+    {
+      "tool_number": "KV31100300",
+      "tool_name": "Solid punch",
+      "kent_moore_no": "-",
+      "ref": "Page PD-7, Page PD-16",
+      "page_label": "PD-30"
+    },
+    {
+      "tool_number": "KV38100200",
+      "tool_name": "Gear carrier side oil seal drift",
+      "kent_moore_no": "-",
+      "ref": "Page PD-23, Fig. PD-66",
+      "page_label": "PD-30"
+    },
+    {
+      "tool_number": "KV381001S0",
+      "tool_name": "Drive pinion setting gauge set (R200) (1 KV38100110 Dummy shaft, 2 KV38100120 Height gauge, 3 KV38100130 Collar, 4 KV38100140 Stopper)",
+      "kent_moore_no": "-",
+      "ref": "Page PD-18, Fig. PD-48, Fig. PD-50, Fig. PD-51",
+      "page_label": "PD-30"
+    },
+    {
+      "tool_number": "KV38100300",
+      "tool_name": "Diff. side bearing drift",
+      "kent_moore_no": "-",
+      "ref": "Fig. PD-47",
+      "page_label": "PD-30"
+    },
+    {
+      "tool_number": "KV38100401",
+      "tool_name": "Pilot bearing drift",
+      "kent_moore_no": "-",
+      "ref": "Fig. PD-40",
+      "page_label": "PD-30"
+    },
+    {
+      "tool_number": "KV38100500",
+      "tool_name": "Gear carrier front oil seal drift",
+      "kent_moore_no": "-",
+      "ref": "Page PD-20, Page PD-22",
+      "page_label": "PD-30"
+    },
+    {
+      "tool_number": "KV38100600",
+      "tool_name": "Side bearing spacer drift",
+      "kent_moore_no": "-",
+      "ref": "Fig. PD-58",
+      "page_label": "PD-31"
+    },
+    {
+      "tool_number": "KV38101900",
+      "tool_name": "Master gauge [20.0 mm (0.787 in)]",
+      "kent_moore_no": "-",
+      "ref": "Fig. PD-10",
+      "page_label": "PD-31"
+    },
+    {
+      "tool_number": "KV38102000",
+      "tool_name": "Master gauge [21.0 mm (0.827 in)]",
+      "kent_moore_no": "-",
+      "ref": "Fig. PD-46",
+      "page_label": "PD-31"
+    },
+    {
+      "tool_number": "HT72400000",
+      "tool_name": "Slide hammer",
+      "kent_moore_no": "-",
+      "ref": "Fig. PD-37",
+      "page_label": "PD-31"
+    }
+  ]
+}

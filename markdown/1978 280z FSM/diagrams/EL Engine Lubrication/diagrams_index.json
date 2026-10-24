@@ -1,0 +1,249 @@
+[
+  {
+    "slug": "fig_el_1_lubricating_circuit",
+    "file": "markdown/1978 280z FSM/diagrams/EL Engine Lubrication/fig_el_1_lubricating_circuit.png",
+    "rel_link": "diagrams/EL Engine Lubrication/fig_el_1_lubricating_circuit.png",
+    "page_num": 2,
+    "page_label": "EL-2",
+    "fig_id": "Fig. EL-1",
+    "code": "EL072",
+    "caption": "Fig. EL-1 Lubricating circuit",
+    "description": "Perspective cutaway technical illustration of the complete Nissan L28 engine assembly showing the full engine lubrication circuit. Arrows show the flow of engine oil starting from the oil strainer submerged in the oil pan sump, drawn upwards into the front-mounted trochoid oil pump, routed through the oil filter into the main oil gallery. Black flow paths show oil supplied to all crankshaft main bearings, connecting rod journals via internal crankshaft drillings, cylinder walls and piston pins via connecting rod jet holes, and the timing chain tensioner and timing chain. A vertical feed gallery delivers oil to the cylinder head oil gallery, feeding all camshaft bearing brackets, the internal camshaft passage, and spraying onto cam lobes and rocker arms before draining back to the oil pan.",
+    "tags": [
+      "lubrication circuit",
+      "oil gallery",
+      "oil pump",
+      "crankshaft",
+      "camshaft",
+      "oil strainer",
+      "oil pan",
+      "piston"
+    ],
+    "dimensions": [
+      787,
+      656
+    ]
+  },
+  {
+    "slug": "fig_el_2_lubricating_cylinder_head",
+    "file": "markdown/1978 280z FSM/diagrams/EL Engine Lubrication/fig_el_2_lubricating_cylinder_head.png",
+    "rel_link": "diagrams/EL Engine Lubrication/fig_el_2_lubricating_cylinder_head.png",
+    "page_num": 2,
+    "page_label": "EL-2",
+    "fig_id": "Fig. EL-2",
+    "code": "EL069",
+    "caption": "Fig. EL-2 Lubricating cylinder head",
+    "description": "Cutaway diagram showing lubrication of the overhead camshaft (OHC) cylinder head and valve mechanism. Shows pressurized oil delivered through the vertical oil supply passage into the cylinder head horizontal gallery, supplying oil directly to all camshaft bearing brackets. Oil fed to the No. 2 and No. 4 camshaft bearings enters the hollow internal gallery of the camshaft, which distributes oil through small oil holes located at the base circle portion of each cam lobe to spray and lubricate the rocker arms, valves, valve springs, and cam lobes.",
+    "tags": [
+      "lubricating cylinder head",
+      "camshaft",
+      "cam brackets",
+      "rocker arms",
+      "valve mechanism",
+      "cam lobes"
+    ],
+    "dimensions": [
+      385,
+      235
+    ]
+  },
+  {
+    "slug": "fig_el_3_aligning_punch_mark_and_oil_hole",
+    "file": "markdown/1978 280z FSM/diagrams/EL Engine Lubrication/fig_el_3_aligning_punch_mark_and_oil_hole.png",
+    "rel_link": "diagrams/EL Engine Lubrication/fig_el_3_aligning_punch_mark_and_oil_hole.png",
+    "page_num": 3,
+    "page_label": "EL-3",
+    "fig_id": "Fig. EL-3",
+    "code": "EL009",
+    "caption": "Fig. EL-3 Aligning punch mark and oil hole",
+    "description": "Detailed illustration of the oil pump and distributor drive spindle shaft assembly. Two black callout arrows point to critical alignment marks: the upper arrow indicates the 'Punch mark' located on the spindle drive gear collar, and the lower arrow indicates the 'Oil hole' drilled through the spindle shaft sleeve, which must be aligned before inserting the spindle into the engine block.",
+    "tags": [
+      "drive spindle",
+      "oil pump",
+      "punch mark",
+      "oil hole",
+      "alignment mark",
+      "distributor drive"
+    ],
+    "dimensions": [
+      322,
+      349
+    ]
+  },
+  {
+    "slug": "fig_el_4_setting_drive_spindle",
+    "file": "markdown/1978 280z FSM/diagrams/EL Engine Lubrication/fig_el_4_setting_drive_spindle.png",
+    "rel_link": "diagrams/EL Engine Lubrication/fig_el_4_setting_drive_spindle.png",
+    "page_num": 3,
+    "page_label": "EL-3",
+    "fig_id": "Fig. EL-4",
+    "code": "EL010",
+    "caption": "Fig. EL-4 Setting drive spindle",
+    "description": "Top perspective view of the distributor mounting flange on the engine front cover showing the installed drive spindle position. A bold arrow labeled 'Front' indicates the forward direction of the engine. Shows the drive spindle top projection oriented at the 11:25 clock position (11:25 a.m. position), with the smaller offset bow-shape segment positioned toward the front of the engine.",
+    "tags": [
+      "setting drive spindle",
+      "front cover",
+      "distributor drive",
+      "11:25 position",
+      "spindle orientation"
+    ],
+    "dimensions": [
+      354,
+      319
+    ]
+  },
+  {
+    "slug": "fig_el_5_installing_oil_pump",
+    "file": "markdown/1978 280z FSM/diagrams/EL Engine Lubrication/fig_el_5_installing_oil_pump.png",
+    "rel_link": "diagrams/EL Engine Lubrication/fig_el_5_installing_oil_pump.png",
+    "page_num": 3,
+    "page_label": "EL-3",
+    "fig_id": "Fig. EL-5",
+    "code": "EL011",
+    "caption": "Fig. EL-5 Installing oil pump",
+    "description": "Perspective illustration of a mechanic's hands installing the oil pump assembly onto the lower mounting face of the engine front cover beneath the crankshaft pulley, using a hand socket wrench on the securing bolts.",
+    "tags": [
+      "installing oil pump",
+      "crankshaft pulley",
+      "front cover",
+      "oil pump installation"
+    ],
+    "dimensions": [
+      363,
+      329
+    ]
+  },
+  {
+    "slug": "fig_el_6_oil_pump",
+    "file": "markdown/1978 280z FSM/diagrams/EL Engine Lubrication/fig_el_6_oil_pump.png",
+    "rel_link": "diagrams/EL Engine Lubrication/fig_el_6_oil_pump.png",
+    "page_num": 3,
+    "page_label": "EL-3",
+    "fig_id": "Fig. EL-6",
+    "code": "EL032",
+    "caption": "Fig. EL-6 Oil pump",
+    "description": "Exploded view technical illustration of the trochoid oil pump assembly components with circled callout numbers \u2460 through \u2466 corresponding to the numbered legend: \u2460 Oil pump body; \u2461 Outer rotor; \u2462 Inner rotor and drive shaft; \u2463 Gasket; \u2464 Oil pump cover; \u2465 Regulator valve plunger; \u2466 Regulator spring; plus the regulator cap nut, spring washer, and pump cover mounting bolts and washers.",
+    "tags": [
+      "oil pump",
+      "exploded view",
+      "outer rotor",
+      "inner rotor",
+      "regulator valve",
+      "regulator spring",
+      "pump cover"
+    ],
+    "dimensions": [
+      353,
+      422
+    ]
+  },
+  {
+    "slug": "fig_el_7_checking_rotor_clearances",
+    "file": "markdown/1978 280z FSM/diagrams/EL Engine Lubrication/fig_el_7_checking_rotor_clearances.png",
+    "rel_link": "diagrams/EL Engine Lubrication/fig_el_7_checking_rotor_clearances.png",
+    "page_num": 3,
+    "page_label": "EL-3",
+    "fig_id": "Fig. EL-7",
+    "code": "EL059",
+    "caption": "Fig. EL-7 Checking rotor clearances",
+    "description": "Technical diagram illustrating inspection of oil pump rotor clearances using feeler gauge blades and a precision machinist's straight edge. Circled callouts \u2460 through \u2463 match the accompanying legend: \u2460 Outer rotor to body clearance; \u2461 Tip clearance between inner and outer rotor teeth; \u2462 Gap between rotor face and straight edge; \u2463 Gap between pump body face and straight edge.",
+    "tags": [
+      "checking rotor clearances",
+      "feeler gauge",
+      "straight edge",
+      "tip clearance",
+      "outer rotor to body clearance",
+      "side clearance"
+    ],
+    "dimensions": [
+      392,
+      475
+    ]
+  },
+  {
+    "slug": "fig_el_8_regulator_valve",
+    "file": "markdown/1978 280z FSM/diagrams/EL Engine Lubrication/fig_el_8_regulator_valve.png",
+    "rel_link": "diagrams/EL Engine Lubrication/fig_el_8_regulator_valve.png",
+    "page_num": 4,
+    "page_label": "EL-4",
+    "fig_id": "Fig. EL-8",
+    "code": "EL014",
+    "caption": "Fig. EL-8 Regulator valve",
+    "description": "Cross-sectional engineering diagram of the spring-loaded oil pressure regulator valve integrated inside the oil pump cover. Shows the cylindrical regulator valve piston, return spring, threaded cap nut, valve seat, and relief bypass passage with a vertical dashed flow arrow pointing to the pump inlet side when high oil pressure pushes the valve plunger open against spring tension.",
+    "tags": [
+      "regulator valve",
+      "oil pressure regulator",
+      "valve plunger",
+      "spring",
+      "bypass passage"
+    ],
+    "dimensions": [
+      367,
+      296
+    ]
+  },
+  {
+    "slug": "fig_el_9_removing_oil_filter",
+    "file": "markdown/1978 280z FSM/diagrams/EL Engine Lubrication/fig_el_9_removing_oil_filter.png",
+    "rel_link": "diagrams/EL Engine Lubrication/fig_el_9_removing_oil_filter.png",
+    "page_num": 4,
+    "page_label": "EL-4",
+    "fig_id": "Fig. EL-9",
+    "code": "EL015",
+    "caption": "Fig. EL-9 Removing oil filter",
+    "description": "Illustration of removing the spin-on cartridge oil filter located on the right side of the engine block below spark plug cables. Special service tool ST19320000 (band-type oil filter wrench) is clamped around the fluted bottom of the filter canister, with an arrow indicating counterclockwise loosening rotation.",
+    "tags": [
+      "removing oil filter",
+      "oil filter wrench",
+      "ST19320000",
+      "cartridge oil filter"
+    ],
+    "dimensions": [
+      380,
+      314
+    ]
+  },
+  {
+    "slug": "fig_el_10_relief_valve",
+    "file": "markdown/1978 280z FSM/diagrams/EL Engine Lubrication/fig_el_10_relief_valve.png",
+    "rel_link": "diagrams/EL Engine Lubrication/fig_el_10_relief_valve.png",
+    "page_num": 4,
+    "page_label": "EL-4",
+    "fig_id": "Fig. EL-10",
+    "code": "EL061",
+    "caption": "Fig. EL-10 Relief valve",
+    "description": "Technical diagram of the oil filter mounting pad on the cylinder block casting. A thick black arrow points to the oil pressure relief valve (filter bypass valve) located next to the threaded central oil filter mounting stud, which bypasses unfiltered oil directly to the main oil gallery in the event of an excessively clogged oil filter element.",
+    "tags": [
+      "relief valve",
+      "oil filter mounting pad",
+      "bypass valve",
+      "cylinder block"
+    ],
+    "dimensions": [
+      366,
+      317
+    ]
+  },
+  {
+    "slug": "tool_st19320000_oil_filter_wrench",
+    "file": "markdown/1978 280z FSM/diagrams/EL Engine Lubrication/tool_st19320000_oil_filter_wrench.png",
+    "rel_link": "diagrams/EL Engine Lubrication/tool_st19320000_oil_filter_wrench.png",
+    "page_num": 5,
+    "page_label": "EL-5",
+    "fig_id": "ST19320000",
+    "code": "ST19320000",
+    "caption": "ST19320000 Oil filter wrench (Kent-Moore J 25664, Ref. Fig. EL-9)",
+    "description": "Tool illustration of Nissan Special Service Tool ST19320000 (Kent-Moore tool number J 25664), featuring a metal strap band clamp and pivoting lever handle designed for servicing cartridge oil filters as illustrated in Fig. EL-9.",
+    "tags": [
+      "special service tool",
+      "oil filter wrench",
+      "ST19320000",
+      "J 25664",
+      "Kent-Moore"
+    ],
+    "dimensions": [
+      335,
+      226
+    ]
+  }
+]

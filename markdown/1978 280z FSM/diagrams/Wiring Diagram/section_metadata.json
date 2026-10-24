@@ -1,0 +1,770 @@
+{
+  "section_title": "Wiring Diagram",
+  "source_pdf": "1978 280z FSM/Wiring Diagram.pdf",
+  "md_path": "1978 280z FSM/Wiring Diagram.md",
+  "pages_count": 4,
+  "diagrams": [
+    {
+      "section_title": "Wiring Diagram",
+      "source_md": "1978 280z FSM/Wiring Diagram.md",
+      "slug": "wd_sheet_1_rear_body_console",
+      "file": "markdown/1978 280z FSM/diagrams/Wiring Diagram/wd_sheet_1_rear_body_console.png",
+      "rel_link": "diagrams/Wiring Diagram/wd_sheet_1_rear_body_console.png",
+      "page_num": 1,
+      "page_label": "WD-1",
+      "fig_id": "Sheet 1 (WD-1)",
+      "code": "XENON-WD-1",
+      "caption": "Wiring Diagram Sheet 1: Rear Combination Lamps, Cargo Area, Fuel Delivery, Defogger, and Center Console Harness",
+      "diagram_type": "electrical_schematic",
+      "description": "Full high-resolution electrical schematic of the 1978 Datsun 280Z rear body, tail lighting, fuel pump, fuel gauge sending unit, rear window defogger grid, auto antenna, audio speakers, center console switches, and harness connectors C-1 through C-10.",
+      "components": [
+        "Rear Combination Lamp R.H.",
+        "Rear Combination Lamp L.H.",
+        "Rear Side Marker Lamp R.H.",
+        "Rear Side Marker Lamp L.H.",
+        "License Plate Lamp",
+        "Rear Window Defogger Grid",
+        "Electric Fuel Pump",
+        "Fuel Tank Gauge Unit",
+        "Speaker R.H.",
+        "Speaker L.H.",
+        "Radio Antenna Motor",
+        "Tailgate Switch",
+        "Floor Sensor (California)",
+        "Room Lamp",
+        "Ashtray Lamp",
+        "Selector Lever Indicator Lamp (A/T)",
+        "Auto Antenna Switch",
+        "Radio Head Unit",
+        "Rear Window Defogger Switch",
+        "Hazard Switch",
+        "Warning Lamp Check Relay",
+        "Driver's Seat Belt Switch",
+        "Floor Sensor Relay (California)",
+        "Stop Lamp Switch",
+        "Parking Brake Switch",
+        "Harness Connectors C-1 through C-10"
+      ],
+      "callouts": {
+        "C-1": "6-pole Blue connector",
+        "C-2": "8-pole Black connector",
+        "C-3": "8-pole Green connector",
+        "C-4": "8-pole White connector",
+        "C-5": "10-pole White connector",
+        "C-6": "10-pole Black connector",
+        "C-7": "Console/Body connector (Black)",
+        "C-8": "Console/Body connector (Green)",
+        "C-9": "Harness junction connector (White)",
+        "C-10": "Harness junction connector (Black)"
+      },
+      "measurements_and_specs": [
+        "Fuel tank sender resistance: approx. 10 to 80 ohms (Empty ~80\u03a9, Full ~10\u03a9)",
+        "Rear window defogger current draw: 12-15A (approx. 1 ohm total grid resistance)",
+        "Stop lamp bulbs: 12V 21W / 32CP",
+        "Tail lamp bulbs: 12V 5W / 3CP",
+        "Turn signal bulbs: 12V 21W / 32CP",
+        "Back-up lamp bulbs: 12V 21W / 32CP"
+      ],
+      "wiring_and_connections": [
+        "G (Turn RH / Stop switch feed)",
+        "GW (Turn LH)",
+        "RG (Stop lamp feed)",
+        "R (Tail / Marker / License feed)",
+        "RY (Back-up lamp feed)",
+        "WB (Defogger power)",
+        "Y (Fuel gauge sender signal)",
+        "YB (Low fuel warning lamp signal)",
+        "B (Chassis ground)"
+      ],
+      "mechanic_notes": "All rear exterior lamps share the common body ground point in the rear hatch quarter panel; corroded or loose ground lugs cause dim lamps or cross-backfeeding into turn signal circuits.",
+      "tags": [
+        "wiring",
+        "schematic",
+        "rear lighting",
+        "fuel pump",
+        "fuel gauge",
+        "rear defogger",
+        "hazard switch",
+        "connectors"
+      ],
+      "dimensions": [
+        2921,
+        2125
+      ]
+    },
+    {
+      "section_title": "Wiring Diagram",
+      "source_md": "1978 280z FSM/Wiring Diagram.md",
+      "slug": "wd_sub_sheet_1_rear_lighting_fuel",
+      "file": "markdown/1978 280z FSM/diagrams/Wiring Diagram/wd_sub_sheet_1_rear_lighting_fuel.png",
+      "rel_link": "diagrams/Wiring Diagram/wd_sub_sheet_1_rear_lighting_fuel.png",
+      "page_num": 1,
+      "page_label": "WD-1",
+      "fig_id": "Sheet 1 Sub-Circuit A",
+      "code": "",
+      "caption": "Rear Exterior Lighting, Fuel Pump, and Tank Sending Unit Sub-Circuit",
+      "diagram_type": "electrical_schematic",
+      "description": "Close-up detail of the rear lighting harness, license lamps, fuel pump power feed, and fuel level sender connections.",
+      "components": [
+        "Rear Combination Lamp R.H.",
+        "Rear Combination Lamp L.H.",
+        "License Plate Lamp",
+        "Rear Side Marker Lamps",
+        "Electric Fuel Pump",
+        "Fuel Tank Gauge Unit",
+        "Body Earth Stud"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Fuel pump operating voltage: 12V (draws approx. 3.0-4.5A)",
+        "Fuel level gauge resistance: 10 ohms (full) to 80 ohms (empty)"
+      ],
+      "wiring_and_connections": [
+        "G: Turn Signal RH & Fuel Pump feed",
+        "GW: Turn Signal LH",
+        "RG: Stop lamps",
+        "R: Tail / Marker lamps",
+        "RY: Back-up lamps",
+        "Y: Fuel gauge sender",
+        "YB: Low fuel warning",
+        "B: Body ground"
+      ],
+      "mechanic_notes": "Verify fuel pump dedicated ground lug bolted to inner wheel arch frame to avoid intermittent engine stall under vibration.",
+      "tags": [
+        "rear lighting",
+        "fuel pump",
+        "fuel gauge sender"
+      ],
+      "dimensions": [
+        2528,
+        1365
+      ]
+    },
+    {
+      "section_title": "Wiring Diagram",
+      "source_md": "1978 280z FSM/Wiring Diagram.md",
+      "slug": "wd_sheet_2_dashboard_cluster_fuses",
+      "file": "markdown/1978 280z FSM/diagrams/Wiring Diagram/wd_sheet_2_dashboard_cluster_fuses.png",
+      "rel_link": "diagrams/Wiring Diagram/wd_sheet_2_dashboard_cluster_fuses.png",
+      "page_num": 2,
+      "page_label": "WD-2",
+      "fig_id": "Sheet 2 (WD-2)",
+      "code": "XENON-WD-2",
+      "caption": "Wiring Diagram Sheet 2: Combination Meter, Steering Column Switches, Under-Dash Fuse Box, Relay Bracket, and HVAC System",
+      "diagram_type": "electrical_schematic",
+      "description": "Comprehensive schematic of the 1978 Datsun 280Z dashboard electrical wiring including the combination meter cluster (volts, fuel, temp, oil, tach, speedo, clock), steering column combination switch contact matrices, ignition switch, 12-circuit fuse block, relay bracket, and heater/AC controls.",
+      "components": [
+        "Combination Meter Assembly",
+        "Speedometer",
+        "Tachometer",
+        "Volt & Fuel Gauge",
+        "Water Temp & Oil Pressure Gauge",
+        "Quartz Clock",
+        "Illumination Control Rheostat",
+        "Steering Lock Switch",
+        "Combination Switch (Lights, Dimmer, Wiper/Washer, Turn)",
+        "Ignition Switch",
+        "Under-Dash Fuse Box (12 circuits)",
+        "Intermittent Wiper Amplifier",
+        "Horn Relay",
+        "Defogger Relay",
+        "Ignition Relay",
+        "Seat Belt Warning Timer Unit",
+        "Blower Motor (Heater)",
+        "Heater Fan Switch",
+        "Heater Resistor Block",
+        "Air Conditioner Fan Switch",
+        "Air Conditioner Resistor",
+        "Thermo Switch (A/C)",
+        "Micro Switch (A/C)",
+        "Turn Signal Flasher Unit",
+        "Hazard Flasher Unit",
+        "Cooling Fan Motor Sub-Harness Connector"
+      ],
+      "callouts": {
+        "C-5": "10-pole White dashboard-to-chassis connector",
+        "C-6": "10-pole Black dashboard-to-chassis connector",
+        "C-7": "Harness junction connector",
+        "C-10": "Harness junction connector"
+      },
+      "measurements_and_specs": [
+        "Fuse ratings: 10A (x6), 15A (x2), 20A (x4)",
+        "Seat belt warning timer interval: 4-8 seconds",
+        "Tachometer calibration: 4 pulses per 2 revolutions (6-cylinder 4-stroke)",
+        "Water temperature sender resistance: approx. 70-90\u03a9 at 60\u00b0C (140\u00b0F), 20-30\u03a9 at 100\u00b0C (212\u00b0F)",
+        "Oil pressure sender resistance: approx. 10-15\u03a9 at 0 psi, 80-90\u03a9 at 60 psi"
+      ],
+      "wiring_and_connections": [
+        "W / WR (Battery unswitched bus)",
+        "BW (Switched ignition ON bus)",
+        "L (Switched ACC bus)",
+        "BY (Starter cranking trigger)",
+        "RW (High beam & pilot)",
+        "RB (Low beam)",
+        "R (Tail / Clearance circuit)",
+        "RL (Dimmed instrument illumination)",
+        "G (Turn RH / Stop feed)",
+        "GW (Turn LH)",
+        "GY (Turn flasher feed)",
+        "GR (Horn button contact)",
+        "GB (Horn relay output)",
+        "LW (Wiper low speed)",
+        "LY (Wiper high speed)",
+        "LB (Washer pump)",
+        "LR (Intermittent wiper trigger)",
+        "YW (Water temp gauge sender)",
+        "YL (Oil pressure gauge sender)",
+        "Y (Fuel gauge sender / Brake warning)",
+        "B (Chassis ground)"
+      ],
+      "mechanic_notes": "When troubleshooting no-start or dead instrument clusters, inspect the ignition switch solder joints and the multi-pin connector C-6 for burnt pins caused by high current draw.",
+      "tags": [
+        "dashboard",
+        "combination meter",
+        "gauges",
+        "fuse box",
+        "ignition switch",
+        "combination switch",
+        "relays",
+        "HVAC"
+      ],
+      "dimensions": [
+        2921,
+        2125
+      ]
+    },
+    {
+      "section_title": "Wiring Diagram",
+      "source_md": "1978 280z FSM/Wiring Diagram.md",
+      "slug": "wd_sub_sheet_2_fuse_box_ignition",
+      "file": "markdown/1978 280z FSM/diagrams/Wiring Diagram/wd_sub_sheet_2_fuse_box_ignition.png",
+      "rel_link": "diagrams/Wiring Diagram/wd_sub_sheet_2_fuse_box_ignition.png",
+      "page_num": 2,
+      "page_label": "WD-2",
+      "fig_id": "Sheet 2 Sub-Circuit B",
+      "code": "",
+      "caption": "Under-Dash Fuse Box, Ignition Switch, and Relay Bracket Sub-Circuit",
+      "diagram_type": "electrical_schematic",
+      "description": "Focused schematic showing the under-dash 12-circuit fuse box power distribution, ignition switch contact assignments, and relay bracket module pinouts.",
+      "components": [
+        "Fuse Box",
+        "Ignition Switch",
+        "Horn Relay",
+        "Defogger Relay",
+        "Ignition Relay",
+        "Seat Belt Warning Timer Unit",
+        "Intermittent Wiper Amplifier"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Fuse box continuous rating: 12V 10A-20A glass barrel fuses (SFE/AGC type)",
+        "Ignition switch rating: 30A continuous at 12V"
+      ],
+      "wiring_and_connections": [
+        "WR / W: Battery main feed",
+        "BW: Switched ignition feed",
+        "L: Switched accessory feed",
+        "BY: Starter solenoid engage",
+        "WB: Defogger feed",
+        "GB: Horn feed",
+        "B: Chassis ground"
+      ],
+      "mechanic_notes": "Glass fuse clips in the 280Z fuse box are prone to corrosion and tension loss, causing voltage drop to EFI and ignition circuits.",
+      "tags": [
+        "fuse box",
+        "relays",
+        "ignition switch"
+      ],
+      "dimensions": [
+        1593,
+        951
+      ]
+    },
+    {
+      "section_title": "Wiring Diagram",
+      "source_md": "1978 280z FSM/Wiring Diagram.md",
+      "slug": "wd_sheet_3_efi_power_bulkhead",
+      "file": "markdown/1978 280z FSM/diagrams/Wiring Diagram/wd_sheet_3_efi_power_bulkhead.png",
+      "rel_link": "diagrams/Wiring Diagram/wd_sheet_3_efi_power_bulkhead.png",
+      "page_num": 3,
+      "page_label": "WD-3",
+      "fig_id": "Sheet 3 (WD-3)",
+      "code": "XENON-WD-3",
+      "caption": "Wiring Diagram Sheet 3: Electronic Fuel Injection (EFI) ECU, Injector Harness, Dropping Resistor Bank, Air Flow Meter, and Power Distribution",
+      "diagram_type": "electrical_schematic",
+      "description": "Complete schematic of the 1978 Datsun 280Z Electronic Fuel Injection (EFI) circuitry showing the 35-pin ECU connector pinout, dropping resistor bank, 6 fuel injectors, cold start valve, thermotime switch, air regulator, throttle valve switch, air flow meter, battery, and fusible links.",
+      "components": [
+        "EFI Control Unit (ECU, 35 pins)",
+        "Dropping Resistor Pack (6 resistors)",
+        "Fuel Injector No. 1",
+        "Fuel Injector No. 2",
+        "Fuel Injector No. 3",
+        "Fuel Injector No. 4",
+        "Fuel Injector No. 5",
+        "Fuel Injector No. 6",
+        "Cold Start Valve",
+        "Thermotime Switch",
+        "Air Regulator (Auxiliary Air Valve)",
+        "Throttle Valve Switch",
+        "Air Flow Meter (AFM)",
+        "Water Temperature Sensor",
+        "Thermal Transmitter (Gauge)",
+        "Altitude Switch (California)",
+        "Micro Cut Solenoid (California)",
+        "Battery (12V)",
+        "Fusible Link Block (Green, Black, Brown)",
+        "Transistor Ignition Unit (TIU)",
+        "EFI Main Relay",
+        "Fuel Pump Relay",
+        "Wiper Motor",
+        "Washer Motor",
+        "Engine Compartment Lamp",
+        "Brake Fluid Level Switch",
+        "Warning Buzzer",
+        "Engine Earth Lug Cluster"
+      ],
+      "callouts": {
+        "C-1": "6-pole Blue connector",
+        "C-2": "8-pole Black connector",
+        "C-3": "8-pole Green connector",
+        "C-4": "8-pole White connector",
+        "C-9": "Harness junction connector"
+      },
+      "measurements_and_specs": [
+        "Dropping resistor individual branch resistance: 5.6 to 6.4 ohms",
+        "Fuel injector coil resistance: 2.0 to 3.0 ohms (low impedance)",
+        "Water temperature sensor resistance: 2.1 to 2.9 k\u03a9 at 20\u00b0C (68\u00b0F); 0.27 to 0.38 k\u03a9 at 80\u00b0C (176\u00b0F)",
+        "Air regulator heater coil resistance: approx. 70 to 80 ohms",
+        "Thermotime switch opening temperature: approx. 35\u00b0C (95\u00b0F); max cranking duration: 8-12 seconds",
+        "Air flow meter potentiometer resistance (pins 8-9): approx. 180 to 220 ohms",
+        "Fusible link capacities: Brown (0.3mm\u00b2 / approx. 30A), Green (0.5mm\u00b2 / approx. 40A), Black (1.25mm\u00b2 / approx. 80A)"
+      ],
+      "wiring_and_connections": [
+        "BW (Ignition switched feed / AFM ground)",
+        "WB (Injector bank 1 trigger: Cyl 1, 2, 3)",
+        "WR (Injector bank 2 trigger: Cyl 4, 5, 6)",
+        "BY (Starter cranking trigger: Pin 4 & cold start)",
+        "WL (AFM flap potentiometer signal)",
+        "BG (AFM reference supply)",
+        "GW (AFM air temp sensor)",
+        "RY (Water temp sensor signal)",
+        "RB (Full throttle switch contact)",
+        "RL (Idle throttle switch contact)",
+        "YL (Altitude switch signal)",
+        "G (AFM fuel pump safety switch / injector power)",
+        "B (Engine earth / sensor return)"
+      ],
+      "mechanic_notes": "A poor ground connection at the intake manifold engine earth cluster is the #1 cause of bizarre EFI malfunctions, rich surging, or injector failure to fire.",
+      "tags": [
+        "EFI",
+        "ECU",
+        "injectors",
+        "dropping resistor",
+        "air flow meter",
+        "water temp sensor",
+        "cold start valve",
+        "thermotime switch",
+        "fusible links"
+      ],
+      "dimensions": [
+        2921,
+        2125
+      ]
+    },
+    {
+      "section_title": "Wiring Diagram",
+      "source_md": "1978 280z FSM/Wiring Diagram.md",
+      "slug": "wd_sub_sheet_3_ecu_injectors",
+      "file": "markdown/1978 280z FSM/diagrams/Wiring Diagram/wd_sub_sheet_3_ecu_injectors.png",
+      "rel_link": "diagrams/Wiring Diagram/wd_sub_sheet_3_ecu_injectors.png",
+      "page_num": 3,
+      "page_label": "WD-3",
+      "fig_id": "Sheet 3 Sub-Circuit C",
+      "code": "",
+      "caption": "EFI Control Unit, Dropping Resistor, and Injector Bank Sub-Circuit",
+      "diagram_type": "electrical_schematic",
+      "description": "High-density detail of the 35-pin Bosch L-Jetronic ECU pin connections, dropping resistor connections, and 6-cylinder injector firing lines.",
+      "components": [
+        "EFI Control Unit (35 pins)",
+        "Dropping Resistor",
+        "Injectors 1 through 6",
+        "Throttle Valve Switch",
+        "Air Flow Meter",
+        "Water Temp Sensor"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Total injector resistance per cylinder: approx. 8.5\u03a9 (2.5\u03a9 injector + 6.0\u03a9 resistor)",
+        "Injector pulse width: 2.0 to 9.0 milliseconds depending on load/temperature"
+      ],
+      "wiring_and_connections": [
+        "WB: Injectors 1, 2, 3 trigger",
+        "WR: Injectors 4, 5, 6 trigger",
+        "BW: Switched 12V",
+        "WL: AFM signal",
+        "RY: Water temp signal",
+        "B: Engine ground"
+      ],
+      "mechanic_notes": "Never connect 12V directly across the fuel injectors without the dropping resistor in series; doing so will immediately fry the delicate low-impedance injector solenoid windings.",
+      "tags": [
+        "ECU pinout",
+        "injectors",
+        "dropping resistor"
+      ],
+      "dimensions": [
+        1331,
+        1397
+      ]
+    },
+    {
+      "section_title": "Wiring Diagram",
+      "source_md": "1978 280z FSM/Wiring Diagram.md",
+      "slug": "wd_sheet_4_engine_bay_charging_ignition",
+      "file": "markdown/1978 280z FSM/diagrams/Wiring Diagram/wd_sheet_4_engine_bay_charging_ignition.png",
+      "rel_link": "diagrams/Wiring Diagram/wd_sheet_4_engine_bay_charging_ignition.png",
+      "page_num": 4,
+      "page_label": "WD-4",
+      "fig_id": "Sheet 4 (WD-4)",
+      "code": "XENON-WD-4",
+      "caption": "Wiring Diagram Sheet 4: Alternator, IC Regulator, Starter Motor, Electronic Distributor, Ignition Coil, Front Lighting, and Relay Bracket",
+      "diagram_type": "electrical_schematic",
+      "description": "Comprehensive schematic of the 1978 Datsun 280Z front engine compartment electrical system including alternator charging circuit, solid-state IC regulator, starter motor cranking circuit, ballast resistor, high-energy ignition coil, electronic distributor, front lighting, and under-hood diagnostic check connector.",
+      "components": [
+        "Alternator (12V 60A)",
+        "I.C. Voltage Regulator",
+        "Alternator Condenser",
+        "Starter Motor (12V 1.4kW)",
+        "Starter Solenoid",
+        "Inhibitor Switch (A/T)",
+        "Electronic Distributor",
+        "Magnetic Pickup Reluctor",
+        "Ignition Coil",
+        "Dual Ballast Resistor",
+        "Radio Noise Condenser (Coil)",
+        "Spark Plugs (1 through 6)",
+        "Headlamp R.H. (Sealed Beam)",
+        "Headlamp L.H. (Sealed Beam)",
+        "Front Combination Lamp R.H.",
+        "Front Combination Lamp L.H.",
+        "Front Side Marker Lamp R.H.",
+        "Front Side Marker Lamp L.H.",
+        "Dual Electric Horns (R.H. and L.H.)",
+        "Relay Bracket (EFI Main, Fuel Pump, A/C, Inhibitor)",
+        "Check Connector (6 pins)",
+        "Oil Pressure Sending Unit",
+        "Thermal Transmitter",
+        "Pressure Switch (California)",
+        "Magnet Valve 1 (Air Cut - California)",
+        "Magnet Valve 2 (Vacuum Source - California)",
+        "Terminal Block"
+      ],
+      "callouts": {
+        "Check Connector Pin 1": "Black/Yellow (Starter trigger)",
+        "Check Connector Pin 2": "Blue (Coil negative / Tach)",
+        "Check Connector Pin 3": "Black/White (Switched 12V)",
+        "Check Connector Pin 4": "White/Red (Battery 12V)",
+        "Check Connector Pin 5": "Yellow/White (Alternator L terminal)",
+        "Check Connector Pin 6": "Black (Chassis ground)"
+      },
+      "measurements_and_specs": [
+        "Alternator regulated voltage: 14.0 to 14.7V at 2,500 RPM",
+        "Alternator maximum output: 60A at 12V",
+        "Starter motor no-load current: less than 90A at 11V (over 4,000 RPM)",
+        "Ballast resistor total resistance: approx. 1.5 to 1.7 ohms",
+        "Ignition coil primary winding resistance: approx. 1.0 to 1.3 ohms",
+        "Ignition coil secondary winding resistance: approx. 8.0 to 12.0 k\u03a9",
+        "Distributor magnetic pickup stator resistance: approx. 600 to 800 ohms",
+        "Firing order: 1 - 5 - 3 - 6 - 2 - 4 (clockwise distributor rotation)",
+        "Spark plug gap: 0.8 to 0.9 mm (0.031 to 0.035 in)"
+      ],
+      "wiring_and_connections": [
+        "WR: Alternator BAT output / Battery feed",
+        "WB: Alternator field coil / IC regulator F",
+        "Y: Alternator neutral stator tap / IC regulator N",
+        "YW: IC regulator L terminal / Charge lamp",
+        "W: IC regulator S terminal (battery sense)",
+        "BY: Starter solenoid terminal 50 engage",
+        "BR: Starter terminal R ballast bypass line",
+        "BW: Switched ignition 12V to ballast resistor",
+        "L: Ignition coil negative / TIU switching / Tach",
+        "G / R: Distributor magnetic pickup stator twisted pair",
+        "RW: Headlamp high beam circuit",
+        "RB: Headlamp low beam circuit",
+        "R: Front clearance / marker lamps",
+        "G: Front turn signal RH",
+        "GW: Front turn signal LH",
+        "GB: Horn relay output to dual horns",
+        "YL: Oil pressure sending unit signal",
+        "YW: Water temperature sending unit signal",
+        "B: Chassis / Engine block ground"
+      ],
+      "mechanic_notes": "The ballast bypass line (Black/Red wire from starter terminal R to coil positive) is essential for cold starting; if disconnected, the engine will crank vigorously but will only catch or fire as the key is released back to the ON position.",
+      "tags": [
+        "engine bay",
+        "alternator",
+        "regulator",
+        "starter motor",
+        "ignition coil",
+        "distributor",
+        "ballast resistor",
+        "headlamps",
+        "horns",
+        "check connector"
+      ],
+      "dimensions": [
+        2921,
+        2125
+      ]
+    },
+    {
+      "section_title": "Wiring Diagram",
+      "source_md": "1978 280z FSM/Wiring Diagram.md",
+      "slug": "wd_sub_sheet_4_charging_ignition",
+      "file": "markdown/1978 280z FSM/diagrams/Wiring Diagram/wd_sub_sheet_4_charging_ignition.png",
+      "rel_link": "diagrams/Wiring Diagram/wd_sub_sheet_4_charging_ignition.png",
+      "page_num": 4,
+      "page_label": "WD-4",
+      "fig_id": "Sheet 4 Sub-Circuit D",
+      "code": "",
+      "caption": "Alternator, IC Regulator, Starter, and Ignition Sub-Circuit",
+      "diagram_type": "electrical_schematic",
+      "description": "High-density detail of the alternator charging circuit with solid-state IC regulator, starter motor solenoid wiring, ballast resistor, high-tension ignition coil, and distributor.",
+      "components": [
+        "Alternator",
+        "I.C. Regulator",
+        "Starter Motor",
+        "Starter Solenoid",
+        "Distributor",
+        "Ignition Coil",
+        "Ballast Resistor",
+        "Check Connector"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Regulated charging voltage: 14.0 - 14.7V",
+        "Ballast resistor: 1.6 ohms",
+        "Coil primary: 1.1 ohms"
+      ],
+      "wiring_and_connections": [
+        "WR: Alternator output",
+        "WB: Field coil",
+        "Y: Stator center tap",
+        "BY: Starter trigger",
+        "BR: Ballast bypass",
+        "BW: Primary ignition",
+        "L: Coil negative"
+      ],
+      "mechanic_notes": "Use the 6-pin Check Connector to test charging and ignition signals directly with a multimeter without puncturing harness insulation.",
+      "tags": [
+        "charging system",
+        "ignition",
+        "starter"
+      ],
+      "dimensions": [
+        1185,
+        1143
+      ]
+    }
+  ],
+  "torques": [],
+  "specs": [
+    {
+      "system": "Charging System",
+      "item": "Alternator Output Rating",
+      "unit": "V / A",
+      "standard": "12V / 60A",
+      "limit": "\u2014",
+      "page_label": "WD-4"
+    },
+    {
+      "system": "Charging System",
+      "item": "Regulated Charging Voltage",
+      "unit": "V",
+      "standard": "14.0 - 14.7",
+      "limit": "15.0",
+      "page_label": "WD-4"
+    },
+    {
+      "system": "Starting System",
+      "item": "Starter Motor Power Output",
+      "unit": "kW",
+      "standard": "1.4",
+      "limit": "\u2014",
+      "page_label": "WD-4"
+    },
+    {
+      "system": "Starting System",
+      "item": "Starter Motor No-Load Current Draw",
+      "unit": "A",
+      "standard": "< 90 at 11V",
+      "limit": "100",
+      "page_label": "WD-4"
+    },
+    {
+      "system": "Ignition System",
+      "item": "Ignition Coil Primary Winding Resistance",
+      "unit": "\u03a9",
+      "standard": "1.0 - 1.3",
+      "limit": "\u2014",
+      "page_label": "WD-4"
+    },
+    {
+      "system": "Ignition System",
+      "item": "Ignition Coil Secondary Winding Resistance",
+      "unit": "k\u03a9",
+      "standard": "8.0 - 12.0",
+      "limit": "\u2014",
+      "page_label": "WD-4"
+    },
+    {
+      "system": "Ignition System",
+      "item": "Ballast Resistor Primary Resistance",
+      "unit": "\u03a9",
+      "standard": "1.5 - 1.7",
+      "limit": "\u2014",
+      "page_label": "WD-4"
+    },
+    {
+      "system": "Ignition System",
+      "item": "Distributor Magnetic Stator Pickup Resistance",
+      "unit": "\u03a9",
+      "standard": "600 - 800",
+      "limit": "\u2014",
+      "page_label": "WD-4"
+    },
+    {
+      "system": "Ignition System",
+      "item": "Spark Plug Gap",
+      "unit": "mm (in)",
+      "standard": "0.8 - 0.9 (0.031 - 0.035)",
+      "limit": "1.0 (0.039)",
+      "page_label": "WD-4"
+    },
+    {
+      "system": "Electronic Fuel Injection",
+      "item": "Dropping Resistor Resistance per Channel",
+      "unit": "\u03a9",
+      "standard": "5.6 - 6.4",
+      "limit": "\u2014",
+      "page_label": "WD-3"
+    },
+    {
+      "system": "Electronic Fuel Injection",
+      "item": "Fuel Injector Solenoid Resistance",
+      "unit": "\u03a9",
+      "standard": "2.0 - 3.0",
+      "limit": "\u2014",
+      "page_label": "WD-3"
+    },
+    {
+      "system": "Electronic Fuel Injection",
+      "item": "Water Temperature Sensor Resistance (20\u00b0C / 68\u00b0F)",
+      "unit": "k\u03a9",
+      "standard": "2.1 - 2.9",
+      "limit": "\u2014",
+      "page_label": "WD-3"
+    },
+    {
+      "system": "Electronic Fuel Injection",
+      "item": "Water Temperature Sensor Resistance (80\u00b0C / 176\u00b0F)",
+      "unit": "k\u03a9",
+      "standard": "0.27 - 0.38",
+      "limit": "\u2014",
+      "page_label": "WD-3"
+    },
+    {
+      "system": "Electronic Fuel Injection",
+      "item": "Air Regulator Heater Coil Resistance",
+      "unit": "\u03a9",
+      "standard": "70 - 80",
+      "limit": "\u2014",
+      "page_label": "WD-3"
+    },
+    {
+      "system": "Fuel Delivery",
+      "item": "Electric Fuel Pump Current Draw",
+      "unit": "A",
+      "standard": "3.0 - 4.5",
+      "limit": "6.0",
+      "page_label": "WD-1"
+    },
+    {
+      "system": "Instruments",
+      "item": "Fuel Tank Gauge Sender Resistance (Full / Empty)",
+      "unit": "\u03a9",
+      "standard": "10 (Full) / 80 (Empty)",
+      "limit": "\u2014",
+      "page_label": "WD-1"
+    },
+    {
+      "system": "Instruments",
+      "item": "Water Temperature Sender Resistance (60\u00b0C / 100\u00b0C)",
+      "unit": "\u03a9",
+      "standard": "70-90 (60\u00b0C) / 20-30 (100\u00b0C)",
+      "limit": "\u2014",
+      "page_label": "WD-2"
+    },
+    {
+      "system": "Instruments",
+      "item": "Oil Pressure Sender Resistance (0 psi / 60 psi)",
+      "unit": "\u03a9",
+      "standard": "10-15 (0 psi) / 80-90 (60 psi)",
+      "limit": "\u2014",
+      "page_label": "WD-2"
+    }
+  ],
+  "troubleshooting": [
+    {
+      "symptom": "Engine cranks vigorously but will not fire or start; catches momentarily only when ignition key is released from START to ON",
+      "probable_cause": "Open circuit in ballast bypass circuit: Black/Red (BR) wire from starter solenoid terminal 'R' to ignition coil (+) post is broken, disconnected, or starter solenoid internal auxiliary contact is oxidized.",
+      "corrective_action": "Check continuity on Black/Red wire between starter terminal R and ignition coil (+) terminal. Inspect starter solenoid auxiliary terminal; verify 12V is present at coil (+) during key crank.",
+      "page_label": "WD-4"
+    },
+    {
+      "symptom": "Fuel pump does not run during engine cranking or running",
+      "probable_cause": "Faulty Air Flow Meter fuel pump interlock switch (pins 34-35), defective Fuel Pump Relay, blown 20A fuse, or corroded rear fuel pump ground eyelet.",
+      "corrective_action": "Check continuity between AFM terminals 34 and 35 when flap is manually deflected. Check for 12V at Green wire at fuel pump connector C-2 during cranking. Clean dedicated fuel pump ground connection in rear spare tire well.",
+      "page_label": "WD-3"
+    },
+    {
+      "symptom": "Engine starts cold and dies immediately; extreme hesitation and black exhaust smoke upon acceleration",
+      "probable_cause": "Defective Water Temperature Sensor or open circuit in harness wires Red/Yellow (RY) or Black (B) to ECU pins 13 and 16, causing computer to assume coolant temperature is -40\u00b0C.",
+      "corrective_action": "Measure resistance across ECU pins 13 and 16 at the 35-pin connector. Normal cold reading at 20\u00b0C is ~2.5 k\u03a9, dropping to ~300\u03a9 at normal operating temperature. Replace sensor if open circuit.",
+      "page_label": "WD-3"
+    },
+    {
+      "symptom": "Brake warning light in combination meter remains illuminated continuously with handbrake fully released",
+      "probable_cause": "Master cylinder brake fluid level is low, fluid level float switch stuck down, parking brake lever switch bent/shorted to ground, or Warning Lamp Check Relay stuck closed.",
+      "corrective_action": "Inspect brake fluid levels in front and rear master cylinder reservoirs. Disconnect fluid level switch harness; if light extinguishes, top off fluid or replace reservoir cap float assembly. Inspect handbrake switch contact.",
+      "page_label": "WD-2"
+    },
+    {
+      "symptom": "Intermittent windshield wipers inoperative, but Low and High speeds function normally",
+      "probable_cause": "Faulty Intermittent Wiper Amplifier on relay bracket, defective wiper switch INT contact (Blue/Red wire), or missing ground connection on amplifier Black lead.",
+      "corrective_action": "Check for switched 12V on Blue wire at Intermittent Wiper Amplifier. Verify ground on Black wire. Check continuity of Blue/Red wire between steering column wiper switch and amplifier.",
+      "page_label": "WD-2"
+    },
+    {
+      "symptom": "Battery discharges overnight or undercharges; red CHARGE indicator lamp does not illuminate with key ON before starting",
+      "probable_cause": "Burnt-out charge warning bulb in speedometer, blown meter fuse (Fuse 6, 10A), or disconnected Yellow/White wire at IC regulator terminal 'L'. (Excitation current through bulb is required to initialize alternator charging field).",
+      "corrective_action": "Replace defective charge warning bulb in combination meter. Verify 12V on Black/White wire to IC regulator terminal IG and inspect Yellow/White wire continuity between meter and regulator.",
+      "page_label": "WD-4"
+    }
+  ],
+  "special_tools": [
+    {
+      "tool_number": "Check Connector (Built-in)",
+      "tool_name": "6-Pin Engine Diagnostic Check Connector",
+      "kent_moore_no": "N/A",
+      "ref": "Sheet 4 (WD-4)",
+      "page_label": "WD-4"
+    },
+    {
+      "tool_number": "J-25400",
+      "tool_name": "EFI Circuit Tester & Breakout Harness",
+      "kent_moore_no": "J-25400",
+      "ref": "Sheet 3 (WD-3)",
+      "page_label": "WD-3"
+    }
+  ]
+}

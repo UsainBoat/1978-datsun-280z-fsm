@@ -1,0 +1,2730 @@
+{
+  "section_title": "FRONT AXLE & FRONT SUSPENSION",
+  "source_pdf": "1978 280z FSM/FA Front Axle and Suspension.pdf",
+  "md_path": "1978 280z FSM/FA Front Axle and Suspension.md",
+  "pages_count": 19,
+  "diagrams": [
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_1_front_axle_and_suspension_assembly",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_1_front_axle_and_suspension_assembly.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_1_front_axle_and_suspension_assembly.png",
+      "page_num": 2,
+      "page_label": "FA-2",
+      "fig_id": "Fig. FA-1",
+      "code": "FA455",
+      "caption": "Fig. FA-1 Front axle and suspension assembly",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross-sectional and component assembly diagram of the front axle and front suspension system, showing strut assembly, transverse link, compression rod, stabilizer bar, front hub, and tightening torques for all primary fasteners.",
+      "components": [
+        "Strut mounting insulator",
+        "Thrust bearing",
+        "Bound bumper rubber",
+        "Dust cover",
+        "Coil spring",
+        "Strut assembly",
+        "Front wheel hub",
+        "Wheel bearing",
+        "Suspension ball joint",
+        "Transverse link",
+        "Compression rod",
+        "Stabilizer bar",
+        "Front suspension member",
+        "Spindle"
+      ],
+      "callouts": {
+        "1": "Strut mounting insulator",
+        "2": "Thrust bearing",
+        "3": "Bound bumper rubber",
+        "4": "Dust cover",
+        "5": "Coil spring",
+        "6": "Strut assembly",
+        "7": "Front wheel hub",
+        "8": "Wheel bearing",
+        "9": "Suspension ball joint",
+        "10": "Transverse link",
+        "11": "Compression rod",
+        "12": "Stabilizer bar",
+        "13": "Front suspension member",
+        "A": "T: 4.5 to 5.5 kg-m (33 to 40 ft-lb)",
+        "B": "T: 6.1 to 7.1 kg-m (44 to 51 ft-lb)",
+        "C": "T: 7.3 to 10.0 kg-m (53 to 72 ft-lb)",
+        "D": "T: 2.5 to 3.5 kg-m (18 to 25 ft-lb)",
+        "E": "T: 7.5 to 9.5 kg-m (54 to 69 ft-lb)",
+        "F": "Steel wheel: 8 to 9 kg-m (58 to 65 ft-lb); Aluminum wheel: 8 to 10 kg-m (58 to 72 ft-lb)",
+        "G": "T: 3.9 to 5.3 kg-m (28 to 38 ft-lb)",
+        "H": "T: 5.5 to 7.5 kg-m (40 to 54 ft-lb)",
+        "I": "T: 11.1 to 14.0 kg-m (80 to 101 ft-lb)"
+      },
+      "measurements_and_specs": [
+        "A: 4.5 to 5.5 kg-m (33 to 40 ft-lb)",
+        "B: 6.1 to 7.1 kg-m (44 to 51 ft-lb)",
+        "C: 7.3 to 10.0 kg-m (53 to 72 ft-lb)",
+        "D: 2.5 to 3.5 kg-m (18 to 25 ft-lb)",
+        "E: 7.5 to 9.5 kg-m (54 to 69 ft-lb)",
+        "F: Steel wheel 8 to 9 kg-m (58 to 65 ft-lb), Aluminum wheel 8 to 10 kg-m (58 to 72 ft-lb)",
+        "G: 3.9 to 5.3 kg-m (28 to 38 ft-lb)",
+        "H: 5.5 to 7.5 kg-m (40 to 54 ft-lb)",
+        "I: 11.1 to 14.0 kg-m (80 to 101 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "All suspension bolts and nuts should be torqued to specified values. Transverse link, compression rod, and stabilizer bar interact to absorb braking, cornering, and vertical forces.",
+      "tags": [
+        "front suspension",
+        "strut assembly",
+        "transverse link",
+        "stabilizer bar",
+        "compression rod",
+        "tightening torque"
+      ],
+      "dimensions": [
+        1113,
+        1076
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_2_tightening_wheel_bearing_lock_nut",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_2_tightening_wheel_bearing_lock_nut.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_2_tightening_wheel_bearing_lock_nut.png",
+      "page_num": 3,
+      "page_label": "FA-3",
+      "fig_id": "Fig. FA-2",
+      "code": "FA263",
+      "caption": "Fig. FA-2 Tightening wheel bearing lock nut",
+      "diagram_type": "procedure_step",
+      "description": "Torquing the front wheel bearing lock nut using a torque wrench and socket to seat the bearings.",
+      "components": [
+        "Torque wrench",
+        "Wheel hub",
+        "Wheel bearing lock nut",
+        "Spindle"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tightening torque: 2.5 to 3.0 kg-m (18 to 22 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Tighten lock nut to 2.5 to 3.0 kg-m to seat the bearings prior to backing off.",
+      "tags": [
+        "wheel bearing",
+        "lock nut",
+        "torque wrench",
+        "bearing preload"
+      ],
+      "dimensions": [
+        329,
+        261
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_3_loosen_wheel_bearing_lock_nut_60",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_3_loosen_wheel_bearing_lock_nut_60.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_3_loosen_wheel_bearing_lock_nut_60.png",
+      "page_num": 3,
+      "page_label": "FA-3",
+      "fig_id": "Fig. FA-3",
+      "code": "FA456",
+      "caption": "Fig. FA-3 Loosen wheel bearing lock nut 60\u00b0",
+      "diagram_type": "procedure_step",
+      "description": "Loosening the wheel bearing lock nut by 60 degrees using a wrench to achieve initial running clearance.",
+      "components": [
+        "Wrench",
+        "Wheel bearing lock nut",
+        "Wheel hub"
+      ],
+      "callouts": {
+        "60\u00b0": "Loosen angle"
+      },
+      "measurements_and_specs": [
+        "Loosen angle: 60 degrees (up to 15 degrees additional if needed to align hole)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "After seating, back off 60 degrees. Align adjusting cap slot with spindle hole; may loosen up to 15 degrees more if necessary.",
+      "tags": [
+        "wheel bearing",
+        "lock nut",
+        "adjusting cap",
+        "bearing preload"
+      ],
+      "dimensions": [
+        354,
+        323
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_4_measuring_wheel_bearing_rotation_starting_torque",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_4_measuring_wheel_bearing_rotation_starting_torque.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_4_measuring_wheel_bearing_rotation_starting_torque.png",
+      "page_num": 3,
+      "page_label": "FA-3",
+      "fig_id": "Fig. FA-4",
+      "code": "FA264",
+      "caption": "Fig. FA-4 Measuring wheel bearing rotation starting torque",
+      "diagram_type": "inspection_measurement",
+      "description": "Measuring front wheel bearing preload using a spring scale attached to a wheel hub stud at a 90-degree angle.",
+      "components": [
+        "Spring balance / scale",
+        "Wheel hub bolt / stud",
+        "Wheel hub"
+      ],
+      "callouts": {
+        "90\u00b0": "Angle of pull relative to center line"
+      },
+      "measurements_and_specs": [
+        "Pull angle: 90 degrees",
+        "Starting torque (new parts): 4.0 to 8.5 kg-cm (3.5 to 7.4 in-lb)",
+        "Starting force at bolt (new parts): 0.7 to 1.5 kg (1.5 to 3.3 lb)",
+        "Starting torque (used parts): 1.0 to 4.5 kg-cm (0.9 to 3.9 in-lb)",
+        "Starting force at bolt (used parts): 0.2 to 0.8 kg (0.4 to 1.8 lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Attach spring balance to hub bolt and pull at right angle to a line drawn through center of bearing and hub bolt.",
+      "tags": [
+        "wheel bearing",
+        "preload",
+        "starting torque",
+        "spring balance"
+      ],
+      "dimensions": [
+        366,
+        332
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_5_installing_cotter_pin",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_5_installing_cotter_pin.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_5_installing_cotter_pin.png",
+      "page_num": 3,
+      "page_label": "FA-3",
+      "fig_id": "Fig. FA-5",
+      "code": "FA457",
+      "caption": "Fig. FA-5 Installing cotter pin",
+      "diagram_type": "procedure_step",
+      "description": "Installation and bending of cotter pin through the adjusting cap and spindle hole to lock the wheel bearing adjustment.",
+      "components": [
+        "Cotter pin",
+        "Adjusting cap",
+        "Spindle hole",
+        "Wheel hub"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Spread cotter pin legs away from each other against the sides of the adjusting cap.",
+      "tags": [
+        "cotter pin",
+        "adjusting cap",
+        "locking nut"
+      ],
+      "dimensions": [
+        354,
+        323
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_6_measuring_toe_in",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_6_measuring_toe_in.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_6_measuring_toe_in.png",
+      "page_num": 4,
+      "page_label": "FA-4",
+      "fig_id": "Fig. FA-6",
+      "code": "FA467",
+      "caption": "Fig. FA-6 Measuring toe-in",
+      "diagram_type": "inspection_measurement",
+      "description": "Measuring front wheel toe-in across the front wheels using a drive-on/trammel toe-in gauge.",
+      "components": [
+        "Vehicle front end",
+        "Toe-in gauge",
+        "Front road wheels"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Toe-in: 0 to 3 mm (0 to 0.12 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Car must be at curb weight on level ground when measuring toe-in.",
+      "tags": [
+        "toe-in",
+        "wheel alignment",
+        "toe gauge"
+      ],
+      "dimensions": [
+        360,
+        262
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_7_adjusting_toe_in",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_7_adjusting_toe_in.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_7_adjusting_toe_in.png",
+      "page_num": 4,
+      "page_label": "FA-4",
+      "fig_id": "Fig. FA-7",
+      "code": "FA452",
+      "caption": "Fig. FA-7 Adjusting toe-in",
+      "diagram_type": "procedure_step",
+      "description": "Adjusting front wheel toe-in by loosening side rod lock nut and rotating side rod.",
+      "components": [
+        "Side rod lock nut",
+        "Side rod",
+        "Steering rack boot",
+        "Tie rod ball socket"
+      ],
+      "callouts": {
+        "1": "Side rod lock nut",
+        "2": "Side rod"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Loosen lock nut 1 and rotate side rod 2. Left and right side rods must be adjusted equally.",
+      "tags": [
+        "toe-in adjustment",
+        "side rod",
+        "lock nut",
+        "steering linkage"
+      ],
+      "dimensions": [
+        367,
+        341
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_8_standard_length_of_side_rod",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_8_standard_length_of_side_rod.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_8_standard_length_of_side_rod.png",
+      "page_num": 4,
+      "page_label": "FA-4",
+      "fig_id": "Fig. FA-8",
+      "code": "ST447",
+      "caption": "Fig. FA-8 Standard length of side rod",
+      "diagram_type": "inspection_measurement",
+      "description": "Dimensional cross section of the steering rack side rod ball socket and stopper nut showing standard length dimension.",
+      "components": [
+        "Side rod ball",
+        "Stopper nut",
+        "Side rod"
+      ],
+      "callouts": {
+        "37.9 mm (1.492 in)": "Standard side rod length",
+        "Side rod ball": "Ball socket",
+        "Stopper nut": "Lock nut / stopper"
+      },
+      "measurements_and_specs": [
+        "Standard length: 37.9 mm (1.492 in)",
+        "Tightening torque: 8 to 10 kg-m (58 to 72 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Distance between centers of side rods should be equal on both sides. Stopper nut end surface forms the steering stopper against rack housing.",
+      "tags": [
+        "side rod",
+        "standard length",
+        "stopper nut",
+        "steering gear"
+      ],
+      "dimensions": [
+        354,
+        323
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_9_measuring_steering_angle_camber_and_caster",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_9_measuring_steering_angle_camber_and_caster.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_9_measuring_steering_angle_camber_and_caster.png",
+      "page_num": 4,
+      "page_label": "FA-4",
+      "fig_id": "Fig. FA-9",
+      "code": "FA032",
+      "caption": "Fig. FA-9 Measuring steering angle, camber and caster",
+      "diagram_type": "inspection_measurement",
+      "description": "Front wheel positioned on turning radius gauge turntable with alignment gauge attached to wheel hub to measure steering angle, camber, and caster.",
+      "components": [
+        "Turning radius gauge",
+        "Camber/caster alignment gauge",
+        "Front wheel"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Adjust steering angle using turning radius gauge before performing final toe-in adjustment.",
+      "tags": [
+        "steering angle",
+        "camber",
+        "caster",
+        "turning radius gauge"
+      ],
+      "dimensions": [
+        354,
+        340
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_10_removing_brake_tube_and_caliper_fixing_bolts",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_10_removing_brake_tube_and_caliper_fixing_bolts.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_10_removing_brake_tube_and_caliper_fixing_bolts.png",
+      "page_num": 5,
+      "page_label": "FA-5",
+      "fig_id": "Fig. FA-10",
+      "code": "FA458",
+      "caption": "Fig. FA-10 Removing brake tube and caliper fixing bolts",
+      "diagram_type": "procedure_step",
+      "description": "Disconnecting the brake tube flare nut and removing the caliper fixing bolts on the front strut assembly.",
+      "components": [
+        "Brake tube flare nut",
+        "Brake caliper",
+        "Caliper fixing bolts",
+        "Strut assembly"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Brake tube flare nut tightening torque: 1.5 to 1.8 kg-m (11 to 13 ft-lb)",
+        "Caliper fixing bolt tightening torque: 7.3 to 9.9 kg-m (53 to 72 ft-lb)"
+      ],
+      "wiring_and_connections": [
+        "Hydraulic brake tube line connection"
+      ],
+      "mechanic_notes": "Disconnect brake hydraulic tube flare nut before removing caliper bolts.",
+      "tags": [
+        "brake caliper",
+        "brake tube",
+        "caliper fixing bolt",
+        "torque"
+      ],
+      "dimensions": [
+        354,
+        463
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_11_removing_hub_cap",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_11_removing_hub_cap.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_11_removing_hub_cap.png",
+      "page_num": 5,
+      "page_label": "FA-5",
+      "fig_id": "Fig. FA-11",
+      "code": "FA038",
+      "caption": "Fig. FA-11 Removing hub cap",
+      "diagram_type": "procedure_step",
+      "description": "Prying off front wheel hub grease cap using two screwdrivers prying equally from opposite sides.",
+      "components": [
+        "Hub cap",
+        "Screwdrivers",
+        "Front wheel hub"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Use caution to avoid damaging O-ring under hub cap. Tap lightly with soft hammer if needed.",
+      "tags": [
+        "hub cap",
+        "grease cap",
+        "wheel hub",
+        "O-ring"
+      ],
+      "dimensions": [
+        347,
+        279
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_12_removing_wheel_hub",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_12_removing_wheel_hub.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_12_removing_wheel_hub.png",
+      "page_num": 5,
+      "page_label": "FA-5",
+      "fig_id": "Fig. FA-12",
+      "code": "FA459",
+      "caption": "Fig. FA-12 Removing wheel hub",
+      "diagram_type": "procedure_step",
+      "description": "Sliding the front wheel hub assembly off the spindle with bearing installed.",
+      "components": [
+        "Wheel hub",
+        "Spindle",
+        "Wheel bearing"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Wheel hub may be removed together with disc rotor.",
+      "tags": [
+        "wheel hub",
+        "spindle",
+        "removal"
+      ],
+      "dimensions": [
+        354,
+        252
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_13_removing_wheel_bearing_outer_race",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_13_removing_wheel_bearing_outer_race.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_13_removing_wheel_bearing_outer_race.png",
+      "page_num": 5,
+      "page_label": "FA-5",
+      "fig_id": "Fig. FA-13",
+      "code": "FA259",
+      "caption": "Fig. FA-13 Removing wheel bearing outer race",
+      "diagram_type": "procedure_step",
+      "description": "Driving out the wheel bearing outer race from the wheel hub using a hammer and brass drift through hub internal grooves.",
+      "components": [
+        "Brass drift",
+        "Hammer",
+        "Wheel hub",
+        "Bearing outer race"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Utilize two grooves inside hub to alternate drift hits around race perimeter.",
+      "tags": [
+        "bearing outer race",
+        "brass drift",
+        "hub overhaul"
+      ],
+      "dimensions": [
+        354,
+        323
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_14_removing_disc_brake_rotor",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_14_removing_disc_brake_rotor.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_14_removing_disc_brake_rotor.png",
+      "page_num": 5,
+      "page_label": "FA-5",
+      "fig_id": "Fig. FA-14",
+      "code": "FA260",
+      "caption": "Fig. FA-14 Removing disc brake rotor",
+      "diagram_type": "procedure_step",
+      "description": "Loosening the four disc brake rotor mounting bolts to separate rotor from wheel hub.",
+      "components": [
+        "Disc brake rotor",
+        "Wheel hub",
+        "Rotor mounting bolts",
+        "Wrench"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tightening torque: 3.9 to 5.3 kg-m (28 to 38 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Loosen four bolts securing brake disc; torque to 3.9 to 5.3 kg-m upon reassembly.",
+      "tags": [
+        "brake rotor",
+        "wheel hub",
+        "mounting bolts",
+        "torque"
+      ],
+      "dimensions": [
+        354,
+        340
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_15_removing_baffle_plate_screws",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_15_removing_baffle_plate_screws.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_15_removing_baffle_plate_screws.png",
+      "page_num": 5,
+      "page_label": "FA-5",
+      "fig_id": "Fig. FA-15",
+      "code": "FA443",
+      "caption": "Fig. FA-15 Removing baffle plate screws",
+      "diagram_type": "procedure_step",
+      "description": "Removing screws securing splash baffle / dust shield plate to knuckle spindle.",
+      "components": [
+        "Baffle plate",
+        "Knuckle spindle",
+        "Baffle plate screws"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tightening torque: 0.32 to 0.44 kg-m (2.3 to 3.2 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Loosen screws securing baffle plate in position; tighten to 0.32 to 0.44 kg-m upon assembly.",
+      "tags": [
+        "baffle plate",
+        "dust shield",
+        "knuckle spindle",
+        "torque"
+      ],
+      "dimensions": [
+        347,
+        367
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_16_installing_wheel_bearing_outer_race",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_16_installing_wheel_bearing_outer_race.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_16_installing_wheel_bearing_outer_race.png",
+      "page_num": 6,
+      "page_label": "FA-6",
+      "fig_id": "Fig. FA-16",
+      "code": "FA445",
+      "caption": "Fig. FA-16 Installing wheel bearing outer race",
+      "diagram_type": "procedure_step",
+      "description": "Pressing or driving wheel bearing outer race into wheel hub using drift ST35300000.",
+      "components": [
+        "Front Wheel Bearing Drift ST35300000",
+        "Wheel hub",
+        "Bearing outer race"
+      ],
+      "callouts": {
+        "ST35300000": "Front Wheel Bearing Drift"
+      },
+      "measurements_and_specs": [
+        "Special tool: ST35300000"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Drive outer race squarely into hub until fully seated against shoulder using tool ST35300000.",
+      "tags": [
+        "bearing outer race",
+        "drift",
+        "ST35300000",
+        "hub assembly"
+      ],
+      "dimensions": [
+        367,
+        340
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_17_lubricating_points_of_wheel_hub",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_17_lubricating_points_of_wheel_hub.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_17_lubricating_points_of_wheel_hub.png",
+      "page_num": 6,
+      "page_label": "FA-6",
+      "fig_id": "Fig. FA-17",
+      "code": "FA460",
+      "caption": "Fig. FA-17 Lubricating points of wheel hub",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross section of wheel hub showing cavity areas and recesses to be packed with multi-purpose grease.",
+      "components": [
+        "Wheel hub",
+        "Inner bearing cavity",
+        "Outer bearing cavity",
+        "Center grease recess"
+      ],
+      "callouts": {
+        "Pack this recess": "Hub interior grease cavity"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Pack inner cavity recess of hub and hub cap with recommended multi-purpose grease to specified level.",
+      "tags": [
+        "lubrication",
+        "wheel hub",
+        "grease packing",
+        "recess"
+      ],
+      "dimensions": [
+        347,
+        358
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_18_filling_bearing_cone_with_grease",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_18_filling_bearing_cone_with_grease.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_18_filling_bearing_cone_with_grease.png",
+      "page_num": 6,
+      "page_label": "FA-6",
+      "fig_id": "Fig. FA-18",
+      "code": "FA262",
+      "caption": "Fig. FA-18 Filling bearing cone with grease",
+      "diagram_type": "procedure_step",
+      "description": "Hand packing bearing cone cavities with multi-purpose grease from grease container.",
+      "components": [
+        "Bearing cone",
+        "Multi-purpose grease can (Elephant brand)"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Pack cavities between rollers of each bearing cone thoroughly with grease.",
+      "tags": [
+        "bearing cone",
+        "grease packing",
+        "lubrication"
+      ],
+      "dimensions": [
+        360,
+        297
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_19_filling_grease_seal_lip_pocket_with_grease",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_19_filling_grease_seal_lip_pocket_with_grease.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_19_filling_grease_seal_lip_pocket_with_grease.png",
+      "page_num": 6,
+      "page_label": "FA-6",
+      "fig_id": "Fig. FA-19",
+      "code": "FA064",
+      "caption": "Fig. FA-19 Filling grease seal lip pocket with grease",
+      "diagram_type": "procedure_step",
+      "description": "Applying grease to the seal lip pocket of a new grease seal prior to installation.",
+      "components": [
+        "Grease seal",
+        "Grease can"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Lubricate sealing lips and fill lip pocket with multi-purpose grease before pressing seal into hub.",
+      "tags": [
+        "grease seal",
+        "seal lip",
+        "lubrication"
+      ],
+      "dimensions": [
+        360,
+        305
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_20_sectional_view_of_strut_assembly",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_20_sectional_view_of_strut_assembly.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_20_sectional_view_of_strut_assembly.png",
+      "page_num": 7,
+      "page_label": "FA-7",
+      "fig_id": "Fig. FA-20",
+      "code": "FA268",
+      "caption": "Fig. FA-20 Sectional view of strut assembly",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross-sectional detail view of front strut cartridge assembly including internal valving, check valves, piston, cylinder, and shock absorber expansion/compression flow operation.",
+      "components": [
+        "Gland packing assembly",
+        "Oil seal",
+        "O-ring",
+        "Piston rod guide assembly",
+        "Cylinder",
+        "Rebound stopper",
+        "Strut-outer casing",
+        "Piston rod",
+        "Check valve spring retainer",
+        "Check valve spring",
+        "Check valve plate",
+        "Piston ring",
+        "Valve plate",
+        "Piston body",
+        "Nut",
+        "Bolt",
+        "Distance collar",
+        "Spring retainer",
+        "Bottom valve body",
+        "Bottom plate"
+      ],
+      "callouts": {
+        "1": "Gland packing assembly",
+        "2": "Oil seal",
+        "3": "O-ring",
+        "4": "Piston rod guide assembly",
+        "5": "Cylinder",
+        "6": "Rebound stopper",
+        "7": "Strut-outer casing",
+        "8": "Piston rod",
+        "9": "Check valve spring retainer",
+        "10": "Check valve spring",
+        "11": "Check valve plate",
+        "12": "Piston ring",
+        "13": "Valve plate",
+        "14": "Piston body",
+        "15": "Nut",
+        "16": "Bolt",
+        "17": "Distance collar",
+        "18": "Spring retainer",
+        "19": "Check valve spring",
+        "20": "Bottom valve body",
+        "21": "Check valve plate",
+        "22": "Valve plate",
+        "23": "Nut",
+        "24": "Bottom plate"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "The piston rod, piston rod guide, cylinder, and bottom valve are precision matched parts and must be replaced as a set if faulty.",
+      "tags": [
+        "strut assembly",
+        "hydraulic shock absorber",
+        "piston rod",
+        "valving",
+        "cylinder",
+        "cross section"
+      ],
+      "dimensions": [
+        736,
+        709
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_21_disconnecting_brake_hose",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_21_disconnecting_brake_hose.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_21_disconnecting_brake_hose.png",
+      "page_num": 8,
+      "page_label": "FA-8",
+      "fig_id": "Fig. FA-21",
+      "code": "FA461",
+      "caption": "Fig. FA-21 Disconnecting brake hose",
+      "diagram_type": "procedure_step",
+      "description": "Disconnecting the brake hose flare nut from strut bracket and removing retaining U-clip/locking spring.",
+      "components": [
+        "Brake hose",
+        "Brake tube",
+        "Strut mounting bracket",
+        "Locking spring"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tightening torque: 1.5 to 1.8 kg-m (11 to 13 ft-lb)"
+      ],
+      "wiring_and_connections": [
+        "Brake hydraulic flexible hose and hard tube"
+      ],
+      "mechanic_notes": "Tighten flare nut to 1.5 to 1.8 kg-m upon reinstallation.",
+      "tags": [
+        "brake hose",
+        "flare nut",
+        "locking spring",
+        "strut bracket"
+      ],
+      "dimensions": [
+        347,
+        437
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_22_removing_bolts_connecting_knuckle_arm",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_22_removing_bolts_connecting_knuckle_arm.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_22_removing_bolts_connecting_knuckle_arm.png",
+      "page_num": 8,
+      "page_label": "FA-8",
+      "fig_id": "Fig. FA-22",
+      "code": "FA462",
+      "caption": "Fig. FA-22 Removing bolts connecting knuckle arm",
+      "diagram_type": "procedure_step",
+      "description": "Loosening the two bolts securing the knuckle arm to the bottom flange of the front strut assembly.",
+      "components": [
+        "Knuckle arm",
+        "Knuckle arm bolts",
+        "Strut bottom flange"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tightening torque: 7.3 to 9.9 kg-m (53 to 72 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Force transverse link downward with pry bar after bolt removal to detach knuckle arm.",
+      "tags": [
+        "knuckle arm",
+        "strut lower mount",
+        "connecting bolts"
+      ],
+      "dimensions": [
+        367,
+        402
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_23_strut_mounting_nuts",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_23_strut_mounting_nuts.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_23_strut_mounting_nuts.png",
+      "page_num": 8,
+      "page_label": "FA-8",
+      "fig_id": "Fig. FA-23",
+      "code": "FA206",
+      "caption": "Fig. FA-23 [Upper strut mounting nuts under hood]",
+      "diagram_type": "procedure_step",
+      "description": "Location of the three upper strut mounting nuts in the engine compartment / hood ledge tower.",
+      "components": [
+        "Strut tower / hood ledge",
+        "Strut insulator mounting nuts (3)"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tightening torque: 2.5 to 3.5 kg-m (18 to 25 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Support strut with jack underneath before removing the 3 tower mounting nuts.",
+      "tags": [
+        "strut tower",
+        "mounting nuts",
+        "hood ledge"
+      ],
+      "dimensions": [
+        354,
+        367
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_24_removing_front_strut_assembly",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_24_removing_front_strut_assembly.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_24_removing_front_strut_assembly.png",
+      "page_num": 8,
+      "page_label": "FA-8",
+      "fig_id": "Fig. FA-24",
+      "code": "FA057",
+      "caption": "Fig. FA-24 Removing front strut Assembly",
+      "diagram_type": "procedure_step",
+      "description": "Lowering the jack and removing the front strut assembly with coil spring from vehicle wheel well.",
+      "components": [
+        "Strut assembly",
+        "Coil spring",
+        "Floor jack",
+        "Wheel well"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Hold strut by hand while lowering jack to prevent falling.",
+      "tags": [
+        "strut removal",
+        "front strut"
+      ],
+      "dimensions": [
+        360,
+        314
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_25_removing_self_locking_nut",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_25_removing_self_locking_nut.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_25_removing_self_locking_nut.png",
+      "page_num": 8,
+      "page_label": "FA-8",
+      "fig_id": "Fig. FA-25",
+      "code": "FA059",
+      "caption": "Fig. FA-25 Removing self-locking nut",
+      "diagram_type": "procedure_step",
+      "description": "Compressing the coil spring with compressor tool ST3565S001 and unscrewing the top self-locking nut from piston rod.",
+      "components": [
+        "Coil spring compressor ST3565S001",
+        "Self-locking nut",
+        "Piston rod",
+        "Strut insulator"
+      ],
+      "callouts": {
+        "ST3565S001": "Coil spring compressor"
+      },
+      "measurements_and_specs": [
+        "Special tool: ST3565S001"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Hook tool evenly over minimum of 3 coils. Protect body stud threads when leveraging screwdriver.",
+      "tags": [
+        "spring compressor",
+        "self-locking nut",
+        "ST3565S001",
+        "disassembly"
+      ],
+      "dimensions": [
+        354,
+        314
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_26_removing_gland_packing",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_26_removing_gland_packing.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_26_removing_gland_packing.png",
+      "page_num": 8,
+      "page_label": "FA-8",
+      "fig_id": "Fig. FA-26",
+      "code": "FA274",
+      "caption": "Fig. FA-26 Removing gland packing",
+      "diagram_type": "procedure_step",
+      "description": "Unscrewing gland packing nut from top of strut casing using special gland packing wrench KV40100800 while bottom is held in vise.",
+      "components": [
+        "Gland Packing Wrench KV40100800",
+        "Gland packing",
+        "Strut outer casing",
+        "Vise attachment"
+      ],
+      "callouts": {
+        "KV40100800": "Gland Packing Wrench"
+      },
+      "measurements_and_specs": [
+        "Special tool: KV40100800"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Retract piston rod completely down before loosening gland packing.",
+      "tags": [
+        "gland packing wrench",
+        "KV40100800",
+        "strut casing",
+        "disassembly"
+      ],
+      "dimensions": [
+        354,
+        366
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_27_removing_piston_rod_and_cylinder",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_27_removing_piston_rod_and_cylinder.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_27_removing_piston_rod_and_cylinder.png",
+      "page_num": 9,
+      "page_label": "FA-9",
+      "fig_id": "Fig. FA-27",
+      "code": "FA275",
+      "caption": "Fig. FA-27 Removing piston rod and cylinder",
+      "diagram_type": "procedure_step",
+      "description": "Lifting the shock absorber cylinder and piston rod together as a matched assembly out of the strut outer casing.",
+      "components": [
+        "Piston rod",
+        "Cylinder",
+        "Strut outer casing"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Do not disassemble piston rod guide from cylinder; handle as matched set.",
+      "tags": [
+        "piston rod",
+        "inner cylinder",
+        "strut casing",
+        "removal"
+      ],
+      "dimensions": [
+        347,
+        279
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_28_exploded_view_of_strut_assembly",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_28_exploded_view_of_strut_assembly.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_28_exploded_view_of_strut_assembly.png",
+      "page_num": 9,
+      "page_label": "FA-9",
+      "fig_id": "Fig. FA-28",
+      "code": "FA463",
+      "caption": "Fig. FA-28 Exploded view of strut assembly",
+      "diagram_type": "exploded_view",
+      "description": "Exploded component view of front strut, coil spring, upper seat, insulator, thrust bearing, dust seal, and bound bumper rubber.",
+      "components": [
+        "Strut assembly",
+        "Coil spring",
+        "Spring upper seat",
+        "Strut mounting insulator",
+        "Thrust bearing",
+        "Dust seal",
+        "Bound bumper rubber"
+      ],
+      "callouts": {
+        "1": "Strut assembly",
+        "2": "Coil spring",
+        "3": "Spring upper seat",
+        "4": "Strut mounting insulator",
+        "5": "Thrust bearing",
+        "6": "Dust seal",
+        "7": "Bound bumper rubber"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Assemble components in strict numbered sequence. Check rubber insulator and thrust bearing for wear.",
+      "tags": [
+        "exploded view",
+        "strut assembly",
+        "thrust bearing",
+        "coil spring",
+        "insulator"
+      ],
+      "dimensions": [
+        335,
+        464
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_29_filling_outer_casing_with_fluid",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_29_filling_outer_casing_with_fluid.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_29_filling_outer_casing_with_fluid.png",
+      "page_num": 9,
+      "page_label": "FA-9",
+      "fig_id": "Fig. FA-29",
+      "code": "FA330",
+      "caption": "Fig. FA-29 Filling outer casing with fluid",
+      "diagram_type": "procedure_step",
+      "description": "Pouring genuine shock absorber oil into the outer casing of the strut assembly.",
+      "components": [
+        "Strut outer casing",
+        "Fluid container"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Fluid capacity: 340 cc (20.7 cu in)",
+        "Fluid type: NISSAN GENUINE STRUT OIL or equivalent"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Strictly pour 340 cc of genuine strut oil into outer casing to maintain correct shock absorber damping force.",
+      "tags": [
+        "strut oil",
+        "fluid capacity",
+        "shock absorber",
+        "damping"
+      ],
+      "dimensions": [
+        290,
+        262
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_30_installing_gland_packing",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_30_installing_gland_packing.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_30_installing_gland_packing.png",
+      "page_num": 9,
+      "page_label": "FA-9",
+      "fig_id": "Fig. FA-30",
+      "code": "FA276",
+      "caption": "Fig. FA-30 Installing gland packing",
+      "diagram_type": "procedure_step",
+      "description": "Sliding gland packing over piston rod guide using special gland packing guide tool ST35540000.",
+      "components": [
+        "Gland packing guide ST35540000",
+        "Gland packing",
+        "Piston rod",
+        "Strut casing"
+      ],
+      "callouts": {
+        "ST35540000": "Gland packing guide"
+      },
+      "measurements_and_specs": [
+        "Special tool: ST35540000"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Guide protects seal lip during installation over rod threads.",
+      "tags": [
+        "gland packing",
+        "guide",
+        "ST35540000",
+        "piston rod"
+      ],
+      "dimensions": [
+        335,
+        288
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_31_sectional_view_of_gland_packing",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_31_sectional_view_of_gland_packing.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_31_sectional_view_of_gland_packing.png",
+      "page_num": 9,
+      "page_label": "FA-9",
+      "fig_id": "Fig. FA-31",
+      "code": "FA464",
+      "caption": "Fig. FA-31 Sectional view of gland packing",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross-sectional view of gland packing assembly highlighting grease lubrication point on internal sealing lip.",
+      "components": [
+        "Gland packing nut",
+        "Oil seal lip",
+        "Grease cavity",
+        "Scraper / wiper"
+      ],
+      "callouts": {
+        "Grease": "Lubricate sealing lip with multi-purpose grease"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Lubricate sealing lip marked with grease before sliding onto rod guide.",
+      "tags": [
+        "gland packing",
+        "seal lip",
+        "lubrication",
+        "cross section"
+      ],
+      "dimensions": [
+        360,
+        288
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_32_tightening_gland_packing",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_32_tightening_gland_packing.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_32_tightening_gland_packing.png",
+      "page_num": 9,
+      "page_label": "FA-9",
+      "fig_id": "Fig. FA-32",
+      "code": "FA274",
+      "caption": "Fig. FA-32 Tightening gland packing",
+      "diagram_type": "procedure_step",
+      "description": "Torquing gland packing with wrench KV40100800 attached to a torque wrench.",
+      "components": [
+        "Gland packing wrench KV40100800",
+        "Torque wrench",
+        "Strut outer casing"
+      ],
+      "callouts": {
+        "KV40100800": "Gland packing wrench"
+      },
+      "measurements_and_specs": [
+        "Gland packing tightening torque: 7 to 13 kg-m (51 to 94 ft-lb)",
+        "Special tool: KV40100800"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Apply torque formula adjustment when using wrench adapter KV40100800.",
+      "tags": [
+        "gland packing",
+        "KV40100800",
+        "torque wrench",
+        "tightening"
+      ],
+      "dimensions": [
+        360,
+        323
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_33_gland_packing_wrench",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_33_gland_packing_wrench.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_33_gland_packing_wrench.png",
+      "page_num": 10,
+      "page_label": "FA-10",
+      "fig_id": "Fig. FA-33",
+      "code": "FA278",
+      "caption": "Fig. FA-33 Gland packing wrench",
+      "diagram_type": "special_service_tool",
+      "description": "Dimensional diagram showing gland packing wrench KV40100800 with effective torque adapter offset length 0.10 m (0.33 ft) and torque wrench length l.",
+      "components": [
+        "Gland packing wrench adapter",
+        "Torque wrench"
+      ],
+      "callouts": {
+        "0.10 m (0.33 ft)": "Adapter offset length",
+        "l m (ft)": "Effective length of torque wrench",
+        "Gland packing wrench": "KV40100800",
+        "Torque wrench": "Torque wrench body"
+      },
+      "measurements_and_specs": [
+        "Adapter offset: 0.10 m (0.33 ft)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Use formula C = 7 * (l / (l + 0.10)) kg-m to compensate for the 0.10 m offset.",
+      "tags": [
+        "KV40100800",
+        "gland packing wrench",
+        "torque calculation",
+        "offset"
+      ],
+      "dimensions": [
+        353,
+        226
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_34_bleeding_air_from_strut",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_34_bleeding_air_from_strut.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_34_bleeding_air_from_strut.png",
+      "page_num": 10,
+      "page_label": "FA-10",
+      "fig_id": "Fig. FA-34",
+      "code": "FA280",
+      "caption": "Fig. FA-34 Bleeding air from strut",
+      "diagram_type": "procedure_step",
+      "description": "Technician bleeding trapped air from shock absorber by cycling piston rod in inverted and upright positions.",
+      "components": [
+        "Strut shock absorber",
+        "Piston rod",
+        "Spindle"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Rod extension before tightening: approx 120 mm (4.72 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Extend rod with spindle down, then invert and retract rod fully. Repeat until stroke resistance is equal and smooth.",
+      "tags": [
+        "air bleeding",
+        "strut shock absorber",
+        "damping"
+      ],
+      "dimensions": [
+        341,
+        647
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_35_strut_mounting_bearing_greasing_point",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_35_strut_mounting_bearing_greasing_point.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_35_strut_mounting_bearing_greasing_point.png",
+      "page_num": 10,
+      "page_label": "FA-10",
+      "fig_id": "Fig. FA-35",
+      "code": "FA281",
+      "caption": "Fig. FA-35 Strut mounting bearing greasing point",
+      "diagram_type": "component_location",
+      "description": "Cutaway illustration of strut upper mount indicating grease application points and orientation of thrust bearing.",
+      "components": [
+        "Strut mounting insulator",
+        "Thrust bearing",
+        "Upper spring seat",
+        "Piston rod"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Install mounting bearing so that it points in correct direction. Lubricate indicated bearing races with multi-purpose grease.",
+      "tags": [
+        "thrust bearing",
+        "insulator",
+        "lubrication",
+        "orientation"
+      ],
+      "dimensions": [
+        309,
+        297
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_36_installing_front_spring",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_36_installing_front_spring.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_36_installing_front_spring.png",
+      "page_num": 10,
+      "page_label": "FA-10",
+      "fig_id": "Fig. FA-36",
+      "code": "FA282",
+      "caption": "Fig. FA-36 Installing front spring",
+      "diagram_type": "alignment_orientation",
+      "description": "Orientation of front coil spring bottom end seated into the contour groove of the strut lower spring seat.",
+      "components": [
+        "Coil spring",
+        "Lower spring seat",
+        "Lower end of spring"
+      ],
+      "callouts": {
+        "Lower end": "Bottom coil end seated against step"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Align the lower coil tail cleanly against the seat stop before releasing spring compressor.",
+      "tags": [
+        "coil spring",
+        "lower spring seat",
+        "spring alignment"
+      ],
+      "dimensions": [
+        303,
+        314
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_37_removing_stabilizer_and_compression_rod",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_37_removing_stabilizer_and_compression_rod.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_37_removing_stabilizer_and_compression_rod.png",
+      "page_num": 11,
+      "page_label": "FA-11",
+      "fig_id": "Fig. FA-37",
+      "code": "FA465",
+      "caption": "Fig. FA-37 Removing stabilizer and compression rod",
+      "diagram_type": "component_location",
+      "description": "Underbody diagram indicating fastener locations for compression rod bracket nut 1, transverse link bolts 2, stabilizer connecting link nut 3, and stabilizer bar chassis bracket bolts 4.",
+      "components": [
+        "Compression rod",
+        "Stabilizer bar",
+        "Transverse link",
+        "Chassis bracket",
+        "Connecting link"
+      ],
+      "callouts": {
+        "1": "Nut securing compression rod to bracket",
+        "2": "Bolts securing compression rod to transverse link",
+        "3": "Nut connecting stabilizer connecting rod to transverse link",
+        "4": "Bolts securing stabilizer bracket in position"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove nuts and bolts in sequence 1 to 4 to detach stabilizer bar and compression rod.",
+      "tags": [
+        "stabilizer bar",
+        "compression rod",
+        "transverse link",
+        "chassis bracket"
+      ],
+      "dimensions": [
+        352,
+        314
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_38_removing_transverse_link",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_38_removing_transverse_link.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_38_removing_transverse_link.png",
+      "page_num": 11,
+      "page_label": "FA-11",
+      "fig_id": "Fig. FA-38",
+      "code": "FA466",
+      "caption": "Fig. FA-38 Removing transverse link",
+      "diagram_type": "procedure_step",
+      "description": "Detaching the transverse link pivot pin from the front suspension crossmember.",
+      "components": [
+        "Transverse link",
+        "Suspension crossmember",
+        "Mounting pin / bushing"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Loosen transverse link mounting bar and separate link from suspension member.",
+      "tags": [
+        "transverse link",
+        "suspension crossmember",
+        "removal"
+      ],
+      "dimensions": [
+        366,
+        331
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_39_removing_knuckle_arm",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_39_removing_knuckle_arm.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_39_removing_knuckle_arm.png",
+      "page_num": 11,
+      "page_label": "FA-11",
+      "fig_id": "Fig. FA-39",
+      "code": "FA448",
+      "caption": "Fig. FA-39 Removing knuckle arm",
+      "diagram_type": "procedure_step",
+      "description": "Separating the steering knuckle arm from the lower ball joint taper stud on the transverse link.",
+      "components": [
+        "Knuckle arm",
+        "Ball joint stud",
+        "Transverse link"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Knuckle arm is taper fit to ball joint stud. If stuck, screw nut onto stud and strike nut with hammer.",
+      "tags": [
+        "knuckle arm",
+        "ball joint taper",
+        "transverse link"
+      ],
+      "dimensions": [
+        366,
+        314
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_40_removing_transverse_link_bushing",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_40_removing_transverse_link_bushing.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_40_removing_transverse_link_bushing.png",
+      "page_num": 11,
+      "page_label": "FA-11",
+      "fig_id": "Fig. FA-40",
+      "code": "FA214",
+      "caption": "Fig. FA-40 Removing transverse link bushing",
+      "diagram_type": "procedure_step",
+      "description": "Pressing the rubber bushing out of the transverse link eye using press replacer set ST36710000.",
+      "components": [
+        "Transverse link bushing replacer set ST36710000",
+        "Transverse link",
+        "Hydraulic press",
+        "Support base"
+      ],
+      "callouts": {
+        "ST36710000": "Front Transverse Link Bushing Replacer Set"
+      },
+      "measurements_and_specs": [
+        "Special tool: ST36710000"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Support eye squarely on replacer base and press bushing straight through using drift.",
+      "tags": [
+        "transverse link bushing",
+        "ST36710000",
+        "hydraulic press",
+        "bushing removal"
+      ],
+      "dimensions": [
+        373,
+        340
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_41_sectional_view_of_lower_ball_joint",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_41_sectional_view_of_lower_ball_joint.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_41_sectional_view_of_lower_ball_joint.png",
+      "page_num": 12,
+      "page_label": "FA-12",
+      "fig_id": "Fig. FA-41",
+      "code": "FA217",
+      "caption": "Fig. FA-41 Sectional view of lower ball joint",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross-sectional view of the lower ball joint assembly showing ball stud, seat, grease plug/nipple location, and dust boot.",
+      "components": [
+        "Ball stud",
+        "Ball seat",
+        "Dust cover boot",
+        "Lubrication plug"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Turning torque (new parts): 75 to 125 kg-cm (65 to 109 in-lb)",
+        "Turning torque (used parts): More than 50 kg-cm (43 in-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Lubricate ball joint by replacing plug with nipple and pumping multi-purpose grease until old grease purges.",
+      "tags": [
+        "ball joint",
+        "lower ball joint",
+        "turning torque",
+        "cross section"
+      ],
+      "dimensions": [
+        341,
+        314
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_42_sectional_view_of_transverse_link_bushing",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_42_sectional_view_of_transverse_link_bushing.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_42_sectional_view_of_transverse_link_bushing.png",
+      "page_num": 12,
+      "page_label": "FA-12",
+      "fig_id": "Fig. FA-42",
+      "code": "FA447",
+      "caption": "Fig. FA-42 Sectional view of transverse link bushing",
+      "diagram_type": "alignment_orientation",
+      "description": "Cross section showing transverse link rubber bushing installed flush into transverse link eye, noting front-to-rear orientation.",
+      "components": [
+        "Transverse link bushing",
+        "Transverse link eye",
+        "Outer tube"
+      ],
+      "callouts": {
+        "Front": "Forward vehicle direction arrow",
+        "Transverse link bushing": "Inner/outer bushing sleeve"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Press bushing until outer tube is flush with transverse link eye surface. Pay careful attention to front/rear orientation.",
+      "tags": [
+        "transverse link bushing",
+        "alignment",
+        "flush fit",
+        "orientation"
+      ],
+      "dimensions": [
+        366,
+        332
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_43_tightening_knuckle_arm_castle_nut",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_43_tightening_knuckle_arm_castle_nut.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_43_tightening_knuckle_arm_castle_nut.png",
+      "page_num": 12,
+      "page_label": "FA-12",
+      "fig_id": "Fig. FA-43",
+      "code": "FA450",
+      "caption": "Fig. FA-43 Tightening knuckle arm castle nut",
+      "diagram_type": "procedure_step",
+      "description": "Torquing the castle nut on the knuckle arm ball joint taper stud with socket wrench.",
+      "components": [
+        "Knuckle arm castle nut",
+        "Knuckle arm",
+        "Ball joint stud",
+        "Wrench"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tightening torque: 5.5 to 7.5 kg-m (40 to 54 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Torque castle nut to 5.5 to 7.5 kg-m, then advance up to 60 degrees to align slot with cotter pin hole.",
+      "tags": [
+        "castle nut",
+        "knuckle arm",
+        "torque",
+        "cotter pin"
+      ],
+      "dimensions": [
+        360,
+        314
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_44_removing_engine_mounting_bolts",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_44_removing_engine_mounting_bolts.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_44_removing_engine_mounting_bolts.png",
+      "page_num": 12,
+      "page_label": "FA-12",
+      "fig_id": "Fig. FA-44",
+      "code": "FA440",
+      "caption": "Fig. FA-44 Removing engine mounting bolts",
+      "diagram_type": "procedure_step",
+      "description": "Location of engine mounting bolts connecting engine insulator brackets to the front suspension crossmember.",
+      "components": [
+        "Engine mounting bolts",
+        "Suspension crossmember",
+        "Engine insulator bracket"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tightening torque: 1.6 to 2.1 kg-m (12 to 15 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Support engine weight with hoist before removing engine mounting bolts. Tighten to 1.6 to 2.1 kg-m.",
+      "tags": [
+        "engine mount",
+        "mounting bolts",
+        "suspension crossmember"
+      ],
+      "dimensions": [
+        360,
+        358
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_45_removing_suspension_crossmember",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_45_removing_suspension_crossmember.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_45_removing_suspension_crossmember.png",
+      "page_num": 13,
+      "page_label": "FA-13",
+      "fig_id": "Fig. FA-45",
+      "code": "FA408",
+      "caption": "Fig. FA-45 Removing suspension crossmember",
+      "diagram_type": "procedure_step",
+      "description": "Location of frame mounting bolts securing front suspension crossmember to chassis side rails.",
+      "components": [
+        "Suspension crossmember",
+        "Frame rail",
+        "Mounting bolts"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tightening torque: 4.5 to 5.0 kg-m (33 to 36 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Tighten crossmember to frame bolts to 4.5 to 5.0 kg-m.",
+      "tags": [
+        "suspension crossmember",
+        "frame bolts",
+        "torque"
+      ],
+      "dimensions": [
+        309,
+        384
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_sst_drift_st35300000",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_sst_drift_st35300000.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_sst_drift_st35300000.png",
+      "page_num": 19,
+      "page_label": "FA-19",
+      "fig_id": "ST35300000",
+      "code": "",
+      "caption": "ST35300000 Drift",
+      "diagram_type": "special_service_tool",
+      "description": "Front wheel bearing outer race installing drift tool.",
+      "components": [
+        "ST35300000 Drift"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tool number: ST35300000",
+        "Ref: Fig. FA-16"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Used to press or drive outer bearing races squarely into front wheel hub.",
+      "tags": [
+        "ST35300000",
+        "drift",
+        "wheel bearing",
+        "special tool"
+      ],
+      "dimensions": [
+        386,
+        209
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_sst_gland_packing_guide_st35540000",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_sst_gland_packing_guide_st35540000.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_sst_gland_packing_guide_st35540000.png",
+      "page_num": 19,
+      "page_label": "FA-19",
+      "fig_id": "ST35540000",
+      "code": "",
+      "caption": "ST35540000 Gland packing guide",
+      "diagram_type": "special_service_tool",
+      "description": "Tapered guide sleeve for installing gland packing oil seal over piston rod.",
+      "components": [
+        "ST35540000 Gland packing guide"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tool number: ST35540000",
+        "Kent-Moore No.: J 25829",
+        "Ref: Fig. FA-30"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Prevents damage to gland packing inner oil seal lips when sliding over piston rod threads and shoulders.",
+      "tags": [
+        "ST35540000",
+        "J 25829",
+        "gland packing guide",
+        "special tool"
+      ],
+      "dimensions": [
+        226,
+        139
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_sst_spring_compressor_st3565s001",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_sst_spring_compressor_st3565s001.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_sst_spring_compressor_st3565s001.png",
+      "page_num": 19,
+      "page_label": "FA-19",
+      "fig_id": "ST3565S001",
+      "code": "",
+      "caption": "ST3565S001 Coil spring compressor set",
+      "diagram_type": "special_service_tool",
+      "description": "Coil spring compressor fixture with threaded spindle and safety hooks.",
+      "components": [
+        "ST35651001 Coil spring compressor",
+        "ST35652000 Clamp"
+      ],
+      "callouts": {
+        "1": "ST35651001 Coil spring compressor",
+        "2": "ST35652000 Clamp"
+      },
+      "measurements_and_specs": [
+        "Tool number: ST3565S001",
+        "Kent-Moore No.: J 25833",
+        "Ref: Fig. FA-25"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Must engage at least three active spring coils securely before compressing.",
+      "tags": [
+        "ST3565S001",
+        "J 25833",
+        "spring compressor",
+        "special tool"
+      ],
+      "dimensions": [
+        386,
+        191
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_sst_ball_joint_remover_ht72520000",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_sst_ball_joint_remover_ht72520000.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_sst_ball_joint_remover_ht72520000.png",
+      "page_num": 19,
+      "page_label": "FA-19",
+      "fig_id": "HT72520000",
+      "code": "",
+      "caption": "HT72520000 Ball joint remover",
+      "diagram_type": "special_service_tool",
+      "description": "Scissor-type mechanical ball joint puller/separator tool.",
+      "components": [
+        "HT72520000 Ball joint remover"
+      ],
+      "callouts": {
+        "PAT. P": "Patent pending mark"
+      },
+      "measurements_and_specs": [
+        "Tool number: HT72520000",
+        "Ref: Fig. FA-11"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Separates tie rod and ball joint tapered pins without damaging rubber dust boots.",
+      "tags": [
+        "HT72520000",
+        "ball joint remover",
+        "puller",
+        "special tool"
+      ],
+      "dimensions": [
+        316,
+        209
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_sst_gland_packing_wrench_kv40100800",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_sst_gland_packing_wrench_kv40100800.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_sst_gland_packing_wrench_kv40100800.png",
+      "page_num": 19,
+      "page_label": "FA-19",
+      "fig_id": "KV40100800",
+      "code": "",
+      "caption": "KV40100800 Gland packing wrench",
+      "diagram_type": "special_service_tool",
+      "description": "Special two-pin spanner wrench adapter for strut cartridge gland nut.",
+      "components": [
+        "KV40100800 Gland packing wrench"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tool number: KV40100800",
+        "Kent-Moore No.: J 26803",
+        "Ref: Fig. FA-26, Fig. FA-32"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Has a 0.10 m (0.33 ft) offset length; apply torque correction formula when tightening.",
+      "tags": [
+        "KV40100800",
+        "J 26803",
+        "gland packing wrench",
+        "special tool"
+      ],
+      "dimensions": [
+        195,
+        148
+      ]
+    },
+    {
+      "section_title": "FRONT AXLE & FRONT SUSPENSION",
+      "source_md": "1978 280z FSM/FA Front Axle and Suspension.md",
+      "slug": "fig_fa_sst_bushing_replacer_st36710000",
+      "file": "markdown/1978 280z FSM/diagrams/FA Front Axle and Suspension/fig_fa_sst_bushing_replacer_st36710000.png",
+      "rel_link": "diagrams/FA Front Axle and Suspension/fig_fa_sst_bushing_replacer_st36710000.png",
+      "page_num": 19,
+      "page_label": "FA-19",
+      "fig_id": "ST36710000",
+      "code": "",
+      "caption": "ST36710000 Transverse link bushing replacer (FR)",
+      "diagram_type": "special_service_tool",
+      "description": "Press driver and receiver set for transverse link rubber bushing replacement.",
+      "components": [
+        "ST36710010 Drift",
+        "ST36710020 Support base"
+      ],
+      "callouts": {
+        "1": "ST36710010 Drift",
+        "2": "ST36710020 Support base"
+      },
+      "measurements_and_specs": [
+        "Tool number: ST36710000",
+        "Kent-Moore No.: J 25844",
+        "Ref: Fig. FA-40"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Use with hydraulic press to remove and install transverse link eye bushings flush.",
+      "tags": [
+        "ST36710000",
+        "J 25844",
+        "bushing replacer",
+        "transverse link",
+        "special tool"
+      ],
+      "dimensions": [
+        347,
+        156
+      ]
+    }
+  ],
+  "torques": [
+    {
+      "component": "Front axle - Brake disc rotor and hub assembly tightening bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.9 to 5.3 (28 to 38)",
+      "page_label": "FA-15"
+    },
+    {
+      "component": "Front axle - Brake tube installation nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.5 to 1.8 (11 to 13)",
+      "page_label": "FA-15"
+    },
+    {
+      "component": "Front axle - Wheel bearing lock nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "2.5 to 3.0 (18 to 22)",
+      "page_label": "FA-15"
+    },
+    {
+      "component": "Front axle - Disc brake caliper fixing bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "7.3 to 9.9 (53 to 72)",
+      "page_label": "FA-15"
+    },
+    {
+      "component": "Front axle - Baffle plate installation screw",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.32 to 0.44 (2.3 to 3.2)",
+      "page_label": "FA-15"
+    },
+    {
+      "component": "Strut assembly - Gland packing tightening torque",
+      "unit": "kg-m (ft-lb)",
+      "value": "7 to 13 (51 to 94)",
+      "page_label": "FA-15"
+    },
+    {
+      "component": "Strut assembly - Piston rod self-locking nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "7.5 to 9.5 (54 to 69)",
+      "page_label": "FA-15"
+    },
+    {
+      "component": "Strut assembly - Nut used to install the strut assembly on the body",
+      "unit": "kg-m (ft-lb)",
+      "value": "2.5 to 3.5 (18 to 25)",
+      "page_label": "FA-15"
+    },
+    {
+      "component": "Transverse link and ball joint - Bolts used to install the knuckle arm to strut",
+      "unit": "kg-m (ft-lb)",
+      "value": "7.3 to 9.9 (53 to 72)",
+      "page_label": "FA-15"
+    },
+    {
+      "component": "Transverse link and ball joint - Ball joint castle nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "5.5 to 7.5 (40 to 54)",
+      "page_label": "FA-15"
+    },
+    {
+      "component": "Transverse link and ball joint - Bolts used to install the transverse link to ball joint",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.9 to 2.5 (14 to 18)",
+      "page_label": "FA-15"
+    },
+    {
+      "component": "Transverse link and ball joint - Transverse link mounting bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "11.1 to 14.0 (80 to 101)",
+      "page_label": "FA-15"
+    },
+    {
+      "component": "Compression rod - Transverse link side",
+      "unit": "kg-m (ft-lb)",
+      "value": "6.1 to 7.1 (44 to 51)",
+      "page_label": "FA-15"
+    },
+    {
+      "component": "Compression rod - Body side",
+      "unit": "kg-m (ft-lb)",
+      "value": "4.5 to 5.5 (33 to 40)",
+      "page_label": "FA-15"
+    },
+    {
+      "component": "Stabilizer bar - Connecting rod and transverse link installation nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.2 to 2.7 (9 to 20)",
+      "page_label": "FA-15"
+    },
+    {
+      "component": "Stabilizer bar - Connecting rod and stabilizer bar installation nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.2 to 2.7 (9 to 20)",
+      "page_label": "FA-15"
+    },
+    {
+      "component": "Stabilizer bar - Stabilizer bar and body installation bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.9 to 2.5 (14 to 18)",
+      "page_label": "FA-15"
+    },
+    {
+      "component": "Suspension member - Body side",
+      "unit": "kg-m (ft-lb)",
+      "value": "4.5 to 5.0 (33 to 36)",
+      "page_label": "FA-15"
+    },
+    {
+      "component": "Suspension member - Engine mounting bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.6 to 2.1 (12 to 15)",
+      "page_label": "FA-15"
+    },
+    {
+      "component": "Steering mounting bolt - Bolt to welded nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "2.6 to 3.0 (19 to 22)",
+      "page_label": "FA-15"
+    },
+    {
+      "component": "Steering mounting bolt - Lock nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.1 to 3.5 (22 to 25)",
+      "page_label": "FA-15"
+    },
+    {
+      "component": "Side rod socket and knuckle arm",
+      "unit": "kg-m (ft-lb)",
+      "value": "5.5 to 7.6 (40 to 55)",
+      "page_label": "FA-15"
+    },
+    {
+      "component": "Steering side rod lock nut / stopper nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "8 to 10 (58 to 72)",
+      "page_label": "FA-4"
+    },
+    {
+      "component": "Wheel nut - Steel wheel",
+      "unit": "kg-m (ft-lb)",
+      "value": "8.0 to 9.0 (58 to 65)",
+      "page_label": "FA-15"
+    },
+    {
+      "component": "Wheel nut - Aluminum wheel",
+      "unit": "kg-m (ft-lb)",
+      "value": "8.0 to 10.0 (58 to 72)",
+      "page_label": "FA-15"
+    }
+  ],
+  "specs": [
+    {
+      "system": "Wheel alignment",
+      "item": "Camber (S30)",
+      "unit": "degree",
+      "standard": "0\u00b018' to 1\u00b048'",
+      "limit": "-",
+      "page_label": "FA-13"
+    },
+    {
+      "system": "Wheel alignment",
+      "item": "Camber (GS30 2+2 seater)",
+      "unit": "degree",
+      "standard": "0\u00b021' to 1\u00b051'",
+      "limit": "-",
+      "page_label": "FA-13"
+    },
+    {
+      "system": "Wheel alignment",
+      "item": "Caster (S30 & GS30)",
+      "unit": "degree",
+      "standard": "2\u00b03' to 3\u00b033'",
+      "limit": "-",
+      "page_label": "FA-13"
+    },
+    {
+      "system": "Wheel alignment",
+      "item": "Kingpin inclination (S30 & GS30)",
+      "unit": "degree",
+      "standard": "11\u00b014' to 12\u00b044'",
+      "limit": "-",
+      "page_label": "FA-13"
+    },
+    {
+      "system": "Wheel alignment",
+      "item": "Toe-in (S30 & GS30)",
+      "unit": "mm (in)",
+      "standard": "0 to 3 (0 to 0.12)",
+      "limit": "-",
+      "page_label": "FA-13"
+    },
+    {
+      "system": "Wheel alignment",
+      "item": "Steering angle - In (S30)",
+      "unit": "degree",
+      "standard": "33\u00b054' to 34\u00b054'",
+      "limit": "-",
+      "page_label": "FA-13"
+    },
+    {
+      "system": "Wheel alignment",
+      "item": "Steering angle - Out (S30)",
+      "unit": "degree",
+      "standard": "32\u00b06' to 34\u00b06'",
+      "limit": "-",
+      "page_label": "FA-13"
+    },
+    {
+      "system": "Wheel alignment",
+      "item": "Steering angle - In (GS30 2+2 seater)",
+      "unit": "degree",
+      "standard": "36\u00b018' to 37\u00b018'",
+      "limit": "-",
+      "page_label": "FA-13"
+    },
+    {
+      "system": "Wheel alignment",
+      "item": "Steering angle - Out (GS30 2+2 seater)",
+      "unit": "degree",
+      "standard": "34\u00b024' to 36\u00b024'",
+      "limit": "-",
+      "page_label": "FA-13"
+    },
+    {
+      "system": "Coil spring",
+      "item": "Active turns of coil (S30)",
+      "unit": "turns",
+      "standard": "9.5",
+      "limit": "-",
+      "page_label": "FA-14"
+    },
+    {
+      "system": "Coil spring",
+      "item": "Active turns of coil (GS30)",
+      "unit": "turns",
+      "standard": "8.5",
+      "limit": "-",
+      "page_label": "FA-14"
+    },
+    {
+      "system": "Coil spring",
+      "item": "Free length (S30)",
+      "unit": "mm (in)",
+      "standard": "406 (15.98)",
+      "limit": "-",
+      "page_label": "FA-14"
+    },
+    {
+      "system": "Coil spring",
+      "item": "Free length (GS30)",
+      "unit": "mm (in)",
+      "standard": "399 (15.71)",
+      "limit": "-",
+      "page_label": "FA-14"
+    },
+    {
+      "system": "Coil spring",
+      "item": "Spring constant (S30)",
+      "unit": "kg/mm (lb/in)",
+      "standard": "1.84 (103.0)",
+      "limit": "-",
+      "page_label": "FA-14"
+    },
+    {
+      "system": "Coil spring",
+      "item": "Spring constant (GS30)",
+      "unit": "kg/mm (lb/in)",
+      "standard": "2.06 (115.4)",
+      "limit": "-",
+      "page_label": "FA-14"
+    },
+    {
+      "system": "Strut assembly",
+      "item": "Damping force at piston speed 0.3 m (1.0 ft)/sec (Expansion/Compression)",
+      "unit": "kg (lb)",
+      "standard": "55 (121) / 30 (66)",
+      "limit": "-",
+      "page_label": "FA-14"
+    },
+    {
+      "system": "Strut assembly",
+      "item": "Fluid capacity per strut",
+      "unit": "cc (cu in)",
+      "standard": "340 (20.7)",
+      "limit": "-",
+      "page_label": "FA-9"
+    },
+    {
+      "system": "Strut assembly",
+      "item": "Piston rod extension when tightening gland packing",
+      "unit": "mm (in)",
+      "standard": "120 (4.72)",
+      "limit": "-",
+      "page_label": "FA-10"
+    },
+    {
+      "system": "Front wheel bearing",
+      "item": "Rotation starting torque (New parts)",
+      "unit": "kg-cm (in-lb)",
+      "standard": "4.0 to 8.5 (3.5 to 7.4)",
+      "limit": "-",
+      "page_label": "FA-14"
+    },
+    {
+      "system": "Front wheel bearing",
+      "item": "Starting force measured at wheel hub bolt (New parts)",
+      "unit": "kg (lb)",
+      "standard": "0.7 to 1.5 (1.5 to 3.3)",
+      "limit": "-",
+      "page_label": "FA-14"
+    },
+    {
+      "system": "Front wheel bearing",
+      "item": "Rotation starting torque (Used parts)",
+      "unit": "kg-cm (in-lb)",
+      "standard": "1.0 to 4.5 (0.9 to 3.9)",
+      "limit": "-",
+      "page_label": "FA-14"
+    },
+    {
+      "system": "Front wheel bearing",
+      "item": "Starting force measured at wheel hub bolt (Used parts)",
+      "unit": "kg (lb)",
+      "standard": "0.2 to 0.8 (0.4 to 1.8)",
+      "limit": "-",
+      "page_label": "FA-14"
+    },
+    {
+      "system": "Lower ball joint",
+      "item": "Turning torque (New parts)",
+      "unit": "kg-cm (in-lb)",
+      "standard": "75 to 125 (65 to 109)",
+      "limit": "-",
+      "page_label": "FA-14"
+    },
+    {
+      "system": "Lower ball joint",
+      "item": "Turning torque (Used parts)",
+      "unit": "kg-cm (in-lb)",
+      "standard": "More than 50 (43)",
+      "limit": "-",
+      "page_label": "FA-14"
+    },
+    {
+      "system": "Steering linkage",
+      "item": "Side rod standard length",
+      "unit": "mm (in)",
+      "standard": "37.9 (1.492)",
+      "limit": "-",
+      "page_label": "FA-4"
+    }
+  ],
+  "troubleshooting": [
+    {
+      "symptom": "Vibration, shock and shimmying of steering wheel",
+      "probable_cause": "Improper tire pressure",
+      "corrective_action": "Adjust",
+      "page_label": "FA-16"
+    },
+    {
+      "symptom": "Vibration, shock and shimmying of steering wheel",
+      "probable_cause": "Imbalance and deformation of roadwheel",
+      "corrective_action": "Correct the imbalance or replace",
+      "page_label": "FA-16"
+    },
+    {
+      "symptom": "Vibration, shock and shimmying of steering wheel",
+      "probable_cause": "Unevenly worn tire or insufficient tightening",
+      "corrective_action": "Replace or tighten",
+      "page_label": "FA-16"
+    },
+    {
+      "symptom": "Vibration, shock and shimmying of steering wheel",
+      "probable_cause": "Improperly adjusted or worn front wheel bearing",
+      "corrective_action": "Adjust or tighten",
+      "page_label": "FA-16"
+    },
+    {
+      "symptom": "Vibration, shock and shimmying of steering wheel",
+      "probable_cause": "Faulty wheel alignment",
+      "corrective_action": "Adjust",
+      "page_label": "FA-16"
+    },
+    {
+      "symptom": "Vibration, shock and shimmying of steering wheel",
+      "probable_cause": "Worn fitting transverse link bushings",
+      "corrective_action": "Replace",
+      "page_label": "FA-16"
+    },
+    {
+      "symptom": "Vibration, shock and shimmying of steering wheel",
+      "probable_cause": "Insufficiently tightened steering gear housing",
+      "corrective_action": "Retighten",
+      "page_label": "FA-16"
+    },
+    {
+      "symptom": "Vibration, shock and shimmying of steering wheel",
+      "probable_cause": "Wear of steering linkage",
+      "corrective_action": "Replace faulty parts",
+      "page_label": "FA-16"
+    },
+    {
+      "symptom": "Vibration, shock and shimmying of steering wheel",
+      "probable_cause": "Worn suspension ball joint",
+      "corrective_action": "Replace",
+      "page_label": "FA-16"
+    },
+    {
+      "symptom": "Vibration, shock and shimmying of steering wheel",
+      "probable_cause": "Excessive backlash due to improper adjustment of the retainer parts",
+      "corrective_action": "Adjust correctly",
+      "page_label": "FA-16"
+    },
+    {
+      "symptom": "Vibration, shock and shimmying of steering wheel",
+      "probable_cause": "Damaged idler arm",
+      "corrective_action": "Replace",
+      "page_label": "FA-16"
+    },
+    {
+      "symptom": "Vibration, shock and shimmying of steering wheel",
+      "probable_cause": "Worn column bearing, weakened column bearing spring, or loose clamp",
+      "corrective_action": "Replace or retighten",
+      "page_label": "FA-16"
+    },
+    {
+      "symptom": "Vibration, shock and shimmying of steering wheel",
+      "probable_cause": "Malfunction of shock absorber (inside the strut) or loose installation bolts",
+      "corrective_action": "Replace or retighten",
+      "page_label": "FA-16"
+    },
+    {
+      "symptom": "Vibration, shock and shimmying of steering wheel",
+      "probable_cause": "Imbalance of vehicle level",
+      "corrective_action": "Correct the imbalance",
+      "page_label": "FA-16"
+    },
+    {
+      "symptom": "Vehicle pulls to right or left",
+      "probable_cause": "Improper tire pressure or insufficient tightening of wheel nuts",
+      "corrective_action": "Adjust or tighten",
+      "page_label": "FA-16"
+    },
+    {
+      "symptom": "Vehicle pulls to right or left",
+      "probable_cause": "Difference in height of right and left tire treads",
+      "corrective_action": "Replace tires",
+      "page_label": "FA-16"
+    },
+    {
+      "symptom": "Vehicle pulls to right or left",
+      "probable_cause": "Incorrect adjustment or abrasion of front wheel bearing",
+      "corrective_action": "Adjust or replace",
+      "page_label": "FA-16"
+    },
+    {
+      "symptom": "Vehicle pulls to right or left",
+      "probable_cause": "Collapsed or twisted front spring",
+      "corrective_action": "Replace",
+      "page_label": "FA-16"
+    },
+    {
+      "symptom": "Vehicle pulls to right or left",
+      "probable_cause": "Incorrect wheel alignment",
+      "corrective_action": "Adjust",
+      "page_label": "FA-16"
+    },
+    {
+      "symptom": "Vehicle pulls to right or left",
+      "probable_cause": "Incorrect brake adjustment (binding)",
+      "corrective_action": "Adjust",
+      "page_label": "FA-16"
+    },
+    {
+      "symptom": "Vehicle pulls to right or left",
+      "probable_cause": "Worn rubber bushings for transverse link and compression rod",
+      "corrective_action": "Replace",
+      "page_label": "FA-16"
+    },
+    {
+      "symptom": "Vehicle pulls to right or left",
+      "probable_cause": "Deformed steering linkage and suspension link",
+      "corrective_action": "Replace",
+      "page_label": "FA-16"
+    },
+    {
+      "symptom": "Vehicle pulls to right or left",
+      "probable_cause": "Imbalance of car level",
+      "corrective_action": "Correct the imbalance",
+      "page_label": "FA-16"
+    },
+    {
+      "symptom": "Instability of car",
+      "probable_cause": "Improper tire pressure",
+      "corrective_action": "Adjust",
+      "page_label": "FA-16"
+    },
+    {
+      "symptom": "Instability of car",
+      "probable_cause": "Worn rubber bushings for transverse link and tension rod",
+      "corrective_action": "Replace",
+      "page_label": "FA-16"
+    },
+    {
+      "symptom": "Instability of car",
+      "probable_cause": "Incorrect wheel alignment",
+      "corrective_action": "Adjust",
+      "page_label": "FA-16"
+    },
+    {
+      "symptom": "Instability of car",
+      "probable_cause": "Worn or deformed steering linkage and suspension link",
+      "corrective_action": "Replace",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Instability of car",
+      "probable_cause": "Incorrect adjustment of steering gear",
+      "corrective_action": "Adjust",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Instability of car",
+      "probable_cause": "Deformed or imbalanced wheel",
+      "corrective_action": "Correct or replace",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Stiff steering wheel (check-up procedure)",
+      "probable_cause": "Improper tire pressure",
+      "corrective_action": "Adjust",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Stiff steering wheel (check-up procedure)",
+      "probable_cause": "Insufficient lubricants or mixing impurities in steering linkage or excessively worn steering linkage",
+      "corrective_action": "Replenish grease or replace the part",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Stiff steering wheel (check-up procedure)",
+      "probable_cause": "Stiff or damaged suspension ball-joint, or lack of grease",
+      "corrective_action": "Replace",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Stiff steering wheel (check-up procedure)",
+      "probable_cause": "Worn or incorrectly adjusted wheel bearing",
+      "corrective_action": "Replace or adjust",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Stiff steering wheel (check-up procedure)",
+      "probable_cause": "Worn damaged steering gear and bearing",
+      "corrective_action": "Replace",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Stiff steering wheel (check-up procedure)",
+      "probable_cause": "Incorrectly adjusted steering gear",
+      "corrective_action": "Adjust",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Stiff steering wheel (check-up procedure)",
+      "probable_cause": "Deformed steering linkage",
+      "corrective_action": "Replace",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Stiff steering wheel (check-up procedure)",
+      "probable_cause": "Incorrect wheel alignment",
+      "corrective_action": "Adjust",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Stiff steering wheel (check-up procedure)",
+      "probable_cause": "Worn strut upper end bearing",
+      "corrective_action": "Replace",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Stiff steering wheel (check-up procedure)",
+      "probable_cause": "Damaged or stiff piston or shock absorber rod (in the strut)",
+      "corrective_action": "Replace",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Stiff steering wheel (check-up procedure)",
+      "probable_cause": "Interference of steering column with turn signal switch",
+      "corrective_action": "Adjust",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Excessive steering wheel play",
+      "probable_cause": "Incorrectly adjusted steering gear housing",
+      "corrective_action": "Adjust",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Excessive steering wheel play",
+      "probable_cause": "Worn steering linkage",
+      "corrective_action": "Replace",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Excessive steering wheel play",
+      "probable_cause": "Improperly fitted gear box",
+      "corrective_action": "Retighten",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Excessive steering wheel play",
+      "probable_cause": "Incorrectly adjusted wheel bearing",
+      "corrective_action": "Adjust",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Excessive steering wheel play",
+      "probable_cause": "Worn transverse link and tension rod fitting bushings",
+      "corrective_action": "Replace",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Noises",
+      "probable_cause": "Improper tire pressure",
+      "corrective_action": "Adjust",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Noises",
+      "probable_cause": "Insufficient lubricating oil and grease for suspension ball joint and steering linkage, or their breakage",
+      "corrective_action": "Replenish lubricating oil and grease, or replace",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Noises",
+      "probable_cause": "Loose steering gear bolts, linkage and suspension groups",
+      "corrective_action": "Retighten",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Noises",
+      "probable_cause": "Damaged shock absorber (inside the strut)",
+      "corrective_action": "Replace",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Noises",
+      "probable_cause": "Worn wheel bearing",
+      "corrective_action": "Replace",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Noises",
+      "probable_cause": "Worn steering linkage and steering gear",
+      "corrective_action": "Replace",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Noises",
+      "probable_cause": "Worn transverse link and tension rod fitting bushings",
+      "corrective_action": "Replace",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Noises",
+      "probable_cause": "Broken or collapsed coil spring",
+      "corrective_action": "Replace",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Noises",
+      "probable_cause": "Loose strut mounting insulator tightening nuts",
+      "corrective_action": "Retighten",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Noises",
+      "probable_cause": "Loose stabilizer bolt",
+      "corrective_action": "Retighten",
+      "page_label": "FA-17"
+    },
+    {
+      "symptom": "Grating tire noise",
+      "probable_cause": "Improper tire pressure",
+      "corrective_action": "Adjust",
+      "page_label": "FA-18"
+    },
+    {
+      "symptom": "Grating tire noise",
+      "probable_cause": "Incorrect wheel alignment",
+      "corrective_action": "Adjust",
+      "page_label": "FA-18"
+    },
+    {
+      "symptom": "Grating tire noise",
+      "probable_cause": "Deformed knuckle spindle and suspension linkage",
+      "corrective_action": "Replace",
+      "page_label": "FA-18"
+    },
+    {
+      "symptom": "Jumping of disc wheel",
+      "probable_cause": "Improper tire pressure",
+      "corrective_action": "Adjust",
+      "page_label": "FA-18"
+    },
+    {
+      "symptom": "Jumping of disc wheel",
+      "probable_cause": "Imbalance wheels",
+      "corrective_action": "Adjust",
+      "page_label": "FA-18"
+    },
+    {
+      "symptom": "Jumping of disc wheel",
+      "probable_cause": "Damaged shock absorber",
+      "corrective_action": "Replace",
+      "page_label": "FA-18"
+    },
+    {
+      "symptom": "Jumping of disc wheel",
+      "probable_cause": "Faulty tire",
+      "corrective_action": "Replace",
+      "page_label": "FA-18"
+    },
+    {
+      "symptom": "Jumping of disc wheel",
+      "probable_cause": "Deformed wheel rim",
+      "corrective_action": "Replace",
+      "page_label": "FA-18"
+    },
+    {
+      "symptom": "Excessively or partially worn tire",
+      "probable_cause": "Improper tire pressure",
+      "corrective_action": "Adjust",
+      "page_label": "FA-18"
+    },
+    {
+      "symptom": "Excessively or partially worn tire",
+      "probable_cause": "Incorrect wheel alignment",
+      "corrective_action": "Adjust",
+      "page_label": "FA-18"
+    },
+    {
+      "symptom": "Excessively or partially worn tire",
+      "probable_cause": "Worn wheel bearing",
+      "corrective_action": "Replace",
+      "page_label": "FA-18"
+    },
+    {
+      "symptom": "Excessively or partially worn tire",
+      "probable_cause": "Incorrect brake adjustment",
+      "corrective_action": "Adjust",
+      "page_label": "FA-18"
+    },
+    {
+      "symptom": "Excessively or partially worn tire",
+      "probable_cause": "Improper tire shifting (rotation)",
+      "corrective_action": "Adjust",
+      "page_label": "FA-18"
+    },
+    {
+      "symptom": "Excessively or partially worn tire",
+      "probable_cause": "Rough and improper driving manner",
+      "corrective_action": "Drive more gently",
+      "page_label": "FA-18"
+    }
+  ],
+  "special_tools": [
+    {
+      "tool_number": "ST35300000",
+      "tool_name": "Drift",
+      "kent_moore_no": "\u2014",
+      "ref": "Fig. FA-16",
+      "page_label": "FA-19"
+    },
+    {
+      "tool_number": "ST35540000",
+      "tool_name": "Gland packing guide",
+      "kent_moore_no": "J 25829",
+      "ref": "Fig. FA-30",
+      "page_label": "FA-19"
+    },
+    {
+      "tool_number": "ST3565S001",
+      "tool_name": "Coil spring compressor set (ST35651001 Coil spring compressor, ST35652000 Clamp)",
+      "kent_moore_no": "J 25833",
+      "ref": "Fig. FA-25",
+      "page_label": "FA-19"
+    },
+    {
+      "tool_number": "HT72520000",
+      "tool_name": "Ball joint remover",
+      "kent_moore_no": "\u2014",
+      "ref": "Fig. FA-11",
+      "page_label": "FA-19"
+    },
+    {
+      "tool_number": "KV40100800",
+      "tool_name": "Gland packing wrench",
+      "kent_moore_no": "J 26803",
+      "ref": "Fig. FA-26, Fig. FA-32",
+      "page_label": "FA-19"
+    },
+    {
+      "tool_number": "ST36710000",
+      "tool_name": "Transverse link bushing replacer (FR) (ST36710010 Drift, ST36710020 Support base)",
+      "kent_moore_no": "J 25844",
+      "ref": "Fig. FA-40",
+      "page_label": "FA-19"
+    }
+  ]
+}

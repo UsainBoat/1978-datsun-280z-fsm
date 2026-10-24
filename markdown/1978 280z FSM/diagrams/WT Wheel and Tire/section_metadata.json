@@ -1,0 +1,545 @@
+{
+  "section_title": "Wheel and Tire",
+  "source_pdf": "1978 280z FSM/WT Wheel and Tire.pdf",
+  "md_path": "1978 280z FSM/WT Wheel and Tire.md",
+  "pages_count": 7,
+  "diagrams": [
+    {
+      "section_title": "Wheel and Tire",
+      "source_md": "1978 280z FSM/WT Wheel and Tire.md",
+      "slug": "fig_wt_1_tread_wear_indicator",
+      "file": "markdown/1978 280z FSM/diagrams/WT Wheel and Tire/fig_wt_1_tread_wear_indicator.png",
+      "rel_link": "diagrams/WT Wheel and Tire/fig_wt_1_tread_wear_indicator.png",
+      "page_num": 3,
+      "page_label": "WT-3",
+      "fig_id": "Fig. WT-1",
+      "code": "WH024",
+      "caption": "Fig. WT-1 Tread wear indicator",
+      "diagram_type": "inspection_measurement",
+      "description": "Illustration of tire tread pattern and tread wear indicator bars located across tread grooves.",
+      "components": [
+        "Tread wear indicator",
+        "Tire tread",
+        "Grooves"
+      ],
+      "callouts": {
+        "Tread wear indicator": "Tread wear indicator bar across grooves",
+        "Tire tread": "Tire tread surface"
+      },
+      "measurements_and_specs": [
+        "1.6 mm (1/16 in) remaining tread depth",
+        "Located at six places around tire circumference"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "When tread wears down to 1.6 mm (1/16 in) and wear indicator marks appear across the grooves, replace tires with new ones.",
+      "tags": [
+        "tread wear indicator",
+        "tire wear",
+        "tire tread",
+        "minimum tread depth",
+        "inspection"
+      ],
+      "dimensions": [
+        360,
+        262
+      ]
+    },
+    {
+      "section_title": "Wheel and Tire",
+      "source_md": "1978 280z FSM/WT Wheel and Tire.md",
+      "slug": "fig_wt_2_abnormal_tire_wear",
+      "file": "markdown/1978 280z FSM/diagrams/WT Wheel and Tire/fig_wt_2_abnormal_tire_wear.png",
+      "rel_link": "diagrams/WT Wheel and Tire/fig_wt_2_abnormal_tire_wear.png",
+      "page_num": 3,
+      "page_label": "WT-3",
+      "fig_id": "Fig. WT-2",
+      "code": "WT004",
+      "caption": "Fig. WT-2 Abnormal tire wear",
+      "diagram_type": "inspection_measurement",
+      "description": "Four cross-sectional illustrations demonstrating abnormal tire tread wear patterns: toe-in/toe-out wear (feathered edge), overinflation wear (center), underinflation wear (both shoulders), and uneven wear (one side or irregular).",
+      "components": [
+        "Tire tread cross section",
+        "Tread contact profile"
+      ],
+      "callouts": {
+        "Toe-in or toe-out wear": "Feathered edge wear pattern caused by excessive toe-in or toe-out",
+        "Overinflation wear": "Center tread wear pattern caused by tire overinflation",
+        "Underinflation wear": "Shoulder wear on both edges caused by tire underinflation or hard cornering",
+        "Uneven wear": "One-sided or irregular wear caused by incorrect camber/caster, out-of-round drum, or unbalanced wheel"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Inspect tread wear patterns to diagnose underlying wheel alignment, tire pressure, or suspension faults.",
+      "tags": [
+        "abnormal tire wear",
+        "toe-in wear",
+        "toe-out wear",
+        "overinflation wear",
+        "underinflation wear",
+        "uneven wear",
+        "feathered edge"
+      ],
+      "dimensions": [
+        596,
+        559
+      ]
+    },
+    {
+      "section_title": "Wheel and Tire",
+      "source_md": "1978 280z FSM/WT Wheel and Tire.md",
+      "slug": "fig_wt_3_tire_rotation_5",
+      "file": "markdown/1978 280z FSM/diagrams/WT Wheel and Tire/fig_wt_3_tire_rotation_5.png",
+      "rel_link": "diagrams/WT Wheel and Tire/fig_wt_3_tire_rotation_5.png",
+      "page_num": 4,
+      "page_label": "WT-4",
+      "fig_id": "Fig. WT-3",
+      "code": "WH205",
+      "caption": "Fig. WT-3 Tire rotation",
+      "diagram_type": "alignment_orientation",
+      "description": "Five-tire rotation pattern schematic diagram showing repositioning sequence for all four road wheels and the full-size spare tire.",
+      "components": [
+        "Right front tire",
+        "Right rear tire",
+        "Left front tire",
+        "Left rear tire",
+        "Spare tire"
+      ],
+      "callouts": {
+        "Right front": "Right front wheel position",
+        "Right rear": "Right rear wheel position",
+        "Left front": "Left front wheel position",
+        "Left rear": "Left rear wheel position"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Rotate tires periodically to equalize wear. Never include the foldable emergency spare tire in rotation.",
+      "tags": [
+        "tire rotation",
+        "5-tire rotation",
+        "spare tire rotation",
+        "radial tire rotation"
+      ],
+      "dimensions": [
+        367,
+        261
+      ]
+    },
+    {
+      "section_title": "Wheel and Tire",
+      "source_md": "1978 280z FSM/WT Wheel and Tire.md",
+      "slug": "fig_wt_4_tire_rotation_4",
+      "file": "markdown/1978 280z FSM/diagrams/WT Wheel and Tire/fig_wt_4_tire_rotation_4.png",
+      "rel_link": "diagrams/WT Wheel and Tire/fig_wt_4_tire_rotation_4.png",
+      "page_num": 4,
+      "page_label": "WT-4",
+      "fig_id": "Fig. WT-4",
+      "code": "WH206",
+      "caption": "Fig. WT-4 Tire rotation",
+      "diagram_type": "alignment_orientation",
+      "description": "Four-tire rotation pattern schematic diagram showing rotation paths between front and rear wheels without spare tire.",
+      "components": [
+        "Right front tire",
+        "Right rear tire",
+        "Left front tire",
+        "Left rear tire"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Cross rear tires to opposite front positions; move front tires directly to rear positions. Do not include foldable spare.",
+      "tags": [
+        "tire rotation",
+        "4-tire rotation",
+        "radial tire rotation"
+      ],
+      "dimensions": [
+        277,
+        200
+      ]
+    },
+    {
+      "section_title": "Wheel and Tire",
+      "source_md": "1978 280z FSM/WT Wheel and Tire.md",
+      "slug": "fig_wt_5_wheel_nut",
+      "file": "markdown/1978 280z FSM/diagrams/WT Wheel and Tire/fig_wt_5_wheel_nut.png",
+      "rel_link": "diagrams/WT Wheel and Tire/fig_wt_5_wheel_nut.png",
+      "page_num": 4,
+      "page_label": "WT-4",
+      "fig_id": "Fig. WT-5",
+      "code": "WH178",
+      "caption": "Fig. WT-5 Wheel nut",
+      "diagram_type": "component_location",
+      "description": "Comparison illustration showing two distinct wheel nut designs: sleeve-shank nut with washer for aluminum wheels only, and tapered acorn nut for steel wheels only.",
+      "components": [
+        "Wheel nut for aluminum wheels",
+        "Wheel nut for steel wheels",
+        "Washer"
+      ],
+      "callouts": {
+        "For aluminum wheels only": "Sleeve-type wheel nut with integral washer for aluminum wheels",
+        "For steel wheels only": "Tapered acorn-seat wheel nut for steel wheels"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Always use exclusive sleeve wheel nuts on aluminum wheels. Never interchange aluminum wheel nuts and steel wheel nuts. Never use aluminum wheel nuts on the foldable spare tire wheel.",
+      "tags": [
+        "wheel nut",
+        "lug nut",
+        "aluminum wheel nut",
+        "steel wheel nut",
+        "fastener"
+      ],
+      "dimensions": [
+        352,
+        317
+      ]
+    },
+    {
+      "section_title": "Wheel and Tire",
+      "source_md": "1978 280z FSM/WT Wheel and Tire.md",
+      "slug": "fig_wt_6_installing_aluminum_wheel",
+      "file": "markdown/1978 280z FSM/diagrams/WT Wheel and Tire/fig_wt_6_installing_aluminum_wheel.png",
+      "rel_link": "diagrams/WT Wheel and Tire/fig_wt_6_installing_aluminum_wheel.png",
+      "page_num": 4,
+      "page_label": "WT-4",
+      "fig_id": "Fig. WT-6",
+      "code": "WT016",
+      "caption": "Fig. WT-6 Installing aluminum wheel",
+      "diagram_type": "procedure_step",
+      "description": "Two-step procedure diagram illustrating correct installation and shank alignment of aluminum wheels: loosely threading sleeve nuts onto hub bolts, then pulling the wheel back to center the shank into wheel bolt counterbores before progressively tightening in criss-cross order.",
+      "components": [
+        "Wheel hub",
+        "Brake drum",
+        "Hub bolt",
+        "Aluminum wheel center disc",
+        "Sleeve wheel nut"
+      ],
+      "callouts": {
+        "Screw nut onto hub bolt": "Initial loose finger threading of sleeve nut onto hub bolt",
+        "Align nuts with bolt holes in wheel and evenly tighten nuts ... each one a little at time": "Pull wheel back to align sleeve nut shank into counterbored wheel hole, then tighten progressively"
+      },
+      "measurements_and_specs": [
+        "Tightening torque: 8 to 10 kg-m (58 to 72 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Snugly tighten four nuts after wheel is positioned, pull wheel back slightly to align sleeve nuts into bolt hole counterbores, tighten finger-tight, then torque evenly with wrench in criss-cross pattern.",
+      "tags": [
+        "installing aluminum wheel",
+        "wheel installation",
+        "hub bolt",
+        "sleeve nut alignment",
+        "criss-cross tightening"
+      ],
+      "dimensions": [
+        673,
+        542
+      ]
+    },
+    {
+      "section_title": "Wheel and Tire",
+      "source_md": "1978 280z FSM/WT Wheel and Tire.md",
+      "slug": "fig_wt_7_wheel_rim_run_out_check_points",
+      "file": "markdown/1978 280z FSM/diagrams/WT Wheel and Tire/fig_wt_7_wheel_rim_run_out_check_points.png",
+      "rel_link": "diagrams/WT Wheel and Tire/fig_wt_7_wheel_rim_run_out_check_points.png",
+      "page_num": 6,
+      "page_label": "WT-6",
+      "fig_id": "Fig. WT-7",
+      "code": "WT005",
+      "caption": "Fig. WT-7 Wheel rim run-out check points",
+      "diagram_type": "inspection_measurement",
+      "description": "Cross-sectional illustration of wheel rim profile indicating balance weight clipping location and dial indicator checking points for measuring lateral and diametral rim runout.",
+      "components": [
+        "Wheel rim",
+        "Rim flange",
+        "Bead seat",
+        "Balance weight"
+      ],
+      "callouts": {
+        "Balance weight": "Balance weight clipped to inner/outer rim flange edge",
+        "Checking points": "Dial indicator stylus contact points on rim flange and bead seat for lateral and diametral runout measurement"
+      },
+      "measurements_and_specs": [
+        "Lateral runout limit: Less than 1.0 mm (0.039 in) total indicator reading",
+        "Static unbalance limit: 177 gr-cm (2.5 in-oz)",
+        "Rim flange unbalance limit: 10 gr (0.35 oz)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Use dial gauge to inspect rim runout. Remove rubber/dust/sand with cloth on aluminum wheels (do not use sandpaper or wire brush). Place correct balance weights on inner edge of rim, not more than two per side.",
+      "tags": [
+        "wheel rim run-out",
+        "lateral runout",
+        "diametral runout",
+        "balance weight",
+        "dial indicator",
+        "wheel inspection"
+      ],
+      "dimensions": [
+        341,
+        297
+      ]
+    }
+  ],
+  "torques": [
+    {
+      "component": "Wheel nuts (Steel wheel)",
+      "unit": "kg-m (ft-lb)",
+      "value": "8 to 9 (58 to 65)",
+      "page_label": "WT-4"
+    },
+    {
+      "component": "Wheel nuts (Aluminum wheel)",
+      "unit": "kg-m (ft-lb)",
+      "value": "8 to 10 (58 to 72)",
+      "page_label": "WT-4"
+    }
+  ],
+  "specs": [
+    {
+      "system": "Tire and Wheel",
+      "item": "Standard tire size and type",
+      "unit": "",
+      "standard": "195/70HR-14 Steel radial, tubeless",
+      "limit": "",
+      "page_label": "WT-2"
+    },
+    {
+      "system": "Tire and Wheel",
+      "item": "Spare tire size and type",
+      "unit": "",
+      "standard": "C78-14 Foldable spare tire",
+      "limit": "",
+      "page_label": "WT-2"
+    },
+    {
+      "system": "Tire and Wheel",
+      "item": "Aluminum wheel size and offset",
+      "unit": "mm (in)",
+      "standard": "5\u00bdJ-14, Offset 15 (0.59)",
+      "limit": "",
+      "page_label": "WT-2"
+    },
+    {
+      "system": "Tire and Wheel",
+      "item": "Steel wheel size and offset",
+      "unit": "mm (in)",
+      "standard": "5J-14, Offset 15 (0.59)",
+      "limit": "",
+      "page_label": "WT-2"
+    },
+    {
+      "system": "Tire and Wheel",
+      "item": "Tire inflation pressure (195/70HR-14, Under 160 km/h / 100 MPH)",
+      "unit": "kg/cm\u00b2 (psi)",
+      "standard": "2.0 (28)",
+      "limit": "",
+      "page_label": "WT-2"
+    },
+    {
+      "system": "Tire and Wheel",
+      "item": "Tire inflation pressure (195/70HR-14, Over 160 km/h / 100 MPH)",
+      "unit": "kg/cm\u00b2 (psi)",
+      "standard": "2.3 (32)",
+      "limit": "",
+      "page_label": "WT-2"
+    },
+    {
+      "system": "Tire and Wheel",
+      "item": "Tire inflation pressure (C78-14 Foldable spare, Under 80 km/h / 50 MPH)",
+      "unit": "kg/cm\u00b2 (psi)",
+      "standard": "2.0 (28)",
+      "limit": "",
+      "page_label": "WT-2"
+    },
+    {
+      "system": "Tire and Wheel",
+      "item": "Maximum tire inflation seating pressure",
+      "unit": "kg/cm\u00b2 (psi)",
+      "standard": "",
+      "limit": "2.8 (40) max",
+      "page_label": "WT-2"
+    },
+    {
+      "system": "Tire and Wheel",
+      "item": "Tread wear indicator depth",
+      "unit": "mm (in)",
+      "standard": "",
+      "limit": "1.6 (1/16)",
+      "page_label": "WT-3"
+    },
+    {
+      "system": "Foldable Spare Tire",
+      "item": "Maximum driving speed",
+      "unit": "km/h (MPH)",
+      "standard": "",
+      "limit": "80 (50)",
+      "page_label": "WT-5"
+    },
+    {
+      "system": "Wheel Balance",
+      "item": "Maximum allowable static unbalance",
+      "unit": "gr-cm (in-oz)",
+      "standard": "",
+      "limit": "177 (2.5)",
+      "page_label": "WT-5"
+    },
+    {
+      "system": "Wheel Balance",
+      "item": "Maximum unbalance at rim flange",
+      "unit": "gr (oz)",
+      "standard": "",
+      "limit": "10 (0.35)",
+      "page_label": "WT-5"
+    },
+    {
+      "system": "Wheel Balance",
+      "item": "Balance weight range",
+      "unit": "gr (oz)",
+      "standard": "10 to 60 (0.35 to 2.12) at 10 (0.35) interval",
+      "limit": "Max 2 weights per side",
+      "page_label": "WT-5"
+    },
+    {
+      "system": "Wheel Inspection",
+      "item": "Wheel rim lateral runout limit",
+      "unit": "mm (in)",
+      "standard": "",
+      "limit": "Less than 1.0 (0.039) TIR",
+      "page_label": "WT-6"
+    }
+  ],
+  "troubleshooting": [
+    {
+      "symptom": "Wheel wobbles.",
+      "probable_cause": "Improper tire pressure.",
+      "corrective_action": "Measure and adjust correctly.",
+      "page_label": "WT-7"
+    },
+    {
+      "symptom": "Wheel wobbles.",
+      "probable_cause": "Damaged tire or distorted wheel rim.",
+      "corrective_action": "Repair or replace.",
+      "page_label": "WT-7"
+    },
+    {
+      "symptom": "Wheel wobbles.",
+      "probable_cause": "Unbalanced wheel.",
+      "corrective_action": "Balance or replace.",
+      "page_label": "WT-7"
+    },
+    {
+      "symptom": "Wheel wobbles.",
+      "probable_cause": "Loose wheel nuts.",
+      "corrective_action": "Tighten.",
+      "page_label": "WT-7"
+    },
+    {
+      "symptom": "Wheel wobbles.",
+      "probable_cause": "Worn or damaged wheel bearing, or excessive play of wheel bearing.",
+      "corrective_action": "Correct play or replace wheel bearing.",
+      "page_label": "WT-7"
+    },
+    {
+      "symptom": "Wheel wobbles.",
+      "probable_cause": "Improper front wheel alignment.",
+      "corrective_action": "Align correctly.",
+      "page_label": "WT-7"
+    },
+    {
+      "symptom": "Wheel wobbles.",
+      "probable_cause": "Worn or damaged ball joint.",
+      "corrective_action": "Replace.",
+      "page_label": "WT-7"
+    },
+    {
+      "symptom": "Wheel wobbles.",
+      "probable_cause": "Excessive steering linkage play or worn steering linkage.",
+      "corrective_action": "Adjust or replace.",
+      "page_label": "WT-7"
+    },
+    {
+      "symptom": "Wheel wobbles.",
+      "probable_cause": "Loose steering linkage connection.",
+      "corrective_action": "Tighten the nuts to the rated torque, or replace worn parts if any.",
+      "page_label": "WT-7"
+    },
+    {
+      "symptom": "Wheel wobbles.",
+      "probable_cause": "Broken suspension spring.",
+      "corrective_action": "Replace.",
+      "page_label": "WT-7"
+    },
+    {
+      "symptom": "Wheel wobbles.",
+      "probable_cause": "Faulty shock absorber.",
+      "corrective_action": "Replace.",
+      "page_label": "WT-7"
+    },
+    {
+      "symptom": "Unevenly or excessively worn tire.",
+      "probable_cause": "Improper tire rotation.",
+      "corrective_action": "Conduct tire rotation periodically.",
+      "page_label": "WT-7"
+    },
+    {
+      "symptom": "Unevenly or excessively worn tire.",
+      "probable_cause": "Improper tire pressure.",
+      "corrective_action": "Measure and adjust correctly.",
+      "page_label": "WT-7"
+    },
+    {
+      "symptom": "Unevenly or excessively worn tire.",
+      "probable_cause": "Unbalanced wheel.",
+      "corrective_action": "Balance or replace.",
+      "page_label": "WT-7"
+    },
+    {
+      "symptom": "Unevenly or excessively worn tire.",
+      "probable_cause": "Improperly adjusted brake.",
+      "corrective_action": "Adjust correctly.",
+      "page_label": "WT-7"
+    },
+    {
+      "symptom": "Unevenly or excessively worn tire.",
+      "probable_cause": "Improper wheel alignment.",
+      "corrective_action": "Align correctly.",
+      "page_label": "WT-7"
+    },
+    {
+      "symptom": "Unevenly or excessively worn tire.",
+      "probable_cause": "Excessively distorted or improperly installed suspension link.",
+      "corrective_action": "Repair or replace if necessary, or reinstall correctly.",
+      "page_label": "WT-7"
+    },
+    {
+      "symptom": "Unevenly or excessively worn tire.",
+      "probable_cause": "High speed on curves.",
+      "corrective_action": "Reduce speed.",
+      "page_label": "WT-7"
+    },
+    {
+      "symptom": "Unevenly or excessively worn tire.",
+      "probable_cause": "Sudden start and improper speed due to rapid acceleration or improper brake application.",
+      "corrective_action": "Follow correct and proper driving manner.",
+      "page_label": "WT-7"
+    },
+    {
+      "symptom": "Tire squeals.",
+      "probable_cause": "Improper tire pressure.",
+      "corrective_action": "Measure and adjust correctly.",
+      "page_label": "WT-7"
+    },
+    {
+      "symptom": "Tire squeals.",
+      "probable_cause": "Improper front wheel alignment.",
+      "corrective_action": "Align correctly.",
+      "page_label": "WT-7"
+    },
+    {
+      "symptom": "Tire squeals.",
+      "probable_cause": "Distorted knuckle or suspension link.",
+      "corrective_action": "Repair or replace if necessary.",
+      "page_label": "WT-7"
+    }
+  ],
+  "special_tools": []
+}

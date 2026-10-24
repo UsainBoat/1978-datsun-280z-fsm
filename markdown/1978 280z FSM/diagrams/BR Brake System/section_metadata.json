@@ -1,0 +1,2825 @@
+{
+  "section_title": "BRAKE SYSTEM",
+  "source_pdf": "1978 280z FSM/BR Brake System.pdf",
+  "md_path": "1978 280z FSM/BR Brake System.md",
+  "pages_count": 24,
+  "diagrams": [
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_1_brake_system",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_1_brake_system.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_1_brake_system.png",
+      "page_num": 2,
+      "page_label": "BR-2",
+      "fig_id": "Fig. BR-1",
+      "code": "BR071A",
+      "caption": "Fig. BR-1 Brake system",
+      "diagram_type": "component_location",
+      "description": "Chassis layout schematic showing hydraulic brake lines, master cylinder, Master-Vac, NP-valve, 3-way connector, front disc brakes, rear drum brakes, and hand brake control lever.",
+      "components": [
+        "NP-valve",
+        "Master cylinder",
+        "Master-Vac",
+        "Control lever",
+        "3-way connector",
+        "Front disc brake",
+        "Rear drum brake",
+        "Hydraulic brake line",
+        "Hand brake cable"
+      ],
+      "callouts": {
+        "1": "NP-valve",
+        "2": "Master cylinder",
+        "3": "Master-Vac",
+        "4": "Control lever",
+        "5": "3-way connector"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "NP-valve is connected between master cylinder rear outlet and rear wheel circuits to modulate hydraulic pressure and prevent rear lockup.",
+      "tags": [
+        "brake system",
+        "hydraulic piping",
+        "chassis layout",
+        "NP-valve",
+        "Master-Vac",
+        "master cylinder"
+      ],
+      "dimensions": [
+        1087,
+        678
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_2_brake_pedal_mounting",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_2_brake_pedal_mounting.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_2_brake_pedal_mounting.png",
+      "page_num": 3,
+      "page_label": "BR-3",
+      "fig_id": "Fig. BR-2",
+      "code": "BR074A",
+      "caption": "Fig. BR-2 Brake pedal mounting",
+      "diagram_type": "component_location",
+      "description": "Brake pedal assembly mounted to pedal bracket under dashboard with stop lamp switch, fulcrum pin, and return spring.",
+      "components": [
+        "Return spring",
+        "Fulcrum pin",
+        "Clevis pin",
+        "Stop lamp switch",
+        "Pedal arm",
+        "Pedal bracket"
+      ],
+      "callouts": {
+        "1": "Return spring",
+        "2": "Fulcrum pin",
+        "3": "Clevis pin",
+        "4": "Stop lamp switch"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Fulcrum pin tightening torque: 3.5 to 4.0 kg-m (25 to 29 ft-lb).",
+      "tags": [
+        "brake pedal",
+        "mounting",
+        "bracket",
+        "stop lamp switch",
+        "return spring"
+      ],
+      "dimensions": [
+        360,
+        436
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_3_brake_pedal_components",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_3_brake_pedal_components.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_3_brake_pedal_components.png",
+      "page_num": 3,
+      "page_label": "BR-3",
+      "fig_id": "Fig. BR-3",
+      "code": "BR075A",
+      "caption": "Fig. BR-3 Brake pedal components",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of brake pedal arm, bushings, sleeve, fulcrum bolt, clevis pin, return spring, and pedal pad.",
+      "components": [
+        "Brake pedal arm",
+        "Pedal pad",
+        "Bushing",
+        "Sleeve",
+        "Fulcrum pin/bolt",
+        "Nut",
+        "Return spring",
+        "Clevis pin"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Lubricate pedal shaft sleeve unit and clevis pin unit with multi-purpose grease.",
+      "tags": [
+        "brake pedal",
+        "pedal bushing",
+        "pedal components",
+        "exploded view"
+      ],
+      "dimensions": [
+        322,
+        349
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_4_adjusting_brake_pedal",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_4_adjusting_brake_pedal.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_4_adjusting_brake_pedal.png",
+      "page_num": 3,
+      "page_label": "BR-3",
+      "fig_id": "Fig. BR-4",
+      "code": "BR619",
+      "caption": "Fig. BR-4 Adjusting brake pedal",
+      "diagram_type": "inspection_measurement",
+      "description": "Diagram illustrating brake pedal height measurement from floor to pedal pad upper surface, lock nut, and stopper adjustment.",
+      "components": [
+        "Pedal pad",
+        "Pedal stopper",
+        "Push rod",
+        "Push rod clevis",
+        "Lock nut"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "206 mm (8.11 in) with pedal stopper non-effected",
+        "203 mm (7.99 in) pedal height after stopper adjustment",
+        "15 mm (0.59 in) pedal depression for stop lamp switch illumination"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Turn back stopper to reduce pedal height from 206 mm (8.11 in) to 203 mm (7.99 in).",
+      "tags": [
+        "brake pedal adjustment",
+        "pedal height",
+        "push rod clevis",
+        "stop lamp switch"
+      ],
+      "dimensions": [
+        361,
+        300
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_5_master_cylinder",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_5_master_cylinder.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_5_master_cylinder.png",
+      "page_num": 3,
+      "page_label": "BR-3",
+      "fig_id": "Fig. BR-5",
+      "code": "BR072A",
+      "caption": "Fig. BR-5 Master cylinder",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of tandem master cylinder body, front/rear reservoirs, primary and secondary piston assemblies, check valves, and bleeder.",
+      "components": [
+        "Reservoir cap",
+        "Filter",
+        "Brake fluid reservoir (front)",
+        "Brake fluid reservoir (rear)",
+        "Brake master cylinder body",
+        "Secondary piston return spring",
+        "Secondary piston assembly",
+        "Primary piston return spring",
+        "Primary piston assembly",
+        "Stopper",
+        "Snap ring",
+        "Bleeder",
+        "Valve spring",
+        "Check valve assembly",
+        "Packing",
+        "Valve cap",
+        "Stopper screw"
+      ],
+      "callouts": {
+        "1": "Reservoir cap",
+        "2": "Filter",
+        "3": "Brake fluid reservoir (front)",
+        "4": "Brake fluid reservoir (rear)",
+        "5": "Brake master cylinder body",
+        "6": "Secondary piston return spring",
+        "7": "Secondary piston assembly",
+        "8": "Primary piston return spring",
+        "9": "Primary piston assembly",
+        "10": "Stopper",
+        "11": "Snap ring",
+        "12": "Bleeder",
+        "13": "Valve spring",
+        "14": "Check valve assembly",
+        "15": "Packing",
+        "16": "Valve cap",
+        "17": "Stopper screw"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "NABCO and TOKIKO makes are not interchangeable. Match parts to the brand of the body.",
+      "tags": [
+        "master cylinder",
+        "tandem master cylinder",
+        "primary piston",
+        "secondary piston",
+        "exploded view"
+      ],
+      "dimensions": [
+        737,
+        638
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_6_cross_sectional_view_of_master_cylinder",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_6_cross_sectional_view_of_master_cylinder.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_6_cross_sectional_view_of_master_cylinder.png",
+      "page_num": 4,
+      "page_label": "BR-4",
+      "fig_id": "Fig. BR-6",
+      "code": "BR212",
+      "caption": "Fig. BR-6 Cross-sectional view of master cylinder",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross-sectional cutaway diagram of tandem master cylinder showing internal passages, primary piston, secondary piston, return springs, check valve, and reservoir fluid ports.",
+      "components": [
+        "Master cylinder body",
+        "Front reservoir",
+        "Rear reservoir",
+        "Primary piston",
+        "Secondary piston",
+        "Return springs",
+        "Check valve",
+        "Piston cups"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Allowable cylinder to piston clearance: max 0.15 mm (0.0059 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Apply clean brake fluid to cylinder bore and pistons, and light rubber grease to piston cups during reassembly.",
+      "tags": [
+        "master cylinder",
+        "cross section",
+        "cutaway",
+        "piston ports",
+        "tandem cylinder"
+      ],
+      "dimensions": [
+        717,
+        514
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_7_brake_line",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_7_brake_line.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_7_brake_line.png",
+      "page_num": 5,
+      "page_label": "BR-5",
+      "fig_id": "Fig. BR-7",
+      "code": "BR073A",
+      "caption": "Fig. BR-7 Brake line",
+      "diagram_type": "component_location",
+      "description": "Schematic routing of galvanized steel brake tubes, flexible pressure hoses, 3-way connectors, NP-valve, and bridge tubes across chassis.",
+      "components": [
+        "Brake tube A",
+        "3-way connector",
+        "Brake tube B",
+        "Brake tube C",
+        "NP-valve",
+        "Brake tube D",
+        "Pressure hose",
+        "Brake tube E",
+        "Bridge tube",
+        "Brake tube F",
+        "Brake tube G",
+        "Brake tube H"
+      ],
+      "callouts": {
+        "1": "Brake tube A",
+        "2": "3-way connector",
+        "3": "Brake tube B",
+        "4": "Brake tube C",
+        "5": "NP-valve",
+        "6": "Brake tube D",
+        "7": "Pressure hose",
+        "8": "Brake tube E",
+        "9": "Pressure hose",
+        "10": "Bridge tube",
+        "11": "Brake tube F",
+        "12": "3-way connector",
+        "13": "Brake tube G",
+        "14": "Pressure hose",
+        "15": "Brake tube H",
+        "16": "Pressure hose",
+        "17": "Bridge tube"
+      },
+      "measurements_and_specs": [
+        "Brake tube tightening torque: 1.5 to 1.8 kg-m (11 to 13 ft-lb)",
+        "Pressure hose tightening torque: 1.7 to 2.0 kg-m (12 to 14 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Use flare nut torque wrench GG94310000. Ensure hoses do not contact tires or suspension members during steering and travel.",
+      "tags": [
+        "brake lines",
+        "tubes",
+        "pressure hoses",
+        "routing",
+        "3-way connector",
+        "NP-valve"
+      ],
+      "dimensions": [
+        1053,
+        801
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_8_cross_sectional_view_of_np_valve",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_8_cross_sectional_view_of_np_valve.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_8_cross_sectional_view_of_np_valve.png",
+      "page_num": 6,
+      "page_label": "BR-6",
+      "fig_id": "Fig. BR-8",
+      "code": "BR622",
+      "caption": "Fig. BR-8 Cross-sectional view of NP-valve",
+      "diagram_type": "cutaway_flow",
+      "description": "Cutaway diagram of NP-valve (proportioning valve) showing internal plunger, lip seal, cup seal, spring, Y-seal, and inlet/outlet fluid paths.",
+      "components": [
+        "O-ring",
+        "Plunger",
+        "Back-up ring",
+        "Y-seal",
+        "Lip seal",
+        "Spring",
+        "Valve body",
+        "Spring retainer",
+        "Cup seal"
+      ],
+      "callouts": {
+        "1": "O-ring",
+        "2": "Plunger",
+        "3": "Back-up ring",
+        "4": "Y-seal",
+        "5": "Lip seal",
+        "6": "Spring",
+        "7": "Valve body",
+        "8": "Spring retainer",
+        "9": "Cup seal",
+        "10": "O-ring"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Port connections: Master cylinder front side, Master cylinder rear side, To front wheel cylinder, To rear wheel cylinder.",
+      "tags": [
+        "NP-valve",
+        "proportioning valve",
+        "cross section",
+        "plunger",
+        "cup seal"
+      ],
+      "dimensions": [
+        730,
+        481
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_9_np_valve",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_9_np_valve.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_9_np_valve.png",
+      "page_num": 6,
+      "page_label": "BR-6",
+      "fig_id": "Fig. BR-9",
+      "code": "BR627",
+      "caption": "Fig. BR-9 NP-valve",
+      "diagram_type": "component_location",
+      "description": "External view of NP-valve showing body mounting and direction arrow mark for correct line installation.",
+      "components": [
+        "NP-valve body",
+        "Mounting bracket",
+        "Hydraulic connections"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Connect brake lines with 'F' mark toward front brake side and with arrow mark toward rear brake side.",
+      "tags": [
+        "NP-valve",
+        "installation",
+        "alignment",
+        "arrow mark"
+      ],
+      "dimensions": [
+        364,
+        296
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_10_front_disc_brake",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_10_front_disc_brake.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_10_front_disc_brake.png",
+      "page_num": 7,
+      "page_label": "BR-7",
+      "fig_id": "Fig. BR-10",
+      "code": "BR629",
+      "caption": "Fig. BR-10 Front disc brake",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of Girling-Sumitomo model S-16 front disc brake caliper assembly, pistons, seals, dust covers, pads, shims, and retaining hardware.",
+      "components": [
+        "Anti-squeal shim R.H.",
+        "Pad",
+        "Anti-squeal shim L.H.",
+        "Retaining ring",
+        "Dust cover",
+        "Piston",
+        "Piston seal",
+        "Anti-squeal spring",
+        "Caliper assembly",
+        "Bleeder",
+        "Clip",
+        "Retaining pin",
+        "Caliper fixing bolt",
+        "Baffle plate"
+      ],
+      "callouts": {
+        "1": "Anti-squeal shim R.H.",
+        "2": "Pad",
+        "3": "Anti-squeal shim L.H.",
+        "4": "Retaining ring",
+        "5": "Dust cover",
+        "6": "Piston",
+        "7": "Piston seal",
+        "8": "Anti-squeal spring",
+        "9": "Caliper assembly",
+        "10": "Bleeder",
+        "11": "Clip",
+        "12": "Retaining pin",
+        "13": "Caliper fixing bolt",
+        "14": "Baffle plate"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Anti-squeal shims are directional; install with arrow mark pointing in rotor forward rotating direction.",
+      "tags": [
+        "front disc brake",
+        "caliper",
+        "Girling-Sumitomo S-16",
+        "brake pad",
+        "exploded view"
+      ],
+      "dimensions": [
+        1087,
+        587
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_11_piston_seal_automatic_adjusting_operation",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_11_piston_seal_automatic_adjusting_operation.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_11_piston_seal_automatic_adjusting_operation.png",
+      "page_num": 7,
+      "page_label": "BR-7",
+      "fig_id": "Fig. BR-11",
+      "code": "BR055",
+      "caption": "Fig. BR-11 Piston seal automatic adjusting operation",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross-sectional diagrams illustrating elastic deformation of piston seal during compression and return retraction during decompression.",
+      "components": [
+        "Piston seal",
+        "Caliper cylinder groove",
+        "Piston"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Movement exceeding elastic displacement slips along seal surface for auto-adjustment; seal returns piston upon decompression.",
+      "tags": [
+        "piston seal",
+        "auto adjustment",
+        "seal retraction",
+        "cutaway"
+      ],
+      "dimensions": [
+        352,
+        310
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_12_removing_pad",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_12_removing_pad.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_12_removing_pad.png",
+      "page_num": 8,
+      "page_label": "BR-8",
+      "fig_id": "Fig. BR-12",
+      "code": "BR645",
+      "caption": "Fig. BR-12 Removing pad",
+      "diagram_type": "procedure_step",
+      "description": "Removal procedure of retaining clip, pin, anti-squeal spring, and brake pad from caliper.",
+      "components": [
+        "Clip",
+        "Retaining pin",
+        "Anti-squeal spring",
+        "Brake pad"
+      ],
+      "callouts": {
+        "1": "Clip",
+        "2": "Retaining pin",
+        "3": "Anti-squeal spring",
+        "4": "Pad"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove clip, slide out retaining pin, take off anti-squeal spring, then extract pads with shims.",
+      "tags": [
+        "pad removal",
+        "front disc brake",
+        "retaining pin",
+        "anti-squeal spring"
+      ],
+      "dimensions": [
+        350,
+        314
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_13_applying_grease",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_13_applying_grease.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_13_applying_grease.png",
+      "page_num": 8,
+      "page_label": "BR-8",
+      "fig_id": "Fig. BR-13",
+      "code": "BR680",
+      "caption": "Fig. BR-13 Applying grease",
+      "diagram_type": "alignment_orientation",
+      "description": "Illustration indicating shaded areas on caliper guides and both sides of anti-squeal shims where brake grease must be applied, showing rotation arrow on shim.",
+      "components": [
+        "Caliper contact surfaces",
+        "Anti-squeal shim"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Apply pad grease to working portions of caliper and both sides of shim. Ensure shim arrow points in forward rotor rotation direction. Never grease pad friction faces.",
+      "tags": [
+        "brake grease",
+        "anti-squeal shim",
+        "caliper lubrication"
+      ],
+      "dimensions": [
+        309,
+        318
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_14_removing_calipers",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_14_removing_calipers.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_14_removing_calipers.png",
+      "page_num": 8,
+      "page_label": "BR-8",
+      "fig_id": "Fig. BR-14",
+      "code": "BR057",
+      "caption": "Fig. BR-14 Removing calipers",
+      "diagram_type": "procedure_step",
+      "description": "Removing brake hydraulic line and two caliper mounting bolts from knuckle spindle.",
+      "components": [
+        "Brake tube connection",
+        "Caliper fixing bolt",
+        "Caliper body",
+        "Knuckle spindle"
+      ],
+      "callouts": {
+        "1": "Brake tube",
+        "2": "Caliper installation bolt"
+      },
+      "measurements_and_specs": [
+        "Caliper installation bolt torque: 7.3 to 9.9 kg-m (53 to 72 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Use flare nut wrench on brake line.",
+      "tags": [
+        "caliper removal",
+        "knuckle spindle",
+        "caliper bolts"
+      ],
+      "dimensions": [
+        339,
+        328
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_15_removing_piston",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_15_removing_piston.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_15_removing_piston.png",
+      "page_num": 8,
+      "page_label": "BR-8",
+      "fig_id": "Fig. BR-15",
+      "code": "BR681",
+      "caption": "Fig. BR-15 Removing piston",
+      "diagram_type": "procedure_step",
+      "description": "Applying compressed air to caliper fluid inlet while retaining ring is removed to expel pistons.",
+      "components": [
+        "Caliper body",
+        "Piston",
+        "Air nozzle",
+        "Retaining ring"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Gradually apply compressed air. Hold smoother piston with wood block to extract both pistons evenly.",
+      "tags": [
+        "piston removal",
+        "compressed air",
+        "caliper disassembly"
+      ],
+      "dimensions": [
+        354,
+        288
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_16_measuring_runout",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_16_measuring_runout.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_16_measuring_runout.png",
+      "page_num": 9,
+      "page_label": "BR-9",
+      "fig_id": "Fig. BR-16",
+      "code": "BR350",
+      "caption": "Fig. BR-16 Measuring runout",
+      "diagram_type": "inspection_measurement",
+      "description": "Dial indicator setup positioned at rotor pad contact surface centerline to measure total indicator runout while turning rotor.",
+      "components": [
+        "Brake rotor",
+        "Dial indicator",
+        "Magnetic base / stand",
+        "Wheel hub"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Runout limit: 0.10 mm (0.0039 in) Total indicator reading"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Wheel bearings must be correctly adjusted prior to runout measurement.",
+      "tags": [
+        "rotor runout",
+        "dial indicator",
+        "disc inspection"
+      ],
+      "dimensions": [
+        290,
+        314
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_17_measuring_parallelism",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_17_measuring_parallelism.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_17_measuring_parallelism.png",
+      "page_num": 9,
+      "page_label": "BR-9",
+      "fig_id": "Fig. BR-17",
+      "code": "BR351",
+      "caption": "Fig. BR-17 Measuring parallelism",
+      "diagram_type": "inspection_measurement",
+      "description": "Micrometer measurement taken around the circumference of brake rotor pad contact surface to determine parallelism / thickness variation.",
+      "components": [
+        "Brake rotor",
+        "Micrometer"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Parallelism limit: Less than 0.03 mm (0.0012 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Measure thickness at multiple points around entire periphery on the same circumference.",
+      "tags": [
+        "rotor parallelism",
+        "micrometer",
+        "thickness variation"
+      ],
+      "dimensions": [
+        358,
+        288
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_18_rear_brake",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_18_rear_brake.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_18_rear_brake.png",
+      "page_num": 10,
+      "page_label": "BR-10",
+      "fig_id": "Fig. BR-18",
+      "code": "BR079A",
+      "caption": "Fig. BR-18 Rear brake",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of leading-trailing rear drum brake showing backing plate, wheel cylinder, brake shoes, return springs, anti-rattle pins, toggle lever, and automatic adjuster.",
+      "components": [
+        "Anti-rattle pin",
+        "Anti-rattle spring",
+        "Return spring",
+        "Fore-shoe assembly",
+        "Return spring",
+        "After-shoe assembly",
+        "Anchor block",
+        "Wheel cylinder",
+        "Brake disc",
+        "Dust cover",
+        "Toggle lever",
+        "Adjuster"
+      ],
+      "callouts": {
+        "1": "Anti-rattle pin",
+        "2": "Anti-rattle spring",
+        "3": "Return spring",
+        "4": "Fore-shoe assembly",
+        "5": "Return spring",
+        "6": "After-shoe assembly",
+        "7": "Anchor block",
+        "8": "Wheel cylinder",
+        "9": "Brake disc",
+        "10": "Dust cover",
+        "11": "Toggle lever",
+        "12": "Adjuster"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Front shoe lining is low; rear shoe lining is high. Fore-shoe is in trailing side and after-shoe is in leading side.",
+      "tags": [
+        "rear brake",
+        "drum brake",
+        "brake shoes",
+        "leading-trailing",
+        "exploded view"
+      ],
+      "dimensions": [
+        721,
+        525
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_19_sectional_view_of_rear_brake",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_19_sectional_view_of_rear_brake.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_19_sectional_view_of_rear_brake.png",
+      "page_num": 10,
+      "page_label": "BR-10",
+      "fig_id": "Fig. BR-19",
+      "code": "BR886",
+      "caption": "Fig. BR-19 Sectional view of rear brake",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross-sectional assembly drawing of rear drum brake mechanism showing wheel cylinder, shoe web engagement, adjuster strut, and drum contact.",
+      "components": [
+        "Brake drum",
+        "Brake shoes",
+        "Wheel cylinder",
+        "Adjuster strut",
+        "Backing plate"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Shows alignment of automatic adjuster strut between leading and trailing shoes.",
+      "tags": [
+        "rear brake",
+        "sectional view",
+        "cutaway",
+        "drum brake assembly"
+      ],
+      "dimensions": [
+        704,
+        481
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_20_adjuster_assembly_left_hand_side",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_20_adjuster_assembly_left_hand_side.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_20_adjuster_assembly_left_hand_side.png",
+      "page_num": 10,
+      "page_label": "BR-10",
+      "fig_id": "Fig. BR-20",
+      "code": "BR887",
+      "caption": "Fig. BR-20 Adjuster assembly (Left-hand side)",
+      "diagram_type": "exploded_view",
+      "description": "Exploded detail of left-hand brake automatic adjuster assembly, including threaded adjusting screw, sleeve, toggle lever, ratchet claw, and pivot pin.",
+      "components": [
+        "Adjuster body",
+        "Threaded adjusting screw",
+        "Toggle lever",
+        "Ratchet claw",
+        "Stopper pin"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Adjuster mechanisms differ between LH and RH sides; threads are side-specific.",
+      "tags": [
+        "adjuster assembly",
+        "rear brake",
+        "toggle lever",
+        "auto adjuster"
+      ],
+      "dimensions": [
+        373,
+        331
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_21_removing_toggle_lever_stopper",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_21_removing_toggle_lever_stopper.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_21_removing_toggle_lever_stopper.png",
+      "page_num": 10,
+      "page_label": "BR-10",
+      "fig_id": "Fig. BR-21",
+      "code": "RA286",
+      "caption": "Fig. BR-21 Removing toggle lever stopper",
+      "diagram_type": "procedure_step",
+      "description": "Technique for removing cotter pin and stopper from toggle lever through the backing plate aperture when brake drum is stuck.",
+      "components": [
+        "Toggle lever",
+        "Cotter pin",
+        "Toggle lever stopper",
+        "Backing plate"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Fully pull up center hand brake lever, push/tap out cotter pin to release stopper, then release lever to slacken shoes for drum removal.",
+      "tags": [
+        "toggle lever stopper",
+        "stuck drum removal",
+        "rear brake service"
+      ],
+      "dimensions": [
+        363,
+        311
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_22_applying_brake_grease",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_22_applying_brake_grease.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_22_applying_brake_grease.png",
+      "page_num": 11,
+      "page_label": "BR-11",
+      "fig_id": "Fig. BR-22",
+      "code": "BR889",
+      "caption": "Fig. BR-22 Applying brake grease",
+      "diagram_type": "alignment_orientation",
+      "description": "Lube points on brake shoes, adjuster assembly, adjusting nut threads, and toggle lever contacts indicated by bold arrows.",
+      "components": [
+        "Brake shoes",
+        "Adjuster assembly",
+        "Adjusting nut",
+        "Toggle lever contact points"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Apply brake grease to adjuster sliding slots, threaded screw shaft, and shoe web contact tips. Do not contaminate friction linings.",
+      "tags": [
+        "brake grease",
+        "lubrication points",
+        "brake shoes",
+        "adjuster"
+      ],
+      "dimensions": [
+        360,
+        647
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_23_applying_brake_grease",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_23_applying_brake_grease.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_23_applying_brake_grease.png",
+      "page_num": 11,
+      "page_label": "BR-11",
+      "fig_id": "Fig. BR-23",
+      "code": "BR890",
+      "caption": "Fig. BR-23 Applying brake grease",
+      "diagram_type": "alignment_orientation",
+      "description": "Six lubrication points on the rear brake backing plate (brake disc) ledges and anchor block where brake shoe edges slide.",
+      "components": [
+        "Brake disc / backing plate",
+        "Anchor block",
+        "Shoe contact pads"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Apply thin layer of brake grease to the 6 shoe ledge contact pads on backing plate and anchor block.",
+      "tags": [
+        "backing plate",
+        "anchor block",
+        "brake grease",
+        "contact pads"
+      ],
+      "dimensions": [
+        348,
+        367
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_24_removing_wheel_cylinder",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_24_removing_wheel_cylinder.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_24_removing_wheel_cylinder.png",
+      "page_num": 11,
+      "page_label": "BR-11",
+      "fig_id": "Fig. BR-24",
+      "code": "BR891",
+      "caption": "Fig. BR-24 Removing wheel cylinder",
+      "diagram_type": "procedure_step",
+      "description": "Disconnection of rear hydraulic brake line and removal of two wheel cylinder mounting bolts on backing plate.",
+      "components": [
+        "Brake tube",
+        "Wheel cylinder mounting bolts",
+        "Backing plate",
+        "Wheel cylinder body"
+      ],
+      "callouts": {
+        "1": "Brake tube",
+        "2": "Bolts"
+      },
+      "measurements_and_specs": [
+        "Wheel cylinder bolt torque: 0.6 to 0.8 kg-m (4.3 to 5.8 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Use flare nut wrench on brake line fitting.",
+      "tags": [
+        "wheel cylinder",
+        "removal",
+        "brake tube",
+        "backing plate"
+      ],
+      "dimensions": [
+        354,
+        375
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_25_wheel_cylinder_and_adjustor",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_25_wheel_cylinder_and_adjustor.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_25_wheel_cylinder_and_adjustor.png",
+      "page_num": 11,
+      "page_label": "BR-11",
+      "fig_id": "Fig. BR-25",
+      "code": "BR892",
+      "caption": "Fig. BR-25 Wheel cylinder and adjustor",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of rear wheel cylinder body, bleeder screw, dust boot, piston, cup seal, spring, and automatic adjuster strut with toggle lever.",
+      "components": [
+        "Wheel cylinder body",
+        "Bleeder valve",
+        "Dust cover / boot",
+        "Piston",
+        "Piston cup",
+        "Spring",
+        "Adjuster assembly",
+        "Toggle lever"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "NABCO and TOKIKO wheel cylinders are not interchangeable. Match parts by manufacturer.",
+      "tags": [
+        "wheel cylinder",
+        "adjuster",
+        "piston cup",
+        "exploded view"
+      ],
+      "dimensions": [
+        714,
+        665
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_26_applying_rubber_grease_to_piston_cup",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_26_applying_rubber_grease_to_piston_cup.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_26_applying_rubber_grease_to_piston_cup.png",
+      "page_num": 12,
+      "page_label": "BR-12",
+      "fig_id": "Fig. BR-26",
+      "code": "BR893",
+      "caption": "Fig. BR-26 Applying rubber grease to piston cup",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross section of wheel cylinder piston cup assembly showing application points for rubber grease along lip groove and sealing contact.",
+      "components": [
+        "Piston cup",
+        "Piston",
+        "Wheel cylinder bore",
+        "Rubber grease"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Apply rubber grease to cup grooves and lips prior to inserting into cylinder.",
+      "tags": [
+        "rubber grease",
+        "wheel cylinder",
+        "piston cup",
+        "lubrication"
+      ],
+      "dimensions": [
+        354,
+        366
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_27_hand_brake_linkage",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_27_hand_brake_linkage.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_27_hand_brake_linkage.png",
+      "page_num": 13,
+      "page_label": "BR-13",
+      "fig_id": "Fig. BR-27",
+      "code": "BR639",
+      "caption": "Fig. BR-27 Hand brake linkage",
+      "diagram_type": "exploded_view",
+      "description": "Component layout of parking brake linkage showing control lever, front rod, center lever, equalizer, rear cables, wire hangers, and adjusting rod.",
+      "components": [
+        "Control lever",
+        "Front rod",
+        "Center lever",
+        "Equalizer",
+        "Rear cable",
+        "Wire hanger",
+        "Adjusting rod"
+      ],
+      "callouts": {
+        "1": "Control lever",
+        "2": "Front rod",
+        "3": "Center lever",
+        "4": "Equalizer",
+        "5": "Rear cable",
+        "6": "Wire hanger",
+        "7": "Adjusting rod"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Linkage is located inside tunnel; propeller shaft removal required for access.",
+      "tags": [
+        "hand brake linkage",
+        "parking brake",
+        "equalizer",
+        "control lever"
+      ],
+      "dimensions": [
+        727,
+        457
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_30_removing_control_lever",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_30_removing_control_lever.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_30_removing_control_lever.png",
+      "page_num": 13,
+      "page_label": "BR-13",
+      "fig_id": "Fig. BR-30",
+      "code": "BR641",
+      "caption": "Fig. BR-30 Removing control lever",
+      "diagram_type": "procedure_step",
+      "description": "Removal of center console boot fasteners and control lever pivot mounting bolt from passenger compartment floor.",
+      "components": [
+        "Control lever assembly",
+        "Attaching bolt",
+        "Fasteners",
+        "Boot"
+      ],
+      "callouts": {
+        "1": "Attaching bolt",
+        "2": "Four fasteners"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove right-hand seat to remove control lever into cabin.",
+      "tags": [
+        "control lever",
+        "hand brake lever",
+        "fasteners"
+      ],
+      "dimensions": [
+        357,
+        297
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_28_removal_of_hand_brake",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_28_removal_of_hand_brake.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_28_removal_of_hand_brake.png",
+      "page_num": 13,
+      "page_label": "BR-13",
+      "fig_id": "Fig. BR-28",
+      "code": "BR696",
+      "caption": "Fig. BR-28 Removal of hand brake",
+      "diagram_type": "procedure_step",
+      "description": "Under-chassis view showing disconnection of adjusting rod nut, clevis pins, hanger spring, and four mounting bolts of center arm.",
+      "components": [
+        "Lock nut",
+        "Adjusting rod",
+        "Clevis pin",
+        "Center arm assembly",
+        "Mounting bolts"
+      ],
+      "callouts": {
+        "1": "Lock nut",
+        "2": "Adjusting rod",
+        "3": "Clevis pin",
+        "4": "Clevis pin and hanger spring",
+        "5": "Four bolts"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Center arm nuts are welded to floor panel.",
+      "tags": [
+        "hand brake removal",
+        "center arm",
+        "adjusting rod"
+      ],
+      "dimensions": [
+        344,
+        296
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_29_removing_rear_cable",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_29_removing_rear_cable.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_29_removing_rear_cable.png",
+      "page_num": 13,
+      "page_label": "BR-13",
+      "fig_id": "Fig. BR-29",
+      "code": "BR644",
+      "caption": "Fig. BR-29 Removing rear cable",
+      "diagram_type": "procedure_step",
+      "description": "Disconnection of parking brake cable from wheel brake backing plate toggle lever and removal of cable housing retainer clips.",
+      "components": [
+        "Rear cable",
+        "Backing plate",
+        "Toggle lever clevis pin",
+        "Cable retainers"
+      ],
+      "callouts": {
+        "6": "Clevis pin",
+        "7": "Wheel side retainers"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove wheel-side retainers and equalizer-side retainer to withdraw cable.",
+      "tags": [
+        "parking brake cable",
+        "cable retainer",
+        "rear cable removal"
+      ],
+      "dimensions": [
+        360,
+        297
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_31_cross_sectional_view_of_master_vac",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_31_cross_sectional_view_of_master_vac.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_31_cross_sectional_view_of_master_vac.png",
+      "page_num": 14,
+      "page_label": "BR-14",
+      "fig_id": "Fig. BR-31",
+      "code": "BR684",
+      "caption": "Fig. BR-31 Cross-sectional view of Master-Vac",
+      "diagram_type": "cutaway_flow",
+      "description": "Comparative cross-sectional cutaways of both M75 type (top) and M90 type (bottom) vacuum brake boosters detailing internal valves, reaction disc, power piston, and return springs.",
+      "components": [
+        "Plate and seal assembly",
+        "Push rod",
+        "Diaphragm",
+        "Rear shell",
+        "Power piston (Valve body and diaphragm plate)",
+        "Vacuum route",
+        "Bearing",
+        "Seal",
+        "Vacuum valve",
+        "Valve body guard",
+        "Air silencer filter",
+        "Valve operating rod assembly",
+        "Silencer",
+        "Air silencer retainer",
+        "Poppet assembly",
+        "Air valve",
+        "Retainer",
+        "Valve plunger",
+        "Reaction disc",
+        "Valve plunger stop key",
+        "Diaphragm return spring",
+        "Front shell"
+      ],
+      "callouts": {
+        "1": "Plate and seal assembly",
+        "2": "Push rod",
+        "3": "Diaphragm",
+        "4": "Rear shell",
+        "5": "Power piston (Valve body and diaphragm plate)",
+        "6": "Vacuum route",
+        "7": "Bearing",
+        "8": "Seal",
+        "9": "Vacuum valve",
+        "10": "Valve body guard",
+        "11": "Air silencer filter",
+        "12": "Air silencer filter",
+        "13": "Valve operating rod assembly",
+        "14": "Silencer",
+        "15": "Air silencer retainer",
+        "16": "Poppet assembly",
+        "17": "Air valve",
+        "18": "Retainer",
+        "19": "Valve plunger",
+        "20": "Reaction disc",
+        "21": "Valve plunger stop key",
+        "22": "Diaphragm return spring",
+        "23": "Front shell"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "M75 type fitted to 2-seater models; M90 type fitted to 2+2 GS30 models.",
+      "tags": [
+        "Master-Vac",
+        "vacuum booster",
+        "M75",
+        "M90",
+        "cross section",
+        "reaction disc"
+      ],
+      "dimensions": [
+        1055,
+        1085
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_32_installing_vacuum_gauge",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_32_installing_vacuum_gauge.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_32_installing_vacuum_gauge.png",
+      "page_num": 15,
+      "page_label": "BR-15",
+      "fig_id": "Fig. BR-32",
+      "code": "BR072",
+      "caption": "Fig. BR-32 Installing vacuum gauge",
+      "diagram_type": "inspection_measurement",
+      "description": "Connecting vacuum test gauge into line between check valve and Master-Vac booster.",
+      "components": [
+        "Vacuum gauge",
+        "Check valve",
+        "Vacuum hose",
+        "Master-Vac"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Test vacuum: 500 mmHg (19.69 inHg)",
+        "Max allowable drop in 15 sec: 25 mmHg (0.98 inHg)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Engine stopped at 500 mmHg; monitor drop after 15 seconds without braking and with full braking force.",
+      "tags": [
+        "vacuum gauge",
+        "vacuum leak test",
+        "Master-Vac testing"
+      ],
+      "dimensions": [
+        360,
+        314
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_33_removing_check_valve",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_33_removing_check_valve.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_33_removing_check_valve.png",
+      "page_num": 15,
+      "page_label": "BR-15",
+      "fig_id": "Fig. BR-33",
+      "code": "BR685",
+      "caption": "Fig. BR-33 Removing check valve",
+      "diagram_type": "procedure_step",
+      "description": "Location and removal of brake booster vacuum line check valve from engine compartment.",
+      "components": [
+        "Check valve",
+        "Vacuum hoses",
+        "Clips"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Disconnect spring clips at both ends to remove check valve.",
+      "tags": [
+        "check valve",
+        "vacuum hose",
+        "removal"
+      ],
+      "dimensions": [
+        358,
+        314
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_34_cross_sectional_view_of_check_valve",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_34_cross_sectional_view_of_check_valve.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_34_cross_sectional_view_of_check_valve.png",
+      "page_num": 15,
+      "page_label": "BR-15",
+      "fig_id": "Fig. BR-34",
+      "code": "BR211",
+      "caption": "Fig. BR-34 Cross-sectional view of check valve",
+      "diagram_type": "cutaway_flow",
+      "description": "Cutaway view of check valve showing internal valve disc, spring, and flow direction from Master-Vac side to manifold side.",
+      "components": [
+        "Check valve spring",
+        "Check valve disc / valve"
+      ],
+      "callouts": {
+        "1": "Spring",
+        "2": "Valve"
+      },
+      "measurements_and_specs": [
+        "Max allowable leak at 500 mmHg in 15 sec: 10 mmHg (0.39 inHg)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "One-way flow only: opens towards intake manifold side.",
+      "tags": [
+        "check valve",
+        "cross section",
+        "one-way valve"
+      ],
+      "dimensions": [
+        376,
+        256
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_35_performance_curve_of_master_vac_m90",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_35_performance_curve_of_master_vac_m90.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_35_performance_curve_of_master_vac_m90.png",
+      "page_num": 16,
+      "page_label": "BR-16",
+      "fig_id": "Fig. BR-35",
+      "code": "BR686",
+      "caption": "Fig. BR-35 Performance curve of Master-Vac (M90 type)",
+      "diagram_type": "graph_chart",
+      "description": "Output performance graph for M90 (9-inch) booster plotting brake fluid pressure (psi, kg/cm\u00b2) against pedal operating force (kg, lb) at 500 mmHg and 0 mmHg vacuum.",
+      "components": [],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Test vacuum: 500 mmHg (19.69 inHg)",
+        "0 mmHg (0 inHg)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Knee point occurs at approximately 25-30 kg pedal force with 500 mmHg vacuum.",
+      "tags": [
+        "performance curve",
+        "M90",
+        "Master-Vac",
+        "boost ratio",
+        "pressure graph"
+      ],
+      "dimensions": [
+        539,
+        480
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_36_performance_curve_of_master_vac_m75",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_36_performance_curve_of_master_vac_m75.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_36_performance_curve_of_master_vac_m75.png",
+      "page_num": 16,
+      "page_label": "BR-16",
+      "fig_id": "Fig. BR-36",
+      "code": "BR687",
+      "caption": "Fig. BR-36 Performance curve of Master-Vac (M75 type)",
+      "diagram_type": "graph_chart",
+      "description": "Output performance graph for M75 (7.5-inch) booster plotting brake fluid pressure against pedal force at 500 mmHg and 0 mmHg vacuum.",
+      "components": [],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Test vacuum: 500 mmHg (19.69 inHg)",
+        "0 mmHg (0 inHg)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Knee point occurs at approximately 30-35 kg pedal force with 500 mmHg vacuum.",
+      "tags": [
+        "performance curve",
+        "M75",
+        "Master-Vac",
+        "boost ratio",
+        "pressure graph"
+      ],
+      "dimensions": [
+        498,
+        480
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_37_removal_method_of_master_vac",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_37_removal_method_of_master_vac.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_37_removal_method_of_master_vac.png",
+      "page_num": 16,
+      "page_label": "BR-16",
+      "fig_id": "Fig. BR-37",
+      "code": "BR689",
+      "caption": "Fig. BR-37 Removal method of Master-Vac",
+      "diagram_type": "procedure_step",
+      "description": "Numbered sequence for disconnecting pedal return spring, clevis pin, master cylinder nuts, and Master-Vac firewall mounting nuts.",
+      "components": [
+        "Master cylinder",
+        "Master-Vac",
+        "Return spring",
+        "Clevis pin",
+        "Master-Vac fixing nut",
+        "Master cylinder fixing nut"
+      ],
+      "callouts": {
+        "1": "Master cylinder",
+        "2": "Master-Vac",
+        "3": "Return spring",
+        "4": "Clevis pin",
+        "5": "Master-Vac fixing nut",
+        "6": "Master cylinder fixing nut"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove in numerical order 1 to 6.",
+      "tags": [
+        "Master-Vac removal",
+        "firewall mounting",
+        "clevis pin"
+      ],
+      "dimensions": [
+        361,
+        402
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_38_removing_rear_shell",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_38_removing_rear_shell.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_38_removing_rear_shell.png",
+      "page_num": 16,
+      "page_label": "BR-16",
+      "fig_id": "Fig. BR-38",
+      "code": "BR176",
+      "caption": "Fig. BR-38 Removing rear shell",
+      "diagram_type": "procedure_step",
+      "description": "Removal of operating rod clevis, lock nut, and rubber valve body guard.",
+      "components": [
+        "Clevis",
+        "Lock nut",
+        "Valve body guard"
+      ],
+      "callouts": {
+        "1": "Clevis",
+        "2": "Lock nut",
+        "3": "Valve body guard"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove clevis, lock nut, and guard prior to unscrewing rear shell.",
+      "tags": [
+        "rear shell",
+        "clevis removal",
+        "valve body guard"
+      ],
+      "dimensions": [
+        300,
+        314
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_39_removing_rear_shell",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_39_removing_rear_shell.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_39_removing_rear_shell.png",
+      "page_num": 16,
+      "page_label": "BR-16",
+      "fig_id": "Fig. BR-39",
+      "code": "BR177",
+      "caption": "Fig. BR-39 Removing rear shell",
+      "diagram_type": "special_service_tool",
+      "description": "Using special tool Master-Vac Wrench ST08080000 to rotate and unlock rear shell from front shell lugs.",
+      "components": [
+        "Master-Vac rear shell",
+        "Master-Vac front shell",
+        "Special tool ST08080000"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Turn tool counterclockwise to disengage interlocking shell tabs.",
+      "tags": [
+        "ST08080000",
+        "Master-Vac wrench",
+        "shell disassembly",
+        "special tool"
+      ],
+      "dimensions": [
+        364,
+        279
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_40_removing_seal",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_40_removing_seal.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_40_removing_seal.png",
+      "page_num": 17,
+      "page_label": "BR-17",
+      "fig_id": "Fig. BR-40",
+      "code": "BR178",
+      "caption": "Fig. BR-40 Removing seal",
+      "diagram_type": "procedure_step",
+      "description": "Prying off oil seal assembly from rear shell housing using a flat screwdriver.",
+      "components": [
+        "Rear shell",
+        "Seal assembly",
+        "Screwdriver"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Do not disassemble seal unless necessary; avoid scratching rear shell seat.",
+      "tags": [
+        "rear seal",
+        "seal removal",
+        "rear shell"
+      ],
+      "dimensions": [
+        294,
+        296
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_41_separating_diaphragm",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_41_separating_diaphragm.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_41_separating_diaphragm.png",
+      "page_num": 17,
+      "page_label": "BR-17",
+      "fig_id": "Fig. BR-41",
+      "code": "BR079",
+      "caption": "Fig. BR-41 Separating diaphragm",
+      "diagram_type": "procedure_step",
+      "description": "Peeling rubber diaphragm bead out of the annular groove in bakelite diaphragm plate.",
+      "components": [
+        "Rubber diaphragm",
+        "Diaphragm plate"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Detach diaphragm bead carefully to avoid tearing.",
+      "tags": [
+        "diaphragm removal",
+        "diaphragm plate",
+        "rubber diaphragm"
+      ],
+      "dimensions": [
+        322,
+        297
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_42_removing_air_silencer_retainer",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_42_removing_air_silencer_retainer.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_42_removing_air_silencer_retainer.png",
+      "page_num": 17,
+      "page_label": "BR-17",
+      "fig_id": "Fig. BR-42",
+      "code": "BR179",
+      "caption": "Fig. BR-42 Removing air silencer retainer",
+      "diagram_type": "procedure_step",
+      "description": "Prying air silencer retainer evenly out of diaphragm plate using screwdriver blade.",
+      "components": [
+        "Air silencer retainer",
+        "Diaphragm plate",
+        "Screwdriver"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Never tap screwdriver with a hammer; pry evenly around retainer.",
+      "tags": [
+        "air silencer retainer",
+        "diaphragm plate",
+        "silencer removal"
+      ],
+      "dimensions": [
+        316,
+        287
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_43_pulling_out_stop_key",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_43_pulling_out_stop_key.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_43_pulling_out_stop_key.png",
+      "page_num": 17,
+      "page_label": "BR-17",
+      "fig_id": "Fig. BR-43",
+      "code": "BR180",
+      "caption": "Fig. BR-43 Pulling out stop key",
+      "diagram_type": "procedure_step",
+      "description": "Extracting valve plunger stop key from valve body hub while vibrating push rod.",
+      "components": [
+        "Valve plunger stop key",
+        "Valve body",
+        "Operating rod"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Point key hole downward, lightly push rod and vibrate to disengage stop key.",
+      "tags": [
+        "valve plunger stop key",
+        "stop key removal",
+        "plunger assembly"
+      ],
+      "dimensions": [
+        335,
+        256
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_44_removing_valve_operating_rod_assembly",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_44_removing_valve_operating_rod_assembly.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_44_removing_valve_operating_rod_assembly.png",
+      "page_num": 17,
+      "page_label": "BR-17",
+      "fig_id": "Fig. BR-44",
+      "code": "BR181",
+      "caption": "Fig. BR-44 Removing valve operating rod assembly",
+      "diagram_type": "procedure_step",
+      "description": "Withdrawing valve operating rod, silencer elements, and air valve plunger assembly from power piston.",
+      "components": [
+        "Valve operating rod",
+        "Silencers",
+        "Air valve plunger",
+        "Diaphragm plate"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Rod and plunger assembly are staked together and cannot be disassembled.",
+      "tags": [
+        "operating rod",
+        "plunger withdrawal",
+        "air valve"
+      ],
+      "dimensions": [
+        344,
+        300
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_45_removing_reaction_disc",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_45_removing_reaction_disc.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_45_removing_reaction_disc.png",
+      "page_num": 17,
+      "page_label": "BR-17",
+      "fig_id": "Fig. BR-45",
+      "code": "BR182",
+      "caption": "Fig. BR-45 Removing reaction disc",
+      "diagram_type": "procedure_step",
+      "description": "Removing rubber reaction disc from center cavity of diaphragm plate.",
+      "components": [
+        "Reaction disc",
+        "Diaphragm plate center hub"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Always replace reaction disc with a new one at each reassembly.",
+      "tags": [
+        "reaction disc",
+        "diaphragm plate",
+        "booster feedback"
+      ],
+      "dimensions": [
+        344,
+        279
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_46_removing_spacer",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_46_removing_spacer.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_46_removing_spacer.png",
+      "page_num": 17,
+      "page_label": "BR-17",
+      "fig_id": "Fig. BR-46",
+      "code": "BR183",
+      "caption": "Fig. BR-46 Removing spacer",
+      "diagram_type": "procedure_step",
+      "description": "Detaching mounting stud spacer from front shell housing using screwdriver.",
+      "components": [
+        "Front shell",
+        "Mounting stud spacer"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Pry spacer off front shell studs.",
+      "tags": [
+        "front shell",
+        "spacer removal",
+        "booster shell"
+      ],
+      "dimensions": [
+        344,
+        288
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_47_installing_oil_seal",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_47_installing_oil_seal.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_47_installing_oil_seal.png",
+      "page_num": 17,
+      "page_label": "BR-17",
+      "fig_id": "Fig. BR-47",
+      "code": "BR184",
+      "caption": "Fig. BR-47 Installing oil seal",
+      "diagram_type": "special_service_tool",
+      "description": "Pressing oil seal into rear shell using drift tool ST08090000 (9\") or ST08060000 (7.5\").",
+      "components": [
+        "Rear shell",
+        "Oil seal",
+        "Drift ST08090000 / ST08060000"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Length 'A': 10.2 to 10.8 mm (0.402 to 0.425 in) for 9 in dia",
+        "Length 'A': 6.7 to 7.0 mm (0.264 to 0.276 in) for 7.5 in dia"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Align tool pawl with seal hole; drive until specified protrusion 'A' is achieved.",
+      "tags": [
+        "ST08090000",
+        "ST08060000",
+        "oil seal drift",
+        "seal installation"
+      ],
+      "dimensions": [
+        351,
+        284
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_48_length_at_a",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_48_length_at_a.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_48_length_at_a.png",
+      "page_num": 18,
+      "page_label": "BR-18",
+      "fig_id": "Fig. BR-48",
+      "code": "BR185",
+      "caption": "Fig. BR-48 Length at \"A\"",
+      "diagram_type": "inspection_measurement",
+      "description": "Cross section showing seal depth dimension 'A' measured from retainer edge in rear shell.",
+      "components": [
+        "Rear shell",
+        "Retainer",
+        "Seal"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Length 'A': 10.2 to 10.8 mm (0.402 to 0.425 in) for 228.60 mm (9 in) diaphragm",
+        "Length 'A': 6.7 to 7.0 mm (0.264 to 0.276 in) for 190.50 mm (7.5 in) diaphragm"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Critical seal press depth dimension A.",
+      "tags": [
+        "length A",
+        "seal depth",
+        "rear shell seal"
+      ],
+      "dimensions": [
+        335,
+        310
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_49_requiring_grease_place",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_49_requiring_grease_place.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_49_requiring_grease_place.png",
+      "page_num": 18,
+      "page_label": "BR-18",
+      "fig_id": "Fig. BR-49",
+      "code": "BR186",
+      "caption": "Fig. BR-49 Requiring grease place",
+      "diagram_type": "alignment_orientation",
+      "description": "Arrows pointing to outer cylindrical sliding surfaces of plunger assembly requiring Master-Vac grease.",
+      "components": [
+        "Plunger assembly",
+        "Sliding contact lands"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Apply thin coat of Master-Vac grease to sliding periphery of plunger assembly.",
+      "tags": [
+        "grease point",
+        "plunger assembly",
+        "Master-Vac grease"
+      ],
+      "dimensions": [
+        360,
+        183
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_50_inserting_stop_key",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_50_inserting_stop_key.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_50_inserting_stop_key.png",
+      "page_num": 18,
+      "page_label": "BR-18",
+      "fig_id": "Fig. BR-50",
+      "code": "BR187",
+      "caption": "Fig. BR-50 Inserting stop key",
+      "diagram_type": "procedure_step",
+      "description": "Pushing valve plunger stop key home into slot of bakelite diaphragm plate.",
+      "components": [
+        "Diaphragm plate",
+        "Stop key"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Diaphragm plate is bakelite; insert key gently without cracking plate.",
+      "tags": [
+        "stop key insertion",
+        "bakelite plate",
+        "plunger lock"
+      ],
+      "dimensions": [
+        318,
+        283
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_51_tightening_rear_shell",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_51_tightening_rear_shell.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_51_tightening_rear_shell.png",
+      "page_num": 18,
+      "page_label": "BR-18",
+      "fig_id": "Fig. BR-51",
+      "code": "BR177",
+      "caption": "Fig. BR-51 Tightening rear shell",
+      "diagram_type": "special_service_tool",
+      "description": "Turning rear shell clockwise using wrench ST08080000 until locking notches engage front shell tabs.",
+      "components": [
+        "Master-Vac shell",
+        "Wrench ST08080000"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Align scribe marks, turn clockwise until tool reaches notch in shell retainer.",
+      "tags": [
+        "ST08080000",
+        "shell tightening",
+        "lock ring",
+        "assembly"
+      ],
+      "dimensions": [
+        367,
+        293
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_52_length_at_b",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_52_length_at_b.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_52_length_at_b.png",
+      "page_num": 18,
+      "page_label": "BR-18",
+      "fig_id": "Fig. BR-52",
+      "code": "BR688",
+      "caption": "Fig. BR-52 Length at \"B\"",
+      "diagram_type": "inspection_measurement",
+      "description": "Diagram illustrating push rod tip protrusion dimension 'B' beyond booster front shell mounting face.",
+      "components": [
+        "Push rod",
+        "Front shell mounting face"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Length 'B': 9.75 to 10.00 mm (0.3839 to 0.3937 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Adjust push rod tip length to 9.75 to 10.00 mm before mounting master cylinder.",
+      "tags": [
+        "length B",
+        "push rod protrusion",
+        "booster adjustment"
+      ],
+      "dimensions": [
+        303,
+        302
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_br_53_adjusting_push_rod_length",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_br_53_adjusting_push_rod_length.png",
+      "rel_link": "diagrams/BR Brake System/fig_br_53_adjusting_push_rod_length.png",
+      "page_num": 18,
+      "page_label": "BR-18",
+      "fig_id": "Fig. BR-53",
+      "code": "BR189",
+      "caption": "Fig. BR-53 Adjusting push rod length",
+      "diagram_type": "procedure_step",
+      "description": "Holding push rod serrations with pliers while turning adjusting screw tip with wrench.",
+      "components": [
+        "Push rod serrated shaft",
+        "Adjusting screw tip",
+        "Pliers",
+        "Wrench"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Length 'B': 9.75 to 10.00 mm (0.3839 to 0.3937 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Lock push rod body securely to prevent turning inner diaphragm while adjusting tip.",
+      "tags": [
+        "push rod adjustment",
+        "tip screw",
+        "booster push rod"
+      ],
+      "dimensions": [
+        347,
+        247
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_sst_gg94310000_flare_nut_torque_wrench",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_sst_gg94310000_flare_nut_torque_wrench.png",
+      "rel_link": "diagrams/BR Brake System/fig_sst_gg94310000_flare_nut_torque_wrench.png",
+      "page_num": 24,
+      "page_label": "BR-24",
+      "fig_id": "GG94310000",
+      "code": "",
+      "caption": "GG94310000 Flare nut torque wrench",
+      "diagram_type": "special_service_tool",
+      "description": "Special flare nut torque wrench designed for hydraulic brake line fittings.",
+      "components": [
+        "Flare nut torque wrench GG94310000"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Applicable to brake tube connectors"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Prevents rounding of flare nuts on tubing joints.",
+      "tags": [
+        "GG94310000",
+        "flare nut wrench",
+        "special service tool",
+        "torque wrench"
+      ],
+      "dimensions": [
+        404,
+        236
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_sst_st08080000_master_vac_wrench",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_sst_st08080000_master_vac_wrench.png",
+      "rel_link": "diagrams/BR Brake System/fig_sst_st08080000_master_vac_wrench.png",
+      "page_num": 24,
+      "page_label": "BR-24",
+      "fig_id": "ST08080000",
+      "code": "",
+      "caption": "ST08080000 Master-Vac wrench",
+      "diagram_type": "special_service_tool",
+      "description": "Spanner wrench with locating pins to engage Master-Vac rear shell for opening and closing booster halves.",
+      "components": [
+        "Master-Vac wrench ST08080000"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Used to twist and lock rear shell to front shell notches.",
+      "tags": [
+        "ST08080000",
+        "Master-Vac wrench",
+        "special service tool",
+        "booster spanner"
+      ],
+      "dimensions": [
+        404,
+        217
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_sst_st08060000_master_vac_oil_seal_retainer_drift",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_sst_st08060000_master_vac_oil_seal_retainer_drift.png",
+      "rel_link": "diagrams/BR Brake System/fig_sst_st08060000_master_vac_oil_seal_retainer_drift.png",
+      "page_num": 24,
+      "page_label": "BR-24",
+      "fig_id": "ST08060000",
+      "code": "",
+      "caption": "ST08060000 Master-Vac oil seal retainer drift (4.5\", 6\", 7.5\")",
+      "diagram_type": "special_service_tool",
+      "description": "Flanged driver drift with alignment pawl for installing oil seal to precise depth 'A' in 7.5-inch Master-Vac rear shell.",
+      "components": [
+        "Seal retainer drift ST08060000 / J 25609"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Dia: 4.5\", 6\", 7.5\"",
+        "Depth A: 6.7 to 7.0 mm (0.264 to 0.276 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Applicable to 7 1/2\" Master-Vac on 2-seater models.",
+      "tags": [
+        "ST08060000",
+        "J 25609",
+        "seal drift",
+        "7.5 inch Master-Vac"
+      ],
+      "dimensions": [
+        398,
+        244
+      ]
+    },
+    {
+      "section_title": "BRAKE SYSTEM",
+      "source_md": "1978 280z FSM/BR Brake System.md",
+      "slug": "fig_sst_st08090000_master_vac_oil_seal_retainer_drift",
+      "file": "markdown/1978 280z FSM/diagrams/BR Brake System/fig_sst_st08090000_master_vac_oil_seal_retainer_drift.png",
+      "rel_link": "diagrams/BR Brake System/fig_sst_st08090000_master_vac_oil_seal_retainer_drift.png",
+      "page_num": 24,
+      "page_label": "BR-24",
+      "fig_id": "ST08090000",
+      "code": "",
+      "caption": "ST08090000 Master-Vac oil seal retainer drift (9\")",
+      "diagram_type": "special_service_tool",
+      "description": "Flanged driver drift with alignment pawl for installing oil seal to precise depth 'A' in 9-inch Master-Vac rear shell.",
+      "components": [
+        "Seal retainer drift ST08090000"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Dia: 9\"",
+        "Depth A: 10.2 to 10.8 mm (0.402 to 0.425 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Applicable to 9\" Master-Vac on 2+2 seater models.",
+      "tags": [
+        "ST08090000",
+        "seal drift",
+        "9 inch Master-Vac"
+      ],
+      "dimensions": [
+        398,
+        226
+      ]
+    }
+  ],
+  "torques": [
+    {
+      "component": "Brake pedal fulcrum pin",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.5 to 4.0 (25 to 29)",
+      "page_label": "BR-3"
+    },
+    {
+      "component": "Master cylinder stopper screw",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.4 to 0.5 (2.9 to 3.6)",
+      "page_label": "BR-4"
+    },
+    {
+      "component": "Master cylinder valve cap",
+      "unit": "kg-m (ft-lb)",
+      "value": "8 to 9 (58 to 65)",
+      "page_label": "BR-4"
+    },
+    {
+      "component": "Brake tube",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.5 to 1.8 (11 to 13)",
+      "page_label": "BR-5"
+    },
+    {
+      "component": "Master cylinder installation nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.8 to 1.1 (5.8 to 8.0)",
+      "page_label": "BR-5"
+    },
+    {
+      "component": "Caliper installation bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "7.3 to 9.9 (53 to 72)",
+      "page_label": "BR-9"
+    },
+    {
+      "component": "Master cylinder to Master-Vac",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.8 to 1.1 (5.8 to 8.0)",
+      "page_label": "BR-20"
+    },
+    {
+      "component": "Master cylinder stopper screw",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.4 to 0.5 (2.9 to 3.6)",
+      "page_label": "BR-20"
+    },
+    {
+      "component": "Brake tube connector",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.5 to 1.8 (11 to 13)",
+      "page_label": "BR-20"
+    },
+    {
+      "component": "Brake hose connector",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.7 to 2.0 (12 to 14)",
+      "page_label": "BR-20"
+    },
+    {
+      "component": "Air bleeder valve",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.7 to 0.9 (5.1 to 6.5)",
+      "page_label": "BR-20"
+    },
+    {
+      "component": "Fulcrum shaft (Brake pedal)",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.5 to 4.0 (25 to 29)",
+      "page_label": "BR-20"
+    },
+    {
+      "component": "Connector mounting bolt (6 mm dia. bolt)",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.5 to 0.7 (3.6 to 5.1)",
+      "page_label": "BR-20"
+    },
+    {
+      "component": "Connector mounting bolt (8 mm dia. bolt)",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.8 to 1.1 (5.8 to 8.0)",
+      "page_label": "BR-20"
+    },
+    {
+      "component": "Caliper bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "7.3 to 9.9 (53 to 72)",
+      "page_label": "BR-20"
+    },
+    {
+      "component": "Rotor bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.9 to 5.3 (28 to 38)",
+      "page_label": "BR-20"
+    },
+    {
+      "component": "Wheel cylinder bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.6 to 0.8 (4.3 to 5.8)",
+      "page_label": "BR-20"
+    },
+    {
+      "component": "Brake disc (Back plate) nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "4.0 to 5.3 (29 to 38)",
+      "page_label": "BR-20"
+    },
+    {
+      "component": "Master-Vac to body nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.8 to 1.1 (5.8 to 8.0)",
+      "page_label": "BR-20"
+    },
+    {
+      "component": "Master-Vac operating rod lock nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.6 to 2.2 (12 to 16)",
+      "page_label": "BR-20"
+    }
+  ],
+  "specs": [
+    {
+      "system": "Brake pedal",
+      "item": "Height",
+      "unit": "mm (in)",
+      "standard": "203 (7.99)",
+      "limit": "\u2014",
+      "page_label": "BR-19"
+    },
+    {
+      "system": "Brake pedal",
+      "item": "Free play (at pedal pad)",
+      "unit": "mm (in)",
+      "standard": "1 to 5 (0.04 to 0.20)",
+      "limit": "\u2014",
+      "page_label": "BR-19"
+    },
+    {
+      "system": "Brake pedal",
+      "item": "Full stroke",
+      "unit": "mm (in)",
+      "standard": "123 (4.84)",
+      "limit": "\u2014",
+      "page_label": "BR-19"
+    },
+    {
+      "system": "Brake pedal",
+      "item": "Depressed height",
+      "unit": "mm (in)",
+      "standard": "92 (3.62)",
+      "limit": "\u2014",
+      "page_label": "BR-19"
+    },
+    {
+      "system": "Master cylinder",
+      "item": "Inner diameter",
+      "unit": "mm (in)",
+      "standard": "22.23 (7/8)",
+      "limit": "\u2014",
+      "page_label": "BR-19"
+    },
+    {
+      "system": "Master cylinder",
+      "item": "Allowable clearance between cylinder and piston",
+      "unit": "mm (in)",
+      "standard": "\u2014",
+      "limit": "0.15 (0.0059)",
+      "page_label": "BR-19"
+    },
+    {
+      "system": "Master-Vac",
+      "item": "Diaphragm diameter (2 seater)",
+      "unit": "mm (in)",
+      "standard": "190.50 (7 1/2)",
+      "limit": "\u2014",
+      "page_label": "BR-19"
+    },
+    {
+      "system": "Master-Vac",
+      "item": "Diaphragm diameter (2 + 2 seater)",
+      "unit": "mm (in)",
+      "standard": "228.60 (9)",
+      "limit": "\u2014",
+      "page_label": "BR-19"
+    },
+    {
+      "system": "Master-Vac",
+      "item": "Length 'A' (2 seater)",
+      "unit": "mm (in)",
+      "standard": "6.7 to 7.0 (0.264 to 0.276)",
+      "limit": "\u2014",
+      "page_label": "BR-19"
+    },
+    {
+      "system": "Master-Vac",
+      "item": "Length 'A' (2 + 2 seater)",
+      "unit": "mm (in)",
+      "standard": "10.2 to 10.8 (0.402 to 0.425)",
+      "limit": "\u2014",
+      "page_label": "BR-19"
+    },
+    {
+      "system": "Master-Vac",
+      "item": "Length 'B'",
+      "unit": "mm (in)",
+      "standard": "9.75 to 10.00 (0.3839 to 0.3937)",
+      "limit": "\u2014",
+      "page_label": "BR-19"
+    },
+    {
+      "system": "Parking brake",
+      "item": "Type",
+      "unit": "\u2014",
+      "standard": "Mechanical, operating on rear wheels",
+      "limit": "\u2014",
+      "page_label": "BR-19"
+    },
+    {
+      "system": "Parking brake",
+      "item": "Notch",
+      "unit": "notch",
+      "standard": "6th [Pulling force 20 to 25 kg (44 to 55 lb)]",
+      "limit": "\u2014",
+      "page_label": "BR-19"
+    },
+    {
+      "system": "Service brake",
+      "item": "Type Front",
+      "unit": "\u2014",
+      "standard": "Disc (Girling-Sumitomo S-16)",
+      "limit": "\u2014",
+      "page_label": "BR-19"
+    },
+    {
+      "system": "Service brake",
+      "item": "Type Rear",
+      "unit": "\u2014",
+      "standard": "Drum (Leading-trailing)",
+      "limit": "\u2014",
+      "page_label": "BR-19"
+    },
+    {
+      "system": "Wheel cylinder",
+      "item": "Inner diameter Front",
+      "unit": "mm (in)",
+      "standard": "53.98 (2 1/8)",
+      "limit": "\u2014",
+      "page_label": "BR-19"
+    },
+    {
+      "system": "Wheel cylinder",
+      "item": "Inner diameter Rear",
+      "unit": "mm (in)",
+      "standard": "22.23 (7/8)",
+      "limit": "\u2014",
+      "page_label": "BR-19"
+    },
+    {
+      "system": "Brake rotor",
+      "item": "Outer diameter x Thickness",
+      "unit": "mm (in)",
+      "standard": "271 x 12.5 (10.67 x 0.492)",
+      "limit": "\u2014",
+      "page_label": "BR-19"
+    },
+    {
+      "system": "Brake rotor",
+      "item": "Run-out",
+      "unit": "mm (in)",
+      "standard": "\u2014",
+      "limit": "0.10 (0.0039)",
+      "page_label": "BR-19"
+    },
+    {
+      "system": "Brake rotor",
+      "item": "Wear limit thickness",
+      "unit": "mm (in)",
+      "standard": "12.5 (0.492)",
+      "limit": "10.5 (0.413)",
+      "page_label": "BR-19"
+    },
+    {
+      "system": "Brake pad",
+      "item": "Dimension (Width x thickness x length)",
+      "unit": "mm (in)",
+      "standard": "51.6 x 9.7 x 77.8 (2.031 x 0.382 x 3.063)",
+      "limit": "\u2014",
+      "page_label": "BR-19"
+    },
+    {
+      "system": "Brake pad",
+      "item": "Wear limit (Min. thickness)",
+      "unit": "mm (in)",
+      "standard": "\u2014",
+      "limit": "2.0 (0.079)",
+      "page_label": "BR-19"
+    },
+    {
+      "system": "Brake drum",
+      "item": "Inner diameter",
+      "unit": "mm (in)",
+      "standard": "228.60 (9)",
+      "limit": "\u2014",
+      "page_label": "BR-20"
+    },
+    {
+      "system": "Brake drum",
+      "item": "Wear limit of diameter",
+      "unit": "mm (in)",
+      "standard": "\u2014",
+      "limit": "230.0 (9.06)",
+      "page_label": "BR-20"
+    },
+    {
+      "system": "Brake drum",
+      "item": "Out-of-round",
+      "unit": "mm (in)",
+      "standard": "\u2014",
+      "limit": "0.05 (0.0020)",
+      "page_label": "BR-12"
+    },
+    {
+      "system": "Brake lining",
+      "item": "Dimension (Width x thickness x length)",
+      "unit": "mm (in)",
+      "standard": "40 x 4.5 x 219.5 (1.57 x 0.177 x 8.64)",
+      "limit": "\u2014",
+      "page_label": "BR-20"
+    },
+    {
+      "system": "Brake lining",
+      "item": "Wear limit (Min. thickness)",
+      "unit": "mm (in)",
+      "standard": "\u2014",
+      "limit": "1.5 (0.059)",
+      "page_label": "BR-20"
+    }
+  ],
+  "troubleshooting": [
+    {
+      "symptom": "Locked brake pedal",
+      "probable_cause": "Swollen master cylinder seals due to poor fluid quality or contamination by kerosene, gasoline or mineral oil.",
+      "corrective_action": "Flush the system, replace all rubber parts, refill with new fluid and air bleed the lines.",
+      "page_label": "BR-21"
+    },
+    {
+      "symptom": "Locked brake pedal",
+      "probable_cause": "Pistons or valve carrier locked by deposits of fluid, foreign matter, etc.",
+      "corrective_action": "Clean and bleed the system.",
+      "page_label": "BR-21"
+    },
+    {
+      "symptom": "Locked brake pedal",
+      "probable_cause": "Seized master cylinder piston due to infiltrations of water through rear end due to faulty boot or seals.",
+      "corrective_action": "Service the master cylinder, replace the piston and the boot and/or seals, to prevent water infiltration.",
+      "page_label": "BR-21"
+    },
+    {
+      "symptom": "Locked brake pedal",
+      "probable_cause": "Seized pedal shaft.",
+      "corrective_action": "Smooth bushings, or if other sliding parts are damaged to a remarkable extent, replace them and lubricate.",
+      "page_label": "BR-21"
+    },
+    {
+      "symptom": "Locked brake pedal",
+      "probable_cause": "Clogged transfer port.",
+      "corrective_action": "Disassemble and clean master cylinder.",
+      "page_label": "BR-21"
+    },
+    {
+      "symptom": "Locked brake pedal",
+      "probable_cause": "No compensation takes place. Weak return spring.",
+      "corrective_action": "Replace faulty spring.",
+      "page_label": "BR-21"
+    },
+    {
+      "symptom": "Spongy pedal",
+      "probable_cause": "Air in brake system because of imperfect bleeding.",
+      "corrective_action": "Bleed thoroughly.",
+      "page_label": "BR-21"
+    },
+    {
+      "symptom": "Spongy pedal",
+      "probable_cause": "Swollen hose due to deterioration.",
+      "corrective_action": "Replace the hose and bleed the system.",
+      "page_label": "BR-21"
+    },
+    {
+      "symptom": "Spongy pedal",
+      "probable_cause": "Hose swells under fluid pressure due to poor hose quality.",
+      "corrective_action": "Fit new hoses and bleed the system.",
+      "page_label": "BR-21"
+    },
+    {
+      "symptom": "Spongy pedal",
+      "probable_cause": "Use of a poor quality brake fluid (boiling point of which is too low).",
+      "corrective_action": "Replace the fluid with the specified brake fluid and bleed the system.",
+      "page_label": "BR-21"
+    },
+    {
+      "symptom": "Spongy pedal",
+      "probable_cause": "Clogged reservoir filler cap vent hole. This promotes a vacuum in master cylinder that sucks air through rear seal.",
+      "corrective_action": "Clean reservoir filler cap and bleed the system.",
+      "page_label": "BR-21"
+    },
+    {
+      "symptom": "Pedal yields under slight pressure",
+      "probable_cause": "Deteriorated check valve.",
+      "corrective_action": "Fit a new check valve, make sure that there are no burrs, roughness or blow holes in master cylinder, and bleed the system.",
+      "page_label": "BR-21"
+    },
+    {
+      "symptom": "Pedal yields under slight pressure",
+      "probable_cause": "Fluid leaks through connection.",
+      "corrective_action": "Tighten connections, and if necessary, replace faulty parts. Bleed the system.",
+      "page_label": "BR-21"
+    },
+    {
+      "symptom": "Pedal yields under slight pressure",
+      "probable_cause": "Fluid leaks at wheel cylinders.",
+      "corrective_action": "Replace the seals and packings being damaged. Wipe and clean brake shoe linings.",
+      "page_label": "BR-21"
+    },
+    {
+      "symptom": "Pedal yields under slight pressure",
+      "probable_cause": "Fluid leaks through hoses.",
+      "corrective_action": "Replace the damaged hose, and bleed the system.",
+      "page_label": "BR-21"
+    },
+    {
+      "symptom": "Pedal yields under slight pressure",
+      "probable_cause": "Low fluid level in reservoir.",
+      "corrective_action": "Add specified fluid up to correct level.",
+      "page_label": "BR-21"
+    },
+    {
+      "symptom": "Poor pedal reserve",
+      "probable_cause": "Master cylinder relief port clogged with foreign matter.",
+      "corrective_action": "Clean and bleed the system.",
+      "page_label": "BR-22"
+    },
+    {
+      "symptom": "Poor pedal reserve",
+      "probable_cause": "System has not been bled.",
+      "corrective_action": "Bleed the system.",
+      "page_label": "BR-22"
+    },
+    {
+      "symptom": "Poor pedal reserve",
+      "probable_cause": "Excessive clearance between shoes and drum.",
+      "corrective_action": "Adjust auto-adjuster operation.",
+      "page_label": "BR-22"
+    },
+    {
+      "symptom": "Excessive pedal reserve",
+      "probable_cause": "Fluid level in reservoir is too low.",
+      "corrective_action": "Top up with specified brake fluid, bleed the system, if required.",
+      "page_label": "BR-22"
+    },
+    {
+      "symptom": "Excessive pedal reserve",
+      "probable_cause": "Deteriorated rubber seals in master cylinder or in wheel cylinders.",
+      "corrective_action": "Replace seals and bleed the system.",
+      "page_label": "BR-22"
+    },
+    {
+      "symptom": "Excessive pedal reserve",
+      "probable_cause": "Excessively swollen hoses due to poor hose quality.",
+      "corrective_action": "Replace by designated hoses and bleed the system.",
+      "page_label": "BR-22"
+    },
+    {
+      "symptom": "Excessive pedal reserve",
+      "probable_cause": "Thermal expansion of drums due to excessive overheating.",
+      "corrective_action": "Allow drums to cool off. Check brake shoe linings and drums. Replace damaged parts.",
+      "page_label": "BR-22"
+    },
+    {
+      "symptom": "Brake locked after pedal return",
+      "probable_cause": "Worn or broken return spring.",
+      "corrective_action": "Replace faulty springs.",
+      "page_label": "BR-22"
+    },
+    {
+      "symptom": "Brake locked after pedal return",
+      "probable_cause": "Improper brake shoe return.",
+      "corrective_action": "Grease brake shoe and wheel cylinder sliding surface.",
+      "page_label": "BR-22"
+    },
+    {
+      "symptom": "Brake locked after pedal return",
+      "probable_cause": "Clogged master cylinder relief port.",
+      "corrective_action": "Clean and bleed the system.",
+      "page_label": "BR-22"
+    },
+    {
+      "symptom": "Brake locked after pedal return",
+      "probable_cause": "Swollen or stuck rubber seals due to contamination by kerosene, mineral oil, gasoline, etc.",
+      "corrective_action": "Flush the system, replace all rubber parts, refill with new brake fluid and bleed the system.",
+      "page_label": "BR-22"
+    },
+    {
+      "symptom": "Unbalanced brakes",
+      "probable_cause": "Fluid leakage at one wheel cylinder only.",
+      "corrective_action": "Wipe, clean or replace the brake shoe linings or lining pads, service the wheel cylinder and bleed the system.",
+      "page_label": "BR-22"
+    },
+    {
+      "symptom": "Unbalanced brakes",
+      "probable_cause": "Rusted or corroded edges of a wheel cylinder.",
+      "corrective_action": "Eliminate rust and replace the boots.",
+      "page_label": "BR-22"
+    },
+    {
+      "symptom": "Unbalanced brakes",
+      "probable_cause": "Seized piston in wheel cylinder or caliper assembly.",
+      "corrective_action": "Service the wheel cylinder, replace the rear wheel cylinder piston or caliper assembly and bleed the system.",
+      "page_label": "BR-22"
+    },
+    {
+      "symptom": "Unbalanced brakes",
+      "probable_cause": "Hose obstructed due to swollen or clogged inner lining.",
+      "corrective_action": "Replace or clean the hose and bleed the system.",
+      "page_label": "BR-22"
+    },
+    {
+      "symptom": "Unbalanced brakes",
+      "probable_cause": "Obstructed flow in metal pipe due to crushing or clogging (if the brakes on one axle are excluded, weak braking may result).",
+      "corrective_action": "Replace or clean the pipe and bleed the system.",
+      "page_label": "BR-22"
+    },
+    {
+      "symptom": "Unbalanced brakes",
+      "probable_cause": "Faulty seals at one half caliper.",
+      "corrective_action": "Take down and strip the half caliper, replace seals and dust covers.",
+      "page_label": "BR-22"
+    },
+    {
+      "symptom": "Brake linings dragging all the time on drums or brake discs",
+      "probable_cause": "Insufficient shoe-to-drum clearance.",
+      "corrective_action": "Adjust clearance.",
+      "page_label": "BR-23"
+    },
+    {
+      "symptom": "Brake linings dragging all the time on drums or brake discs",
+      "probable_cause": "Weak shoe return springs.",
+      "corrective_action": "Replace the springs.",
+      "page_label": "BR-23"
+    },
+    {
+      "symptom": "Brake linings dragging all the time on drums or brake discs",
+      "probable_cause": "Brake pedal has no free travel.",
+      "corrective_action": "Set the push rod length as prescribed.",
+      "page_label": "BR-23"
+    },
+    {
+      "symptom": "Brake linings dragging all the time on drums or brake discs",
+      "probable_cause": "Seized master cylinder piston.",
+      "corrective_action": "Service the master cylinder, replace the piston and bleed the system.",
+      "page_label": "BR-23"
+    },
+    {
+      "symptom": "Brake linings dragging all the time on drums or brake discs",
+      "probable_cause": "Master cylinder flooded due to clogged relief port.",
+      "corrective_action": "Service the master cylinder, replace the check valve if deteriorated, clean the relief port and bleed the system.",
+      "page_label": "BR-23"
+    },
+    {
+      "symptom": "Brake linings dragging all the time on drums or brake discs",
+      "probable_cause": "Brake disc run-out.",
+      "corrective_action": "Check brake disc for run-out, and replace faulty parts, if necessary.",
+      "page_label": "BR-23"
+    },
+    {
+      "symptom": "Weak brakes",
+      "probable_cause": "Fluid leakage from wheel cylinders.",
+      "corrective_action": "Wipe and clean the brake shoe linings, service the wheel cylinder replacing damaged parts, and bleed the system.",
+      "page_label": "BR-23"
+    },
+    {
+      "symptom": "Weak brakes",
+      "probable_cause": "Fluid leakage from caliper cylinders.",
+      "corrective_action": "Take down and strip the calipers; replace all rubber seals and clean lining pads.",
+      "page_label": "BR-23"
+    },
+    {
+      "symptom": "Weak brakes",
+      "probable_cause": "Improper Master-Vac function due to poor vacuum.",
+      "corrective_action": "Check the pipe or hose connections, and fasten if necessary. Or replace a faulty vacuum hose.",
+      "page_label": "BR-23"
+    },
+    {
+      "symptom": "Weak brakes",
+      "probable_cause": "Required vacuum is not maintained.",
+      "corrective_action": "Wipe, clean or replace the check valve and check the grommet for loose fit, re-fit or replace it. Replace seal or retighten plate and seal assembly-to-front shell bolts. Clean or replace poppet rubber. Replace diaphragm and diaphragm plate.",
+      "page_label": "BR-23"
+    },
+    {
+      "symptom": "Weak brakes",
+      "probable_cause": "Weak pressure on shoes due to use of too thick fluid.",
+      "corrective_action": "Flush the system and refill with specified fluid. Bleed the system.",
+      "page_label": "BR-23"
+    },
+    {
+      "symptom": "Weak brakes",
+      "probable_cause": "Dust on drums or linings soiled with oil.",
+      "corrective_action": "Remove and clean drums thoroughly.",
+      "page_label": "BR-23"
+    },
+    {
+      "symptom": "Weak brakes",
+      "probable_cause": "Weak shoe return springs.",
+      "corrective_action": "Check springs and replace as required.",
+      "page_label": "BR-23"
+    },
+    {
+      "symptom": "Weak brakes",
+      "probable_cause": "Drum out of round.",
+      "corrective_action": "Correct drums by means of a lathe.",
+      "page_label": "BR-23"
+    }
+  ],
+  "special_tools": [
+    {
+      "tool_number": "GG94310000",
+      "tool_name": "Flare nut torque wrench",
+      "kent_moore_no": "\u2014",
+      "ref": "Page BR-4, Page BR-5, Page BR-9",
+      "page_label": "BR-24"
+    },
+    {
+      "tool_number": "ST08080000",
+      "tool_name": "Master-Vac wrench",
+      "kent_moore_no": "\u2014",
+      "ref": "Fig. BR-39, Fig. BR-51",
+      "page_label": "BR-24"
+    },
+    {
+      "tool_number": "ST08060000",
+      "tool_name": "Master-Vac oil seal retainer drift (4.5\", 6\", 7.5\")",
+      "kent_moore_no": "J 25609",
+      "ref": "Fig. BR-47",
+      "page_label": "BR-24"
+    },
+    {
+      "tool_number": "ST08090000",
+      "tool_name": "Master-Vac oil seal retainer drift (9\")",
+      "kent_moore_no": "\u2014",
+      "ref": "Fig. BR-47",
+      "page_label": "BR-24"
+    }
+  ]
+}

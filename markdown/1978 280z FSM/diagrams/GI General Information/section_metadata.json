@@ -1,0 +1,957 @@
+{
+  "section_title": "GENERAL INFORMATION",
+  "source_pdf": "1978 280z FSM/GI General Information.pdf",
+  "md_path": "1978 280z FSM/GI General Information.md",
+  "pages_count": 7,
+  "diagrams": [
+    {
+      "section_title": "GENERAL INFORMATION",
+      "source_md": "1978 280z FSM/GI General Information.md",
+      "slug": "model_designation_breakdown",
+      "file": "markdown/1978 280z FSM/diagrams/GI General Information/model_designation_breakdown.png",
+      "rel_link": "diagrams/GI General Information/model_designation_breakdown.png",
+      "page_num": 2,
+      "page_label": "GI-2",
+      "fig_id": "",
+      "code": "",
+      "caption": "Model code designation breakdown",
+      "diagram_type": "graph_chart",
+      "description": "Model code breakdown tree showing the meaning of each letter and blank position in the Datsun 280Z model designation (GHLS30AUVC).",
+      "components": [
+        "Model designation prefix/suffix",
+        "Air conditioner code (C)",
+        "California/Canada code (V/N)",
+        "Destination code (U)",
+        "Transmission code (A/F)",
+        "Left hand drive (L)",
+        "Engine/Series code (S30/H)",
+        "2+2 seating code (G)"
+      ],
+      "callouts": {
+        "G": "2+2 seater model (blank: 2 seater model)",
+        "H": "L28 engine",
+        "L": "Left hand drive",
+        "S30": "Model series",
+        "A": "Automatic transmission model",
+        "F": "Manual 5-speed transmission model",
+        "[ ] (transmission)": "Manual 4-speed transmission model",
+        "U": "For U.S.A. and Canada",
+        "V": "California model",
+        "N": "For Canada",
+        "[ ] (emission/region)": "Non-California model except Canada",
+        "C": "Air conditioner"
+      },
+      "measurements_and_specs": [
+        "Differential gear ratio: 3.545 for all models",
+        "Differential model: R200 for manual transmissions (F4W71B, FS5W71B), R180 for automatic transmission (3N71B)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "California models and high altitude counties are specifically designated by 'V'. Canadian models are designated by 'N'.",
+      "tags": [
+        "model variation",
+        "model code",
+        "VIN breakdown",
+        "GHLS30",
+        "HLS30",
+        "specifications"
+      ],
+      "dimensions": [
+        1061,
+        489
+      ]
+    },
+    {
+      "section_title": "GENERAL INFORMATION",
+      "source_md": "1978 280z FSM/GI General Information.md",
+      "slug": "fig_gi_1_car_identification_plate",
+      "file": "markdown/1978 280z FSM/diagrams/GI General Information/fig_gi_1_car_identification_plate.png",
+      "rel_link": "diagrams/GI General Information/fig_gi_1_car_identification_plate.png",
+      "page_num": 3,
+      "page_label": "GI-3",
+      "fig_id": "Fig. GI-1",
+      "code": "SP053",
+      "caption": "Fig. GI-1 Car identification plate location",
+      "diagram_type": "component_location",
+      "description": "Location of the car identification plate on the left hoodledge panel behind the strut housing.",
+      "components": [
+        "Car identification plate",
+        "Left hoodledge panel",
+        "Strut housing"
+      ],
+      "callouts": {
+        "Car identification plate": "Car identification plate on left hoodledge panel"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Contains car type, engine capacity, maximum horsepower, wheelbase, engine type, and car serial number.",
+      "tags": [
+        "car identification plate",
+        "hoodledge",
+        "strut housing",
+        "VIN",
+        "serial number"
+      ],
+      "dimensions": [
+        354,
+        341
+      ]
+    },
+    {
+      "section_title": "GENERAL INFORMATION",
+      "source_md": "1978 280z FSM/GI General Information.md",
+      "slug": "fig_gi_2_car_serial_number",
+      "file": "markdown/1978 280z FSM/diagrams/GI General Information/fig_gi_2_car_serial_number.png",
+      "rel_link": "diagrams/GI General Information/fig_gi_2_car_serial_number.png",
+      "page_num": 3,
+      "page_label": "GI-3",
+      "fig_id": "Fig. GI-2",
+      "code": "SP057",
+      "caption": "Fig. GI-2 Car serial number location",
+      "diagram_type": "component_location",
+      "description": "Location of the car serial number stamped on the upper face of the left dash panel cowl.",
+      "components": [
+        "Car serial number",
+        "Left dash panel cowl",
+        "Vehicle body"
+      ],
+      "callouts": {
+        "Car serial number": "Stamped car serial number on upper face of left dash panel"
+      },
+      "measurements_and_specs": [
+        "Serial number format: HLS30-XXXXXX"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Stamped on the upper face of the left dash panel.",
+      "tags": [
+        "car serial number",
+        "dash panel",
+        "firewall",
+        "cowl",
+        "chassis number"
+      ],
+      "dimensions": [
+        354,
+        261
+      ]
+    },
+    {
+      "section_title": "GENERAL INFORMATION",
+      "source_md": "1978 280z FSM/GI General Information.md",
+      "slug": "fig_gi_3_identification_number_plate",
+      "file": "markdown/1978 280z FSM/diagrams/GI General Information/fig_gi_3_identification_number_plate.png",
+      "rel_link": "diagrams/GI General Information/fig_gi_3_identification_number_plate.png",
+      "page_num": 3,
+      "page_label": "GI-3",
+      "fig_id": "Fig. GI-3",
+      "code": "GI303",
+      "caption": "Fig. GI-3 Identification number plate location",
+      "diagram_type": "component_location",
+      "description": "Location of the vehicle identification number plate mounted on the driver side instrument panel, viewable from outside through the windshield.",
+      "components": [
+        "Identification number plate",
+        "Instrument panel",
+        "Windshield glass",
+        "A-pillar"
+      ],
+      "callouts": {
+        "IDENTIFICATION NUMBER": "Plate attached to instrument panel top surface"
+      },
+      "measurements_and_specs": [
+        "Identification number format: HLS30-XXXXXX"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Legible from outside the vehicle through the lower driver's side windshield glass.",
+      "tags": [
+        "VIN plate",
+        "identification number",
+        "instrument panel",
+        "windshield"
+      ],
+      "dimensions": [
+        366,
+        306
+      ]
+    },
+    {
+      "section_title": "GENERAL INFORMATION",
+      "source_md": "1978 280z FSM/GI General Information.md",
+      "slug": "fig_gi_4_engine_serial_number",
+      "file": "markdown/1978 280z FSM/diagrams/GI General Information/fig_gi_4_engine_serial_number.png",
+      "rel_link": "diagrams/GI General Information/fig_gi_4_engine_serial_number.png",
+      "page_num": 3,
+      "page_label": "GI-3",
+      "fig_id": "Fig. GI-4",
+      "code": "GI199",
+      "caption": "Fig. GI-4 Engine serial number location",
+      "diagram_type": "component_location",
+      "description": "Location of the engine serial number stamped on the right-hand side rear block pad of the cylinder block.",
+      "components": [
+        "Cylinder block",
+        "Engine serial number pad",
+        "Distributor boss"
+      ],
+      "callouts": {
+        "L28 023049": "Stamped engine block designation and 6-digit serial number"
+      },
+      "measurements_and_specs": [
+        "Engine type: L28"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Stamped on the machined pad on the right side of the cylinder block behind the distributor/oil pump mount.",
+      "tags": [
+        "engine serial number",
+        "engine block",
+        "cylinder block",
+        "L28",
+        "stamping"
+      ],
+      "dimensions": [
+        360,
+        296
+      ]
+    },
+    {
+      "section_title": "GENERAL INFORMATION",
+      "source_md": "1978 280z FSM/GI General Information.md",
+      "slug": "fig_gi_5_body_color_code_number_label",
+      "file": "markdown/1978 280z FSM/diagrams/GI General Information/fig_gi_5_body_color_code_number_label.png",
+      "rel_link": "diagrams/GI General Information/fig_gi_5_body_color_code_number_label.png",
+      "page_num": 3,
+      "page_label": "GI-3",
+      "fig_id": "Fig. GI-5",
+      "code": "GI300",
+      "caption": "Fig. GI-5 Body color code number label location",
+      "diagram_type": "component_location",
+      "description": "Location of the body color code number label attached to the top face of the radiator core support.",
+      "components": [
+        "Radiator core support",
+        "Body color code label"
+      ],
+      "callouts": {
+        "PAINT COLOR NUMBER / COLOR NO. 214": "Body paint color number label detail"
+      },
+      "measurements_and_specs": [
+        "Example color number: 214"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Attached to the top surface of the radiator core support.",
+      "tags": [
+        "paint code",
+        "color code",
+        "radiator core support",
+        "body color"
+      ],
+      "dimensions": [
+        367,
+        314
+      ]
+    },
+    {
+      "section_title": "GENERAL INFORMATION",
+      "source_md": "1978 280z FSM/GI General Information.md",
+      "slug": "fig_gi_6_mvss_certification_label",
+      "file": "markdown/1978 280z FSM/diagrams/GI General Information/fig_gi_6_mvss_certification_label.png",
+      "rel_link": "diagrams/GI General Information/fig_gi_6_mvss_certification_label.png",
+      "page_num": 3,
+      "page_label": "GI-3",
+      "fig_id": "Fig. GI-6",
+      "code": "GI304",
+      "caption": "Fig. GI-6 M.V.S.S. certification label location",
+      "diagram_type": "component_location",
+      "description": "Location of the Motor Vehicle Safety Standard (M.V.S.S.) certification label affixed to the upper portion of the left lock pillar.",
+      "components": [
+        "Left lock pillar (B-pillar)",
+        "M.V.S.S. certification label"
+      ],
+      "callouts": {
+        "M.V.S.S. certification label": "Certification label affixed to left door lock pillar"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Affixed to the upper portion of the left lock pillar / B-pillar.",
+      "tags": [
+        "MVSS label",
+        "safety certification",
+        "lock pillar",
+        "B-pillar"
+      ],
+      "dimensions": [
+        360,
+        279
+      ]
+    },
+    {
+      "section_title": "GENERAL INFORMATION",
+      "source_md": "1978 280z FSM/GI General Information.md",
+      "slug": "fig_gi_7_emission_control_information_label",
+      "file": "markdown/1978 280z FSM/diagrams/GI General Information/fig_gi_7_emission_control_information_label.png",
+      "rel_link": "diagrams/GI General Information/fig_gi_7_emission_control_information_label.png",
+      "page_num": 3,
+      "page_label": "GI-3",
+      "fig_id": "Fig. GI-7",
+      "code": "GI305",
+      "caption": "Fig. GI-7 Emission control information label location",
+      "diagram_type": "component_location",
+      "description": "Location of the vehicle emission control information label on the underside panel of the hood.",
+      "components": [
+        "Hood inner panel",
+        "Vehicle emission control information label"
+      ],
+      "callouts": {
+        "Vehicle emission control information label": "Label stuck to underside panel of hood"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Stuck on the underside inner reinforcement panel of the hood.",
+      "tags": [
+        "emission label",
+        "VECI",
+        "hood underside",
+        "tune-up specs"
+      ],
+      "dimensions": [
+        373,
+        323
+      ]
+    },
+    {
+      "section_title": "GENERAL INFORMATION",
+      "source_md": "1978 280z FSM/GI General Information.md",
+      "slug": "fig_gi_8_manual_transmission_number",
+      "file": "markdown/1978 280z FSM/diagrams/GI General Information/fig_gi_8_manual_transmission_number.png",
+      "rel_link": "diagrams/GI General Information/fig_gi_8_manual_transmission_number.png",
+      "page_num": 3,
+      "page_label": "GI-3",
+      "fig_id": "Fig. GI-8",
+      "code": "TM235",
+      "caption": "Fig. GI-8 Manual transmission number location",
+      "diagram_type": "component_location",
+      "description": "Location of the manual transmission serial number stamped on the front upper face of the transmission bellhousing.",
+      "components": [
+        "Manual transmission case",
+        "Bellhousing upper face",
+        "Clutch fork boot"
+      ],
+      "callouts": {
+        "Stamped pad": "Top front flange of transmission case"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Stamped on the front upper face of the transmission case near the engine block flange.",
+      "tags": [
+        "manual transmission",
+        "transmission number",
+        "serial number",
+        "bellhousing",
+        "F4W71B",
+        "FS5W71B"
+      ],
+      "dimensions": [
+        348,
+        314
+      ]
+    },
+    {
+      "section_title": "GENERAL INFORMATION",
+      "source_md": "1978 280z FSM/GI General Information.md",
+      "slug": "fig_gi_9_automatic_transmission_number",
+      "file": "markdown/1978 280z FSM/diagrams/GI General Information/fig_gi_9_automatic_transmission_number.png",
+      "rel_link": "diagrams/GI General Information/fig_gi_9_automatic_transmission_number.png",
+      "page_num": 4,
+      "page_label": "GI-4",
+      "fig_id": "Fig. GI-9",
+      "code": "AT344",
+      "caption": "Fig. GI-9 Automatic transmission number location",
+      "diagram_type": "component_location",
+      "description": "Location of the automatic transmission serial number stamped on the right-hand side of the 3N71B transmission case.",
+      "components": [
+        "Automatic transmission case (3N71B)",
+        "Right-hand side serial number pad",
+        "Torque converter housing"
+      ],
+      "callouts": {
+        "Arrow": "Stamped pad on right-hand side of transmission case"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Stamped on the right-hand side of the transmission case.",
+      "tags": [
+        "automatic transmission",
+        "transmission number",
+        "serial number",
+        "3N71B"
+      ],
+      "dimensions": [
+        380,
+        287
+      ]
+    },
+    {
+      "section_title": "GENERAL INFORMATION",
+      "source_md": "1978 280z FSM/GI General Information.md",
+      "slug": "chart_recommended_sae_viscosity_number",
+      "file": "markdown/1978 280z FSM/diagrams/GI General Information/chart_recommended_sae_viscosity_number.png",
+      "rel_link": "diagrams/GI General Information/chart_recommended_sae_viscosity_number.png",
+      "page_num": 5,
+      "page_label": "GI-5",
+      "fig_id": "",
+      "code": "",
+      "caption": "RECOMMENDED SAE VISCOSITY NUMBER",
+      "diagram_type": "graph_chart",
+      "description": "Recommended SAE viscosity numbers for engine oil and gear oil based on anticipated ambient temperature range before next oil change.",
+      "components": [
+        "Engine oil viscosity ranges",
+        "Gear oil viscosity ranges",
+        "Temperature scale in Celsius and Fahrenheit"
+      ],
+      "callouts": {
+        "ENGINE OIL": "20W-20, 20W-40, 20W-50 (-10\u00b0C to >38\u00b0C); 10W-30, 10W-40 (-20\u00b0C to 38\u00b0C); 10W (-20\u00b0C to 15\u00b0C); 5W-30 (-29\u00b0C to 0\u00b0C); 5W-20 (-29\u00b0C to -10\u00b0C)",
+        "GEAR OIL": "75W (-29\u00b0C to -10\u00b0C); 80W (-29\u00b0C to 15\u00b0C); 85W (-10\u00b0C to 27\u00b0C); 90 (-10\u00b0C to 38\u00b0C); 140 (15\u00b0C to >38\u00b0C)"
+      },
+      "measurements_and_specs": [
+        "Engine oil 20W-20, 20W-40, 20W-50: -10\u00b0C to above 38\u00b0C (14\u00b0F to >100\u00b0F)",
+        "Engine oil 10W-30, 10W-40: -20\u00b0C to 38\u00b0C (-4\u00b0F to 100\u00b0F)",
+        "Engine oil 10W: -20\u00b0C to 15\u00b0C (-4\u00b0F to 60\u00b0F)",
+        "Engine oil 5W-30: -29\u00b0C to 0\u00b0C (-20\u00b0F to 32\u00b0F)",
+        "Engine oil 5W-20: -29\u00b0C to -10\u00b0C (-20\u00b0F to 14\u00b0F) (*Not recommended for sustained high speed driving)",
+        "Gear oil 75W: -29\u00b0C to -10\u00b0C (-20\u00b0F to 14\u00b0F)",
+        "Gear oil 80W: -29\u00b0C to 15\u00b0C (-20\u00b0F to 60\u00b0F)",
+        "Gear oil 85W: -10\u00b0C to 27\u00b0C (14\u00b0F to 80\u00b0F)",
+        "Gear oil 90: -10\u00b0C to 38\u00b0C (14\u00b0F to 100\u00b0F)",
+        "Gear oil 140: 15\u00b0C to above 38\u00b0C (60\u00b0F to >100\u00b0F)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "5W-20 is not recommended for sustained high speed driving. Select viscosity based on anticipated temperature range before next oil change.",
+      "tags": [
+        "SAE viscosity",
+        "engine oil",
+        "gear oil",
+        "lubrication chart",
+        "ambient temperature"
+      ],
+      "dimensions": [
+        329,
+        621
+      ]
+    },
+    {
+      "section_title": "GENERAL INFORMATION",
+      "source_md": "1978 280z FSM/GI General Information.md",
+      "slug": "fig_gi_10_jacking_point",
+      "file": "markdown/1978 280z FSM/diagrams/GI General Information/fig_gi_10_jacking_point.png",
+      "rel_link": "diagrams/GI General Information/fig_gi_10_jacking_point.png",
+      "page_num": 5,
+      "page_label": "GI-5",
+      "fig_id": "Fig. GI-10",
+      "code": "GI201",
+      "caption": "Fig. GI-10 Jacking point",
+      "diagram_type": "component_location",
+      "description": "Side elevation of car illustrating the locations of the rocker panel sill flange notches designated for the factory pantograph jack.",
+      "components": [
+        "Rocker panel sill flange",
+        "Notch",
+        "Pantograph jack head"
+      ],
+      "callouts": {
+        "Notch": "Cutout in rocker panel sill flange for pantograph jack engagement"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Place jack under the position where sill flange is cut for identification. Do not jack up other positions.",
+      "tags": [
+        "jacking point",
+        "pantograph jack",
+        "sill notch",
+        "rocker flange"
+      ],
+      "dimensions": [
+        344,
+        314
+      ]
+    },
+    {
+      "section_title": "GENERAL INFORMATION",
+      "source_md": "1978 280z FSM/GI General Information.md",
+      "slug": "fig_gi_11_wheel_chocks_and_jack",
+      "file": "markdown/1978 280z FSM/diagrams/GI General Information/fig_gi_11_wheel_chocks_and_jack.png",
+      "rel_link": "diagrams/GI General Information/fig_gi_11_wheel_chocks_and_jack.png",
+      "page_num": 5,
+      "page_label": "GI-5",
+      "fig_id": "Fig. GI-11",
+      "code": "GI085, GI086",
+      "caption": "Fig. GI-11 Wheel chocks and jack",
+      "diagram_type": "procedure_step",
+      "description": "Illustration of proper wheel chock placement diagonally opposite the lifted wheel and engagement of the pantograph jack into the sill flange.",
+      "components": [
+        "Wheel chock",
+        "Tire",
+        "Pantograph jack",
+        "Rocker sill flange"
+      ],
+      "callouts": {
+        "GI085": "Wheel chock placed behind diagonally opposite tire",
+        "GI086": "Pantograph jack engaged in sill flange notch"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Never get under the car while supported only by the jack. Always use safety stands to support frame. Block wheels diagonally with wheel chocks.",
+      "tags": [
+        "wheel chocks",
+        "pantograph jack",
+        "jacking safety",
+        "safety stands"
+      ],
+      "dimensions": [
+        361,
+        332
+      ]
+    },
+    {
+      "section_title": "GENERAL INFORMATION",
+      "source_md": "1978 280z FSM/GI General Information.md",
+      "slug": "fig_gi_12_front_jacking_point",
+      "file": "markdown/1978 280z FSM/diagrams/GI General Information/fig_gi_12_front_jacking_point.png",
+      "rel_link": "diagrams/GI General Information/fig_gi_12_front_jacking_point.png",
+      "page_num": 6,
+      "page_label": "GI-6",
+      "fig_id": "Fig. GI-12",
+      "code": "GI202",
+      "caption": "Fig. GI-12 Front jacking point",
+      "diagram_type": "procedure_step",
+      "description": "Front jacking point for garage jack located at the center of the front suspension crossmember.",
+      "components": [
+        "Front suspension member (crossmember)",
+        "Garage jack pad",
+        "Front tension rods",
+        "Transverse links"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Front jacking point is center of front suspension member. Do NOT place jack on center portion of front suspension transverse link.",
+      "tags": [
+        "front jacking point",
+        "garage jack",
+        "front suspension crossmember"
+      ],
+      "dimensions": [
+        373,
+        331
+      ]
+    },
+    {
+      "section_title": "GENERAL INFORMATION",
+      "source_md": "1978 280z FSM/GI General Information.md",
+      "slug": "fig_gi_15_rear_supportable_points",
+      "file": "markdown/1978 280z FSM/diagrams/GI General Information/fig_gi_15_rear_supportable_points.png",
+      "rel_link": "diagrams/GI General Information/fig_gi_15_rear_supportable_points.png",
+      "page_num": 6,
+      "page_label": "GI-6",
+      "fig_id": "Fig. GI-15",
+      "code": "GI205",
+      "caption": "Fig. GI-15 Rear supportable points",
+      "diagram_type": "procedure_step",
+      "description": "Rear supportable points for safety stands located on both sides of the front differential mounting crossmember.",
+      "components": [
+        "Front differential mounting crossmember",
+        "Safety stands (jack stands)",
+        "Rear differential carrier"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Place safety stands on both sides of the front differential mounting crossmember.",
+      "tags": [
+        "rear supportable points",
+        "safety stands",
+        "differential crossmember",
+        "jack stands"
+      ],
+      "dimensions": [
+        361,
+        331
+      ]
+    },
+    {
+      "section_title": "GENERAL INFORMATION",
+      "source_md": "1978 280z FSM/GI General Information.md",
+      "slug": "fig_gi_16_front_towing_point",
+      "file": "markdown/1978 280z FSM/diagrams/GI General Information/fig_gi_16_front_towing_point.png",
+      "rel_link": "diagrams/GI General Information/fig_gi_16_front_towing_point.png",
+      "page_num": 6,
+      "page_label": "GI-6",
+      "fig_id": "Fig. GI-16",
+      "code": "GI306",
+      "caption": "Fig. GI-16 Front towing point",
+      "diagram_type": "procedure_step",
+      "description": "Front towing hook on the front side member showing rope connection and clearance with front bodywork.",
+      "components": [
+        "Front side member",
+        "Front towing hook",
+        "Towing rope",
+        "Front apron area"
+      ],
+      "callouts": {
+        "Warning note": "To prevent damage, remove front apron and front fender front"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "To prevent damage, remove front apron and front fender front before towing. Always pull rope in a straight direction with respect to hook; do not apply lateral force.",
+      "tags": [
+        "front towing point",
+        "towing hook",
+        "towing rope",
+        "apron removal"
+      ],
+      "dimensions": [
+        367,
+        402
+      ]
+    },
+    {
+      "section_title": "GENERAL INFORMATION",
+      "source_md": "1978 280z FSM/GI General Information.md",
+      "slug": "fig_gi_13_rear_jacking_point",
+      "file": "markdown/1978 280z FSM/diagrams/GI General Information/fig_gi_13_rear_jacking_point.png",
+      "rel_link": "diagrams/GI General Information/fig_gi_13_rear_jacking_point.png",
+      "page_num": 6,
+      "page_label": "GI-6",
+      "fig_id": "Fig. GI-13",
+      "code": "GI203",
+      "caption": "Fig. GI-13 Rear jacking point",
+      "diagram_type": "procedure_step",
+      "description": "Rear jacking point for garage jack located directly under the differential gear carrier.",
+      "components": [
+        "Differential gear carrier",
+        "Garage jack pad",
+        "Rear lower transverse links"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Position garage floor jack under center of the differential gear carrier. Place chocks in front of front wheels before lifting.",
+      "tags": [
+        "rear jacking point",
+        "garage jack",
+        "differential carrier"
+      ],
+      "dimensions": [
+        373,
+        323
+      ]
+    },
+    {
+      "section_title": "GENERAL INFORMATION",
+      "source_md": "1978 280z FSM/GI General Information.md",
+      "slug": "fig_gi_14_front_supportable_points",
+      "file": "markdown/1978 280z FSM/diagrams/GI General Information/fig_gi_14_front_supportable_points.png",
+      "rel_link": "diagrams/GI General Information/fig_gi_14_front_supportable_points.png",
+      "page_num": 6,
+      "page_label": "GI-6",
+      "fig_id": "Fig. GI-14",
+      "code": "GI204",
+      "caption": "Fig. GI-14 Front supportable points",
+      "diagram_type": "procedure_step",
+      "description": "Front supportable points for safety stands located under both front side members (frame rails).",
+      "components": [
+        "Front side members (frame rails)",
+        "Safety stands",
+        "Front suspension crossmember"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Support the front of the vehicle with safety stands placed under both front side members.",
+      "tags": [
+        "front supportable points",
+        "safety stands",
+        "jack stands",
+        "front side members",
+        "frame rails"
+      ],
+      "dimensions": [
+        360,
+        340
+      ]
+    },
+    {
+      "section_title": "GENERAL INFORMATION",
+      "source_md": "1978 280z FSM/GI General Information.md",
+      "slug": "fig_gi_17_front_tie_down_hook",
+      "file": "markdown/1978 280z FSM/diagrams/GI General Information/fig_gi_17_front_tie_down_hook.png",
+      "rel_link": "diagrams/GI General Information/fig_gi_17_front_tie_down_hook.png",
+      "page_num": 7,
+      "page_label": "GI-7",
+      "fig_id": "Fig. GI-17",
+      "code": "GI307",
+      "caption": "Fig. GI-17 Front tie-down hook",
+      "diagram_type": "component_location",
+      "description": "Front tie-down hook attached to the underside of the front side member.",
+      "components": [
+        "Front side member",
+        "Front tie-down hook bracket",
+        "Mounting bolts"
+      ],
+      "callouts": {
+        "Front tie-down hook": "Tie-down hook bracket bolted to front side member"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Front tie-down hook attached to either side member is also used as a towing hook.",
+      "tags": [
+        "front tie-down hook",
+        "towing hook",
+        "front side member",
+        "shipping tie-down"
+      ],
+      "dimensions": [
+        379,
+        375
+      ]
+    },
+    {
+      "section_title": "GENERAL INFORMATION",
+      "source_md": "1978 280z FSM/GI General Information.md",
+      "slug": "fig_gi_18_rear_tie_down_hook",
+      "file": "markdown/1978 280z FSM/diagrams/GI General Information/fig_gi_18_rear_tie_down_hook.png",
+      "rel_link": "diagrams/GI General Information/fig_gi_18_rear_tie_down_hook.png",
+      "page_num": 7,
+      "page_label": "GI-7",
+      "fig_id": "Fig. GI-18",
+      "code": "GI308",
+      "caption": "Fig. GI-18 Rear tie-down hook",
+      "diagram_type": "component_location",
+      "description": "Rear tie-down hook attached to the rear body panel underneath the rear bumper.",
+      "components": [
+        "Rear panel",
+        "Rear bumper",
+        "Rear tie-down hook"
+      ],
+      "callouts": {
+        "Rear bumper": "Rear bumper assembly",
+        "Rear tie-down hook": "Tie-down bracket attached to rear panel"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Be sure to remove rear tie-down hooks before delivery of car.",
+      "tags": [
+        "rear tie-down hook",
+        "rear panel",
+        "shipping bracket",
+        "removal before delivery"
+      ],
+      "dimensions": [
+        367,
+        384
+      ]
+    }
+  ],
+  "torques": [],
+  "specs": [
+    {
+      "system": "Fuel System",
+      "item": "Fuel tank capacity",
+      "unit": "liters (US gal, Imper. gal)",
+      "standard": "65 (17 1/8, 14 1/4)",
+      "limit": "",
+      "page_label": "GI-4"
+    },
+    {
+      "system": "Cooling System",
+      "item": "Cooling system capacity (Manual transmission model, includes 0.8 L heater and 0.62 L reservoir tank)",
+      "unit": "liters (US qt, Imper. qt)",
+      "standard": "10.3 (10 7/8, 9 1/8)",
+      "limit": "",
+      "page_label": "GI-4"
+    },
+    {
+      "system": "Cooling System",
+      "item": "Cooling system capacity (Automatic transmission model, includes 0.8 L heater and 0.62 L reservoir tank)",
+      "unit": "liters (US qt, Imper. qt)",
+      "standard": "10.1 (10 5/8, 8 7/8)",
+      "limit": "",
+      "page_label": "GI-4"
+    },
+    {
+      "system": "Engine Lubrication",
+      "item": "Engine oil refill capacity (With oil filter)",
+      "unit": "liters (US qt, Imper. qt)",
+      "standard": "4.5 (4 3/4, 4)",
+      "limit": "",
+      "page_label": "GI-4"
+    },
+    {
+      "system": "Engine Lubrication",
+      "item": "Engine oil refill capacity (Without oil filter)",
+      "unit": "liters (US qt, Imper. qt)",
+      "standard": "4.0 (4 1/4, 3 1/2)",
+      "limit": "",
+      "page_label": "GI-4"
+    },
+    {
+      "system": "Manual Transmission",
+      "item": "Manual transmission gear oil refill capacity (4-speed F4W71B)",
+      "unit": "liters (US pt, Imper. pt)",
+      "standard": "1.7 (3 5/8, 3)",
+      "limit": "",
+      "page_label": "GI-4"
+    },
+    {
+      "system": "Manual Transmission",
+      "item": "Manual transmission gear oil refill capacity (5-speed FS5W71B)",
+      "unit": "liters (US pt, Imper. pt)",
+      "standard": "2.0 (4 1/4, 3 1/2)",
+      "limit": "",
+      "page_label": "GI-4"
+    },
+    {
+      "system": "Automatic Transmission",
+      "item": "Automatic transmission fluid refill capacity (3N71B)",
+      "unit": "liters (US qt, Imper. qt)",
+      "standard": "5.5 (5 7/8, 4 7/8)",
+      "limit": "",
+      "page_label": "GI-4"
+    },
+    {
+      "system": "Final Drive / Differential",
+      "item": "Differential gear oil refill capacity (R200)",
+      "unit": "liters (US pt, Imper. pt)",
+      "standard": "1.3 (2 3/4, 2 1/4)",
+      "limit": "",
+      "page_label": "GI-4"
+    },
+    {
+      "system": "Final Drive / Differential",
+      "item": "Differential gear oil refill capacity (R180)",
+      "unit": "liters (US pt, Imper. pt)",
+      "standard": "1.0 (2 1/8, 1 3/4)",
+      "limit": "",
+      "page_label": "GI-4"
+    },
+    {
+      "system": "Final Drive / Differential",
+      "item": "Differential gear ratio (R200 and R180)",
+      "unit": ":1",
+      "standard": "3.545",
+      "limit": "",
+      "page_label": "GI-2"
+    },
+    {
+      "system": "Fuel System",
+      "item": "Fuel specification / octane rating",
+      "unit": "RON",
+      "standard": "Unleaded or low-lead gasoline with minimum 91 RON (California models: unleaded only)",
+      "limit": "",
+      "page_label": "GI-4"
+    },
+    {
+      "system": "Engine Lubrication",
+      "item": "Gasoline engine oil grade",
+      "unit": "API",
+      "standard": "API SE",
+      "limit": "",
+      "page_label": "GI-5"
+    },
+    {
+      "system": "Manual Transmission / Steering",
+      "item": "Gear oil grade (Transmission and steering)",
+      "unit": "API",
+      "standard": "API GL-4",
+      "limit": "",
+      "page_label": "GI-5"
+    },
+    {
+      "system": "Final Drive / Differential",
+      "item": "Differential gear oil grade",
+      "unit": "API",
+      "standard": "API GL-5",
+      "limit": "",
+      "page_label": "GI-5"
+    },
+    {
+      "system": "Automatic Transmission",
+      "item": "Automatic transmission and power steering fluid",
+      "unit": "Specification",
+      "standard": "Type DEXRON",
+      "limit": "",
+      "page_label": "GI-5"
+    },
+    {
+      "system": "Chassis Lubrication",
+      "item": "Multi-purpose grease",
+      "unit": "NLGI",
+      "standard": "NLGI 2 (Lithium soap base)",
+      "limit": "",
+      "page_label": "GI-5"
+    },
+    {
+      "system": "Brake and Clutch",
+      "item": "Brake and clutch fluid",
+      "unit": "DOT",
+      "standard": "DOT 3",
+      "limit": "",
+      "page_label": "GI-5"
+    },
+    {
+      "system": "Cooling System",
+      "item": "Anti-freeze coolant",
+      "unit": "Type",
+      "standard": "Permanent anti-freeze (Ethylene glycol base)",
+      "limit": "",
+      "page_label": "GI-5"
+    },
+    {
+      "system": "Towing",
+      "item": "Automatic transmission model rear-wheel towing limits",
+      "unit": "Speed / Distance",
+      "standard": "Maximum speed 30 km/h (20 MPH), maximum distance 10 km (6 miles)",
+      "limit": "30 km/h (20 MPH), 10 km (6 miles)",
+      "page_label": "GI-6"
+    }
+  ],
+  "troubleshooting": [],
+  "special_tools": [
+    {
+      "tool_number": "ST00000000",
+      "tool_name": "Special Tool classification prefix",
+      "kent_moore_no": "",
+      "ref": "GI-7",
+      "page_label": "GI-7"
+    },
+    {
+      "tool_number": "KV00000000",
+      "tool_name": "Special Tool classification prefix",
+      "kent_moore_no": "",
+      "ref": "GI-7",
+      "page_label": "GI-7"
+    },
+    {
+      "tool_number": "EM00000000",
+      "tool_name": "Engine Overhauling Machine classification prefix",
+      "kent_moore_no": "",
+      "ref": "GI-7",
+      "page_label": "GI-7"
+    },
+    {
+      "tool_number": "GG00000000",
+      "tool_name": "General Gauge classification prefix",
+      "kent_moore_no": "",
+      "ref": "GI-7",
+      "page_label": "GI-7"
+    },
+    {
+      "tool_number": "LM00000000",
+      "tool_name": "Garage Tool classification prefix",
+      "kent_moore_no": "",
+      "ref": "GI-7",
+      "page_label": "GI-7"
+    },
+    {
+      "tool_number": "HT00000000",
+      "tool_name": "Hand Tool classification prefix",
+      "kent_moore_no": "",
+      "ref": "GI-7",
+      "page_label": "GI-7"
+    }
+  ]
+}

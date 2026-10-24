@@ -1,0 +1,863 @@
+{
+  "section_title": "ENGINE REMOVAL & INSTALLATION",
+  "source_pdf": "1978 280z FSM/ER Engine removal.pdf",
+  "md_path": "1978 280z FSM/ER Engine removal.md",
+  "pages_count": 6,
+  "diagrams": [
+    {
+      "section_title": "ENGINE REMOVAL & INSTALLATION",
+      "source_md": "1978 280z FSM/ER Engine removal.md",
+      "slug": "fig_er_1_releasing_pressure_in_fuel_system",
+      "file": "markdown/1978 280z FSM/diagrams/ER Engine removal/fig_er_1_releasing_pressure_in_fuel_system.png",
+      "rel_link": "diagrams/ER Engine removal/fig_er_1_releasing_pressure_in_fuel_system.png",
+      "page_num": 2,
+      "page_label": "ER-2",
+      "fig_id": "Fig. ER-1",
+      "code": "EF754",
+      "caption": "Fig. ER-1 Releasing pressure in fuel system",
+      "diagram_type": "procedure_step",
+      "description": "Depressurization of the electronic fuel injection system using two jumper wires connected from the battery terminals to the cold start valve connector for 2-3 seconds.",
+      "components": [
+        "Battery",
+        "Cold start valve",
+        "Jumper wires",
+        "Harness connector"
+      ],
+      "callouts": {
+        "Cold start valve": "Cold start valve"
+      },
+      "measurements_and_specs": [
+        "Actuation duration: 2 to 3 seconds"
+      ],
+      "wiring_and_connections": [
+        "Jumper wire between battery (+) terminal and cold start valve connector terminal",
+        "Jumper wire between battery (-) terminal and cold start valve connector terminal"
+      ],
+      "mechanic_notes": "Be careful to keep both terminals separate in order to avoid short circuit.",
+      "tags": [
+        "fuel pressure relief",
+        "cold start valve",
+        "battery",
+        "jumper wire",
+        "EFI"
+      ],
+      "dimensions": [
+        392,
+        393
+      ]
+    },
+    {
+      "section_title": "ENGINE REMOVAL & INSTALLATION",
+      "source_md": "1978 280z FSM/ER Engine removal.md",
+      "slug": "fig_er_2_removing_hood",
+      "file": "markdown/1978 280z FSM/diagrams/ER Engine removal/fig_er_2_removing_hood.png",
+      "rel_link": "diagrams/ER Engine removal/fig_er_2_removing_hood.png",
+      "page_num": 2,
+      "page_label": "ER-2",
+      "fig_id": "Fig. ER-2",
+      "code": "ER365",
+      "caption": "Fig. ER-2 Removing hood",
+      "diagram_type": "procedure_step",
+      "description": "Two mechanics supporting and removing the engine hood from the body hinge mounts.",
+      "components": [
+        "Hood",
+        "Hood hinge",
+        "Fender covers"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Mark hood hinge locations on hood prior to bolt removal to facilitate proper reinstallation; have an assistant help lift the hood.",
+      "tags": [
+        "hood removal",
+        "bodywork",
+        "hood hinge"
+      ],
+      "dimensions": [
+        380,
+        332
+      ]
+    },
+    {
+      "section_title": "ENGINE REMOVAL & INSTALLATION",
+      "source_md": "1978 280z FSM/ER Engine removal.md",
+      "slug": "fig_er_3_removing_air_flow_meter",
+      "file": "markdown/1978 280z FSM/diagrams/ER Engine removal/fig_er_3_removing_air_flow_meter.png",
+      "rel_link": "diagrams/ER Engine removal/fig_er_3_removing_air_flow_meter.png",
+      "page_num": 2,
+      "page_label": "ER-2",
+      "fig_id": "Fig. ER-3",
+      "code": "ER428",
+      "caption": "Fig. ER-3 Removing air flow meter",
+      "diagram_type": "procedure_step",
+      "description": "Removal of the air flow meter and loosening clamps from the air duct boot.",
+      "components": [
+        "Air flow meter",
+        "Air duct",
+        "Hose clamps",
+        "Electrical connector"
+      ],
+      "callouts": {
+        "1": "Air flow meter",
+        "2": "Air duct"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Air flow meter wire harness connector"
+      ],
+      "mechanic_notes": "Loosen clamps securing duct to air flow meter and body before removal.",
+      "tags": [
+        "air flow meter",
+        "air duct",
+        "AFM",
+        "intake system"
+      ],
+      "dimensions": [
+        380,
+        370
+      ]
+    },
+    {
+      "section_title": "ENGINE REMOVAL & INSTALLATION",
+      "source_md": "1978 280z FSM/ER Engine removal.md",
+      "slug": "fig_er_4_removing_canister_and_disconnecting_fuel_hoses",
+      "file": "markdown/1978 280z FSM/diagrams/ER Engine removal/fig_er_4_removing_canister_and_disconnecting_fuel_hoses.png",
+      "rel_link": "diagrams/ER Engine removal/fig_er_4_removing_canister_and_disconnecting_fuel_hoses.png",
+      "page_num": 3,
+      "page_label": "ER-3",
+      "fig_id": "Fig. ER-4",
+      "code": "ER357",
+      "caption": "Fig. ER-4 Removing canister and disconnecting fuel hoses",
+      "diagram_type": "procedure_step",
+      "description": "Removal of the carbon canister and disconnecting fuel return hose and fuel charge hose.",
+      "components": [
+        "Carbon canister",
+        "Hoses from canister",
+        "Fuel return hose",
+        "Fuel charge hose"
+      ],
+      "callouts": {
+        "1": "Hoses from canister",
+        "2": "Fuel return hose",
+        "3": "Fuel charge hose"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Hoses from carbon canister",
+        "Fuel return hose",
+        "Fuel charge (feed) hose"
+      ],
+      "mechanic_notes": "Disconnect canister vapor lines and fuel supply/return lines before lifting engine.",
+      "tags": [
+        "carbon canister",
+        "fuel hose",
+        "fuel return",
+        "fuel charge",
+        "emissions"
+      ],
+      "dimensions": [
+        386,
+        410
+      ]
+    },
+    {
+      "section_title": "ENGINE REMOVAL & INSTALLATION",
+      "source_md": "1978 280z FSM/ER Engine removal.md",
+      "slug": "fig_er_5_disconnecting_accelerator_linkage",
+      "file": "markdown/1978 280z FSM/diagrams/ER Engine removal/fig_er_5_disconnecting_accelerator_linkage.png",
+      "rel_link": "diagrams/ER Engine removal/fig_er_5_disconnecting_accelerator_linkage.png",
+      "page_num": 3,
+      "page_label": "ER-3",
+      "fig_id": "Fig. ER-5",
+      "code": "ER358",
+      "caption": "Fig. ER-5 Disconnecting accelerator linkage",
+      "diagram_type": "procedure_step",
+      "description": "Disconnecting the mechanical accelerator linkage rod and electrical harness plug for the fuel injectors.",
+      "components": [
+        "Accelerator linkage",
+        "Fuel injector connector",
+        "Intake manifold",
+        "Fuel rail"
+      ],
+      "callouts": {
+        "1": "Accelerator linkage",
+        "2": "Fuel injector connector"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Fuel injector harness connector"
+      ],
+      "mechanic_notes": "Disconnect mechanical throttle rod linkage and injector sub-harness connector.",
+      "tags": [
+        "accelerator linkage",
+        "fuel injector connector",
+        "EFI harness",
+        "throttle"
+      ],
+      "dimensions": [
+        392,
+        419
+      ]
+    },
+    {
+      "section_title": "ENGINE REMOVAL & INSTALLATION",
+      "source_md": "1978 280z FSM/ER Engine removal.md",
+      "slug": "fig_er_6_disconnecting_wire_for_throttle_valve_switch_and_bcdd",
+      "file": "markdown/1978 280z FSM/diagrams/ER Engine removal/fig_er_6_disconnecting_wire_for_throttle_valve_switch_and_bcdd.png",
+      "rel_link": "diagrams/ER Engine removal/fig_er_6_disconnecting_wire_for_throttle_valve_switch_and_bcdd.png",
+      "page_num": 3,
+      "page_label": "ER-3",
+      "fig_id": "Fig. ER-6",
+      "code": "ER429",
+      "caption": "Fig. ER-6 Disconnecting wire for throttle valve switch and B.C.D.D. solenoid valve",
+      "diagram_type": "procedure_step",
+      "description": "Disconnecting wire connectors for throttle valve switch, B.C.D.D. solenoid valve, and distributor condenser.",
+      "components": [
+        "Throttle valve switch",
+        "B.C.D.D. connector",
+        "Distributor condenser connector",
+        "Distributor"
+      ],
+      "callouts": {
+        "1": "Throttle valve switch",
+        "2": "B.C.D.D. connector",
+        "3": "Distributor condenser connector"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Throttle valve switch wiring connector",
+        "B.C.D.D. solenoid valve connector",
+        "Distributor condenser connector"
+      ],
+      "mechanic_notes": "Unplug the three connectors near the throttle chamber and distributor.",
+      "tags": [
+        "throttle valve switch",
+        "BCDD",
+        "distributor condenser",
+        "wiring harness"
+      ],
+      "dimensions": [
+        373,
+        410
+      ]
+    },
+    {
+      "section_title": "ENGINE REMOVAL & INSTALLATION",
+      "source_md": "1978 280z FSM/ER Engine removal.md",
+      "slug": "fig_er_7_disconnecting_wire_for_block_terminal",
+      "file": "markdown/1978 280z FSM/diagrams/ER Engine removal/fig_er_7_disconnecting_wire_for_block_terminal.png",
+      "rel_link": "diagrams/ER Engine removal/fig_er_7_disconnecting_wire_for_block_terminal.png",
+      "page_num": 3,
+      "page_label": "ER-3",
+      "fig_id": "Fig. ER-7",
+      "code": "ER359",
+      "caption": "Fig. ER-7 Disconnecting wire for block terminal",
+      "diagram_type": "procedure_step",
+      "description": "Disconnecting high tension spark wire between coil and distributor and the distributor harness block terminal.",
+      "components": [
+        "High tension cable",
+        "Block terminal",
+        "Ignition coil",
+        "Distributor"
+      ],
+      "callouts": {
+        "1": "High tension cable",
+        "2": "Block terminal"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "High tension ignition coil lead",
+        "Distributor harness block terminal connector"
+      ],
+      "mechanic_notes": "Disconnect high-tension lead at distributor cap and disconnect harness block terminal connector.",
+      "tags": [
+        "high tension wire",
+        "block terminal",
+        "distributor",
+        "ignition coil"
+      ],
+      "dimensions": [
+        379,
+        367
+      ]
+    },
+    {
+      "section_title": "ENGINE REMOVAL & INSTALLATION",
+      "source_md": "1978 280z FSM/ER Engine removal.md",
+      "slug": "fig_er_8_disconnecting_wire_for_cold_start_valve_and_air_regulator",
+      "file": "markdown/1978 280z FSM/diagrams/ER Engine removal/fig_er_8_disconnecting_wire_for_cold_start_valve_and_air_regulator.png",
+      "rel_link": "diagrams/ER Engine removal/fig_er_8_disconnecting_wire_for_cold_start_valve_and_air_regulator.png",
+      "page_num": 3,
+      "page_label": "ER-3",
+      "fig_id": "Fig. ER-8",
+      "code": "ER360",
+      "caption": "Fig. ER-8 Disconnecting wire for cold start valve and air regulator",
+      "diagram_type": "procedure_step",
+      "description": "Disconnecting electrical connectors for cold start valve and auxiliary air regulator.",
+      "components": [
+        "Cold start valve",
+        "Air regulator",
+        "Intake manifold"
+      ],
+      "callouts": {
+        "1": "Cold start valve connector",
+        "2": "Air regulator connector"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Cold start valve electrical harness connector",
+        "Air regulator electrical harness connector"
+      ],
+      "mechanic_notes": "Release wire retaining clips on electrical plugs before pulling connectors.",
+      "tags": [
+        "cold start valve",
+        "air regulator",
+        "connectors",
+        "intake manifold"
+      ],
+      "dimensions": [
+        379,
+        436
+      ]
+    },
+    {
+      "section_title": "ENGINE REMOVAL & INSTALLATION",
+      "source_md": "1978 280z FSM/ER Engine removal.md",
+      "slug": "fig_er_9_disconnecting_wire_for_thermostat_housing",
+      "file": "markdown/1978 280z FSM/diagrams/ER Engine removal/fig_er_9_disconnecting_wire_for_thermostat_housing.png",
+      "rel_link": "diagrams/ER Engine removal/fig_er_9_disconnecting_wire_for_thermostat_housing.png",
+      "page_num": 3,
+      "page_label": "ER-3",
+      "fig_id": "Fig. ER-9",
+      "code": "ER361",
+      "caption": "Fig. ER-9 Disconnecting wire for thermostat housing",
+      "diagram_type": "procedure_step",
+      "description": "Disconnecting electrical sensors and switches located on the front thermostat housing.",
+      "components": [
+        "Thermostat housing",
+        "Thermal transmitter connector",
+        "Thermotime switch connector",
+        "Water temperature sensor connector"
+      ],
+      "callouts": {
+        "1": "Thermal transmitter connector",
+        "2": "Thermotime switch connector",
+        "3": "Water temperature sensor connector"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Thermal transmitter wire connector",
+        "Thermotime switch harness connector",
+        "Water temperature sensor harness connector"
+      ],
+      "mechanic_notes": "Note wire harness connector positions: thermal transmitter (1), thermotime switch (2), water temperature sensor (3).",
+      "tags": [
+        "thermostat housing",
+        "thermal transmitter",
+        "thermotime switch",
+        "water temperature sensor"
+      ],
+      "dimensions": [
+        354,
+        410
+      ]
+    },
+    {
+      "section_title": "ENGINE REMOVAL & INSTALLATION",
+      "source_md": "1978 280z FSM/ER Engine removal.md",
+      "slug": "fig_er_10_disconnecting_heater_inlet_and_outlet_hoses",
+      "file": "markdown/1978 280z FSM/diagrams/ER Engine removal/fig_er_10_disconnecting_heater_inlet_and_outlet_hoses.png",
+      "rel_link": "diagrams/ER Engine removal/fig_er_10_disconnecting_heater_inlet_and_outlet_hoses.png",
+      "page_num": 3,
+      "page_label": "ER-3",
+      "fig_id": "Fig. ER-10",
+      "code": "ER430",
+      "caption": "Fig. ER-10 Disconnecting heater inlet and outlet hoses",
+      "diagram_type": "procedure_step",
+      "description": "Disconnecting heater core coolant inlet and outlet hoses from engine fittings.",
+      "components": [
+        "Heater inlet hose",
+        "Heater outlet hose",
+        "Hose clamps"
+      ],
+      "callouts": {
+        "1": "Heater inlet hose",
+        "2": "Heater outlet hose"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Heater core inlet coolant hose",
+        "Heater core outlet coolant hose"
+      ],
+      "mechanic_notes": "Loosen hose clamps and slide heater hoses off metal pipe nipples.",
+      "tags": [
+        "heater hose",
+        "cooling system",
+        "heater inlet",
+        "heater outlet"
+      ],
+      "dimensions": [
+        361,
+        419
+      ]
+    },
+    {
+      "section_title": "ENGINE REMOVAL & INSTALLATION",
+      "source_md": "1978 280z FSM/ER Engine removal.md",
+      "slug": "fig_er_11_disconnecting_wire_for_oil_pressure_sending_unit",
+      "file": "markdown/1978 280z FSM/diagrams/ER Engine removal/fig_er_11_disconnecting_wire_for_oil_pressure_sending_unit.png",
+      "rel_link": "diagrams/ER Engine removal/fig_er_11_disconnecting_wire_for_oil_pressure_sending_unit.png",
+      "page_num": 3,
+      "page_label": "ER-3",
+      "fig_id": "Fig. ER-11",
+      "code": "ER431",
+      "caption": "Fig. ER-11 Disconnecting wire for oil pressure sending unit",
+      "diagram_type": "procedure_step",
+      "description": "Disconnecting terminal lead wire from the oil pressure sending unit on the engine block.",
+      "components": [
+        "Oil pressure sending unit",
+        "Engine block",
+        "Lead wire"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Oil pressure sending unit electrical terminal wire"
+      ],
+      "mechanic_notes": "Pull off terminal wire connection from gauge sending unit under the distributor.",
+      "tags": [
+        "oil pressure sending unit",
+        "oil sender",
+        "gauge sender",
+        "engine block"
+      ],
+      "dimensions": [
+        373,
+        357
+      ]
+    },
+    {
+      "section_title": "ENGINE REMOVAL & INSTALLATION",
+      "source_md": "1978 280z FSM/ER Engine removal.md",
+      "slug": "fig_er_12_removing_clutch_operating_cylinder",
+      "file": "markdown/1978 280z FSM/diagrams/ER Engine removal/fig_er_12_removing_clutch_operating_cylinder.png",
+      "rel_link": "diagrams/ER Engine removal/fig_er_12_removing_clutch_operating_cylinder.png",
+      "page_num": 4,
+      "page_label": "ER-4",
+      "fig_id": "Fig. ER-12",
+      "code": "ER364",
+      "caption": "Fig. ER-12 Removing clutch operating cylinder",
+      "diagram_type": "procedure_step",
+      "description": "Removal of clutch operating cylinder from clutch housing, speedometer cable disconnection, and back-up lamp switch wiring disconnection.",
+      "components": [
+        "Clutch operating cylinder",
+        "Speedometer cable",
+        "Wire for back-up lamp switch",
+        "Clutch housing",
+        "Transmission rear extension"
+      ],
+      "callouts": {
+        "1": "Clutch operating cylinder (Tightening torque: 2.5 to 3.0 kg-m / 18 to 22 ft-lb)",
+        "2": "Speedometer cable",
+        "3": "Wire for back-up lamp switch"
+      },
+      "measurements_and_specs": [
+        "Clutch operating cylinder tightening torque: 2.5 to 3.0 kg-m (18 to 22 ft-lb)"
+      ],
+      "wiring_and_connections": [
+        "Back-up lamp switch electrical wire connector",
+        "Speedometer mechanical cable"
+      ],
+      "mechanic_notes": "Unbolt clutch operating slave cylinder without disconnecting hydraulic line to avoid bleeding; disconnect speedometer cable and back-up lamp switch harness.",
+      "tags": [
+        "clutch slave cylinder",
+        "operating cylinder",
+        "speedometer cable",
+        "back-up lamp switch",
+        "transmission"
+      ],
+      "dimensions": [
+        379,
+        467
+      ]
+    },
+    {
+      "section_title": "ENGINE REMOVAL & INSTALLATION",
+      "source_md": "1978 280z FSM/ER Engine removal.md",
+      "slug": "fig_er_13_disconnecting_exhaust_front_tube",
+      "file": "markdown/1978 280z FSM/diagrams/ER Engine removal/fig_er_13_disconnecting_exhaust_front_tube.png",
+      "rel_link": "diagrams/ER Engine removal/fig_er_13_disconnecting_exhaust_front_tube.png",
+      "page_num": 4,
+      "page_label": "ER-4",
+      "fig_id": "Fig. ER-13",
+      "code": "ER192",
+      "caption": "Fig. ER-13 Disconnecting exhaust front tube",
+      "diagram_type": "procedure_step",
+      "description": "Unbolting exhaust front pipe flange nuts from the exhaust manifold with a wrench.",
+      "components": [
+        "Exhaust front tube",
+        "Exhaust manifold flange",
+        "Flange nuts"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tightening torque: 4.6 to 6.1 kg-m (33 to 44 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Tightening torque: 4.6 to 6.1 kg-m (33 to 44 ft-lb). Allow exhaust to cool completely before removal.",
+      "tags": [
+        "exhaust manifold",
+        "front tube",
+        "exhaust flange",
+        "torque spec"
+      ],
+      "dimensions": [
+        372,
+        392
+      ]
+    },
+    {
+      "section_title": "ENGINE REMOVAL & INSTALLATION",
+      "source_md": "1978 280z FSM/ER Engine removal.md",
+      "slug": "fig_er_14_removing_front_tube_bracket",
+      "file": "markdown/1978 280z FSM/diagrams/ER Engine removal/fig_er_14_removing_front_tube_bracket.png",
+      "rel_link": "diagrams/ER Engine removal/fig_er_14_removing_front_tube_bracket.png",
+      "page_num": 4,
+      "page_label": "ER-4",
+      "fig_id": "Fig. ER-14",
+      "code": "ER253",
+      "caption": "Fig. ER-14 Removing front tube bracket",
+      "diagram_type": "procedure_step",
+      "description": "Removing the bracket securing the exhaust front tube to the transmission rear extension housing.",
+      "components": [
+        "Front tube bracket",
+        "Exhaust front tube",
+        "Rear extension housing",
+        "Mounting bolts"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Hold front tube end up with a thread or wire to prevent tube from falling after bracket removal.",
+      "tags": [
+        "front tube bracket",
+        "exhaust support",
+        "rear extension housing"
+      ],
+      "dimensions": [
+        373,
+        367
+      ]
+    },
+    {
+      "section_title": "ENGINE REMOVAL & INSTALLATION",
+      "source_md": "1978 280z FSM/ER Engine removal.md",
+      "slug": "fig_er_15_removing_insulator",
+      "file": "markdown/1978 280z FSM/diagrams/ER Engine removal/fig_er_15_removing_insulator.png",
+      "rel_link": "diagrams/ER Engine removal/fig_er_15_removing_insulator.png",
+      "page_num": 4,
+      "page_label": "ER-4",
+      "fig_id": "Fig. ER-15",
+      "code": "ER276",
+      "caption": "Fig. ER-15 Removing insulator",
+      "diagram_type": "procedure_step",
+      "description": "Unbolting floor tunnel heat insulator shield and resting it onto the exhaust tube.",
+      "components": [
+        "Heat insulator",
+        "Exhaust tube",
+        "Floor tunnel underside",
+        "Fastening bolts"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove insulator securing bolts and let heat shield rest on exhaust pipe to clear transmission crossmember.",
+      "tags": [
+        "heat insulator",
+        "exhaust shield",
+        "transmission tunnel"
+      ],
+      "dimensions": [
+        367,
+        349
+      ]
+    },
+    {
+      "section_title": "ENGINE REMOVAL & INSTALLATION",
+      "source_md": "1978 280z FSM/ER Engine removal.md",
+      "slug": "fig_er_16_removing_propeller_shaft",
+      "file": "markdown/1978 280z FSM/diagrams/ER Engine removal/fig_er_16_removing_propeller_shaft.png",
+      "rel_link": "diagrams/ER Engine removal/fig_er_16_removing_propeller_shaft.png",
+      "page_num": 4,
+      "page_label": "ER-4",
+      "fig_id": "Fig. ER-16",
+      "code": "ER193",
+      "caption": "Fig. ER-16 Removing propeller shaft",
+      "diagram_type": "procedure_step",
+      "description": "Unbolting the four propeller shaft companion flange bolts at the differential carrier.",
+      "components": [
+        "Propeller shaft",
+        "Companion flange",
+        "Differential carrier",
+        "Flange bolts and nuts"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tightening torque: 3.5 to 4.5 kg-m (25 to 33 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Put match marks on both shaft and companion flange so shaft can be reinstalled in original balance position. Plug rear extension housing to prevent oil leakage. Tightening torque: 3.5 to 4.5 kg-m (25 to 33 ft-lb).",
+      "tags": [
+        "propeller shaft",
+        "driveshaft",
+        "companion flange",
+        "differential",
+        "torque spec"
+      ],
+      "dimensions": [
+        367,
+        388
+      ]
+    },
+    {
+      "section_title": "ENGINE REMOVAL & INSTALLATION",
+      "source_md": "1978 280z FSM/ER Engine removal.md",
+      "slug": "fig_er_17_removing_rear_engine_mounting_member",
+      "file": "markdown/1978 280z FSM/diagrams/ER Engine removal/fig_er_17_removing_rear_engine_mounting_member.png",
+      "rel_link": "diagrams/ER Engine removal/fig_er_17_removing_rear_engine_mounting_member.png",
+      "page_num": 4,
+      "page_label": "ER-4",
+      "fig_id": "Fig. ER-17",
+      "code": "ER194",
+      "caption": "Fig. ER-17 Removing rear engine mounting member",
+      "diagram_type": "procedure_step",
+      "description": "Unbolting the rear engine mounting crossmember bolts from the vehicle body frame rails.",
+      "components": [
+        "Rear engine mounting member",
+        "Body frame rails",
+        "Mounting bolts",
+        "Transmission jack"
+      ],
+      "callouts": {
+        "A": "Rear engine mounting member to body bolts"
+      },
+      "measurements_and_specs": [
+        "Tightening torque \u24b6: 3.2 to 4.3 kg-m (23 to 31 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Support transmission with jack before loosening crossmember bolts. Tightening torque \u24b6: 3.2 to 4.3 kg-m (23 to 31 ft-lb).",
+      "tags": [
+        "rear engine mounting member",
+        "transmission crossmember",
+        "body bolts",
+        "torque spec"
+      ],
+      "dimensions": [
+        373,
+        405
+      ]
+    },
+    {
+      "section_title": "ENGINE REMOVAL & INSTALLATION",
+      "source_md": "1978 280z FSM/ER Engine removal.md",
+      "slug": "fig_er_18_removing_engine",
+      "file": "markdown/1978 280z FSM/diagrams/ER Engine removal/fig_er_18_removing_engine.png",
+      "rel_link": "diagrams/ER Engine removal/fig_er_18_removing_engine.png",
+      "page_num": 5,
+      "page_label": "ER-5",
+      "fig_id": "Fig. ER-18",
+      "code": "ER255",
+      "caption": "Fig. ER-18 Removing engine",
+      "diagram_type": "procedure_step",
+      "description": "Engine and transmission assembly hoisted out of the engine compartment as a single unit using an overhead crane and sling chains.",
+      "components": [
+        "Engine assembly",
+        "Transmission assembly",
+        "Engine slingers",
+        "Hoist chain and hook",
+        "Engine compartment"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Raise engine and transmission together at an angle to clear front body and radiator core support. Be careful not to knock against adjacent body parts.",
+      "tags": [
+        "engine removal",
+        "engine hoist",
+        "engine slinger",
+        "crane",
+        "powertrain"
+      ],
+      "dimensions": [
+        596,
+        626
+      ]
+    },
+    {
+      "section_title": "ENGINE REMOVAL & INSTALLATION",
+      "source_md": "1978 280z FSM/ER Engine removal.md",
+      "slug": "fig_er_19_sectional_view_of_front_engine_mounting_and_front_insulator",
+      "file": "markdown/1978 280z FSM/diagrams/ER Engine removal/fig_er_19_sectional_view_of_front_engine_mounting_and_front_insulator.png",
+      "rel_link": "diagrams/ER Engine removal/fig_er_19_sectional_view_of_front_engine_mounting_and_front_insulator.png",
+      "page_num": 5,
+      "page_label": "ER-5",
+      "fig_id": "Fig. ER-19",
+      "code": "ER196",
+      "caption": "Fig. ER-19 Sectional view of front engine mounting, and front insulator",
+      "diagram_type": "alignment_orientation",
+      "description": "Sectional view of front engine mounting brackets and suspension member, showing torque specifications and top/bottom orientation of rubber insulators.",
+      "components": [
+        "Left front engine mounting bracket",
+        "Right front engine mounting bracket",
+        "Front engine mounting insulator",
+        "Suspension member crossmember",
+        "Insulator mounting studs and nuts"
+      ],
+      "callouts": {
+        "A": "Front engine mounting bracket to engine bolt (T: 3.1 to 4.1 kg-m / 22 to 30 ft-lb)",
+        "B": "Front insulator to engine mounting bracket nut (T: 1.6 to 2.1 kg-m / 12 to 15 ft-lb)",
+        "C": "Front insulator to suspension member nut (T: 3.2 to 4.3 kg-m / 23 to 31 ft-lb)",
+        "Upper": "Upper direction of insulator",
+        "Lower": "Lower direction of insulator"
+      },
+      "measurements_and_specs": [
+        "Tightening torque \u24b6 (bracket to engine): 3.1 to 4.1 kg-m (22 to 30 ft-lb)",
+        "Tightening torque \u24b7 (insulator to bracket): 1.6 to 2.1 kg-m (12 to 15 ft-lb)",
+        "Tightening torque \u24b8 (insulator to suspension member): 3.2 to 4.3 kg-m (23 to 31 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Left and right front insulators are interchangeable, but pay careful attention to their upper and lower orientation. Right side bracket shape differs from left side bracket.",
+      "tags": [
+        "front engine mount",
+        "motor mount",
+        "front insulator",
+        "suspension crossmember",
+        "torque specs",
+        "orientation"
+      ],
+      "dimensions": [
+        756,
+        621
+      ]
+    },
+    {
+      "section_title": "ENGINE REMOVAL & INSTALLATION",
+      "source_md": "1978 280z FSM/ER Engine removal.md",
+      "slug": "fig_er_20_rear_engine_mounting_and_rear_insulator",
+      "file": "markdown/1978 280z FSM/diagrams/ER Engine removal/fig_er_20_rear_engine_mounting_and_rear_insulator.png",
+      "rel_link": "diagrams/ER Engine removal/fig_er_20_rear_engine_mounting_and_rear_insulator.png",
+      "page_num": 6,
+      "page_label": "ER-6",
+      "fig_id": "Fig. ER-20",
+      "code": "ER366",
+      "caption": "Fig. ER-20 Rear engine mounting and rear insulator",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of the transmission rear extension mount, rubber insulator, crossmember member, bushings, and attachment hardware.",
+      "components": [
+        "Rear engine mounting insulator",
+        "Rear engine mounting member",
+        "Insulator attachment bolts",
+        "Through bolt",
+        "Rubber bushings and washers",
+        "Lock washers and nuts"
+      ],
+      "callouts": {
+        "A": "Tightening torque of bolts or nuts: 3.2 to 4.3 kg-m (23 to 31 ft-lb)",
+        "Front": "Forward direction arrow"
+      },
+      "measurements_and_specs": [
+        "Tightening torque \u24b6 of bolts or nuts: 3.2 to 4.3 kg-m (23 to 31 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Note forward orientation arrow for rear engine mounting member and insulator. Tighten bolts and nuts to 3.2 to 4.3 kg-m (23 to 31 ft-lb).",
+      "tags": [
+        "rear engine mount",
+        "transmission mount",
+        "rear insulator",
+        "crossmember",
+        "torque spec",
+        "exploded view"
+      ],
+      "dimensions": [
+        621,
+        554
+      ]
+    }
+  ],
+  "torques": [
+    {
+      "component": "Rear engine mounting to body",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.2 to 4.3 (23 to 31)",
+      "page_label": "ER-6"
+    },
+    {
+      "component": "Rear insulator to rear engine mounting member",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.2 to 4.3 (23 to 31)",
+      "page_label": "ER-6"
+    },
+    {
+      "component": "Rear insulator to transmission",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.2 to 4.3 (23 to 31)",
+      "page_label": "ER-6"
+    },
+    {
+      "component": "Front engine mounting bracket to engine",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.1 to 4.1 (22 to 30)",
+      "page_label": "ER-6"
+    },
+    {
+      "component": "Front insulator to engine mounting bracket",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.6 to 2.1 (12 to 15)",
+      "page_label": "ER-6"
+    },
+    {
+      "component": "Front insulator to suspension member",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.2 to 4.3 (23 to 31)",
+      "page_label": "ER-6"
+    },
+    {
+      "component": "Clutch operating cylinder to clutch housing",
+      "unit": "kg-m (ft-lb)",
+      "value": "2.5 to 3.0 (18 to 22)",
+      "page_label": "ER-6"
+    },
+    {
+      "component": "Front tube to exhaust manifold",
+      "unit": "kg-m (ft-lb)",
+      "value": "4.6 to 6.1 (33 to 44)",
+      "page_label": "ER-6"
+    },
+    {
+      "component": "Propeller shaft to companion flange",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.5 to 4.5 (25 to 33)",
+      "page_label": "ER-6"
+    }
+  ],
+  "specs": [
+    {
+      "system": "Fuel System",
+      "item": "Fuel pressure relief duration via cold start valve",
+      "unit": "seconds",
+      "standard": "2 to 3",
+      "limit": "-",
+      "page_label": "ER-2"
+    },
+    {
+      "system": "Engine Mounting",
+      "item": "Front and rear engine insulator rubber condition",
+      "unit": "-",
+      "standard": "No damage, deterioration, or separation of bonded surface; free from oil or grease",
+      "limit": "Replace if damaged, deteriorated, or separated",
+      "page_label": "ER-5"
+    }
+  ],
+  "troubleshooting": [],
+  "special_tools": []
+}

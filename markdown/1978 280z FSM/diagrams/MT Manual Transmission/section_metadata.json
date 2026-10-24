@@ -1,0 +1,3597 @@
+{
+  "section_title": "MANUAL TRANSMISSION",
+  "source_pdf": "1978 280z FSM/MT Manual Transmission.pdf",
+  "md_path": "1978 280z FSM/MT Manual Transmission.md",
+  "pages_count": 22,
+  "diagrams": [
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_1_f4w71b_transmission",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_1_f4w71b_transmission.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_1_f4w71b_transmission.png",
+      "page_num": 2,
+      "page_label": "MT-2",
+      "fig_id": "Fig. MT-1",
+      "code": "TM126A",
+      "caption": "Fig. MT-1 F4W71B transmission",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross-sectional longitudinal cutaway view of the complete F4W71B 4-speed manual transmission assembly, detailing the main drive gear, synchronizers, mainshaft gears, countershaft cluster, reverse idler gear, striking rod linkage, adapter plate, and housing structure.",
+      "components": [
+        "Front cover",
+        "Main drive gear",
+        "Baulk ring",
+        "Coupling sleeve",
+        "Shifting insert",
+        "Synchronizer hub, 3rd & 4th",
+        "3rd main gear",
+        "2nd main gear",
+        "Needle bearing",
+        "Adapter plate",
+        "1st main gear",
+        "Bearing retainer",
+        "Reverse main gear",
+        "Rear extension housing",
+        "Transmission case",
+        "Counter drive gear",
+        "Counter gear",
+        "Reverse idler gear",
+        "Reverse counter gear",
+        "Reverse idler shaft",
+        "Mainshaft"
+      ],
+      "callouts": {
+        "1": "Front cover",
+        "2": "Main drive gear",
+        "3": "Baulk ring",
+        "4": "Coupling sleeve",
+        "5": "Shifting insert",
+        "6": "Synchronizer hub, 3rd & 4th",
+        "7": "3rd main gear",
+        "8": "2nd main gear",
+        "9": "Needle bearing",
+        "10": "Adapter plate",
+        "11": "1st main gear",
+        "12": "Bearing retainer",
+        "13": "Reverse main gear",
+        "14": "Rear extension housing",
+        "15": "Transmission case",
+        "16": "Counter drive gear",
+        "17": "Counter gear",
+        "18": "Reverse idler gear",
+        "19": "Reverse counter gear",
+        "20": "Reverse idler shaft",
+        "21": "Mainshaft"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Main drive gear meshes with counter drive gear; mainshaft is piloted in the main drive gear by needle bearings. Adapter plate supports center bearings.",
+      "tags": [
+        "F4W71B",
+        "4-speed transmission",
+        "cutaway",
+        "geartrain",
+        "mainshaft",
+        "countershaft",
+        "cross-section"
+      ],
+      "dimensions": [
+        1069,
+        795
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_2_f4w71b_transmission_case_components",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_2_f4w71b_transmission_case_components.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_2_f4w71b_transmission_case_components.png",
+      "page_num": 3,
+      "page_label": "MT-3",
+      "fig_id": "Fig. MT-2",
+      "code": "TM858",
+      "caption": "Fig. MT-2 F4W71B transmission case components",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view diagram of the transmission case, adapter plate, bearing retainer, rear extension housing, front cover, gaskets, and attaching hardware.",
+      "components": [
+        "Front cover",
+        "Transmission case",
+        "Adapter plate",
+        "Bearing retainer",
+        "Rear extension housing",
+        "Front cover gasket",
+        "Rear extension housing gasket/sealant",
+        "Dowel pins"
+      ],
+      "callouts": {
+        "1": "Front cover",
+        "2": "Transmission case",
+        "3": "Adapter plate",
+        "4": "Bearing retainer",
+        "5": "Rear extension housing"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Pay attention to dowel pin alignment between transmission case, adapter plate, and rear extension housing.",
+      "tags": [
+        "F4W71B",
+        "case components",
+        "exploded view",
+        "transmission case",
+        "rear extension",
+        "adapter plate"
+      ],
+      "dimensions": [
+        959,
+        669
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_3_f4w71b_transmission_gear_components",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_3_f4w71b_transmission_gear_components.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_3_f4w71b_transmission_gear_components.png",
+      "page_num": 3,
+      "page_label": "MT-3",
+      "fig_id": "Fig. MT-3",
+      "code": "TM857",
+      "caption": "Fig. MT-3 F4W71B transmission gear components",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view illustrating the gear train components of the F4W71B 4-speed transmission, including main drive gear, mainshaft gears, synchronizer assemblies, countershaft assembly, and reverse idler.",
+      "components": [
+        "Main drive gear",
+        "Baulk ring",
+        "Synchronizer hub, 3rd & 4th",
+        "Shifting insert spring",
+        "Shifting insert",
+        "Coupling sleeve",
+        "3rd main gear",
+        "Mainshaft",
+        "2nd main gear",
+        "1st main gear",
+        "1st gear spacer",
+        "Reverse main gear",
+        "Counter drive gear",
+        "Counter gear",
+        "Reverse counter gear",
+        "Reverse idler shaft",
+        "Reverse idler gear"
+      ],
+      "callouts": {
+        "1": "Main drive gear",
+        "2": "Baulk ring",
+        "3": "Synchronizer hub, 3rd & 4th",
+        "4": "Shifting insert spring",
+        "5": "Shifting insert",
+        "6": "Coupling sleeve",
+        "7": "3rd main gear",
+        "8": "Mainshaft",
+        "9": "2nd main gear",
+        "10": "1st main gear",
+        "11": "1st gear spacer",
+        "12": "Reverse main gear",
+        "13": "Counter drive gear",
+        "14": "Counter gear",
+        "15": "Reverse counter gear",
+        "16": "Reverse idler shaft",
+        "17": "Reverse idler gear"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Mainshaft nut should be discarded and replaced upon disassembly. Note correct order and orientation of synchronizer insert springs and shifting inserts.",
+      "tags": [
+        "F4W71B",
+        "gear components",
+        "geartrain",
+        "exploded view",
+        "synchronizer",
+        "mainshaft",
+        "countershaft"
+      ],
+      "dimensions": [
+        1095,
+        789
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_4_f4w71b_transmission_shift_control_components",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_4_f4w71b_transmission_shift_control_components.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_4_f4w71b_transmission_shift_control_components.png",
+      "page_num": 4,
+      "page_label": "MT-4",
+      "fig_id": "Fig. MT-4",
+      "code": "TM045A",
+      "caption": "Fig. MT-4 F4W71B transmission shift control components",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view diagram of F4W71B internal shift linkage components, including striking lever, guide, striking rod, shift forks, fork rods, check balls, check springs, interlock balls, and control lever assembly.",
+      "components": [
+        "Striking lever",
+        "Lock pin",
+        "O-ring",
+        "Striking guide",
+        "Oil seal",
+        "Striking rod",
+        "E-ring",
+        "Stopper guide pin",
+        "Return spring plunger",
+        "Return spring",
+        "Reverse check spring",
+        "Return spring plug",
+        "Check ball plug",
+        "Check spring",
+        "Check ball",
+        "Interlock ball",
+        "Retaining pin",
+        "1st & 2nd shift fork",
+        "1st & 2nd fork rod",
+        "3rd & 4th fork rod",
+        "Reverse fork rod",
+        "3rd & 4th shift fork",
+        "Reverse shift fork",
+        "Control lever",
+        "Control lever bushing",
+        "Control lever pin",
+        "Control lever bushing"
+      ],
+      "callouts": {
+        "1": "Striking lever",
+        "2": "Lock pin",
+        "3": "O-ring",
+        "4": "Striking guide",
+        "5": "Oil seal",
+        "6": "Striking rod",
+        "7": "E-ring",
+        "8": "Stopper guide pin",
+        "9": "Return spring plunger",
+        "10": "Return spring",
+        "11": "Reverse check spring",
+        "12": "Return spring plug",
+        "13": "Check ball plug",
+        "14": "Check spring",
+        "15": "Check ball",
+        "16": "Interlock ball",
+        "17": "Retaining pin",
+        "18": "1st & 2nd shift fork",
+        "19": "1st & 2nd fork rod",
+        "20": "3rd & 4th fork rod",
+        "21": "Reverse fork rod",
+        "22": "3rd & 4th shift fork",
+        "23": "Reverse shift fork",
+        "24": "Control lever",
+        "25": "Control lever bushing",
+        "26": "Control lever pin",
+        "27": "Control lever bushing"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Note orientation of check balls and interlock balls in the adapter plate to prevent dual engagement.",
+      "tags": [
+        "F4W71B",
+        "shift control",
+        "fork rods",
+        "shift forks",
+        "interlock balls",
+        "striking rod",
+        "exploded view"
+      ],
+      "dimensions": [
+        1098,
+        693
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_5_removing_control_lever",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_5_removing_control_lever.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_5_removing_control_lever.png",
+      "page_num": 4,
+      "page_label": "MT-4",
+      "fig_id": "Fig. MT-5",
+      "code": "TM335",
+      "caption": "Fig. MT-5 Removing control lever",
+      "diagram_type": "procedure_step",
+      "description": "Illustration showing removal of the transmission gearshift control lever by removing the E-ring and pin from the striking rod guide.",
+      "components": [
+        "Control lever",
+        "Striking rod guide",
+        "E-ring",
+        "Control lever pin"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Place transmission control lever in neutral position before removing E-ring and control lever pin.",
+      "tags": [
+        "control lever",
+        "removal",
+        "striking rod guide",
+        "shifter"
+      ],
+      "dimensions": [
+        352,
+        286
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_6_bottom_view_of_car",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_6_bottom_view_of_car.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_6_bottom_view_of_car.png",
+      "page_num": 4,
+      "page_label": "MT-4",
+      "fig_id": "Fig. MT-6",
+      "code": "TM144A",
+      "caption": "Fig. MT-6 Bottom view of car",
+      "diagram_type": "component_location",
+      "description": "Underside view of vehicle showing disconnection locations for reverse lamp switch wiring, clutch operating cylinder, and speedometer cable.",
+      "components": [
+        "Reverse lamp switch wires",
+        "Clutch operating cylinder",
+        "Speedometer cable",
+        "Transmission case",
+        "Rear extension housing"
+      ],
+      "callouts": {
+        "1": "Reverse lamp switch wires",
+        "2": "Clutch operating cylinder",
+        "3": "Speedometer cable"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [
+        "Reverse lamp switch electrical wiring (1)",
+        "Speedometer drive cable (3)"
+      ],
+      "mechanic_notes": "Remove clutch operating cylinder and let it hang or tie out of way; disconnect speedometer cable before dropping rear extension.",
+      "tags": [
+        "clutch operating cylinder",
+        "speedometer cable",
+        "reverse lamp switch",
+        "underside",
+        "removal"
+      ],
+      "dimensions": [
+        297,
+        338
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_7_removing_propeller_shaft",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_7_removing_propeller_shaft.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_7_removing_propeller_shaft.png",
+      "page_num": 5,
+      "page_label": "MT-5",
+      "fig_id": "Fig. MT-7",
+      "code": "ER193",
+      "caption": "Fig. MT-7 Removing propeller shaft",
+      "diagram_type": "procedure_step",
+      "description": "Illustration of propeller shaft flange bolts removal at the transmission companion flange.",
+      "components": [
+        "Propeller shaft",
+        "Flange companion bolts",
+        "Rear mounting member"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tightening torque: 3.5 to 4.5 kg-m (25 to 33 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Tighten propeller shaft bolts to 3.5 to 4.5 kg-m (25 to 33 ft-lb) on reassembly.",
+      "tags": [
+        "propeller shaft",
+        "flange",
+        "torque",
+        "driveshaft",
+        "removal"
+      ],
+      "dimensions": [
+        355,
+        393
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_8_tightening_torque",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_8_tightening_torque.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_8_tightening_torque.png",
+      "page_num": 5,
+      "page_label": "MT-5",
+      "fig_id": "Fig. MT-8",
+      "code": "TM773",
+      "caption": "Fig. MT-8 Tightening torque",
+      "diagram_type": "procedure_step",
+      "description": "Diagram illustrating tightening torque patterns and values for transmission bellhousing-to-engine bolts.",
+      "components": [
+        "Transmission bellhousing",
+        "Engine rear plate",
+        "Mounting bolts"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Top transmission to engine bolts: 4.4 to 5.9 kg-m (32 to 43 ft-lb)",
+        "Bottom bolts (engine rear plate to transmission): 0.9 to 1.2 kg-m (6.5 to 8.7 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Ensure proper torque distribution across upper heavy bellhousing bolts and lower sheet-metal rear plate bolts.",
+      "tags": [
+        "bellhousing bolts",
+        "torque specification",
+        "engine mounting",
+        "installation"
+      ],
+      "dimensions": [
+        354,
+        330
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_9_removing_striking_rod_e_ring_and_stopper_pin",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_9_removing_striking_rod_e_ring_and_stopper_pin.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_9_removing_striking_rod_e_ring_and_stopper_pin.png",
+      "page_num": 5,
+      "page_label": "MT-5",
+      "fig_id": "Fig. MT-9",
+      "code": "TM337",
+      "caption": "Fig. MT-9 Removing striking rod E-ring and stopper pin",
+      "diagram_type": "procedure_step",
+      "description": "Detailed illustration showing the removal of E-ring and stopper guide pin from the rear end of the transmission rear extension housing.",
+      "components": [
+        "Rear extension housing",
+        "Striking rod",
+        "Stopper guide pin",
+        "E-ring"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove E-ring and pull stopper guide pin prior to removing rear extension housing.",
+      "tags": [
+        "striking rod",
+        "stopper guide pin",
+        "E-ring",
+        "rear extension",
+        "disassembly"
+      ],
+      "dimensions": [
+        299,
+        310
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_10_removing_return_spring_plug",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_10_removing_return_spring_plug.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_10_removing_return_spring_plug.png",
+      "page_num": 5,
+      "page_label": "MT-5",
+      "fig_id": "Fig. MT-10",
+      "code": "TM338",
+      "caption": "Fig. MT-10 Removing return spring plug",
+      "diagram_type": "procedure_step",
+      "description": "Technician using a wrench to remove the return spring plug from the side of the rear extension housing.",
+      "components": [
+        "Rear extension housing",
+        "Return spring plug",
+        "Wrench"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Keep track of return spring, reverse check spring, and plunger when plug is removed.",
+      "tags": [
+        "return spring plug",
+        "rear extension",
+        "reverse check spring",
+        "disassembly"
+      ],
+      "dimensions": [
+        350,
+        288
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_11_removing_rear_extension",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_11_removing_rear_extension.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_11_removing_rear_extension.png",
+      "page_num": 5,
+      "page_label": "MT-5",
+      "fig_id": "Fig. MT-11",
+      "code": "TM339",
+      "caption": "Fig. MT-11 Removing rear extension",
+      "diagram_type": "procedure_step",
+      "description": "Removing rear extension housing from adapter plate by lightly tapping with a soft mallet while turning the striking rod leftward.",
+      "components": [
+        "Rear extension housing",
+        "Adapter plate",
+        "Striking rod"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Turn striking rod toward left to disengage striking lever before tapping rear extension off.",
+      "tags": [
+        "rear extension",
+        "removal",
+        "striking rod",
+        "disassembly"
+      ],
+      "dimensions": [
+        363,
+        263
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_12_removing_main_drive_bearing_snap_ring",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_12_removing_main_drive_bearing_snap_ring.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_12_removing_main_drive_bearing_snap_ring.png",
+      "page_num": 5,
+      "page_label": "MT-5",
+      "fig_id": "Fig. MT-12",
+      "code": "TM340",
+      "caption": "Fig. MT-12 Removing main drive bearing snap ring",
+      "diagram_type": "procedure_step",
+      "description": "Using snap ring expander pliers to remove the large snap ring securing the main drive gear front bearing inside the transmission front case.",
+      "components": [
+        "Transmission case",
+        "Main drive bearing",
+        "Snap ring",
+        "Snap ring expander pliers"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove front cover and countershaft front shim before expanding and removing main drive bearing snap ring.",
+      "tags": [
+        "main drive bearing",
+        "snap ring",
+        "expander",
+        "front cover",
+        "disassembly"
+      ],
+      "dimensions": [
+        358,
+        300
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_13_removing_transmission_case",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_13_removing_transmission_case.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_13_removing_transmission_case.png",
+      "page_num": 5,
+      "page_label": "MT-5",
+      "fig_id": "Fig. MT-13",
+      "code": "TM341",
+      "caption": "Fig. MT-13 Removing transmission case",
+      "diagram_type": "procedure_step",
+      "description": "Separating transmission bellhousing case from the adapter plate using a soft mallet.",
+      "components": [
+        "Transmission case",
+        "Adapter plate",
+        "Soft hammer",
+        "Mainshaft"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Tap case gently with soft hammer to break sealant bond without cracking aluminum mating flanges.",
+      "tags": [
+        "transmission case",
+        "adapter plate",
+        "soft hammer",
+        "disassembly"
+      ],
+      "dimensions": [
+        330,
+        295
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_14_attaching_gear_assembly_to_special_tool",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_14_attaching_gear_assembly_to_special_tool.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_14_attaching_gear_assembly_to_special_tool.png",
+      "page_num": 6,
+      "page_label": "MT-6",
+      "fig_id": "Fig. MT-14",
+      "code": "TM342",
+      "caption": "Fig. MT-14 Attaching gear assembly to special tool",
+      "diagram_type": "procedure_step",
+      "description": "Mounting the adapter plate and gear train assembly onto Setting Plate Adapter ST23810001 clamped in a workbench vise.",
+      "components": [
+        "Setting Plate Adapter ST23810001",
+        "Adapter plate",
+        "Transmission gear assembly",
+        "Bench vise"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Special tool: ST23810001"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Mount assembly with countershaft side facing upwards in vise.",
+      "tags": [
+        "ST23810001",
+        "setting plate adapter",
+        "gear assembly",
+        "vise",
+        "bench fixture"
+      ],
+      "dimensions": [
+        360,
+        297
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_15_drive_out_retaining_pins",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_15_drive_out_retaining_pins.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_15_drive_out_retaining_pins.png",
+      "page_num": 6,
+      "page_label": "MT-6",
+      "fig_id": "Fig. MT-15",
+      "code": "TM088A",
+      "caption": "Fig. MT-15 Drive out retaining pins",
+      "diagram_type": "procedure_step",
+      "description": "Technician using Fork Rod Pin Punch KV31100300 and a hammer to drive out roll pins securing shift forks to fork rods.",
+      "components": [
+        "Fork Rod Pin Punch KV31100300",
+        "Setting Plate Adapter ST23810001",
+        "Shift forks",
+        "Fork rods",
+        "Retaining roll pins"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Special tool: KV31100300",
+        "Setting plate adapter: ST23810001"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Retaining roll pins should be replaced with new pins upon reassembly.",
+      "tags": [
+        "KV31100300",
+        "pin punch",
+        "retaining pin",
+        "shift fork",
+        "fork rod"
+      ],
+      "dimensions": [
+        349,
+        278
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_16_layout_of_check_ball_and_interlock_ball",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_16_layout_of_check_ball_and_interlock_ball.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_16_layout_of_check_ball_and_interlock_ball.png",
+      "page_num": 6,
+      "page_label": "MT-6",
+      "fig_id": "Fig. MT-16",
+      "code": "TM344",
+      "caption": "Fig. MT-16 Layout of check ball and interlock ball",
+      "diagram_type": "alignment_orientation",
+      "description": "Cutaway diagram showing relative positions and channels of the three check balls, four interlock balls, and fork rods in the adapter plate.",
+      "components": [
+        "Adapter plate",
+        "1st & 2nd fork rod",
+        "3rd & 4th fork rod",
+        "Reverse fork rod",
+        "Check balls (3)",
+        "Interlock balls (4)"
+      ],
+      "callouts": {
+        "Fork rod (1st & 2nd)": "1st & 2nd fork rod",
+        "Fork rod (3rd & 4th)": "3rd & 4th fork rod",
+        "Fork rod (Rev.)": "Reverse fork rod",
+        "Check ball": "Check ball (3 total)",
+        "Interlock ball": "Interlock ball (4 total)"
+      },
+      "measurements_and_specs": [
+        "Three (3) check balls",
+        "Four (4) interlock balls"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "CRITICAL: Do not lose check balls or interlock balls. Note order: 1st/2nd fork rod, 2 interlock balls, 3rd/4th rod, 2 interlock balls, reverse rod.",
+      "tags": [
+        "check balls",
+        "interlock balls",
+        "fork rods",
+        "adapter plate",
+        "interlock mechanism"
+      ],
+      "dimensions": [
+        342,
+        478
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_17_removing_countershaft_front_bearing",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_17_removing_countershaft_front_bearing.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_17_removing_countershaft_front_bearing.png",
+      "page_num": 6,
+      "page_label": "MT-6",
+      "fig_id": "Fig. MT-17",
+      "code": "TM398",
+      "caption": "Fig. MT-17 Removing countershaft front bearing",
+      "diagram_type": "procedure_step",
+      "description": "Using a two-jaw gear puller to remove counter gear front bearing while transmission gears are doubly engaged to lock rotation.",
+      "components": [
+        "Counter gear front bearing",
+        "Counter gear",
+        "Two-jaw puller"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Engage two gears simultaneously (double engage) to prevent shaft rotation during puller operation.",
+      "tags": [
+        "countershaft",
+        "front bearing",
+        "puller",
+        "disassembly",
+        "bearing removal"
+      ],
+      "dimensions": [
+        362,
+        321
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_18_removing_counter_drive_gear_and_main_drive_gear",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_18_removing_counter_drive_gear_and_main_drive_gear.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_18_removing_counter_drive_gear_and_main_drive_gear.png",
+      "page_num": 6,
+      "page_label": "MT-6",
+      "fig_id": "Fig. MT-18",
+      "code": "TM345",
+      "caption": "Fig. MT-18 Removing counter drive gear and main drive gear",
+      "diagram_type": "procedure_step",
+      "description": "Pulling counter drive gear together with main drive gear off the shafts using a puller.",
+      "components": [
+        "Counter drive gear",
+        "Main drive gear",
+        "Pilot needle bearing",
+        "Mainshaft front end",
+        "Gear puller"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Take care not to allow the pilot needle bearing to drop from the front end of the mainshaft.",
+      "tags": [
+        "counter drive gear",
+        "main drive gear",
+        "pilot needle bearing",
+        "puller"
+      ],
+      "dimensions": [
+        355,
+        226
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_19_removing_mainshaft_nut",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_19_removing_mainshaft_nut.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_19_removing_mainshaft_nut.png",
+      "page_num": 6,
+      "page_label": "MT-6",
+      "fig_id": "Fig. MT-19",
+      "code": "TM346",
+      "caption": "Fig. MT-19 Removing mainshaft nut",
+      "diagram_type": "procedure_step",
+      "description": "Releasing lock staking on mainshaft rear nut and unscrewing the nut with a socket bar while gears are locked.",
+      "components": [
+        "Mainshaft nut",
+        "Mainshaft rear end",
+        "Socket handle",
+        "Staking notch"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Unstake lock collar before loosening nut. Always discard used mainshaft nut; never reuse.",
+      "tags": [
+        "mainshaft nut",
+        "unstaking",
+        "socket",
+        "disassembly"
+      ],
+      "dimensions": [
+        374,
+        314
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_20_driving_out_gear_assembly",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_20_driving_out_gear_assembly.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_20_driving_out_gear_assembly.png",
+      "page_num": 6,
+      "page_label": "MT-6",
+      "fig_id": "Fig. MT-20",
+      "code": "TM347",
+      "caption": "Fig. MT-20 Driving out gear assembly",
+      "diagram_type": "procedure_step",
+      "description": "Technician supporting mainshaft gear assembly with one hand while tapping the rear end with a soft hammer to drive out mainshaft and counter gear together.",
+      "components": [
+        "Mainshaft assembly",
+        "Counter gear",
+        "Adapter plate",
+        "Soft hammer"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Carefully hold front of mainshaft assembly by hand while tapping to prevent the counter gear from dropping.",
+      "tags": [
+        "mainshaft",
+        "counter gear",
+        "driving out",
+        "soft hammer",
+        "disassembly"
+      ],
+      "dimensions": [
+        348,
+        331
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_21_removing_1st_gear_bushing",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_21_removing_1st_gear_bushing.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_21_removing_1st_gear_bushing.png",
+      "page_num": 6,
+      "page_label": "MT-6",
+      "fig_id": "Fig. MT-21",
+      "code": "TM049A",
+      "caption": "Fig. MT-21 Removing 1st gear bushing",
+      "diagram_type": "procedure_step",
+      "description": "Using Bearing Puller ST30031000 under a hydraulic press to press off 1st gear mainshaft bushing along with 2nd gear and 1st & 2nd synchronizer assembly.",
+      "components": [
+        "1st gear bushing",
+        "2nd main gear",
+        "1st & 2nd synchronizer assembly",
+        "Mainshaft",
+        "Bearing Puller ST30031000"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Special tool: ST30031000"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Hold mainshaft by hand while pressing out bushing to prevent it from dropping onto the floor.",
+      "tags": [
+        "ST30031000",
+        "1st gear bushing",
+        "bearing puller",
+        "mainshaft",
+        "press operation"
+      ],
+      "dimensions": [
+        292,
+        403
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_22_mainshaft_assembly",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_22_mainshaft_assembly.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_22_mainshaft_assembly.png",
+      "page_num": 7,
+      "page_label": "MT-7",
+      "fig_id": "Fig. MT-22",
+      "code": "TM127A",
+      "caption": "Fig. MT-22 Mainshaft assembly",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view diagram of the complete mainshaft assembly showing sequence of all gears, needle bearings, synchronizer assemblies, bushings, thrust washers, steel ball, main bearing, and nut.",
+      "components": [
+        "Pilot bearing",
+        "3rd & 4th synchronizer assembly",
+        "Baulk ring",
+        "3rd main gear",
+        "Needle bearing",
+        "Mainshaft",
+        "Needle bearing",
+        "2nd main gear",
+        "1st & 2nd synchronizer assembly",
+        "Coupling sleeve",
+        "Shifting insert",
+        "Shifting insert spring",
+        "Synchronizer hub",
+        "1st main gear",
+        "Needle bearing",
+        "1st gear bushing",
+        "Thrust washer",
+        "Mainshaft bearing",
+        "Reverse main gear",
+        "Thrust washer",
+        "Mainshaft nut",
+        "Steel ball",
+        "Thrust washer",
+        "Snap ring"
+      ],
+      "callouts": {
+        "1": "Pilot bearing",
+        "2": "3rd & 4th synchronizer assembly",
+        "3": "Baulk ring",
+        "4": "3rd main gear",
+        "5": "Needle bearing",
+        "6": "Mainshaft",
+        "7": "Needle bearing",
+        "8": "2nd main gear",
+        "9": "1st & 2nd synchronizer assembly",
+        "10": "Coupling sleeve",
+        "11": "Shifting insert",
+        "12": "Shifting insert spring",
+        "13": "Synchronizer hub",
+        "14": "1st main gear",
+        "15": "Needle bearing",
+        "16": "1st gear bushing",
+        "17": "Thrust washer",
+        "18": "Mainshaft bearing",
+        "19": "Reverse main gear",
+        "20": "Thrust washer",
+        "21": "Mainshaft nut",
+        "22": "Steel ball",
+        "23": "Thrust washer",
+        "24": "Snap ring"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Pay strict attention to placement of steel ball (22) that locks thrust washer (17). Observe synchronizer hub front/rear orientation.",
+      "tags": [
+        "mainshaft assembly",
+        "exploded view",
+        "F4W71B",
+        "geartrain",
+        "needle bearings",
+        "thrust washer"
+      ],
+      "dimensions": [
+        1105,
+        787
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_23_removing_main_drive_bearing",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_23_removing_main_drive_bearing.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_23_removing_main_drive_bearing.png",
+      "page_num": 7,
+      "page_label": "MT-7",
+      "fig_id": "Fig. MT-23",
+      "code": "TM349",
+      "caption": "Fig. MT-23 Removing main drive bearing",
+      "diagram_type": "procedure_step",
+      "description": "Press setup showing Bearing Puller ST30031000 supporting the main drive bearing while the press ram drives out the main drive gear shaft.",
+      "components": [
+        "Main drive bearing",
+        "Main drive gear",
+        "Bearing Puller ST30031000"
+      ],
+      "callouts": {
+        "1": "Main drive bearing",
+        "2": "Main drive gear"
+      },
+      "measurements_and_specs": [
+        "Special tool: ST30031000"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove snap ring and spacer before pressing off bearing.",
+      "tags": [
+        "ST30031000",
+        "main drive bearing",
+        "bearing puller",
+        "press",
+        "removal"
+      ],
+      "dimensions": [
+        343,
+        332
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_24_removing_countershaft_bearing",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_24_removing_countershaft_bearing.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_24_removing_countershaft_bearing.png",
+      "page_num": 7,
+      "page_label": "MT-7",
+      "fig_id": "Fig. MT-24",
+      "code": "TM351",
+      "caption": "Fig. MT-24 Removing countershaft bearing",
+      "diagram_type": "procedure_step",
+      "description": "Press setup showing countershaft rear bearing removal using Bearing Puller ST30031000 under a shop press.",
+      "components": [
+        "Countershaft rear bearing",
+        "Counter gear",
+        "Bearing Puller ST30031000",
+        "Press blocks"
+      ],
+      "callouts": {
+        "Countershaft rear bearing": "Countershaft rear bearing",
+        "ST30031000": "Bearing puller tool"
+      },
+      "measurements_and_specs": [
+        "Special tool: ST30031000"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Hold shaft by hand so as not to allow countershaft to drop onto the shop floor when bearing releases.",
+      "tags": [
+        "ST30031000",
+        "countershaft rear bearing",
+        "bearing puller",
+        "press operation"
+      ],
+      "dimensions": [
+        348,
+        334
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_25_inspecting_ball_bearing",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_25_inspecting_ball_bearing.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_25_inspecting_ball_bearing.png",
+      "page_num": 8,
+      "page_label": "MT-8",
+      "fig_id": "Fig. MT-25",
+      "code": "TM372",
+      "caption": "Fig. MT-25 Inspecting ball bearing",
+      "diagram_type": "inspection_measurement",
+      "description": "Hand inspection of a transmission ball bearing, slowly turning inner race by hand to detect roughness, axial play, or damaged balls/races.",
+      "components": [
+        "Ball bearing assembly"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Do not spin bearings with compressed air, as lack of lubrication at high speed damages races and balls.",
+      "tags": [
+        "bearing inspection",
+        "ball bearing",
+        "inspection"
+      ],
+      "dimensions": [
+        365,
+        270
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_26_measuring_end_play",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_26_measuring_end_play.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_26_measuring_end_play.png",
+      "page_num": 8,
+      "page_label": "MT-8",
+      "fig_id": "Fig. MT-26",
+      "code": "TM374",
+      "caption": "Fig. MT-26 Measuring end play",
+      "diagram_type": "inspection_measurement",
+      "description": "Using a flat feeler gauge (thickness gauge) inserted between gear faces on the mainshaft to measure axial end play.",
+      "components": [
+        "Mainshaft gears",
+        "Thickness gauge (feeler gauge)"
+      ],
+      "callouts": {
+        "Thickness gauge": "Thickness gauge"
+      },
+      "measurements_and_specs": [
+        "1st gear end play: 0.32 to 0.39 mm (0.0126 to 0.0154 in)",
+        "2nd gear end play: 0.12 to 0.19 mm (0.0047 to 0.0075 in)",
+        "3rd gear end play: 0.13 to 0.37 mm (0.0051 to 0.0146 in)",
+        "Reverse counter gear end play: 0.01 to 0.20 mm (0.0004 to 0.0079 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Measure gear end play with feeler gauge while gears are installed on shaft.",
+      "tags": [
+        "gear end play",
+        "thickness gauge",
+        "feeler gauge",
+        "inspection"
+      ],
+      "dimensions": [
+        373,
+        341
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_27_baulk_ring_to_cone_gap",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_27_baulk_ring_to_cone_gap.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_27_baulk_ring_to_cone_gap.png",
+      "page_num": 8,
+      "page_label": "MT-8",
+      "fig_id": "Fig. MT-27",
+      "code": "TM375",
+      "caption": "Fig. MT-27 Baulk ring-to-cone gap",
+      "diagram_type": "inspection_measurement",
+      "description": "Cross-sectional detail illustration showing measurement of the gap between the baulk ring face and the gear cone clutch surface.",
+      "components": [
+        "Baulk ring",
+        "Gear cone"
+      ],
+      "callouts": {
+        "Baulk ring": "Baulk ring"
+      },
+      "measurements_and_specs": [
+        "Standard gap: 1.2 to 1.6 mm (0.047 to 0.063 in)",
+        "Allowable limit: 0.8 mm (0.031 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Hold baulk ring firmly against gear cone when checking gap. If clearance is 0.8 mm (0.031 in) or less, baulk ring must be replaced.",
+      "tags": [
+        "baulk ring",
+        "gear cone",
+        "gap clearance",
+        "synchronizer wear",
+        "inspection"
+      ],
+      "dimensions": [
+        336,
+        315
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_28_front_cover_oil_seal",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_28_front_cover_oil_seal.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_28_front_cover_oil_seal.png",
+      "page_num": 8,
+      "page_label": "MT-8",
+      "fig_id": "Fig. MT-28",
+      "code": "TM354",
+      "caption": "Fig. MT-28 Front cover oil seal",
+      "diagram_type": "alignment_orientation",
+      "description": "Cross section showing correct installation direction and lip orientation of front cover oil seal.",
+      "components": [
+        "Front cover",
+        "Oil seal",
+        "Sealing lip"
+      ],
+      "callouts": {
+        "Front": "Front of vehicle direction"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Press-fit oil seal with sealing lip facing inward/front as indicated by arrow; coat lip with gear oil prior to assembly.",
+      "tags": [
+        "front cover",
+        "oil seal",
+        "orientation",
+        "assembly"
+      ],
+      "dimensions": [
+        305,
+        280
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_29_rear_extension_oil_seal",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_29_rear_extension_oil_seal.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_29_rear_extension_oil_seal.png",
+      "page_num": 8,
+      "page_label": "MT-8",
+      "fig_id": "Fig. MT-29",
+      "code": "TM355",
+      "caption": "Fig. MT-29 Rear extension oil seal",
+      "diagram_type": "alignment_orientation",
+      "description": "Cross section showing correct press-in orientation of the rear extension housing rear output oil seal.",
+      "components": [
+        "Rear extension housing",
+        "Rear oil seal"
+      ],
+      "callouts": {
+        "Front": "Front direction"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Press-fit oil seal squarely into housing seat; apply grease to oil seal lip and bushing prior to driveshaft installation.",
+      "tags": [
+        "rear extension",
+        "oil seal",
+        "orientation",
+        "assembly"
+      ],
+      "dimensions": [
+        298,
+        263
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_30_oil_gutter",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_30_oil_gutter.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_30_oil_gutter.png",
+      "page_num": 9,
+      "page_label": "MT-9",
+      "fig_id": "Fig. MT-30",
+      "code": "TM356",
+      "caption": "Fig. MT-30 Oil gutter",
+      "diagram_type": "alignment_orientation",
+      "description": "Illustration of the oil gutter installation and bending orientation on the adapter plate.",
+      "components": [
+        "Oil gutter",
+        "Adapter plate",
+        "Dowel pin"
+      ],
+      "callouts": {
+        "Upper": "Upper side orientation",
+        "Front": "Front side orientation"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Bend oil gutter on front side and expand on rear side after positioning.",
+      "tags": [
+        "oil gutter",
+        "adapter plate",
+        "orientation",
+        "lubrication"
+      ],
+      "dimensions": [
+        341,
+        314
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_31_staking_screw",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_31_staking_screw.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_31_staking_screw.png",
+      "page_num": 9,
+      "page_label": "MT-9",
+      "fig_id": "Fig. MT-31",
+      "code": "TM400",
+      "caption": "Fig. MT-31 Staking screw",
+      "diagram_type": "procedure_step",
+      "description": "Using a center punch to stake bearing retainer attaching screws at two points on the adapter plate.",
+      "components": [
+        "Adapter plate",
+        "Bearing retainer",
+        "Attaching screws",
+        "Punch"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Screw torque: 1.9 to 2.5 kg-m (14 to 18 ft-lb)",
+        "Stake at two points"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Torque screws to 1.9 to 2.5 kg-m (14 to 18 ft-lb) and stake each screw at two points to prevent loosening.",
+      "tags": [
+        "staking",
+        "bearing retainer",
+        "adapter plate",
+        "screws"
+      ],
+      "dimensions": [
+        361,
+        279
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_32_installing_synchronizer_hub",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_32_installing_synchronizer_hub.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_32_installing_synchronizer_hub.png",
+      "page_num": 9,
+      "page_label": "MT-9",
+      "fig_id": "Fig. MT-32",
+      "code": "TM357",
+      "caption": "Fig. MT-32 Installing synchronizer hub",
+      "diagram_type": "alignment_orientation",
+      "description": "Cross-sectional comparison showing correct front-to-rear installation orientation of 4th & 3rd synchronizer hub versus 2nd & 1st synchronizer hub.",
+      "components": [
+        "Synchronizer hub (4th & 3rd)",
+        "Synchronizer hub (2nd & 1st)",
+        "Coupling sleeve"
+      ],
+      "callouts": {
+        "Front": "Front of transmission direction",
+        "4th & 3rd": "4th & 3rd synchronizer hub profile",
+        "2nd & 1st": "2nd & 1st synchronizer hub profile"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Notice asymmetry of boss length between 3rd/4th and 1st/2nd synchronizer hubs. Assemble facing proper direction.",
+      "tags": [
+        "synchronizer hub",
+        "coupling sleeve",
+        "orientation",
+        "assembly"
+      ],
+      "dimensions": [
+        328,
+        296
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_33_installing_thrust_washer",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_33_installing_thrust_washer.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_33_installing_thrust_washer.png",
+      "page_num": 9,
+      "page_label": "MT-9",
+      "fig_id": "Fig. MT-33",
+      "code": "TM358",
+      "caption": "Fig. MT-33 Installing thrust washer",
+      "diagram_type": "procedure_step",
+      "description": "Technician sliding thrust washer over 1st gear on the mainshaft, ensuring alignment with the locking steel ball.",
+      "components": [
+        "Mainshaft",
+        "1st main gear",
+        "Thrust washer",
+        "Steel ball"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Apply grease to steel ball to hold it in place on mainshaft before sliding thrust washer on.",
+      "tags": [
+        "thrust washer",
+        "steel ball",
+        "mainshaft",
+        "1st gear",
+        "assembly"
+      ],
+      "dimensions": [
+        360,
+        306
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_34_transmission_press_stand",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_34_transmission_press_stand.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_34_transmission_press_stand.png",
+      "page_num": 9,
+      "page_label": "MT-9",
+      "fig_id": "Fig. MT-34",
+      "code": "TM438",
+      "caption": "Fig. MT-34 Transmission Press Stand",
+      "diagram_type": "special_service_tool",
+      "description": "Detailed diagram of Transmission Press Stand KV31100400 showing hole locations for counter gear, reverse idler shaft, and mainshaft.",
+      "components": [
+        "Transmission Press Stand KV31100400"
+      ],
+      "callouts": {
+        "KV31100400": "Special tool part number",
+        "For counter gear and reverse idler shaft": "Left locating position",
+        "For mainshaft and reverse idler shaft": "Right locating position",
+        "Holes for reverse idler shaft": "Center clearance holes"
+      },
+      "measurements_and_specs": [
+        "Special tool: KV31100400"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Provides solid base for pressing mainshaft and countershaft into adapter plate bearings without cocking.",
+      "tags": [
+        "KV31100400",
+        "press stand",
+        "adapter plate",
+        "special service tool"
+      ],
+      "dimensions": [
+        360,
+        332
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_35_installing_mainshaft_assembly",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_35_installing_mainshaft_assembly.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_35_installing_mainshaft_assembly.png",
+      "page_num": 9,
+      "page_label": "MT-9",
+      "fig_id": "Fig. MT-35",
+      "code": "TM439",
+      "caption": "Fig. MT-35 Installing mainshaft assembly",
+      "diagram_type": "procedure_step",
+      "description": "Press setup pressing mainshaft assembly into the center bearing on adapter plate supported on Press Stand KV31100400.",
+      "components": [
+        "Mainshaft assembly",
+        "Adapter plate",
+        "Press Stand KV31100400",
+        "Hydraulic press ram"
+      ],
+      "callouts": {
+        "KV31100400": "Press stand special tool"
+      },
+      "measurements_and_specs": [
+        "Special tool: KV31100400"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Ensure bearing is square against shaft; press into place gradually.",
+      "tags": [
+        "mainshaft",
+        "adapter plate",
+        "KV31100400",
+        "press assembly"
+      ],
+      "dimensions": [
+        303,
+        357
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_36_installing_counter_gear",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_36_installing_counter_gear.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_36_installing_counter_gear.png",
+      "page_num": 10,
+      "page_label": "MT-10",
+      "fig_id": "Fig. MT-36",
+      "code": "TM440",
+      "caption": "Fig. MT-36 Installing counter gear",
+      "diagram_type": "procedure_step",
+      "description": "Press setup showing counter gear being pressed into adapter plate rear bearing while assembly rests on Press Stand KV31100400.",
+      "components": [
+        "Counter gear",
+        "Adapter plate",
+        "Counter gear rear bearing",
+        "Press Stand KV31100400"
+      ],
+      "callouts": {
+        "KV31100400": "Transmission press stand"
+      },
+      "measurements_and_specs": [
+        "Special tool: KV31100400"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Support counter gear rear bearing properly on press stand during pressing.",
+      "tags": [
+        "counter gear",
+        "adapter plate",
+        "KV31100400",
+        "press assembly"
+      ],
+      "dimensions": [
+        277,
+        332
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_37_installing_snap_ring",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_37_installing_snap_ring.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_37_installing_snap_ring.png",
+      "page_num": 10,
+      "page_label": "MT-10",
+      "fig_id": "Fig. MT-37",
+      "code": "TM441",
+      "caption": "Fig. MT-37 Installing snap ring",
+      "diagram_type": "procedure_step",
+      "description": "Installing snap ring in the front end groove of the mainshaft ahead of the 3rd & 4th synchronizer assembly thrust washer.",
+      "components": [
+        "Mainshaft front end",
+        "Thrust washer",
+        "Snap ring",
+        "Snap ring pliers"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Snap ring thickness: 1.4 mm, 1.5 mm, or 1.6 mm"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Select snap ring of thickness that minimizes axial clearance in mainshaft groove.",
+      "tags": [
+        "snap ring",
+        "mainshaft",
+        "clearance",
+        "synchronizer"
+      ],
+      "dimensions": [
+        334,
+        349
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_38_installing_counter_drive_gear",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_38_installing_counter_drive_gear.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_38_installing_counter_drive_gear.png",
+      "page_num": 10,
+      "page_label": "MT-10",
+      "fig_id": "Fig. MT-38",
+      "code": "TM442",
+      "caption": "Fig. MT-38 Installing counter drive gear",
+      "diagram_type": "procedure_step",
+      "description": "Pressing counter drive gear onto counter gear using Counter Gear Drift ST23860000 while meshing gears.",
+      "components": [
+        "Counter drive gear",
+        "Main drive gear",
+        "Counter Gear Drift ST23860000",
+        "Counter gear"
+      ],
+      "callouts": {
+        "ST23860000": "Counter gear drift"
+      },
+      "measurements_and_specs": [
+        "Special tool: ST23860000"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "CRITICAL: Counter drive gear and main drive gear must be driven on simultaneously with teeth meshed.",
+      "tags": [
+        "ST23860000",
+        "counter drive gear",
+        "drift",
+        "meshed gears"
+      ],
+      "dimensions": [
+        328,
+        358
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_39_installing_snap_ring",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_39_installing_snap_ring.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_39_installing_snap_ring.png",
+      "page_num": 10,
+      "page_label": "MT-10",
+      "fig_id": "Fig. MT-39",
+      "code": "TM366",
+      "caption": "Fig. MT-39 Installing snap ring",
+      "diagram_type": "procedure_step",
+      "description": "Fitting counter drive gear retaining snap ring to front end groove of countershaft.",
+      "components": [
+        "Counter drive gear",
+        "Countershaft",
+        "Snap ring",
+        "Snap ring pliers"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Counter drive gear snap ring thickness: 1.4 mm, 1.5 mm, or 1.6 mm"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Secure counter drive gear with the thickest snap ring that fits the groove.",
+      "tags": [
+        "counter drive gear",
+        "snap ring",
+        "countershaft"
+      ],
+      "dimensions": [
+        309,
+        376
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_40_installing_counter_gear_front_bearing",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_40_installing_counter_gear_front_bearing.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_40_installing_counter_gear_front_bearing.png",
+      "page_num": 10,
+      "page_label": "MT-10",
+      "fig_id": "Fig. MT-40",
+      "code": "TM443",
+      "caption": "Fig. MT-40 Installing counter gear front bearing",
+      "diagram_type": "procedure_step",
+      "description": "Pressing counter gear front bearing onto countershaft using Bearing Drift ST22360002 on Press Stand KV31100400.",
+      "components": [
+        "Counter gear front bearing",
+        "Counter gear",
+        "Bearing Drift ST22360002",
+        "Press Stand KV31100400"
+      ],
+      "callouts": {
+        "ST22360002": "Bearing drift",
+        "KV31100400": "Press stand"
+      },
+      "measurements_and_specs": [
+        "Special tools: ST22360002, KV31100400"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Ensure bearing is pressed firmly against counter drive gear shoulder.",
+      "tags": [
+        "ST22360002",
+        "KV31100400",
+        "bearing drift",
+        "counter gear front bearing"
+      ],
+      "dimensions": [
+        348,
+        349
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_41_installing_counter_reverse_gear_snap_ring",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_41_installing_counter_reverse_gear_snap_ring.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_41_installing_counter_reverse_gear_snap_ring.png",
+      "page_num": 10,
+      "page_label": "MT-10",
+      "fig_id": "Fig. MT-41",
+      "code": "TM361",
+      "caption": "Fig. MT-41 Installing counter reverse gear snap ring",
+      "diagram_type": "procedure_step",
+      "description": "Installing snap ring on rear end of countershaft to retain counter reverse gear with assembly mounted on Setting Plate Adapter ST23810001.",
+      "components": [
+        "Counter reverse gear",
+        "Countershaft",
+        "Snap ring",
+        "Setting Plate Adapter ST23810001"
+      ],
+      "callouts": {
+        "ST23810001": "Setting plate adapter"
+      },
+      "measurements_and_specs": [
+        "Counter reverse gear snap ring thickness: 1.4 mm, 1.5 mm, or 1.6 mm"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Select snap ring thickness that gives minimum gear end play (less than 0.20 mm).",
+      "tags": [
+        "counter reverse gear",
+        "snap ring",
+        "ST23810001",
+        "end play"
+      ],
+      "dimensions": [
+        341,
+        349
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_42_tightening_mainshaft_nut",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_42_tightening_mainshaft_nut.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_42_tightening_mainshaft_nut.png",
+      "page_num": 11,
+      "page_label": "MT-11",
+      "fig_id": "Fig. MT-42",
+      "code": "TM768",
+      "caption": "Fig. MT-42 Tightening mainshaft nut",
+      "diagram_type": "procedure_step",
+      "description": "Tightening the mainshaft rear nut using Special Wrench ST22520000 attached to a click-type or beam-type torque wrench.",
+      "components": [
+        "Mainshaft nut",
+        "Special Wrench ST22520000",
+        "Torque wrench"
+      ],
+      "callouts": {
+        "ST22520000": "Special wrench"
+      },
+      "measurements_and_specs": [
+        "Specified nut torque: 14.0 to 17.0 kg-m (101 to 123 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Gears must be doubly engaged to lock the shaft while torquing mainshaft nut.",
+      "tags": [
+        "ST22520000",
+        "mainshaft nut",
+        "torque wrench",
+        "tightening"
+      ],
+      "dimensions": [
+        341,
+        270
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_43_setting_wrench",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_43_setting_wrench.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_43_setting_wrench.png",
+      "page_num": 11,
+      "page_label": "MT-11",
+      "fig_id": "Fig. MT-43",
+      "code": "TM587",
+      "caption": "Fig. MT-43 Setting wrench",
+      "diagram_type": "procedure_step",
+      "description": "Schematic diagram showing geometry of torque wrench with Special Wrench ST22520000 extension, defining effective length L and extension offset 0.10 m (0.33 ft).",
+      "components": [
+        "Torque wrench",
+        "Special Wrench ST22520000"
+      ],
+      "callouts": {
+        "ST22520000": "Adapter wrench",
+        "Torque wrench": "Torque wrench body",
+        "C": "Indicated torque reading",
+        "L m (ft)": "Effective wrench length",
+        "0.10 m (0.33 ft)": "Extension arm offset"
+      },
+      "measurements_and_specs": [
+        "Extension arm offset: 0.10 m (0.33 ft)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Because ST22520000 extends the lever arm by 0.10 m (0.33 ft), wrench reading C is lower than actual applied torque at the nut.",
+      "tags": [
+        "ST22520000",
+        "torque conversion",
+        "lever arm",
+        "calculation",
+        "formula"
+      ],
+      "dimensions": [
+        366,
+        235
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_44_converted_torque",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_44_converted_torque.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_44_converted_torque.png",
+      "page_num": 11,
+      "page_label": "MT-11",
+      "fig_id": "Fig. MT-44",
+      "code": "",
+      "caption": "Fig. MT-44 Converted torque",
+      "diagram_type": "graph_chart",
+      "description": "Nomograph chart plotting converted torque scale reading C (kg-m, ft-lb) against effective torque wrench length L (m, ft) with upper and lower limit tolerance lines.",
+      "components": [
+        "Upper limit line",
+        "Lower limit line",
+        "Converted torque band"
+      ],
+      "callouts": {
+        "C": "Value read on the torque wrench (kg-m / ft-lb)",
+        "L": "Effective length of torque wrench (m / ft)",
+        "Upper limit line": "Maximum allowable reading",
+        "Lower limit line": "Minimum allowable reading"
+      },
+      "measurements_and_specs": [
+        "Target nut torque: 14 to 17 kg-m (101 to 123 ft-lb)",
+        "For L = 0.40 m: C = 11.2 to 13.6 kg-m (81 to 98 ft-lb)",
+        "For L = 0.50 m: C = 11.7 to 14.2 kg-m (84 to 103 ft-lb)",
+        "For L = 0.60 m: C = 12.0 to 14.6 kg-m (87 to 105 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Look up torque wrench length on horizontal axis to find required gauge reading range.",
+      "tags": [
+        "torque chart",
+        "nomograph",
+        "converted torque",
+        "graph",
+        "ST22520000"
+      ],
+      "dimensions": [
+        691,
+        718
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_45_staking_mainshaft_nut",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_45_staking_mainshaft_nut.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_45_staking_mainshaft_nut.png",
+      "page_num": 11,
+      "page_label": "MT-11",
+      "fig_id": "Fig. MT-45",
+      "code": "TM362",
+      "caption": "Fig. MT-45 Staking mainshaft nut",
+      "diagram_type": "procedure_step",
+      "description": "Using a hammer and punch to stake the thin collar of the mainshaft nut into the groove of the mainshaft.",
+      "components": [
+        "Mainshaft nut",
+        "Mainshaft groove",
+        "Punch",
+        "Hammer"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Stake nut securely into mainshaft spline groove to prevent backing off.",
+      "tags": [
+        "staking",
+        "mainshaft nut",
+        "punch",
+        "locking"
+      ],
+      "dimensions": [
+        322,
+        323
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_46_installing_1st_2nd_fork_rod",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_46_installing_1st_2nd_fork_rod.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_46_installing_1st_2nd_fork_rod.png",
+      "page_num": 12,
+      "page_label": "MT-12",
+      "fig_id": "Fig. MT-46",
+      "code": "TM367",
+      "caption": "Fig. MT-46 Installing 1st & 2nd fork rod",
+      "diagram_type": "procedure_step",
+      "description": "Sliding the 1st & 2nd fork rod through adapter plate bores and shift fork.",
+      "components": [
+        "1st & 2nd fork rod",
+        "1st & 2nd shift fork",
+        "Adapter plate"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Align detent notches in rod with check ball bore. Use new roll pins.",
+      "tags": [
+        "1st & 2nd fork rod",
+        "shift fork",
+        "adapter plate",
+        "assembly"
+      ],
+      "dimensions": [
+        335,
+        314
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_47_installing_3rd_4th_fork_rod",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_47_installing_3rd_4th_fork_rod.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_47_installing_3rd_4th_fork_rod.png",
+      "page_num": 12,
+      "page_label": "MT-12",
+      "fig_id": "Fig. MT-47",
+      "code": "TM368",
+      "caption": "Fig. MT-47 Installing 3rd & 4th fork rod",
+      "diagram_type": "procedure_step",
+      "description": "Installing 3rd & 4th fork rod through adapter plate and 3rd & 4th shift fork.",
+      "components": [
+        "3rd & 4th fork rod",
+        "3rd & 4th shift fork",
+        "Adapter plate"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "CRITICAL: Install two interlock balls into adapter plate bore before inserting 3rd & 4th fork rod.",
+      "tags": [
+        "3rd & 4th fork rod",
+        "shift fork",
+        "interlock balls",
+        "assembly"
+      ],
+      "dimensions": [
+        334,
+        305
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_48_installing_reverse_fork_rod",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_48_installing_reverse_fork_rod.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_48_installing_reverse_fork_rod.png",
+      "page_num": 12,
+      "page_label": "MT-12",
+      "fig_id": "Fig. MT-48",
+      "code": "TM369",
+      "caption": "Fig. MT-48 Installing reverse fork rod",
+      "diagram_type": "procedure_step",
+      "description": "Installing reverse shift fork and reverse fork rod through adapter plate.",
+      "components": [
+        "Reverse fork rod",
+        "Reverse shift fork",
+        "Adapter plate"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Install two interlock balls into adapter plate prior to inserting reverse fork rod. Check ball plug torque: 1.9 to 2.5 kg-m (14 to 18 ft-lb).",
+      "tags": [
+        "reverse fork rod",
+        "shift fork",
+        "interlock balls",
+        "check ball plug"
+      ],
+      "dimensions": [
+        329,
+        305
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_49_fitting_main_drive_bearing_snap_ring",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_49_fitting_main_drive_bearing_snap_ring.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_49_fitting_main_drive_bearing_snap_ring.png",
+      "page_num": 12,
+      "page_label": "MT-12",
+      "fig_id": "Fig. MT-49",
+      "code": "TM340",
+      "caption": "Fig. MT-49 Fitting main drive bearing snap ring",
+      "diagram_type": "procedure_step",
+      "description": "Using snap ring expander to seat large snap ring into the main drive bearing outer race groove through front case opening.",
+      "components": [
+        "Transmission case",
+        "Main drive bearing",
+        "Outer snap ring",
+        "Snap ring expander pliers"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Ensure snap ring is fully seated in outer race groove around its entire circumference.",
+      "tags": [
+        "main drive bearing",
+        "snap ring",
+        "expander",
+        "transmission case"
+      ],
+      "dimensions": [
+        366,
+        314
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_50_selecting_counter_gear_front_bearing_shim",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_50_selecting_counter_gear_front_bearing_shim.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_50_selecting_counter_gear_front_bearing_shim.png",
+      "page_num": 12,
+      "page_label": "MT-12",
+      "fig_id": "Fig. MT-50",
+      "code": "TM371",
+      "caption": "Fig. MT-50 Selecting counter gear front bearing shim",
+      "diagram_type": "inspection_measurement",
+      "description": "Diagram illustrating depth measurement dimension 'A' from front face of transmission case to the counter gear front bearing outer race for shim selection.",
+      "components": [
+        "Transmission case",
+        "Counter gear front bearing",
+        "Counter gear"
+      ],
+      "callouts": {
+        "1": "Transmission case",
+        "2": "Counter gear front bearing",
+        "3": "Counter gear",
+        "A": "Measurement dimension from case front face to bearing face"
+      },
+      "measurements_and_specs": [
+        "Dimension 'A' range: 2.92 to 3.71 mm (0.1150 to 0.1461 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Accurately measure depth 'A' using depth micrometer or vernier caliper to choose proper compensating shim.",
+      "tags": [
+        "counter gear front bearing",
+        "shim selection",
+        "dimension A",
+        "clearance"
+      ],
+      "dimensions": [
+        354,
+        393
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_51_fs5w71b_transmission",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_51_fs5w71b_transmission.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_51_fs5w71b_transmission.png",
+      "page_num": 14,
+      "page_label": "MT-14",
+      "fig_id": "Fig. MT-51",
+      "code": "TM128A",
+      "caption": "Fig. MT-51 FS5W71B transmission",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross-sectional longitudinal cutaway view of FS5W71B 5-speed manual transmission showing overdrive gear arrangement behind adapter plate, servo synchro mechanism, and all internal shafts and gears.",
+      "components": [
+        "Front cover",
+        "Main drive gear",
+        "Baulk ring",
+        "Coupling sleeve",
+        "Shifting insert",
+        "Synchronizer hub, 3rd & 4th",
+        "3rd main gear",
+        "2nd main gear",
+        "Needle bearing",
+        "Adapter plate",
+        "1st main gear",
+        "Bearing retainer",
+        "Reverse main gear",
+        "Synchro ring",
+        "Band brake",
+        "Overdrive main gear",
+        "Rear extension housing",
+        "Transmission case",
+        "Counter drive gear",
+        "Counter gear",
+        "Reverse counter gear",
+        "Reverse idler gear",
+        "Reverse idler shaft",
+        "Overdrive counter gear",
+        "Mainshaft"
+      ],
+      "callouts": {
+        "1": "Front cover",
+        "2": "Main drive gear",
+        "3": "Baulk ring",
+        "4": "Coupling sleeve",
+        "5": "Shifting insert",
+        "6": "Synchronizer hub, 3rd & 4th",
+        "7": "3rd main gear",
+        "8": "2nd main gear",
+        "9": "Needle bearing",
+        "10": "Adapter plate",
+        "11": "1st main gear",
+        "12": "Bearing retainer",
+        "13": "Reverse main gear",
+        "14": "Synchro ring",
+        "15": "Band brake",
+        "16": "Overdrive main gear",
+        "17": "Rear extension housing",
+        "18": "Transmission case",
+        "19": "Counter drive gear",
+        "20": "Counter gear",
+        "21": "Reverse counter gear",
+        "22": "Reverse idler gear",
+        "23": "Reverse idler shaft",
+        "24": "Overdrive counter gear",
+        "25": "Mainshaft"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "FS5W71B features Warner synchromesh on 1st-4th gears and Porsche-type servo synchromesh with band brake on 5th (overdrive) gear.",
+      "tags": [
+        "FS5W71B",
+        "5-speed transmission",
+        "cutaway",
+        "overdrive",
+        "servo synchro",
+        "geartrain"
+      ],
+      "dimensions": [
+        1068,
+        761
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_52_fs5w71b_transmission_case_components",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_52_fs5w71b_transmission_case_components.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_52_fs5w71b_transmission_case_components.png",
+      "page_num": 14,
+      "page_label": "MT-14",
+      "fig_id": "Fig. MT-52",
+      "code": "TM046A",
+      "caption": "Fig. MT-52 FS5W71B transmission case components",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view diagram of FS5W71B 5-speed transmission casing assemblies, front cover, adapter plate, rear extension housing, breather, and oil seals.",
+      "components": [
+        "Front cover",
+        "Front cover oil seal",
+        "Front cover gasket",
+        "Transmission case",
+        "Adapter plate",
+        "Mainshaft bearing",
+        "Bearing retainer",
+        "Rear extension",
+        "Breather",
+        "Rear extension oil seal",
+        "Sleeve yoke dust cover"
+      ],
+      "callouts": {
+        "1": "Front cover",
+        "2": "Front cover oil seal",
+        "3": "Front cover gasket",
+        "4": "Transmission case",
+        "5": "Adapter plate",
+        "6": "Mainshaft bearing",
+        "7": "Bearing retainer",
+        "8": "Rear extension",
+        "9": "Breather",
+        "10": "Rear extension oil seal",
+        "11": "Sleeve yoke dust cover"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Note breather vent location on top of rear extension housing and dust cover on rear sleeve yoke.",
+      "tags": [
+        "FS5W71B",
+        "case components",
+        "exploded view",
+        "rear extension",
+        "front cover",
+        "breather"
+      ],
+      "dimensions": [
+        1061,
+        726
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_53_fs5w71b_transmission_gear_components",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_53_fs5w71b_transmission_gear_components.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_53_fs5w71b_transmission_gear_components.png",
+      "page_num": 15,
+      "page_label": "MT-15",
+      "fig_id": "Fig. MT-53",
+      "code": "TM047A",
+      "caption": "Fig. MT-53 FS5W71B transmission gear components",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view illustration of all gear train components of FS5W71B 5-speed transmission including overdrive main gear, overdrive synchronizer components, reverse gears, countershaft cluster, and reverse idler shaft.",
+      "components": [
+        "Main drive gear",
+        "Baulk ring",
+        "Shifting insert",
+        "Shifting insert spring",
+        "Synchronizer hub",
+        "Coupling sleeve",
+        "3rd main gear",
+        "Needle bearing",
+        "Mainshaft",
+        "2nd main gear",
+        "Bushing",
+        "1st main gear",
+        "OD-reverse synchronizer hub",
+        "Reverse main gear",
+        "Circlip",
+        "Thrust block",
+        "Brake band",
+        "Synchronizer ring",
+        "Overdrive main gear",
+        "Overdrive gear bushing",
+        "Washer",
+        "Mainshaft nut",
+        "Mainshaft rear bearing",
+        "Speedometer drive gear",
+        "Counter gear front bearing shim",
+        "Counter gear front bearing",
+        "Counter drive gear",
+        "Counter gear",
+        "Counter gear bearing",
+        "Reverse counter gear spacer",
+        "Reverse counter gear",
+        "Overdrive counter gear",
+        "Counter gear rear bearing",
+        "Counter gear nut",
+        "Reverse idler shaft",
+        "Reverse idler thrust washer",
+        "Reverse idler gear",
+        "Reverse idler gear bearing",
+        "Reverse idler thrust washer"
+      ],
+      "callouts": {
+        "1": "Main drive gear",
+        "2": "Baulk ring",
+        "3": "Shifting insert",
+        "4": "Shifting insert spring",
+        "5": "Synchronizer hub",
+        "6": "Coupling sleeve",
+        "7": "3rd main gear",
+        "8": "Needle bearing",
+        "9": "Mainshaft",
+        "10": "2nd main gear",
+        "11": "Bushing",
+        "12": "1st main gear",
+        "13": "OD-reverse synchronizer hub",
+        "14": "Reverse main gear",
+        "15": "Circlip",
+        "16": "Thrust block",
+        "17": "Brake band",
+        "18": "Synchronizer ring",
+        "19": "Overdrive main gear",
+        "20": "Overdrive gear bushing",
+        "21": "Washer",
+        "22": "Mainshaft nut",
+        "23": "Mainshaft rear bearing",
+        "24": "Speedometer drive gear",
+        "25": "Counter gear front bearing shim",
+        "26": "Counter gear front bearing",
+        "27": "Counter drive gear",
+        "28": "Counter gear",
+        "29": "Counter gear bearing",
+        "30": "Reverse counter gear spacer",
+        "31": "Reverse counter gear",
+        "32": "Overdrive counter gear",
+        "33": "Counter gear rear bearing",
+        "34": "Counter gear nut",
+        "35": "Reverse idler shaft",
+        "36": "Reverse idler thrust washer",
+        "37": "Reverse idler gear",
+        "38": "Reverse idler gear bearing",
+        "39": "Reverse idler thrust washer"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Observe assembly sequence of OD brake band (17), thrust block (16), synchro ring (18), and circlip (15). Discard nuts 22 and 34 after removal.",
+      "tags": [
+        "FS5W71B",
+        "gear components",
+        "geartrain",
+        "exploded view",
+        "overdrive",
+        "servo synchro",
+        "mainshaft",
+        "countershaft"
+      ],
+      "dimensions": [
+        1074,
+        1357
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_54_fs5w71b_transmission_shift_control_components",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_54_fs5w71b_transmission_shift_control_components.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_54_fs5w71b_transmission_shift_control_components.png",
+      "page_num": 16,
+      "page_label": "MT-16",
+      "fig_id": "Fig. MT-54",
+      "code": "",
+      "caption": "Fig. MT-54 FS5W71B transmission shift control components",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view diagram of FS5W71B shift control linkages, including striking lever, striking guide, striking rod, expansion plug, fork rods (including reverse & OD rod), and shift forks.",
+      "components": [
+        "Striking lever",
+        "Lock pin",
+        "O-ring",
+        "Striking guide",
+        "Oil seal",
+        "Striking rod",
+        "Expansion plug",
+        "Stopper guide pin",
+        "Return spring",
+        "Return spring plug",
+        "Return spring plunger",
+        "Check ball plug",
+        "Check spring",
+        "Check ball",
+        "Retaining pin",
+        "Interlock ball",
+        "1st & 2nd shift fork",
+        "1st & 2nd fork rod",
+        "3rd & 4th fork rod",
+        "Reverse & OD fork rod",
+        "3rd & 4th shift fork",
+        "Reverse & OD shift fork",
+        "Control lever",
+        "Control lever pin",
+        "Control lever bushing"
+      ],
+      "callouts": {
+        "1": "Striking lever",
+        "2": "Lock pin",
+        "3": "O-ring",
+        "4": "Striking guide",
+        "5": "Oil seal",
+        "6": "Striking rod",
+        "7": "Expansion plug",
+        "8": "Stopper guide pin",
+        "9": "Return spring",
+        "10": "Return spring plug",
+        "11": "Return spring plunger",
+        "12": "Check ball plug",
+        "13": "Check spring",
+        "14": "Check ball",
+        "15": "Retaining pin",
+        "16": "Interlock ball",
+        "17": "1st & 2nd shift fork",
+        "18": "1st & 2nd fork rod",
+        "19": "3rd & 4th fork rod",
+        "20": "Reverse & OD fork rod",
+        "21": "3rd & 4th shift fork",
+        "22": "Reverse & OD shift fork",
+        "23": "Control lever",
+        "24": "Control lever pin",
+        "25": "Control lever bushing"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "FS5W71B features combined reverse & overdrive shift fork and fork rod. Expansion plug (7) seals rear end of striking rod bore.",
+      "tags": [
+        "FS5W71B",
+        "shift control",
+        "shift forks",
+        "fork rods",
+        "exploded view",
+        "overdrive fork"
+      ],
+      "dimensions": [
+        1087,
+        647
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_55_removing_counter_gear_nut",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_55_removing_counter_gear_nut.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_55_removing_counter_gear_nut.png",
+      "page_num": 16,
+      "page_label": "MT-16",
+      "fig_id": "Fig. MT-55",
+      "code": "TM757",
+      "caption": "Fig. MT-55 Removing counter gear nut",
+      "diagram_type": "procedure_step",
+      "description": "Loosening counter gear nut at rear of countershaft with socket wrench while gears are doubly engaged.",
+      "components": [
+        "Counter gear nut",
+        "Countershaft",
+        "Socket wrench"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Unstake locking flange before loosening. Counter gear nut and mainshaft nut must be discarded and never reused.",
+      "tags": [
+        "counter gear nut",
+        "socket",
+        "loosening",
+        "disassembly",
+        "FS5W71B"
+      ],
+      "dimensions": [
+        353,
+        305
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_56_removing_counter_overdrive_gear_and_bearing",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_56_removing_counter_overdrive_gear_and_bearing.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_56_removing_counter_overdrive_gear_and_bearing.png",
+      "page_num": 16,
+      "page_label": "MT-16",
+      "fig_id": "Fig. MT-56",
+      "code": "TM758",
+      "caption": "Fig. MT-56 Removing counter overdrive gear and bearing",
+      "diagram_type": "procedure_step",
+      "description": "Drawing counter overdrive gear and rear ball bearing off the countershaft rear extension using a puller.",
+      "components": [
+        "Counter overdrive gear",
+        "Countershaft rear bearing",
+        "Gear puller"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Use a suitable puller engaged behind the bearing outer/inner race.",
+      "tags": [
+        "counter overdrive gear",
+        "rear bearing",
+        "puller",
+        "countershaft",
+        "disassembly"
+      ],
+      "dimensions": [
+        360,
+        314
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_57_removing_mainshaft_rear_bearing",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_57_removing_mainshaft_rear_bearing.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_57_removing_mainshaft_rear_bearing.png",
+      "page_num": 16,
+      "page_label": "MT-16",
+      "fig_id": "Fig. MT-57",
+      "code": "TM760",
+      "caption": "Fig. MT-57 Removing mainshaft rear bearing",
+      "diagram_type": "procedure_step",
+      "description": "Using Mainshaft Rear Bearing Puller KV32101330 to draw the mainshaft rear ball bearing off the mainshaft.",
+      "components": [
+        "Mainshaft rear bearing",
+        "Mainshaft",
+        "Mainshaft Rear Bearing Puller KV32101330"
+      ],
+      "callouts": {
+        "KV32101330": "Bearing puller tool"
+      },
+      "measurements_and_specs": [
+        "Special tool: KV32101330"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove snap rings and speedometer gear before pulling mainshaft rear bearing.",
+      "tags": [
+        "KV32101330",
+        "mainshaft rear bearing",
+        "bearing puller",
+        "special service tool"
+      ],
+      "dimensions": [
+        347,
+        253
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_58_installing_overdrive_gear_assembly",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_58_installing_overdrive_gear_assembly.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_58_installing_overdrive_gear_assembly.png",
+      "page_num": 17,
+      "page_label": "MT-17",
+      "fig_id": "Fig. MT-58",
+      "code": "TM449",
+      "caption": "Fig. MT-58 Installing overdrive gear assembly",
+      "diagram_type": "alignment_orientation",
+      "description": "Front face and sectional view of the Porsche-type servo overdrive synchronizer assembly showing placement of synchro ring, brake band, thrust block, anchor block, and circlip.",
+      "components": [
+        "Synchro ring",
+        "Bandbrake",
+        "Circlip",
+        "Anchor block",
+        "Thrust block",
+        "Overdrive clutch gear"
+      ],
+      "callouts": {
+        "Synchro ring": "Synchro ring",
+        "Bandbrake": "Bandbrake",
+        "Circlip": "Circlip",
+        "Anchor block": "Anchor block",
+        "Thrust block": "Thrust block"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Carefully fit anchor block and thrust block into their respective recesses in the clutch gear before securing with circlip.",
+      "tags": [
+        "overdrive synchronizer",
+        "servo synchro",
+        "band brake",
+        "thrust block",
+        "anchor block",
+        "assembly",
+        "FS5W71B"
+      ],
+      "dimensions": [
+        736,
+        410
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_59_reverse_idler_gear",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_59_reverse_idler_gear.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_59_reverse_idler_gear.png",
+      "page_num": 17,
+      "page_label": "MT-17",
+      "fig_id": "Fig. MT-59",
+      "code": "TM451",
+      "caption": "Fig. MT-59 Reverse idler gear",
+      "diagram_type": "alignment_orientation",
+      "description": "Assembly cross-section and orientation of the reverse idler gear on its shaft with spacers, needle bearing, and retaining snap rings.",
+      "components": [
+        "Reverse idler gear",
+        "Reverse idler shaft",
+        "Needle bearing",
+        "Spacers",
+        "Snap rings"
+      ],
+      "callouts": {
+        "Front": "Front vehicle direction arrow"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Verify forward facing orientation of reverse idler gear step and ensure snap rings are fully engaged in shaft grooves.",
+      "tags": [
+        "reverse idler gear",
+        "spacers",
+        "needle bearing",
+        "snap ring",
+        "orientation"
+      ],
+      "dimensions": [
+        341,
+        261
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_60_tightening_mainshaft_nut",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_60_tightening_mainshaft_nut.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_60_tightening_mainshaft_nut.png",
+      "page_num": 17,
+      "page_label": "MT-17",
+      "fig_id": "Fig. MT-60",
+      "code": "TM768",
+      "caption": "Fig. MT-60 Tightening mainshaft nut",
+      "diagram_type": "procedure_step",
+      "description": "Tightening mainshaft lock nut on FS5W71B using Special Wrench ST22520000 with gears locked by double engagement.",
+      "components": [
+        "Mainshaft lock nut",
+        "Special Wrench ST22520000",
+        "Torque wrench"
+      ],
+      "callouts": {
+        "ST22520000": "Special wrench"
+      },
+      "measurements_and_specs": [
+        "Counter gear lock nut torque: 10.0 to 13.0 kg-m (72 to 94 ft-lb)",
+        "Mainshaft lock nut converted torque formula: Fig. MT-44"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Use Wrench ST22520000 and calculate converted torque based on torque wrench effective length.",
+      "tags": [
+        "ST22520000",
+        "mainshaft lock nut",
+        "counter gear lock nut",
+        "torque",
+        "FS5W71B"
+      ],
+      "dimensions": [
+        341,
+        261
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_61_staking_mainshaft_nuts",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_61_staking_mainshaft_nuts.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_61_staking_mainshaft_nuts.png",
+      "page_num": 17,
+      "page_label": "MT-17",
+      "fig_id": "Fig. MT-61",
+      "code": "TM130A",
+      "caption": "Fig. MT-61 Staking mainshaft nuts",
+      "diagram_type": "procedure_step",
+      "description": "Using hammer and punch to stake both the mainshaft lock nut and counter gear lock nut into shaft grooves.",
+      "components": [
+        "Mainshaft nut",
+        "Counter gear nut",
+        "Punch",
+        "Mainshaft groove",
+        "Countershaft groove"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Both nuts must be securely staked into the respective shaft locking notches.",
+      "tags": [
+        "staking",
+        "lock nuts",
+        "punch",
+        "mainshaft",
+        "countershaft",
+        "FS5W71B"
+      ],
+      "dimensions": [
+        354,
+        297
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "fig_mt_62_assembling_mainshaft_rear_bearing",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/fig_mt_62_assembling_mainshaft_rear_bearing.png",
+      "rel_link": "diagrams/MT Manual Transmission/fig_mt_62_assembling_mainshaft_rear_bearing.png",
+      "page_num": 18,
+      "page_label": "MT-18",
+      "fig_id": "Fig. MT-62",
+      "code": "TM068A",
+      "caption": "Fig. MT-62 Assembling mainshaft rear bearing",
+      "diagram_type": "procedure_step",
+      "description": "Driving mainshaft rear bearing onto mainshaft using Bearing Drift ST22350000 and hammer.",
+      "components": [
+        "Mainshaft rear bearing",
+        "Mainshaft",
+        "Bearing Drift ST22350000",
+        "Hammer"
+      ],
+      "callouts": {
+        "ST22350000": "Bearing drift tool"
+      },
+      "measurements_and_specs": [
+        "Special tool: ST22350000"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Drive bearing squarely until seated against shoulder, then select thickest snap ring to eliminate axial play.",
+      "tags": [
+        "ST22350000",
+        "mainshaft rear bearing",
+        "drift",
+        "assembly",
+        "FS5W71B"
+      ],
+      "dimensions": [
+        348,
+        270
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "tool_st23810001_setting_plate_adapter",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/tool_st23810001_setting_plate_adapter.png",
+      "rel_link": "diagrams/MT Manual Transmission/tool_st23810001_setting_plate_adapter.png",
+      "page_num": 22,
+      "page_label": "MT-22",
+      "fig_id": "ST23810001",
+      "code": "",
+      "caption": "ST23810001 Setting plate adapter",
+      "diagram_type": "special_service_tool",
+      "description": "Setting plate adapter plate fixture for clamping transmission adapter plate securely in a workbench vise during disassembly and assembly.",
+      "components": [
+        "Setting plate adapter ST23810001"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Kent-Moore No.: J25693",
+        "Reference: Fig. MT-14, Fig. MT-15, Fig. MT-41"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Applicable to all S30 series models.",
+      "tags": [
+        "ST23810001",
+        "J25693",
+        "setting plate adapter",
+        "special service tool"
+      ],
+      "dimensions": [
+        552,
+        367
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "tool_st22360002_bearing_drift",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/tool_st22360002_bearing_drift.png",
+      "rel_link": "diagrams/MT Manual Transmission/tool_st22360002_bearing_drift.png",
+      "page_num": 22,
+      "page_label": "MT-22",
+      "fig_id": "ST22360002",
+      "code": "",
+      "caption": "ST22360002 Bearing drift",
+      "diagram_type": "special_service_tool",
+      "description": "Cylindrical bearing drift for pressing counter gear front bearing onto the countershaft.",
+      "components": [
+        "Bearing drift ST22360002"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Kent-Moore No.: J25679",
+        "Reference: Fig. MT-40"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Applicable to all S30 series models.",
+      "tags": [
+        "ST22360002",
+        "J25679",
+        "bearing drift",
+        "special service tool"
+      ],
+      "dimensions": [
+        538,
+        384
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "tool_kv31100300_fork_rod_pin_punch",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/tool_kv31100300_fork_rod_pin_punch.png",
+      "rel_link": "diagrams/MT Manual Transmission/tool_kv31100300_fork_rod_pin_punch.png",
+      "page_num": 22,
+      "page_label": "MT-22",
+      "fig_id": "KV31100300",
+      "code": "",
+      "caption": "KV31100300 Fork rod pin punch",
+      "diagram_type": "special_service_tool",
+      "description": "Pin punch specifically sized for driving roll retaining pins into and out of shift forks and fork rods.",
+      "components": [
+        "Fork rod pin punch KV31100300"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Reference: Fig. MT-15"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Applicable to all S30 series models.",
+      "tags": [
+        "KV31100300",
+        "pin punch",
+        "retaining pin",
+        "special service tool"
+      ],
+      "dimensions": [
+        552,
+        270
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "tool_st22520000_wrench",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/tool_st22520000_wrench.png",
+      "rel_link": "diagrams/MT Manual Transmission/tool_st22520000_wrench.png",
+      "page_num": 22,
+      "page_label": "MT-22",
+      "fig_id": "ST22520000",
+      "code": "",
+      "caption": "ST22520000 Wrench",
+      "diagram_type": "special_service_tool",
+      "description": "Special offset torque wrench adapter socket for tightening mainshaft lock nut.",
+      "components": [
+        "Wrench ST22520000"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Reference: Fig. MT-42, Fig. MT-43, Fig. MT-60",
+        "Offset: 0.10 m (0.33 ft)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Applicable to all S30 series models. Requires torque calculation conversion formula.",
+      "tags": [
+        "ST22520000",
+        "wrench",
+        "mainshaft nut wrench",
+        "special service tool"
+      ],
+      "dimensions": [
+        538,
+        270
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "tool_st30031000_bearing_puller",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/tool_st30031000_bearing_puller.png",
+      "rel_link": "diagrams/MT Manual Transmission/tool_st30031000_bearing_puller.png",
+      "page_num": 22,
+      "page_label": "MT-22",
+      "fig_id": "ST30031000",
+      "code": "",
+      "caption": "ST30031000 Bearing puller",
+      "diagram_type": "special_service_tool",
+      "description": "Split-plate bearing puller attachment for dismounting main drive bearing, countershaft bearing, and 1st gear bushing under a press.",
+      "components": [
+        "Bearing puller ST30031000"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Kent-Moore No.: J 25733-1",
+        "Reference: Fig. MT-21, Fig. MT-23, Fig. MT-24"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Applicable to all S30 series models.",
+      "tags": [
+        "ST30031000",
+        "J25733-1",
+        "bearing puller",
+        "special service tool"
+      ],
+      "dimensions": [
+        552,
+        253
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "tool_kv32101330_bearing_puller",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/tool_kv32101330_bearing_puller.png",
+      "rel_link": "diagrams/MT Manual Transmission/tool_kv32101330_bearing_puller.png",
+      "page_num": 22,
+      "page_label": "MT-22",
+      "fig_id": "KV32101330",
+      "code": "",
+      "caption": "KV32101330 Bearing puller",
+      "diagram_type": "special_service_tool",
+      "description": "Special puller assembly for drawing off mainshaft rear bearing on FS5W71B transmission.",
+      "components": [
+        "Bearing puller KV32101330"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Reference: Fig. MT-57",
+        "Unit application: FS5W71B"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Specific to FS5W71B 5-speed manual transmission.",
+      "tags": [
+        "KV32101330",
+        "bearing puller",
+        "mainshaft rear bearing",
+        "FS5W71B",
+        "special service tool"
+      ],
+      "dimensions": [
+        538,
+        271
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "tool_kv31100400_transmission_press_stand",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/tool_kv31100400_transmission_press_stand.png",
+      "rel_link": "diagrams/MT Manual Transmission/tool_kv31100400_transmission_press_stand.png",
+      "page_num": 22,
+      "page_label": "MT-22",
+      "fig_id": "KV31100400",
+      "code": "",
+      "caption": "KV31100400 Transmission press stand",
+      "diagram_type": "special_service_tool",
+      "description": "Multi-hole transmission press stand supporting the adapter plate and shafts during shop press operations.",
+      "components": [
+        "Transmission press stand KV31100400"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Reference: Fig. MT-34, Fig. MT-35, Fig. MT-36, Fig. MT-40"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Applicable to all S30 series models.",
+      "tags": [
+        "KV31100400",
+        "press stand",
+        "adapter plate",
+        "special service tool"
+      ],
+      "dimensions": [
+        552,
+        261
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "tool_st22350000_mainshaft_bearing_drift",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/tool_st22350000_mainshaft_bearing_drift.png",
+      "rel_link": "diagrams/MT Manual Transmission/tool_st22350000_mainshaft_bearing_drift.png",
+      "page_num": 22,
+      "page_label": "MT-22",
+      "fig_id": "ST22350000",
+      "code": "",
+      "caption": "ST22350000 Mainshaft bearing drift",
+      "diagram_type": "special_service_tool",
+      "description": "Tubular drift sleeve used for driving the mainshaft rear bearing onto the mainshaft of FS5W71B transmission.",
+      "components": [
+        "Mainshaft bearing drift ST22350000"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Kent-Moore No.: J25678",
+        "Reference: Fig. MT-62",
+        "Unit application: FS5W71B"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Specific to FS5W71B 5-speed manual transmission.",
+      "tags": [
+        "ST22350000",
+        "J25678",
+        "bearing drift",
+        "mainshaft rear bearing",
+        "FS5W71B",
+        "special service tool"
+      ],
+      "dimensions": [
+        538,
+        253
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "tool_st23860000_counter_gear_drift",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/tool_st23860000_counter_gear_drift.png",
+      "rel_link": "diagrams/MT Manual Transmission/tool_st23860000_counter_gear_drift.png",
+      "page_num": 22,
+      "page_label": "MT-22",
+      "fig_id": "ST23860000",
+      "code": "",
+      "caption": "ST23860000 Counter gear drift",
+      "diagram_type": "special_service_tool",
+      "description": "Counter gear drift for pressing counter drive gear onto countershaft with gears meshed.",
+      "components": [
+        "Counter gear drift ST23860000"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Reference: Fig. MT-38"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Applicable to all S30 series models.",
+      "tags": [
+        "ST23860000",
+        "counter gear drift",
+        "counter drive gear",
+        "special service tool"
+      ],
+      "dimensions": [
+        552,
+        270
+      ]
+    },
+    {
+      "section_title": "MANUAL TRANSMISSION",
+      "source_md": "1978 280z FSM/MT Manual Transmission.md",
+      "slug": "tool_st23800000_transmission_adapter",
+      "file": "markdown/1978 280z FSM/diagrams/MT Manual Transmission/tool_st23800000_transmission_adapter.png",
+      "rel_link": "diagrams/MT Manual Transmission/tool_st23800000_transmission_adapter.png",
+      "page_num": 22,
+      "page_label": "MT-22",
+      "fig_id": "ST23800000",
+      "code": "",
+      "caption": "ST23800000 Transmission adapter",
+      "diagram_type": "special_service_tool",
+      "description": "Transmission adapter drift sleeve for pressing main drive bearing onto the shaft of the main drive gear.",
+      "components": [
+        "Transmission adapter ST23800000"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Kent-Moore No.: J25691",
+        "Reference: Page MT-9"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Applicable to all S30 series models.",
+      "tags": [
+        "ST23800000",
+        "J25691",
+        "transmission adapter",
+        "main drive bearing",
+        "special service tool"
+      ],
+      "dimensions": [
+        538,
+        270
+      ]
+    }
+  ],
+  "torques": [
+    {
+      "component": "Propeller shaft connecting bolts",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.5 to 4.5 (25 to 33)",
+      "page_label": "MT-5"
+    },
+    {
+      "component": "Bolt fixing transmission to engine",
+      "unit": "kg-m (ft-lb)",
+      "value": "4.4 to 5.9 (32 to 43)",
+      "page_label": "MT-5"
+    },
+    {
+      "component": "Bolt fixing engine rear plate to transmission",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.9 to 1.2 (6.5 to 8.7)",
+      "page_label": "MT-5"
+    },
+    {
+      "component": "Withdrawal lever ball pin screw",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.6 to 2.1 (12 to 15)",
+      "page_label": "MT-8"
+    },
+    {
+      "component": "Striking lever lock pin screw",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.9 to 1.2 (6.5 to 8.7)",
+      "page_label": "MT-9"
+    },
+    {
+      "component": "Bearing retainer attaching screws to adapter plate",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.9 to 2.5 (14 to 18)",
+      "page_label": "MT-9"
+    },
+    {
+      "component": "Mainshaft lock nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "14.0 to 17.0 (101 to 123)",
+      "page_label": "MT-11"
+    },
+    {
+      "component": "Check ball plug (each)",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.9 to 2.5 (14 to 18)",
+      "page_label": "MT-12"
+    },
+    {
+      "component": "Rear extension through-bolts to adapter plate/case",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.6 to 2.1 (12 to 15)",
+      "page_label": "MT-12"
+    },
+    {
+      "component": "Front cover through-bolts to transmission case",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.6 to 2.1 (12 to 15)",
+      "page_label": "MT-13"
+    },
+    {
+      "component": "Back-up lamp switch",
+      "unit": "kg-m (ft-lb)",
+      "value": "2.0 to 3.0 (14 to 22)",
+      "page_label": "MT-13"
+    },
+    {
+      "component": "Counter gear lock nut (FS5W71B only)",
+      "unit": "kg-m (ft-lb)",
+      "value": "10.0 to 13.0 (72 to 94)",
+      "page_label": "MT-17"
+    },
+    {
+      "component": "Clutch operating cylinder installation bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "2.5 to 3.0 (18 to 22)",
+      "page_label": "MT-20"
+    },
+    {
+      "component": "Bolt fixing transmission to engine",
+      "unit": "kg-m (ft-lb)",
+      "value": "4.4 to 5.9 (32 to 43)",
+      "page_label": "MT-20"
+    },
+    {
+      "component": "Bolt fixing engine rear plate to transmission",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.9 to 1.2 (6.5 to 8.7)",
+      "page_label": "MT-20"
+    },
+    {
+      "component": "Bolt fixing crossmember to body",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.2 to 4.3 (23 to 31)",
+      "page_label": "MT-20"
+    },
+    {
+      "component": "Bolt fixing rear mounting insulator to crossmember",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.2 to 4.3 (23 to 31)",
+      "page_label": "MT-20"
+    },
+    {
+      "component": "Bolt fixing rear mounting insulator to rear extension",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.2 to 4.3 (23 to 31)",
+      "page_label": "MT-20"
+    },
+    {
+      "component": "Bolt fixing bearing retainer to adapter plate",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.9 to 2.5 (14 to 18)",
+      "page_label": "MT-20"
+    },
+    {
+      "component": "Mainshaft lock nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "14.0 to 17.0 (101 to 123)",
+      "page_label": "MT-20"
+    },
+    {
+      "component": "Counter gear lock nut (FS5W71B only)",
+      "unit": "kg-m (ft-lb)",
+      "value": "10.0 to 13.0 (72 to 94)",
+      "page_label": "MT-20"
+    },
+    {
+      "component": "Bolt fixing rear extension to transmission case",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.6 to 2.1 (12 to 15)",
+      "page_label": "MT-20"
+    },
+    {
+      "component": "Bolt fixing front cover to transmission case",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.6 to 2.1 (12 to 15)",
+      "page_label": "MT-20"
+    },
+    {
+      "component": "Filler plug",
+      "unit": "kg-m (ft-lb)",
+      "value": "2.5 to 3.5 (18 to 25)",
+      "page_label": "MT-20"
+    },
+    {
+      "component": "Drain plug",
+      "unit": "kg-m (ft-lb)",
+      "value": "2.5 to 3.5 (18 to 25)",
+      "page_label": "MT-20"
+    }
+  ],
+  "specs": [
+    {
+      "system": "Transmission",
+      "item": "Shift pattern",
+      "unit": "",
+      "standard": "F4W71B: 1-3 / 2-4-R; FS5W71B: 1-3-5 / 2-4-R",
+      "limit": "",
+      "page_label": "MT-18"
+    },
+    {
+      "system": "Transmission",
+      "item": "Synchromesh type",
+      "unit": "",
+      "standard": "F4W71B: Warner; FS5W71B: 1st to 4th Warner, 5th Servo",
+      "limit": "",
+      "page_label": "MT-18"
+    },
+    {
+      "system": "Gear ratio",
+      "item": "1st gear ratio",
+      "unit": "",
+      "standard": "3.321 (both F4W71B and FS5W71B)",
+      "limit": "",
+      "page_label": "MT-18"
+    },
+    {
+      "system": "Gear ratio",
+      "item": "2nd gear ratio",
+      "unit": "",
+      "standard": "2.077 (both F4W71B and FS5W71B)",
+      "limit": "",
+      "page_label": "MT-18"
+    },
+    {
+      "system": "Gear ratio",
+      "item": "3rd gear ratio",
+      "unit": "",
+      "standard": "1.308 (both F4W71B and FS5W71B)",
+      "limit": "",
+      "page_label": "MT-18"
+    },
+    {
+      "system": "Gear ratio",
+      "item": "4th gear ratio",
+      "unit": "",
+      "standard": "1.000 (both F4W71B and FS5W71B)",
+      "limit": "",
+      "page_label": "MT-18"
+    },
+    {
+      "system": "Gear ratio",
+      "item": "5th gear ratio",
+      "unit": "",
+      "standard": "FS5W71B: 0.864",
+      "limit": "",
+      "page_label": "MT-18"
+    },
+    {
+      "system": "Gear ratio",
+      "item": "Reverse gear ratio",
+      "unit": "",
+      "standard": "3.382 (both F4W71B and FS5W71B)",
+      "limit": "",
+      "page_label": "MT-18"
+    },
+    {
+      "system": "Number of teeth",
+      "item": "Main drive gear",
+      "unit": "teeth",
+      "standard": "22",
+      "limit": "",
+      "page_label": "MT-18"
+    },
+    {
+      "system": "Number of teeth",
+      "item": "1st main gear",
+      "unit": "teeth",
+      "standard": "33",
+      "limit": "",
+      "page_label": "MT-18"
+    },
+    {
+      "system": "Number of teeth",
+      "item": "2nd main gear",
+      "unit": "teeth",
+      "standard": "28",
+      "limit": "",
+      "page_label": "MT-18"
+    },
+    {
+      "system": "Number of teeth",
+      "item": "3rd main gear",
+      "unit": "teeth",
+      "standard": "26",
+      "limit": "",
+      "page_label": "MT-18"
+    },
+    {
+      "system": "Number of teeth",
+      "item": "5th main gear",
+      "unit": "teeth",
+      "standard": "FS5W71B: 19",
+      "limit": "",
+      "page_label": "MT-18"
+    },
+    {
+      "system": "Number of teeth",
+      "item": "Reverse main gear",
+      "unit": "teeth",
+      "standard": "36",
+      "limit": "",
+      "page_label": "MT-18"
+    },
+    {
+      "system": "Number of teeth",
+      "item": "Counter drive gear",
+      "unit": "teeth",
+      "standard": "31",
+      "limit": "",
+      "page_label": "MT-18"
+    },
+    {
+      "system": "Number of teeth",
+      "item": "Counter gear 1st",
+      "unit": "teeth",
+      "standard": "14",
+      "limit": "",
+      "page_label": "MT-18"
+    },
+    {
+      "system": "Number of teeth",
+      "item": "Counter gear 2nd",
+      "unit": "teeth",
+      "standard": "19",
+      "limit": "",
+      "page_label": "MT-18"
+    },
+    {
+      "system": "Number of teeth",
+      "item": "Counter gear 3rd",
+      "unit": "teeth",
+      "standard": "28",
+      "limit": "",
+      "page_label": "MT-18"
+    },
+    {
+      "system": "Number of teeth",
+      "item": "Counter gear 5th",
+      "unit": "teeth",
+      "standard": "FS5W71B: 31",
+      "limit": "",
+      "page_label": "MT-18"
+    },
+    {
+      "system": "Number of teeth",
+      "item": "Counter gear Reverse",
+      "unit": "teeth",
+      "standard": "15",
+      "limit": "",
+      "page_label": "MT-18"
+    },
+    {
+      "system": "Number of teeth",
+      "item": "Reverse idler gear",
+      "unit": "teeth",
+      "standard": "23",
+      "limit": "",
+      "page_label": "MT-18"
+    },
+    {
+      "system": "Oil capacity",
+      "item": "F4W71B gear oil capacity",
+      "unit": "liter (US pt, Imp pt)",
+      "standard": "1.7 (3 5/8, 3)",
+      "limit": "",
+      "page_label": "MT-18"
+    },
+    {
+      "system": "Oil capacity",
+      "item": "FS5W71B gear oil capacity",
+      "unit": "liter (US pt, Imp pt)",
+      "standard": "2.0 (4 1/4, 3 1/2)",
+      "limit": "",
+      "page_label": "MT-18"
+    },
+    {
+      "system": "Drive line",
+      "item": "Speedometer gear ratio",
+      "unit": "",
+      "standard": "17/6",
+      "limit": "",
+      "page_label": "MT-18"
+    },
+    {
+      "system": "Drive line",
+      "item": "Final gear ratio",
+      "unit": "",
+      "standard": "3.545",
+      "limit": "",
+      "page_label": "MT-18"
+    },
+    {
+      "system": "Chassis",
+      "item": "Tire size",
+      "unit": "",
+      "standard": "195/70HR-14",
+      "limit": "",
+      "page_label": "MT-18"
+    },
+    {
+      "system": "Gear backlash",
+      "item": "Main drive gear backlash",
+      "unit": "mm (in)",
+      "standard": "0.05 to 0.10 (0.0020 to 0.0039)",
+      "limit": "",
+      "page_label": "MT-19"
+    },
+    {
+      "system": "Gear backlash",
+      "item": "1st gear backlash",
+      "unit": "mm (in)",
+      "standard": "0.05 to 0.20 (0.0020 to 0.0079)",
+      "limit": "",
+      "page_label": "MT-19"
+    },
+    {
+      "system": "Gear backlash",
+      "item": "2nd gear backlash",
+      "unit": "mm (in)",
+      "standard": "0.05 to 0.20 (0.0020 to 0.0079)",
+      "limit": "",
+      "page_label": "MT-19"
+    },
+    {
+      "system": "Gear backlash",
+      "item": "3rd gear backlash",
+      "unit": "mm (in)",
+      "standard": "0.05 to 0.20 (0.0020 to 0.0079)",
+      "limit": "",
+      "page_label": "MT-19"
+    },
+    {
+      "system": "Gear backlash",
+      "item": "5th gear backlash (FS5W71B)",
+      "unit": "mm (in)",
+      "standard": "0.05 to 0.20 (0.0020 to 0.0079)",
+      "limit": "",
+      "page_label": "MT-19"
+    },
+    {
+      "system": "Gear backlash",
+      "item": "Reverse idler gear backlash",
+      "unit": "mm (in)",
+      "standard": "0.05 to 0.20 (0.0020 to 0.0079)",
+      "limit": "",
+      "page_label": "MT-19"
+    },
+    {
+      "system": "Gear end play",
+      "item": "1st gear end play",
+      "unit": "mm (in)",
+      "standard": "0.32 to 0.39 (0.0126 to 0.0154)",
+      "limit": "",
+      "page_label": "MT-19"
+    },
+    {
+      "system": "Gear end play",
+      "item": "2nd gear end play",
+      "unit": "mm (in)",
+      "standard": "0.12 to 0.19 (0.0047 to 0.0075)",
+      "limit": "",
+      "page_label": "MT-19"
+    },
+    {
+      "system": "Gear end play",
+      "item": "3rd gear end play",
+      "unit": "mm (in)",
+      "standard": "0.13 to 0.37 (0.0051 to 0.0146)",
+      "limit": "",
+      "page_label": "MT-19"
+    },
+    {
+      "system": "Gear end play",
+      "item": "5th gear end play (FS5W71B)",
+      "unit": "mm (in)",
+      "standard": "0.12 to 0.19 (0.0047 to 0.0075)",
+      "limit": "",
+      "page_label": "MT-19"
+    },
+    {
+      "system": "Gear end play",
+      "item": "Reverse counter gear end play (F4W71B)",
+      "unit": "mm (in)",
+      "standard": "Less than 0.20 (0.0079)",
+      "limit": "0.20 (0.0079)",
+      "page_label": "MT-19"
+    },
+    {
+      "system": "Gear end play",
+      "item": "Reverse idler gear end play (FS5W71B)",
+      "unit": "mm (in)",
+      "standard": "0.05 to 0.50 (0.0020 to 0.0197)",
+      "limit": "",
+      "page_label": "MT-19"
+    },
+    {
+      "system": "Synchronizer",
+      "item": "Baulk ring to cone gap standard",
+      "unit": "mm (in)",
+      "standard": "1.20 to 1.60 (0.0472 to 0.0630)",
+      "limit": "0.8 (0.0315)",
+      "page_label": "MT-19"
+    },
+    {
+      "system": "Main drive gear snap ring",
+      "item": "Snap ring thicknesses available",
+      "unit": "mm (in)",
+      "standard": "1.73 (0.0681), 1.80 (0.0709), 1.87 (0.0736), 1.94 (0.0764), 2.01 (0.0791), 2.08 (0.0819)",
+      "limit": "",
+      "page_label": "MT-19"
+    },
+    {
+      "system": "Mainshaft front snap ring",
+      "item": "Snap ring thicknesses available",
+      "unit": "mm (in)",
+      "standard": "1.4 (0.055), 1.5 (0.059), 1.6 (0.063)",
+      "limit": "",
+      "page_label": "MT-19"
+    },
+    {
+      "system": "Mainshaft rear bearing snap ring",
+      "item": "Snap ring thicknesses available (FS5W71B)",
+      "unit": "mm (in)",
+      "standard": "1.1 (0.043), 1.2 (0.047), 1.3 (0.051), 1.4 (0.055)",
+      "limit": "",
+      "page_label": "MT-19"
+    },
+    {
+      "system": "Counter drive gear snap ring",
+      "item": "Snap ring thicknesses available",
+      "unit": "mm (in)",
+      "standard": "1.4 (0.055), 1.5 (0.059), 1.6 (0.063)",
+      "limit": "",
+      "page_label": "MT-19"
+    },
+    {
+      "system": "Counter reverse gear snap ring",
+      "item": "Snap ring thicknesses available (F4W71B)",
+      "unit": "mm (in)",
+      "standard": "1.4 (0.055), 1.5 (0.059), 1.6 (0.063)",
+      "limit": "",
+      "page_label": "MT-19"
+    },
+    {
+      "system": "Countershaft front bearing shim",
+      "item": "Shim thicknesses available",
+      "unit": "mm (in)",
+      "standard": "0.1 (0.004), 0.2 (0.008), 0.3 (0.012), 0.4 (0.016), 0.5 (0.020), 0.6 (0.024)",
+      "limit": "",
+      "page_label": "MT-19"
+    }
+  ],
+  "troubleshooting": [
+    {
+      "symptom": "Difficult to intermesh gears (heavy gear shift lever, difficult shifting, or unsmooth clutch disengagement)",
+      "probable_cause": "Worn gears, shaft, and/or bearing; Insufficient operating stroke due to worn or loose sliding part; Faulty or damaged synchronizer.",
+      "corrective_action": "Replace worn gears, shaft, and/or bearing; Repair or replace sliding part; Replace faulty or damaged synchronizer.",
+      "page_label": "MT-21"
+    },
+    {
+      "symptom": "Gear slips out of mesh",
+      "probable_cause": "Worn interlock ball; Worn check ball and/or weakened or broken spring; Worn fork rod ball groove; Worn or damaged bearing; Worn or damaged gear; Vibration generated by weakened front and rear engine mounts.",
+      "corrective_action": "Replace worn interlock ball; Replace check ball and/or spring; Replace fork rod; Replace worn or damaged bearing; Replace worn or damaged gear; Inspect and replace engine mounts.",
+      "page_label": "MT-21"
+    },
+    {
+      "symptom": "Noise (occurs with engine idling and ceases when clutch disengaged, or occurs while shifting gears)",
+      "probable_cause": "Insufficient or improper lubricant; Oil leaking due to faulty oil seal or sealant, clogged breather, etc.; Worn bearing (High humming occurs at a high speed.); Damaged bearing (Cyclic knocking sound occurs also at a low speed.); Worn spline; Worn bushing.",
+      "corrective_action": "Add oil or replace with designated oil; Clean or replace oil seal, sealant, or breather; Replace worn bearing; Replace damaged bearing; Replace worn spline; Replace worn bushing. Note: If transmission rattles during engine idling, check air-fuel mixture and ignition timing, then readjust engine idling.",
+      "page_label": "MT-21"
+    }
+  ],
+  "special_tools": [
+    {
+      "tool_number": "ST23810001",
+      "tool_name": "Setting plate adapter",
+      "kent_moore_no": "J25693",
+      "ref": "Fig. MT-14, Fig. MT-15, Fig. MT-41",
+      "page_label": "MT-22"
+    },
+    {
+      "tool_number": "ST22360002",
+      "tool_name": "Bearing drift",
+      "kent_moore_no": "J25679",
+      "ref": "Fig. MT-40",
+      "page_label": "MT-22"
+    },
+    {
+      "tool_number": "KV31100300",
+      "tool_name": "Fork rod pin punch",
+      "kent_moore_no": "\u2014",
+      "ref": "Fig. MT-15",
+      "page_label": "MT-22"
+    },
+    {
+      "tool_number": "ST22520000",
+      "tool_name": "Wrench",
+      "kent_moore_no": "\u2014",
+      "ref": "Fig. MT-42, Fig. MT-43, Fig. MT-60",
+      "page_label": "MT-22"
+    },
+    {
+      "tool_number": "ST30031000",
+      "tool_name": "Bearing puller",
+      "kent_moore_no": "J 25733-1",
+      "ref": "Fig. MT-21, Fig. MT-23, Fig. MT-24",
+      "page_label": "MT-22"
+    },
+    {
+      "tool_number": "KV32101330",
+      "tool_name": "Bearing puller",
+      "kent_moore_no": "\u2014",
+      "ref": "Fig. MT-57",
+      "page_label": "MT-22"
+    },
+    {
+      "tool_number": "KV31100400",
+      "tool_name": "Transmission press stand",
+      "kent_moore_no": "\u2014",
+      "ref": "Fig. MT-34, Fig. MT-35, Fig. MT-36, Fig. MT-40",
+      "page_label": "MT-22"
+    },
+    {
+      "tool_number": "ST22350000",
+      "tool_name": "Mainshaft bearing drift",
+      "kent_moore_no": "J25678",
+      "ref": "Fig. MT-62",
+      "page_label": "MT-22"
+    },
+    {
+      "tool_number": "ST23860000",
+      "tool_name": "Counter gear drift",
+      "kent_moore_no": "\u2014",
+      "ref": "Fig. MT-38",
+      "page_label": "MT-22"
+    },
+    {
+      "tool_number": "ST23800000",
+      "tool_name": "Transmission adapter",
+      "kent_moore_no": "J25691",
+      "ref": "Page MT-9",
+      "page_label": "MT-22"
+    }
+  ]
+}

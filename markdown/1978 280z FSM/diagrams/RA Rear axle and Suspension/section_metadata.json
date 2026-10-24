@@ -1,0 +1,2305 @@
+{
+  "section_title": "REAR AXLE & REAR SUSPENSION",
+  "source_pdf": "1978 280z FSM/RA Rear axle and Suspension.pdf",
+  "md_path": "1978 280z FSM/RA Rear axle and Suspension.md",
+  "pages_count": 16,
+  "diagrams": [
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_1_cross_sectional_view_of_rear_axle",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_1_cross_sectional_view_of_rear_axle.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_1_cross_sectional_view_of_rear_axle.png",
+      "page_num": 2,
+      "page_label": "RA-2",
+      "fig_id": "Fig. RA-1",
+      "code": "RA417",
+      "caption": "Fig. RA-1 Cross sectional view of rear axle",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross-sectional assembly diagram of rear axle and drive shaft showing wheel bearings, housing, companion flange, brake drum, axle shaft, and both R180 side yoke and R200 side flange configurations.",
+      "components": [
+        "Drive shaft assembly",
+        "Companion flange",
+        "Grease seal",
+        "Brake drum",
+        "Rear axle shaft",
+        "Grease catcher",
+        "Bearing housing",
+        "Outer wheel bearing",
+        "Inner wheel bearing",
+        "Distance piece",
+        "Side yoke"
+      ],
+      "callouts": {
+        "1": "Drive shaft assembly",
+        "2": "Companion flange",
+        "3": "Grease seal",
+        "4": "Brake drum",
+        "5": "Rear axle shaft",
+        "6": "Grease catcher",
+        "7": "Bearing housing",
+        "8": "Outer wheel bearing",
+        "9": "Inner wheel bearing",
+        "10": "Distance piece",
+        "11": "Side yoke",
+        "A": "Tightening torque: 4.0 to 5.3 kg-m (29 to 38 ft-lb)",
+        "B": "Tightening torque: 25 to 33 kg-m (181 to 239 ft-lb)",
+        "C": "Tightening torque: Steel wheel 8.0 to 9.0 kg-m (58 to 65 ft-lb), Aluminum wheel 8.0 to 10.0 kg-m (58 to 72 ft-lb)",
+        "D": "Tightening torque: 5.0 to 6.0 kg-m (36 to 43 ft-lb)",
+        "E": "Tightening torque: 3.2 to 4.3 kg-m (23 to 31 ft-lb)"
+      },
+      "measurements_and_specs": [
+        "Flange bolt torque (A): 4.0 to 5.3 kg-m (29 to 38 ft-lb)",
+        "Axle bearing lock nut torque (B): 25 to 33 kg-m (181 to 239 ft-lb)",
+        "Wheel nuts torque (C, steel): 8.0 to 9.0 kg-m (58 to 65 ft-lb)",
+        "Wheel nuts torque (C, aluminum): 8.0 to 10.0 kg-m (58 to 72 ft-lb)",
+        "Drive shaft bolts torque (D): 5.0 to 6.0 kg-m (36 to 43 ft-lb)",
+        "Side yoke bolt torque (E): 3.2 to 4.3 kg-m (23 to 31 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Two types of drive shafts: Side Flange type for R200 differential (M/T), Side Yoke type for R180 differential (A/T). Side yoke type inset coded RA415.",
+      "tags": [
+        "rear axle",
+        "cross section",
+        "wheel bearing",
+        "companion flange",
+        "distance piece",
+        "R180",
+        "R200",
+        "torque specs"
+      ],
+      "dimensions": [
+        1119,
+        989
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_2_rear_suspension_system",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_2_rear_suspension_system.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_2_rear_suspension_system.png",
+      "page_num": 3,
+      "page_label": "RA-3",
+      "fig_id": "Fig. RA-2",
+      "code": "RA316",
+      "caption": "Fig. RA-2 Rear suspension system",
+      "diagram_type": "exploded_view",
+      "description": "Complete schematic layout of the rear suspension system including strut assembly, transverse link, differential case mounting members, insulator mounts, stabilizer bar, and all torque specifications.",
+      "components": [
+        "Rear strut mounting insulator",
+        "Spacer",
+        "Bound bumper rubber",
+        "Dust cover",
+        "Strut assembly",
+        "Transverse link",
+        "Differential case mounting member",
+        "Link mounting brace",
+        "Stabilizer bar",
+        "Differential case mounting front member",
+        "Differential case mounting front insulator",
+        "Damper plate"
+      ],
+      "callouts": {
+        "1": "Rear strut mounting insulator",
+        "2": "Spacer",
+        "3": "Bound bumper rubber",
+        "4": "Dust cover",
+        "5": "Strut assembly",
+        "6": "Transverse link",
+        "7": "Differential case mounting member",
+        "8": "Link mounting brace",
+        "9": "Stabilizer bar",
+        "10": "Differential case mounting front member",
+        "11": "Differential case mounting front insulator",
+        "12": "Damper plate",
+        "A": "Tightening torque: 2.5 to 3.5 kg-m (18 to 25 ft-lb)",
+        "B": "Tightening torque: 7.5 to 9.5 kg-m (54 to 69 ft-lb)",
+        "C": "Tightening torque: 7.5 to 9.5 kg-m (54 to 69 ft-lb)",
+        "D": "Tightening torque: 4.6 to 6.1 kg-m (33 to 44 ft-lb)",
+        "E": "Tightening torque: R180 Diff. 6.0 to 7.0 kg-m (43 to 51 ft-lb), R200 Diff. 7.5 to 9.5 kg-m (54 to 69 ft-lb)",
+        "F": "Tightening torque: 14 to 16 kg-m (101 to 116 ft-lb)",
+        "G": "Tightening torque: 7.5 to 9.5 kg-m (54 to 69 ft-lb)",
+        "H": "Tightening torque: 1.0 to 1.2 kg-m (7 to 9 ft-lb)",
+        "I": "Tightening torque: 6.0 to 8.0 kg-m (43 to 58 ft-lb)",
+        "J": "Tightening torque: 4.6 to 6.1 kg-m (33 to 44 ft-lb)"
+      },
+      "measurements_and_specs": [
+        "A (strut mounting upper nut): 2.5 to 3.5 kg-m (18 to 25 ft-lb)",
+        "B (strut piston rod lock nut): 7.5 to 9.5 kg-m (54 to 69 ft-lb)",
+        "C (transverse link outer self-lock nut): 7.5 to 9.5 kg-m (54 to 69 ft-lb)",
+        "D (transverse link mounting brace bolt): 4.6 to 6.1 kg-m (33 to 44 ft-lb)",
+        "E (differential rear member installation nut): R180 Diff. 6.0 to 7.0 kg-m (43 to 51 ft-lb), R200 Diff. 7.5 to 9.5 kg-m (54 to 69 ft-lb)",
+        "F (transverse link inner bolt): 14 to 16 kg-m (101 to 116 ft-lb)",
+        "G (differential rear insulator installation nut): 7.5 to 9.5 kg-m (54 to 69 ft-lb)",
+        "H (stabilizer bar connecting bolt): 1.0 to 1.2 kg-m (7 to 9 ft-lb)",
+        "I (gear carrier and front insulator nut): 6.0 to 8.0 kg-m (43 to 58 ft-lb)",
+        "J (differential front member bolt): 4.6 to 6.1 kg-m (33 to 44 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Illustrates relationship of strut, coil spring, transverse link, differential mounting front and rear members, and stabilizer linkage.",
+      "tags": [
+        "rear suspension",
+        "strut",
+        "transverse link",
+        "differential mounting",
+        "stabilizer bar",
+        "torque specs"
+      ],
+      "dimensions": [
+        1062,
+        1418
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_3_removing_drive_shaft",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_3_removing_drive_shaft.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_3_removing_drive_shaft.png",
+      "page_num": 4,
+      "page_label": "RA-4",
+      "fig_id": "Fig. RA-3",
+      "code": "RA290",
+      "caption": "Fig. RA-3 Removing drive shaft",
+      "diagram_type": "procedure_step",
+      "description": "Removing drive shaft installation bolts at the rear axle wheel companion flange.",
+      "components": [
+        "Drive shaft",
+        "Companion flange",
+        "Mounting bolts"
+      ],
+      "callouts": {
+        "Tightening torque": "5.0 to 6.0 kg-m (36 to 43 ft-lb)"
+      },
+      "measurements_and_specs": [
+        "Tightening torque: 5.0 to 6.0 kg-m (36 to 43 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Bolts connect drive shaft flange to rear axle companion flange.",
+      "tags": [
+        "drive shaft removal",
+        "companion flange",
+        "torque spec"
+      ],
+      "dimensions": [
+        380,
+        341
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_4_removing_rear_wheel_bearing_lock_nut",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_4_removing_rear_wheel_bearing_lock_nut.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_4_removing_rear_wheel_bearing_lock_nut.png",
+      "page_num": 4,
+      "page_label": "RA-4",
+      "fig_id": "Fig. RA-4",
+      "code": "RA507",
+      "caption": "Fig. RA-4 Removing rear wheel bearing lock nut",
+      "diagram_type": "procedure_step",
+      "description": "Removing the staked rear wheel bearing lock nut using tool KV40101000 while hub is stationary.",
+      "components": [
+        "Rear wheel bearing lock nut",
+        "Axle shaft",
+        "Rear Axle Stand KV40101000"
+      ],
+      "callouts": {
+        "KV40101000": "Rear axle stand KV40101000",
+        "Tightening torque": "25 to 33 kg-m (181 to 239 ft-lb)"
+      },
+      "measurements_and_specs": [
+        "Tightening torque: 25 to 33 kg-m (181 to 239 ft-lb)",
+        "Special tool: KV40101000"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Do not release caulking when removing the rear wheel bearing lock nut.",
+      "tags": [
+        "wheel bearing lock nut",
+        "KV40101000",
+        "torque spec"
+      ],
+      "dimensions": [
+        380,
+        332
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_5_removing_rear_axle_shaft",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_5_removing_rear_axle_shaft.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_5_removing_rear_axle_shaft.png",
+      "page_num": 4,
+      "page_label": "RA-4",
+      "fig_id": "Fig. RA-5",
+      "code": "RA490",
+      "caption": "Fig. RA-5 Removing rear axle shaft",
+      "diagram_type": "procedure_step",
+      "description": "Pulling the rear axle shaft out of the bearing housing using sliding hammer ST36230000 attached to rear axle stand KV40101000.",
+      "components": [
+        "Rear axle shaft",
+        "Rear Axle Stand KV40101000",
+        "Sliding hammer ST36230000",
+        "Wheel hub"
+      ],
+      "callouts": {
+        "KV40101000": "Rear axle stand KV40101000",
+        "ST36230000": "Sliding hammer ST36230000"
+      },
+      "measurements_and_specs": [
+        "Special tools: KV40101000, ST36230000"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Thread slide hammer adapter onto wheel hub studs/flange via KV40101000 stand.",
+      "tags": [
+        "axle shaft removal",
+        "slide hammer",
+        "KV40101000",
+        "ST36230000"
+      ],
+      "dimensions": [
+        360,
+        332
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_6_removing_rear_wheel_bearing_outer_side",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_6_removing_rear_wheel_bearing_outer_side.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_6_removing_rear_wheel_bearing_outer_side.png",
+      "page_num": 4,
+      "page_label": "RA-4",
+      "fig_id": "Fig. RA-6",
+      "code": "RA296",
+      "caption": "Fig. RA-6 Removing rear wheel bearing (outer side)",
+      "diagram_type": "procedure_step",
+      "description": "Pressing the outer rear wheel bearing off the axle shaft using a press and support plates.",
+      "components": [
+        "Rear axle shaft",
+        "Outer wheel bearing",
+        "Support plates",
+        "Press ram"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Do not reuse bearing after removal.",
+      "tags": [
+        "wheel bearing removal",
+        "outer bearing",
+        "hydraulic press"
+      ],
+      "dimensions": [
+        360,
+        323
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_7_rear_bearing_housing_and_distance_piece",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_7_rear_bearing_housing_and_distance_piece.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_7_rear_bearing_housing_and_distance_piece.png",
+      "page_num": 5,
+      "page_label": "RA-5",
+      "fig_id": "Fig. RA-7",
+      "code": "RA317",
+      "caption": "Fig. RA-7 Rear bearing housing and distance piece",
+      "diagram_type": "inspection_measurement",
+      "description": "Marking positions and dimension definitions for rear bearing housing length (L1) and distance piece length (L2).",
+      "components": [
+        "Bearing housing",
+        "Distance piece"
+      ],
+      "callouts": {
+        "Mark": "Mark stamped location (A, B, or C)",
+        "L1": "Housing internal shoulder dimension",
+        "L2": "Distance piece length"
+      },
+      "measurements_and_specs": [
+        "Mark A housing: 52.63 to 52.73 mm (2.0720 to 2.0760 in)",
+        "Mark A distance piece: 52.60 to 52.66 mm (2.0709 to 2.0732 in)",
+        "Mark B housing: 52.53 to 52.63 mm (2.0681 to 2.0720 in)",
+        "Mark B distance piece: 52.50 to 52.56 mm (2.0669 to 2.0693 in)",
+        "Mark C housing: 52.43 to 52.53 mm (2.0642 to 2.0681 in)",
+        "Mark C distance piece: 52.40 to 52.46 mm (2.0630 to 2.0654 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Select distance piece having a mark corresponding to mark on housing. When distance piece is reused, verify ends are not collapsed or deformed.",
+      "tags": [
+        "bearing housing",
+        "distance piece",
+        "selective fit",
+        "clearance"
+      ],
+      "dimensions": [
+        348,
+        322
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_8_lubrication_chart_of_rear_axle",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_8_lubrication_chart_of_rear_axle.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_8_lubrication_chart_of_rear_axle.png",
+      "page_num": 5,
+      "page_label": "RA-5",
+      "fig_id": "Fig. RA-8",
+      "code": "RA318",
+      "caption": "Fig. RA-8 Lubrication chart of rear axle",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross-sectional lubrication diagram of rear axle housing indicating cavity areas to pack with multi-purpose grease (asterisk *).",
+      "components": [
+        "Rear axle shaft",
+        "Bearing housing",
+        "Grease seal",
+        "Wheel bearing",
+        "Distance piece"
+      ],
+      "callouts": {
+        "1": "Rear axle shaft",
+        "2": "Bearing housing",
+        "3": "Grease seal",
+        "4": "Wheel bearing",
+        "5": "Distance piece",
+        "*": "Fill with recommended multi-purpose grease"
+      },
+      "measurements_and_specs": [
+        "Lock nut torque: 25 to 33 kg-m (181 to 239 ft-lb)",
+        "Preload: 4.5 kg-cm (3.9 in-lb), <= 790 gr (27.86 oz) at hub bolt",
+        "End play: 0 to 0.15 mm (0 to 0.0059 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Outer bearing has seal on one side. Install outer bearing so seal faces the wheel. Fill portions marked with asterisk (*) with grease.",
+      "tags": [
+        "lubrication chart",
+        "wheel bearing grease",
+        "grease seal",
+        "bearing orientation"
+      ],
+      "dimensions": [
+        348,
+        446
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_9_drive_shaft_components",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_9_drive_shaft_components.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_9_drive_shaft_components.png",
+      "page_num": 5,
+      "page_label": "RA-5",
+      "fig_id": "Fig. RA-9",
+      "code": "RA416",
+      "caption": "Fig. RA-9 Drive shaft components",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of drive shaft assembly showing components for both Side Flange type (R200) and Side Yoke type (R180).",
+      "components": [
+        "Drive shaft",
+        "Boot band",
+        "Snap ring",
+        "Sleeve yoke stopper",
+        "Spider journal",
+        "Side yoke",
+        "Sleeve yoke plug",
+        "Sleeve yoke",
+        "Drive shaft stopper",
+        "Rubber boot",
+        "Ball spacer",
+        "Drive shaft ball"
+      ],
+      "callouts": {
+        "1": "Drive shaft",
+        "2": "Boot band",
+        "3": "Snap ring",
+        "4": "Sleeve yoke stopper",
+        "5": "Snap ring",
+        "6": "Spider journal",
+        "7": "Side yoke",
+        "8": "Sleeve yoke plug",
+        "9": "Sleeve yoke",
+        "10": "Drive shaft stopper",
+        "11": "Boot band",
+        "12": "Rubber boot",
+        "13": "Ball spacer",
+        "14": "Drive shaft ball",
+        "15": "Side yoke"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Shows ball spline assembly order and universal joint spider yokes.",
+      "tags": [
+        "drive shaft",
+        "exploded view",
+        "ball spline",
+        "spider journal",
+        "side yoke",
+        "side flange"
+      ],
+      "dimensions": [
+        992,
+        472
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_10_removing_drive_shaft",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_10_removing_drive_shaft.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_10_removing_drive_shaft.png",
+      "page_num": 6,
+      "page_label": "RA-6",
+      "fig_id": "Fig. RA-10",
+      "code": "RA516",
+      "caption": "Fig. RA-10 Removing drive shaft",
+      "diagram_type": "procedure_step",
+      "description": "Removing universal joint yoke flange bolts from both wheel and differential sides on R200 drive shaft.",
+      "components": [
+        "Drive shaft",
+        "Flange yoke",
+        "Differential companion flange",
+        "Mounting bolts"
+      ],
+      "callouts": {
+        "A": "Tightening torque: 5.0 to 6.0 kg-m (36 to 43 ft-lb)"
+      },
+      "measurements_and_specs": [
+        "Tightening torque (A): 5.0 to 6.0 kg-m (36 to 43 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove bolts from both ends (wheel side and gear carrier side).",
+      "tags": [
+        "drive shaft removal",
+        "R200",
+        "flange bolts",
+        "torque spec"
+      ],
+      "dimensions": [
+        742,
+        366
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_11_removing_side_yoke_fitting_bolt",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_11_removing_side_yoke_fitting_bolt.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_11_removing_side_yoke_fitting_bolt.png",
+      "page_num": 6,
+      "page_label": "RA-6",
+      "fig_id": "Fig. RA-11",
+      "code": "PD323",
+      "caption": "Fig. RA-11 Removing side yoke fitting bolt",
+      "diagram_type": "procedure_step",
+      "description": "Loosening center side yoke retaining bolt on R180 differential carrier.",
+      "components": [
+        "Side yoke",
+        "Fitting bolt",
+        "R180 differential carrier"
+      ],
+      "callouts": {
+        "Tightening torque": "3.2 to 4.3 kg-m (23 to 31 ft-lb)"
+      },
+      "measurements_and_specs": [
+        "Tightening torque: 3.2 to 4.3 kg-m (23 to 31 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove side yoke fitting bolts and extract side yokes together with drive shafts.",
+      "tags": [
+        "side yoke",
+        "R180",
+        "fitting bolt",
+        "torque spec"
+      ],
+      "dimensions": [
+        379,
+        341
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_12_measuring_drive_shaft_play",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_12_measuring_drive_shaft_play.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_12_measuring_drive_shaft_play.png",
+      "page_num": 6,
+      "page_label": "RA-6",
+      "fig_id": "Fig. RA-12",
+      "code": "RA044",
+      "caption": "Fig. RA-12 Measuring drive shaft play",
+      "diagram_type": "inspection_measurement",
+      "description": "Dial gauge setup measuring spline play in the drive shaft assembly while fully compressed.",
+      "components": [
+        "Drive shaft assembly",
+        "Dial indicator",
+        "V-block / stand"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Drive shaft play limit: 0.1 mm (0.004 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Measure drive shaft play with drive shaft completely compressed. If play exceeds 0.1 mm (0.004 in), replace drive shaft assembly.",
+      "tags": [
+        "drive shaft play",
+        "dial indicator",
+        "spline wear",
+        "inspection"
+      ],
+      "dimensions": [
+        367,
+        296
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_13_cross_sectional_view_of_drive_shaft",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_13_cross_sectional_view_of_drive_shaft.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_13_cross_sectional_view_of_drive_shaft.png",
+      "page_num": 7,
+      "page_label": "RA-7",
+      "fig_id": "Fig. RA-13",
+      "code": "RA517",
+      "caption": "Fig. RA-13 Cross-sectional view of drive shaft",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross-sectional detail of universal joint needle bearing and drive shaft sleeve yoke showing grease packing area.",
+      "components": [
+        "Drive shaft",
+        "Sleeve yoke",
+        "Needle bearing",
+        "Spider journal"
+      ],
+      "callouts": {
+        "Needle bearing": "Needle bearing",
+        "Apply grease in this area": "Apply grease in this area"
+      },
+      "measurements_and_specs": [
+        "Grease for ball rolling groove and oil groove: approximately 10 gr (0.35 oz)",
+        "Grease for sleeve yoke cavity: approximately 35 gr (1.23 oz)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Apply recommended multi-purpose grease to specified cavity. Drive shaft components are not available as separate service parts.",
+      "tags": [
+        "drive shaft",
+        "cross section",
+        "grease application",
+        "needle bearing",
+        "lubrication"
+      ],
+      "dimensions": [
+        366,
+        305
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_14_removing_brake_hose_and_side_brake_linkage",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_14_removing_brake_hose_and_side_brake_linkage.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_14_removing_brake_hose_and_side_brake_linkage.png",
+      "page_num": 8,
+      "page_label": "RA-8",
+      "fig_id": "Fig. RA-14",
+      "code": "RA286",
+      "caption": "Fig. RA-14 Removing brake hose and side brake linkage",
+      "diagram_type": "procedure_step",
+      "description": "Disconnecting the brake line tube flare connector (body side) and emergency side brake cable linkage at rear wheel.",
+      "components": [
+        "Brake line connector",
+        "Side brake linkage",
+        "Brake hose"
+      ],
+      "callouts": {
+        "1": "Brake line connector (body side)",
+        "2": "Side brake linkage",
+        "A": "Tightening torque: 1.5 to 1.8 kg-m (11 to 13 ft-lb)"
+      },
+      "measurements_and_specs": [
+        "Tightening torque (A): 1.5 to 1.8 kg-m (11 to 13 ft-lb)"
+      ],
+      "wiring_and_connections": [
+        "Hydraulic brake line connector",
+        "Mechanical parking brake cable linkage"
+      ],
+      "mechanic_notes": "Use suitable tube wrench; never use open-end or adjustable wrench. Cover brake hose and pipe openings to prevent dirt ingress.",
+      "tags": [
+        "brake hose",
+        "parking brake",
+        "tube wrench",
+        "torque spec"
+      ],
+      "dimensions": [
+        373,
+        385
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_15_removing_stabilizer_from_transverse_link",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_15_removing_stabilizer_from_transverse_link.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_15_removing_stabilizer_from_transverse_link.png",
+      "page_num": 8,
+      "page_label": "RA-8",
+      "fig_id": "Fig. RA-15",
+      "code": "RA287",
+      "caption": "Fig. RA-15 Removing stabilizer from transverse link",
+      "diagram_type": "procedure_step",
+      "description": "Detaching the rear stabilizer bar connecting link from transverse link mount.",
+      "components": [
+        "Stabilizer bar",
+        "Connecting rod",
+        "Transverse link",
+        "Rubber bushings"
+      ],
+      "callouts": {
+        "A": "Tightening torque: 1.0 to 1.2 kg-m (7 to 9 ft-lb)",
+        "B": "Tightening torque: 1.2 to 1.7 kg-m (9 to 12 ft-lb)"
+      },
+      "measurements_and_specs": [
+        "Tightening torque (A): 1.0 to 1.2 kg-m (7 to 9 ft-lb)",
+        "Tightening torque (B): 1.2 to 1.7 kg-m (9 to 12 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Note bushing orientation and sequence on connecting rod.",
+      "tags": [
+        "stabilizer bar",
+        "transverse link",
+        "connecting link",
+        "torque spec"
+      ],
+      "dimensions": [
+        360,
+        375
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_16_removing_lock_bolt_and_self_lock_nuts",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_16_removing_lock_bolt_and_self_lock_nuts.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_16_removing_lock_bolt_and_self_lock_nuts.png",
+      "page_num": 8,
+      "page_label": "RA-8",
+      "fig_id": "Fig. RA-16",
+      "code": "RA288",
+      "caption": "Fig. RA-16 Removing lock bolt and self-lock nuts",
+      "diagram_type": "procedure_step",
+      "description": "Removing transverse spindle lock bolt and outer spindle self-locking nuts from lower strut housing.",
+      "components": [
+        "Lock bolt",
+        "Self-lock nuts",
+        "Spindle",
+        "Strut bearing housing"
+      ],
+      "callouts": {
+        "1": "Lock bolt",
+        "2": "Transverse link outer self-lock nuts",
+        "A": "Tightening torque: 1.0 to 1.2 kg-m (7 to 9 ft-lb)",
+        "B": "Tightening torque: 7.5 to 9.5 kg-m (54 to 69 ft-lb)"
+      },
+      "measurements_and_specs": [
+        "Lock bolt torque (A): 1.0 to 1.2 kg-m (7 to 9 ft-lb)",
+        "Self-lock nuts torque (B): 7.5 to 9.5 kg-m (54 to 69 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove lock bolt completely before driving out spindle.",
+      "tags": [
+        "spindle lock bolt",
+        "self-lock nut",
+        "strut lower mount",
+        "torque spec"
+      ],
+      "dimensions": [
+        367,
+        376
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_17_removing_spindle",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_17_removing_spindle.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_17_removing_spindle.png",
+      "page_num": 8,
+      "page_label": "RA-8",
+      "fig_id": "Fig. RA-17",
+      "code": "RA289",
+      "caption": "Fig. RA-17 Removing spindle",
+      "diagram_type": "procedure_step",
+      "description": "Withdrawing the rear transverse link spindle through the lower strut housing.",
+      "components": [
+        "Spindle pin",
+        "Transverse link",
+        "Strut housing"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Drive spindle out gently so as not to damage threads.",
+      "tags": [
+        "spindle removal",
+        "transverse link",
+        "strut removal"
+      ],
+      "dimensions": [
+        361,
+        297
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_18_removing_strut_installation_nuts",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_18_removing_strut_installation_nuts.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_18_removing_strut_installation_nuts.png",
+      "page_num": 8,
+      "page_label": "RA-8",
+      "fig_id": "Fig. RA-18",
+      "code": "RA291",
+      "caption": "Fig. RA-18 Removing strut installation nuts",
+      "diagram_type": "procedure_step",
+      "description": "Removing upper strut insulator mounting nuts from inside the passenger / luggage compartment under the trim.",
+      "components": [
+        "Strut insulator mounting nuts",
+        "Upper strut tower",
+        "Luggage area trim"
+      ],
+      "callouts": {
+        "Tightening torque": "2.5 to 3.5 kg-m (18 to 25 ft-lb)"
+      },
+      "measurements_and_specs": [
+        "Tightening torque: 2.5 to 3.5 kg-m (18 to 25 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Accessed from passenger compartment side. Support strut from below when loosening.",
+      "tags": [
+        "upper strut nuts",
+        "strut tower",
+        "torque spec"
+      ],
+      "dimensions": [
+        354,
+        393
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_19_removing_strut_assembly",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_19_removing_strut_assembly.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_19_removing_strut_assembly.png",
+      "page_num": 9,
+      "page_label": "RA-9",
+      "fig_id": "Fig. RA-19",
+      "code": "RA292",
+      "caption": "Fig. RA-19 Removing strut assembly",
+      "diagram_type": "procedure_step",
+      "description": "Lowering the rear strut and brake drum assembly down out of the rear wheel well.",
+      "components": [
+        "Rear strut assembly",
+        "Brake backing plate",
+        "Wheel housing"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Place a jack under lower end of strut, and remove it gradually.",
+      "tags": [
+        "strut removal",
+        "rear suspension"
+      ],
+      "dimensions": [
+        348,
+        305
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_20_spindle",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_20_spindle.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_20_spindle.png",
+      "page_num": 9,
+      "page_label": "RA-9",
+      "fig_id": "Fig. RA-20",
+      "code": "RA325",
+      "caption": "Fig. RA-20 Spindle",
+      "diagram_type": "inspection_measurement",
+      "description": "Dimensional diagram of transverse link rear spindle showing lock notch offset and length asymmetry.",
+      "components": [
+        "Transverse spindle"
+      ],
+      "callouts": {
+        "Shorter side": "122.7 mm (4.831 in)",
+        "Longer side": "131.5 mm (5.18 in)",
+        "Notch width": "13.5 mm (0.531 in)",
+        "Diameter": "16 mm (0.63 in) dia.",
+        "Thread": "M12 x 1.25 mm"
+      },
+      "measurements_and_specs": [
+        "Shorter length from lock bolt position: 122.7 mm (4.831 in)",
+        "Longer length from lock bolt position: 131.5 mm (5.18 in)",
+        "Shaft diameter: 16 mm (0.63 in)",
+        "Lock notch width: 13.5 mm (0.531 in)",
+        "Thread size: M12 x 1.25 mm"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Install spindle so that shorter side (when measured from position where lock bolt is installed) faces front of car.",
+      "tags": [
+        "spindle dimensions",
+        "orientation",
+        "alignment"
+      ],
+      "dimensions": [
+        354,
+        209
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_21_removing_transverse_link_inner_bolts",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_21_removing_transverse_link_inner_bolts.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_21_removing_transverse_link_inner_bolts.png",
+      "page_num": 9,
+      "page_label": "RA-9",
+      "fig_id": "Fig. RA-21",
+      "code": "RA274",
+      "caption": "Fig. RA-21 Removing transverse link inner bolts",
+      "diagram_type": "procedure_step",
+      "description": "Loosening the inner pivot bolts of the transverse link at the differential front crossmember.",
+      "components": [
+        "Transverse link inner bolts",
+        "Front crossmember",
+        "Transverse link"
+      ],
+      "callouts": {
+        "Tightening torque": "14 to 16 kg-m (101 to 116 ft-lb)"
+      },
+      "measurements_and_specs": [
+        "Tightening torque: 14 to 16 kg-m (101 to 116 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Loosen front side transverse link inner bolts when removing differential.",
+      "tags": [
+        "transverse link inner bolt",
+        "front crossmember",
+        "torque spec"
+      ],
+      "dimensions": [
+        354,
+        366
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_22_removing_drive_shaft_installation_bolts_wheel_side",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_22_removing_drive_shaft_installation_bolts_wheel_side.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_22_removing_drive_shaft_installation_bolts_wheel_side.png",
+      "page_num": 9,
+      "page_label": "RA-9",
+      "fig_id": "Fig. RA-22",
+      "code": "RA290",
+      "caption": "Fig. RA-22 Removing drive shaft installation bolts (wheel side)",
+      "diagram_type": "procedure_step",
+      "description": "Disconnecting drive shaft bolts from companion flange at the wheel side.",
+      "components": [
+        "Drive shaft",
+        "Wheel companion flange",
+        "Mounting bolts"
+      ],
+      "callouts": {
+        "Tightening torque": "5.0 to 6.0 kg-m (36 to 43 ft-lb)"
+      },
+      "measurements_and_specs": [
+        "Tightening torque: 5.0 to 6.0 kg-m (36 to 43 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Tighten to 5.0 to 6.0 kg-m (36 to 43 ft-lb) on reassembly.",
+      "tags": [
+        "drive shaft bolts",
+        "wheel side",
+        "torque spec"
+      ],
+      "dimensions": [
+        360,
+        367
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_23_loosening_drive_shaft_installation_bolts_gear_carrier_side",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_23_loosening_drive_shaft_installation_bolts_gear_carrier_side.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_23_loosening_drive_shaft_installation_bolts_gear_carrier_side.png",
+      "page_num": 9,
+      "page_label": "RA-9",
+      "fig_id": "Fig. RA-23",
+      "code": "RA302",
+      "caption": "Fig. RA-23 Loosening drive shaft installation bolts (gear carrier side)",
+      "diagram_type": "procedure_step",
+      "description": "Disconnecting drive shaft flange bolts from the differential side companion flange.",
+      "components": [
+        "Drive shaft",
+        "Differential companion flange",
+        "Bolts"
+      ],
+      "callouts": {
+        "Tightening torque": "5.0 to 6.0 kg-m (36 to 43 ft-lb)"
+      },
+      "measurements_and_specs": [
+        "Tightening torque: 5.0 to 6.0 kg-m (36 to 43 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Applies to R200 side flange type. For R180 side yoke, refer to Fig. RA-11.",
+      "tags": [
+        "drive shaft bolts",
+        "differential side",
+        "R200",
+        "torque spec"
+      ],
+      "dimensions": [
+        366,
+        358
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_24_removing_differential_mounting_rear_member",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_24_removing_differential_mounting_rear_member.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_24_removing_differential_mounting_rear_member.png",
+      "page_num": 9,
+      "page_label": "RA-9",
+      "fig_id": "Fig. RA-24",
+      "code": "RA306",
+      "caption": "Fig. RA-24 Removing differential mounting rear member",
+      "diagram_type": "procedure_step",
+      "description": "Removing nuts securing the differential rear cover to the transverse rear mounting leaf member.",
+      "components": [
+        "Differential rear cover",
+        "Rear mounting member",
+        "Mounting nuts"
+      ],
+      "callouts": {
+        "Tightening torque R180 Diff.": "6.0 to 7.0 kg-m (43 to 51 ft-lb)",
+        "Tightening torque R200 Diff.": "7.5 to 9.5 kg-m (54 to 69 ft-lb)"
+      },
+      "measurements_and_specs": [
+        "R180 Diff. torque: 6.0 to 7.0 kg-m (43 to 51 ft-lb)",
+        "R200 Diff. torque: 7.5 to 9.5 kg-m (54 to 69 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Place jack beneath gear carrier before removing rear member nuts.",
+      "tags": [
+        "differential rear member",
+        "R180",
+        "R200",
+        "torque spec"
+      ],
+      "dimensions": [
+        366,
+        420
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_25_removing_differential_mounting_front_member",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_25_removing_differential_mounting_front_member.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_25_removing_differential_mounting_front_member.png",
+      "page_num": 10,
+      "page_label": "RA-10",
+      "fig_id": "Fig. RA-25",
+      "code": "RA319",
+      "caption": "Fig. RA-25 Removing differential mounting front member",
+      "diagram_type": "procedure_step",
+      "description": "Removing bolts securing the front crossmember of the differential to the underbody frame.",
+      "components": [
+        "Differential mounting front member",
+        "Body frame mounts",
+        "Installation bolts"
+      ],
+      "callouts": {
+        "Tightening torque": "4.6 to 6.1 kg-m (33 to 44 ft-lb)"
+      },
+      "measurements_and_specs": [
+        "Tightening torque: 4.6 to 6.1 kg-m (33 to 44 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Lower jack slowly and remove gear carrier and front mounting member as an assembly.",
+      "tags": [
+        "differential front member",
+        "removal",
+        "torque spec"
+      ],
+      "dimensions": [
+        328,
+        525
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_26_removing_damper_plate_bolts_and_mounting_front_insulator_nuts",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_26_removing_damper_plate_bolts_and_mounting_front_insulator_nuts.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_26_removing_damper_plate_bolts_and_mounting_front_insulator_nuts.png",
+      "page_num": 10,
+      "page_label": "RA-10",
+      "fig_id": "Fig. RA-26",
+      "code": "RA518",
+      "caption": "Fig. RA-26 Removing damper plate bolts and mounting front insulator nuts",
+      "diagram_type": "procedure_step",
+      "description": "Removing damper plate bolts, front mounting insulator nuts, and differential case insulator retaining nuts.",
+      "components": [
+        "Front mounting damper plate",
+        "Front mounting member",
+        "Differential front insulator",
+        "Gear carrier"
+      ],
+      "callouts": {
+        "1": "Front mounting damper plate installation bolt",
+        "2": "Front mounting member and front insulator installation nut",
+        "3": "Gear carrier and front insulator installation nut",
+        "A": "Tightening torque: 1.6 to 2.1 kg-m (12 to 15 ft-lb)",
+        "B": "Tightening torque: 3.2 to 4.3 kg-m (23 to 31 ft-lb)",
+        "C": "Tightening torque: 6.0 to 8.0 kg-m (43 to 58 ft-lb)"
+      },
+      "measurements_and_specs": [
+        "Bolt 1 / Torque A: 1.6 to 2.1 kg-m (12 to 15 ft-lb)",
+        "Nut 2 / Torque B: 3.2 to 4.3 kg-m (23 to 31 ft-lb)",
+        "Nut 3 / Torque C: 6.0 to 8.0 kg-m (43 to 58 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Torque nuts and bolts to specified values upon reinstallation.",
+      "tags": [
+        "damper plate",
+        "front insulator",
+        "differential mount",
+        "torque specs"
+      ],
+      "dimensions": [
+        361,
+        638
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_27_removing_transverse_link_inner_bolts",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_27_removing_transverse_link_inner_bolts.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_27_removing_transverse_link_inner_bolts.png",
+      "page_num": 10,
+      "page_label": "RA-10",
+      "fig_id": "Fig. RA-27",
+      "code": "RA321",
+      "caption": "Fig. RA-27 Removing transverse link inner bolts",
+      "diagram_type": "procedure_step",
+      "description": "Loosening rear side inner transverse link pivot bolts at rear link mounting brackets.",
+      "components": [
+        "Transverse link inner bolts",
+        "Link rear bracket",
+        "Transverse link"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Loosen rear side transverse link inner bolts before unbolting bracket.",
+      "tags": [
+        "transverse link",
+        "rear inner bolt",
+        "removal"
+      ],
+      "dimensions": [
+        348,
+        306
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_28_removing_rear_bracket",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_28_removing_rear_bracket.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_28_removing_rear_bracket.png",
+      "page_num": 10,
+      "page_label": "RA-10",
+      "fig_id": "Fig. RA-28",
+      "code": "RA278",
+      "caption": "Fig. RA-28 Removing rear bracket",
+      "diagram_type": "procedure_step",
+      "description": "Removing bolts securing the transverse link mounting rear bracket to the vehicle body.",
+      "components": [
+        "Link mounting rear bracket",
+        "Mounting bolts",
+        "Body mount"
+      ],
+      "callouts": {
+        "Tightening torque": "3.2 to 4.3 kg-m (23 to 31 ft-lb)"
+      },
+      "measurements_and_specs": [
+        "Tightening torque: 3.2 to 4.3 kg-m (23 to 31 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Tighten rear bracket bolts to 3.2 to 4.3 kg-m (23 to 31 ft-lb).",
+      "tags": [
+        "rear bracket",
+        "link mount",
+        "torque spec"
+      ],
+      "dimensions": [
+        367,
+        358
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_29_removing_link_mounting_brace_and_differential_mounting_member_installation_bolts",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_29_removing_link_mounting_brace_and_differential_mounting_member_installation_bolts.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_29_removing_link_mounting_brace_and_differential_mounting_member_installation_bolts.png",
+      "page_num": 10,
+      "page_label": "RA-10",
+      "fig_id": "Fig. RA-29",
+      "code": "RA276",
+      "caption": "Fig. RA-29 Removing link mounting brace and differential mounting member installation bolts",
+      "diagram_type": "procedure_step",
+      "description": "Removing transverse link brace bolts and differential rear mounting insulator bolts at body anchor points.",
+      "components": [
+        "Transverse link mounting brace",
+        "Differential mounting rear insulator",
+        "Body chassis"
+      ],
+      "callouts": {
+        "1": "Transverse link mounting brace installation bolt",
+        "2": "Differential mounting rear insulator installation bolt",
+        "A": "Tightening torque: 4.6 to 6.1 kg-m (33 to 44 ft-lb)",
+        "B": "Tightening torque: 7.5 to 9.5 kg-m (54 to 69 ft-lb)"
+      },
+      "measurements_and_specs": [
+        "Brace bolt 1 / Torque A: 4.6 to 6.1 kg-m (33 to 44 ft-lb)",
+        "Insulator bolt 2 / Torque B: 7.5 to 9.5 kg-m (54 to 69 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Support member while loosening insulator bolts.",
+      "tags": [
+        "mounting brace",
+        "rear insulator",
+        "chassis bolts",
+        "torque spec"
+      ],
+      "dimensions": [
+        360,
+        525
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_30_sectional_view_of_differential_mounting_insulators",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_30_sectional_view_of_differential_mounting_insulators.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_30_sectional_view_of_differential_mounting_insulators.png",
+      "page_num": 10,
+      "page_label": "RA-10",
+      "fig_id": "Fig. RA-30",
+      "code": "",
+      "caption": "Fig. RA-30 Sectional view of differential mounting insulators",
+      "diagram_type": "inspection_measurement",
+      "description": "Cross-sectional inspection diagram of differential front insulator showing clearance dimension 'A'.",
+      "components": [
+        "Front insulator",
+        "Rubber cushion",
+        "Steel bracket"
+      ],
+      "callouts": {
+        "Front insulator": "Front insulator",
+        "A": "Dimension A inspection point"
+      },
+      "measurements_and_specs": [
+        "Dimension A limit: Replace if 9 mm (0.35 in) or greater, or 2 mm (0.08 in) or smaller (unloaded)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Replace differential mounting front insulator if dimension 'A' is 9 mm (0.35 in) or greater, or 2 mm (0.08 in) or smaller (unloaded).",
+      "tags": [
+        "front insulator",
+        "dimension A",
+        "inspection clearance",
+        "rubber bushing"
+      ],
+      "dimensions": [
+        347,
+        244
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_31_removing_insulator_from_differential_mounting_member",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_31_removing_insulator_from_differential_mounting_member.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_31_removing_insulator_from_differential_mounting_member.png",
+      "page_num": 10,
+      "page_label": "RA-10",
+      "fig_id": "Fig. RA-31",
+      "code": "RA508",
+      "caption": "Fig. RA-31 Removing insulator from differential mounting member",
+      "diagram_type": "procedure_step",
+      "description": "Pressing the rubber insulator out of the differential mounting member using drift ST33260010.",
+      "components": [
+        "Differential mounting member",
+        "Rubber insulator",
+        "Drift ST33260010"
+      ],
+      "callouts": {
+        "ST33260010": "Differential mounting insulator drift ST33260010"
+      },
+      "measurements_and_specs": [
+        "Special tool: ST33260010"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Use ST33260010 for removal of differential mounting member rubber insulator.",
+      "tags": [
+        "insulator removal",
+        "ST33260010",
+        "differential member"
+      ],
+      "dimensions": [
+        341,
+        288
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_32_installing_insulator_to_differential_mounting_member",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_32_installing_insulator_to_differential_mounting_member.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_32_installing_insulator_to_differential_mounting_member.png",
+      "page_num": 10,
+      "page_label": "RA-10",
+      "fig_id": "Fig. RA-32",
+      "code": "RA509",
+      "caption": "Fig. RA-32 Installing insulator to differential mounting member",
+      "diagram_type": "procedure_step",
+      "description": "Pressing a new rubber insulator into the differential mounting member using drift ST33260020.",
+      "components": [
+        "Differential mounting member",
+        "Rubber insulator",
+        "Drift ST33260020"
+      ],
+      "callouts": {
+        "ST33260020": "Differential mounting insulator drift ST33260020"
+      },
+      "measurements_and_specs": [
+        "Special tool: ST33260020"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Use ST33260020 for installation of differential mounting member rubber insulator.",
+      "tags": [
+        "insulator installation",
+        "ST33260020",
+        "differential member"
+      ],
+      "dimensions": [
+        315,
+        288
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_33_removing_differential_mounting_front_member",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_33_removing_differential_mounting_front_member.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_33_removing_differential_mounting_front_member.png",
+      "page_num": 11,
+      "page_label": "RA-11",
+      "fig_id": "Fig. RA-33",
+      "code": "RA275",
+      "caption": "Fig. RA-33 Removing differential mounting front member",
+      "diagram_type": "procedure_step",
+      "description": "Removing differential front crossmember fasteners, transverse link inner bolts, and damper plate bolts.",
+      "components": [
+        "Transverse link inner bolts",
+        "Damper plate bolts",
+        "Front insulator nut",
+        "Front member nuts",
+        "Differential front member"
+      ],
+      "callouts": {
+        "1": "Transverse link inner bolts",
+        "2": "Damper plate installation bolts",
+        "3": "Differential mount front insulator installation nut",
+        "4": "Differential mounting front member installation nuts",
+        "5": "Differential mounting front member",
+        "A": "Tightening torque: 14 to 16 kg-m (101 to 116 ft-lb)",
+        "B": "Tightening torque: 1.6 to 2.1 kg-m (12 to 15 ft-lb)",
+        "C": "Tightening torque: 3.2 to 4.3 kg-m (23 to 31 ft-lb)",
+        "D": "Tightening torque: 4.6 to 6.1 kg-m (33 to 44 ft-lb)"
+      },
+      "measurements_and_specs": [
+        "Inner bolts 1 / Torque A: 14 to 16 kg-m (101 to 116 ft-lb)",
+        "Damper plate bolts 2 / Torque B: 1.6 to 2.1 kg-m (12 to 15 ft-lb)",
+        "Front insulator nut 3 / Torque C: 3.2 to 4.3 kg-m (23 to 31 ft-lb)",
+        "Front member nuts 4 / Torque D: 4.6 to 6.1 kg-m (33 to 44 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Support differential case with jack before removing member nuts.",
+      "tags": [
+        "front member",
+        "transverse link",
+        "torque specs",
+        "removal"
+      ],
+      "dimensions": [
+        348,
+        472
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_34_removing_transverse_link",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_34_removing_transverse_link.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_34_removing_transverse_link.png",
+      "page_num": 11,
+      "page_label": "RA-11",
+      "fig_id": "Fig. RA-34",
+      "code": "RA278",
+      "caption": "Fig. RA-34 Removing transverse link",
+      "diagram_type": "procedure_step",
+      "description": "Unbolting rear link mounting bracket to dismount the transverse link from the chassis.",
+      "components": [
+        "Transverse link",
+        "Rear mounting bracket",
+        "Bolts"
+      ],
+      "callouts": {
+        "Tightening torque": "3.2 to 4.3 kg-m (23 to 31 ft-lb)"
+      },
+      "measurements_and_specs": [
+        "Tightening torque: 3.2 to 4.3 kg-m (23 to 31 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Tighten to 3.2 to 4.3 kg-m (23 to 31 ft-lb) on reassembly.",
+      "tags": [
+        "transverse link",
+        "rear bracket",
+        "torque spec"
+      ],
+      "dimensions": [
+        361,
+        375
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_35_removing_transverse_link_outer_bushing",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_35_removing_transverse_link_outer_bushing.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_35_removing_transverse_link_outer_bushing.png",
+      "page_num": 11,
+      "page_label": "RA-11",
+      "fig_id": "Fig. RA-35",
+      "code": "RA280",
+      "caption": "Fig. RA-35 Removing transverse link outer bushing",
+      "diagram_type": "procedure_step",
+      "description": "Using Rear Transverse Link Bushing Replacer ST38800000 in a press to extract the spindle outer rubber bushing.",
+      "components": [
+        "Transverse link",
+        "Outer bushing",
+        "Bushing replacer ST38800000"
+      ],
+      "callouts": {
+        "ST38800000": "Rear transverse link bushing replacer ST38800000"
+      },
+      "measurements_and_specs": [
+        "Special tool: ST38800000"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Do not tap end face of bushing directly with a hammer as deformation may result in loose bolt.",
+      "tags": [
+        "outer bushing",
+        "bushing replacer",
+        "ST38800000",
+        "transverse link"
+      ],
+      "dimensions": [
+        361,
+        323
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_36_cross_sectional_view_of_transverse_link_inner_bushing_1",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_36_cross_sectional_view_of_transverse_link_inner_bushing_1.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_36_cross_sectional_view_of_transverse_link_inner_bushing_1.png",
+      "page_num": 11,
+      "page_label": "RA-11",
+      "fig_id": "Fig. RA-36",
+      "code": "RA284",
+      "caption": "Fig. RA-36 Cross-sectional view of transverse link inner bushing (I)",
+      "diagram_type": "alignment_orientation",
+      "description": "Cross-sectional view showing proper horizontal alignment of inner bushing projection along the link shaft.",
+      "components": [
+        "Transverse link inner bush",
+        "Transverse link inner bolt",
+        "Transverse link"
+      ],
+      "callouts": {
+        "1": "Transverse link inner bush",
+        "2": "Transverse link inner bolt",
+        "3": "Transverse link",
+        "A": "Alignment axis plane"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Align projection on bushing (directed to the axis direction) horizontally. Align center of bushing to center of bracket.",
+      "tags": [
+        "inner bushing",
+        "cross section",
+        "orientation",
+        "alignment projection"
+      ],
+      "dimensions": [
+        360,
+        437
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_37_cross_sectional_view_of_transverse_link_inner_bushing_2",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_37_cross_sectional_view_of_transverse_link_inner_bushing_2.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_37_cross_sectional_view_of_transverse_link_inner_bushing_2.png",
+      "page_num": 11,
+      "page_label": "RA-11",
+      "fig_id": "Fig. RA-37",
+      "code": "RA285",
+      "caption": "Fig. RA-37 Cross-sectional view of transverse link inner bushing (II)",
+      "diagram_type": "alignment_orientation",
+      "description": "Cross section A-A showing clamp assembly of transverse link inner bushing into the differential front member bracket.",
+      "components": [
+        "Differential case mounting front member",
+        "Inner bushing",
+        "Link shaft",
+        "Bracket clamp"
+      ],
+      "callouts": {
+        "Differential case mounting front member": "Differential case mounting front member",
+        "Cross section A-A": "Cross section A-A"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "First, tighten bolts supported in vertical direction. Temporarily tighten inner bolts, and final-tighten with vehicle under standard load on ground.",
+      "tags": [
+        "inner bushing",
+        "cross section A-A",
+        "mounting member",
+        "bushing clamping"
+      ],
+      "dimensions": [
+        367,
+        271
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_38_removing_stabilizer",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_38_removing_stabilizer.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_38_removing_stabilizer.png",
+      "page_num": 12,
+      "page_label": "RA-12",
+      "fig_id": "Fig. RA-38",
+      "code": "RA322",
+      "caption": "Fig. RA-38 Removing stabilizer",
+      "diagram_type": "procedure_step",
+      "description": "Removing the rear stabilizer bar clamp bracket from the chassis side member.",
+      "components": [
+        "Stabilizer bar",
+        "Side member bracket",
+        "Rubber bushing",
+        "Connecting rod"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Remove main muffler prior to stabilizer bar removal.",
+      "tags": [
+        "stabilizer removal",
+        "side member",
+        "anti-roll bar"
+      ],
+      "dimensions": [
+        385,
+        358
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "fig_ra_39_rubber_bushing",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/fig_ra_39_rubber_bushing.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/fig_ra_39_rubber_bushing.png",
+      "page_num": 12,
+      "page_label": "RA-12",
+      "fig_id": "Fig. RA-39",
+      "code": "RA323",
+      "caption": "Fig. RA-39 Rubber bushing",
+      "diagram_type": "alignment_orientation",
+      "description": "Orientation diagram of stabilizer mounting rubber bushing showing location and direction of alignment dent.",
+      "components": [
+        "Stabilizer rubber bushing"
+      ],
+      "callouts": {
+        "Front": "Front of vehicle",
+        "Rear": "Rear of vehicle",
+        "Dent": "Alignment dent"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Make sure that the dent in rubber bushing faces towards the rear upper side.",
+      "tags": [
+        "stabilizer bushing",
+        "bushing dent",
+        "orientation",
+        "installation note"
+      ],
+      "dimensions": [
+        315,
+        279
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "sst_kv40101000_rear_axle_stand",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/sst_kv40101000_rear_axle_stand.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/sst_kv40101000_rear_axle_stand.png",
+      "page_num": 16,
+      "page_label": "RA-16",
+      "fig_id": "KV40101000",
+      "code": "",
+      "caption": "Rear axle stand (KV40101000 / Kent-Moore J 25604-01)",
+      "diagram_type": "special_service_tool",
+      "description": "Rear axle stand adapter plate tool used for holding hub and slide hammer extraction.",
+      "components": [
+        "Rear axle stand plate with handle and slotted lug holes"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tool number: KV40101000",
+        "Kent-Moore No.: J 25604-01",
+        "Ref: Fig. RA-4, Fig. RA-5"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Bolts to rear wheel studs to hold flange while loosening locknut or pulling axle.",
+      "tags": [
+        "special service tool",
+        "KV40101000",
+        "J 25604-01",
+        "rear axle stand"
+      ],
+      "dimensions": [
+        245,
+        217
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "sst_st36230000_sliding_hammer",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/sst_st36230000_sliding_hammer.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/sst_st36230000_sliding_hammer.png",
+      "page_num": 16,
+      "page_label": "RA-16",
+      "fig_id": "ST36230000",
+      "code": "",
+      "caption": "Sliding hammer (ST36230000 / Kent-Moore J 25840)",
+      "diagram_type": "special_service_tool",
+      "description": "Sliding hammer puller tool for removing rear axle shaft from bearing housing.",
+      "components": [
+        "Sliding hammer weight",
+        "Shaft",
+        "Threaded adapter end",
+        "Handle"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tool number: ST36230000",
+        "Kent-Moore No.: J 25840",
+        "Ref: Fig. RA-5"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Attaches to KV40101000 to pull axle shaft out of housing.",
+      "tags": [
+        "special service tool",
+        "ST36230000",
+        "J 25840",
+        "sliding hammer"
+      ],
+      "dimensions": [
+        258,
+        130
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "sst_st38800000_rear_transverse_link_bushing_replacer",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/sst_st38800000_rear_transverse_link_bushing_replacer.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/sst_st38800000_rear_transverse_link_bushing_replacer.png",
+      "page_num": 16,
+      "page_label": "RA-16",
+      "fig_id": "ST38800000",
+      "code": "",
+      "caption": "Rear transverse link bushing replacer (ST38800000 / Kent-Moore J 25875) with drift \u2460 and support ring \u2461",
+      "diagram_type": "special_service_tool",
+      "description": "Transverse link outer bushing replacement tool set including drift ST38800010 and support ring ST38800020.",
+      "components": [
+        "ST38800010 Drift (1)",
+        "ST38800020 Support ring (2)"
+      ],
+      "callouts": {
+        "1": "ST38800010 Drift",
+        "2": "ST38800020 Support ring"
+      },
+      "measurements_and_specs": [
+        "Tool set: ST38800000",
+        "Kent-Moore No.: J 25875",
+        "Ref: Fig. RA-35"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Use in hydraulic press to replace transverse link outer bushing without damaging the link.",
+      "tags": [
+        "special service tool",
+        "ST38800000",
+        "J 25875",
+        "bushing replacer"
+      ],
+      "dimensions": [
+        367,
+        147
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "sst_st37780000_rear_axle_shaft_outer_bearing_drift",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/sst_st37780000_rear_axle_shaft_outer_bearing_drift.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/sst_st37780000_rear_axle_shaft_outer_bearing_drift.png",
+      "page_num": 16,
+      "page_label": "RA-16",
+      "fig_id": "ST37780000",
+      "code": "",
+      "caption": "Rear axle shaft outer bearing drift (ST37780000 / Kent-Moore J 25863)",
+      "diagram_type": "special_service_tool",
+      "description": "Cylindrical bearing driver drift for installing outer rear wheel bearing onto axle shaft.",
+      "components": [
+        "Cylindrical drift tool"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tool number: ST37780000",
+        "Kent-Moore No.: J 25863",
+        "Ref: Page RA-5"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Applies press force evenly to bearing inner race when fitting outer bearing onto axle shaft.",
+      "tags": [
+        "special service tool",
+        "ST37780000",
+        "J 25863",
+        "bearing drift"
+      ],
+      "dimensions": [
+        233,
+        165
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "sst_st33260000_diff_mounting_member_insulator_drift_set",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/sst_st33260000_diff_mounting_member_insulator_drift_set.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/sst_st33260000_diff_mounting_member_insulator_drift_set.png",
+      "page_num": 16,
+      "page_label": "RA-16",
+      "fig_id": "ST33260000",
+      "code": "",
+      "caption": "Diff. mounting member insulator drift set (ST33260000 / Kent-Moore J25808) with \u2460 Adapter insulator drift (1) ST33260010 and \u2461 Adapter insulator drift (2) ST33260020",
+      "diagram_type": "special_service_tool",
+      "description": "Differential mounting member insulator drift tool set with adapter drifts for removal and installation.",
+      "components": [
+        "ST33260010 Adapter insulator drift (1) for removal",
+        "ST33260020 Adapter insulator drift (2) for installation"
+      ],
+      "callouts": {
+        "1": "ST33260010 Adapter insulator drift (1) for removal",
+        "2": "ST33260020 Adapter insulator drift (2) for installation"
+      },
+      "measurements_and_specs": [
+        "Tool set: ST33260000",
+        "Kent-Moore No.: J25808",
+        "Ref: Fig. RA-31, Fig. RA-32"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "ST33260010 used for removing insulator; ST33260020 used for pressing new insulator into mounting member.",
+      "tags": [
+        "special service tool",
+        "ST33260000",
+        "J25808",
+        "differential insulator drift"
+      ],
+      "dimensions": [
+        290,
+        235
+      ]
+    },
+    {
+      "section_title": "REAR AXLE & REAR SUSPENSION",
+      "source_md": "1978 280z FSM/RA Rear axle and Suspension.md",
+      "slug": "sst_gg94310000_flare_nut_torque_wrench",
+      "file": "markdown/1978 280z FSM/diagrams/RA Rear axle and Suspension/sst_gg94310000_flare_nut_torque_wrench.png",
+      "rel_link": "diagrams/RA Rear axle and Suspension/sst_gg94310000_flare_nut_torque_wrench.png",
+      "page_num": 16,
+      "page_label": "RA-16",
+      "fig_id": "GG94310000",
+      "code": "",
+      "caption": "Flare nut torque wrench (GG94310000)",
+      "diagram_type": "special_service_tool",
+      "description": "Specialized flare nut wrench adapters for torque-tightening brake tubing nuts without rounding hex corners.",
+      "components": [
+        "Flare nut wrench adapter handles"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Tool number: GG94310000",
+        "Kent-Moore No.: \u2014",
+        "Ref: Page RA-9"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Always use flare nut torque wrench when tightening brake tubing connections.",
+      "tags": [
+        "special service tool",
+        "GG94310000",
+        "flare nut wrench",
+        "brake lines"
+      ],
+      "dimensions": [
+        258,
+        165
+      ]
+    }
+  ],
+  "torques": [
+    {
+      "component": "Drive shaft installation bolts, Gear carrier side (R200 diff.)",
+      "unit": "kg-m (ft-lb)",
+      "value": "5.0 to 6.0 (36 to 43)",
+      "page_label": "RA-13"
+    },
+    {
+      "component": "Drive shaft installation bolts, Gear carrier side (R180 diff.) / Side yoke fitting bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.2 to 4.3 (23 to 31)",
+      "page_label": "RA-13"
+    },
+    {
+      "component": "Drive shaft installation bolts, Wheel side",
+      "unit": "kg-m (ft-lb)",
+      "value": "5.0 to 6.0 (36 to 43)",
+      "page_label": "RA-13"
+    },
+    {
+      "component": "Companion flange to drive shaft flange bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "4.0 to 5.3 (29 to 38)",
+      "page_label": "RA-2"
+    },
+    {
+      "component": "Strut installation nut (upper mounting to body)",
+      "unit": "kg-m (ft-lb)",
+      "value": "2.5 to 3.5 (18 to 25)",
+      "page_label": "RA-13"
+    },
+    {
+      "component": "Strut rod self-lock nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "7.5 to 9.5 (54 to 69)",
+      "page_label": "RA-13"
+    },
+    {
+      "component": "Gland packing",
+      "unit": "kg-m (ft-lb)",
+      "value": "7 to 13 (51 to 94)",
+      "page_label": "RA-13"
+    },
+    {
+      "component": "Rear axle bearing lock nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "25 to 33 (181 to 239)",
+      "page_label": "RA-13"
+    },
+    {
+      "component": "Brake disc installation bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "2.7 to 3.7 (20 to 27)",
+      "page_label": "RA-13"
+    },
+    {
+      "component": "Brake hose (line) clamp nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.5 to 1.8 (11 to 13)",
+      "page_label": "RA-13"
+    },
+    {
+      "component": "Wheel nut (Steel wheel)",
+      "unit": "kg-m (ft-lb)",
+      "value": "8.0 to 9.0 (58 to 65)",
+      "page_label": "RA-13"
+    },
+    {
+      "component": "Wheel nut (Aluminum wheel)",
+      "unit": "kg-m (ft-lb)",
+      "value": "8.0 to 10.0 (58 to 72)",
+      "page_label": "RA-13"
+    },
+    {
+      "component": "Bearing housing spindle lock bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.0 to 1.2 (7 to 9)",
+      "page_label": "RA-13"
+    },
+    {
+      "component": "Transverse link outer self-lock nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "7.5 to 9.5 (54 to 69)",
+      "page_label": "RA-13"
+    },
+    {
+      "component": "Transverse link inner bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "14 to 16 (101 to 116)",
+      "page_label": "RA-13"
+    },
+    {
+      "component": "Rear link mounting bracket installation bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.2 to 4.3 (23 to 31)",
+      "page_label": "RA-13"
+    },
+    {
+      "component": "Stabilizer bar to transverse link bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.0 to 1.2 (7 to 9)",
+      "page_label": "RA-8"
+    },
+    {
+      "component": "Stabilizer connecting rod nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.2 to 1.7 (9 to 12)",
+      "page_label": "RA-8"
+    },
+    {
+      "component": "Front differential mounting member installation bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "4.6 to 6.1 (33 to 44)",
+      "page_label": "RA-14"
+    },
+    {
+      "component": "Front differential mounting member and front differential mounting insulator installation nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.2 to 4.3 (23 to 31)",
+      "page_label": "RA-14"
+    },
+    {
+      "component": "Front mounting damper plate installation bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.6 to 2.1 (12 to 15)",
+      "page_label": "RA-14"
+    },
+    {
+      "component": "Gear carrier and differential mounting front insulator installation nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "6.0 to 8.0 (43 to 58)",
+      "page_label": "RA-14"
+    },
+    {
+      "component": "Belt fitting self-lock nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "11.3 to 13.8 (82 to 100)",
+      "page_label": "RA-14"
+    },
+    {
+      "component": "Belt fitting bracket installation bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.2 to 4.3 (23 to 31)",
+      "page_label": "RA-14"
+    },
+    {
+      "component": "Rear differential mounting member installation nut (to diff. rear cover) - R180 diff.",
+      "unit": "kg-m (ft-lb)",
+      "value": "6.0 to 7.0 (43 to 51)",
+      "page_label": "RA-14"
+    },
+    {
+      "component": "Rear differential mounting member installation nut (to diff. rear cover) - R200 diff.",
+      "unit": "kg-m (ft-lb)",
+      "value": "7.5 to 9.5 (54 to 69)",
+      "page_label": "RA-14"
+    },
+    {
+      "component": "Rear differential mounting insulator installation nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "7.5 to 9.5 (54 to 69)",
+      "page_label": "RA-14"
+    },
+    {
+      "component": "Transverse link mounting brace installation bolt",
+      "unit": "kg-m (ft-lb)",
+      "value": "4.6 to 6.1 (33 to 44)",
+      "page_label": "RA-14"
+    },
+    {
+      "component": "Propeller shaft and differential companion flange installation nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "3.5 to 4.5 (25 to 33)",
+      "page_label": "RA-14"
+    }
+  ],
+  "specs": [
+    {
+      "system": "Rear Wheel Alignment (Unladen)",
+      "item": "Camber (S30)",
+      "unit": "degree",
+      "standard": "-3' to 1\u00b027'",
+      "limit": "-",
+      "page_label": "RA-13"
+    },
+    {
+      "system": "Rear Wheel Alignment (Unladen)",
+      "item": "Camber (GS30 2 + 2 seater)",
+      "unit": "degree",
+      "standard": "-9' to 1\u00b021'",
+      "limit": "-",
+      "page_label": "RA-13"
+    },
+    {
+      "system": "Rear Wheel Alignment (Unladen)",
+      "item": "Toe-in (S30)",
+      "unit": "mm (in)",
+      "standard": "-5 to 5 (-0.20 to 0.20)",
+      "limit": "-",
+      "page_label": "RA-13"
+    },
+    {
+      "system": "Rear Wheel Alignment (Unladen)",
+      "item": "Toe-in (GS30 2 + 2 seater)",
+      "unit": "mm (in)",
+      "standard": "-5 to 5 (-0.20 to 0.20)",
+      "limit": "-",
+      "page_label": "RA-13"
+    },
+    {
+      "system": "Coil Spring",
+      "item": "Active turns of coil",
+      "unit": "turns",
+      "standard": "8.5",
+      "limit": "-",
+      "page_label": "RA-13"
+    },
+    {
+      "system": "Coil Spring",
+      "item": "Free length",
+      "unit": "mm (in)",
+      "standard": "392 (15.43)",
+      "limit": "-",
+      "page_label": "RA-13"
+    },
+    {
+      "system": "Coil Spring",
+      "item": "Spring constant",
+      "unit": "kg/mm (lb/in)",
+      "standard": "2.28 (127.7)",
+      "limit": "-",
+      "page_label": "RA-13"
+    },
+    {
+      "system": "Strut Assembly",
+      "item": "Damping force at piston speed 0.3 m (0.98 ft)/sec (Expansion/Compression)",
+      "unit": "kg (lb)",
+      "standard": "55 (121)/30 (66)",
+      "limit": "-",
+      "page_label": "RA-13"
+    },
+    {
+      "system": "Strut Assembly",
+      "item": "Oil capacity (per strut)",
+      "unit": "cc (cu in)",
+      "standard": "400 (24.41)",
+      "limit": "-",
+      "page_label": "RA-9"
+    },
+    {
+      "system": "Rear Axle",
+      "item": "Rear axle shaft end play",
+      "unit": "mm (in)",
+      "standard": "0 to 0.15 (0 to 0.0059)",
+      "limit": "0.15 (0.0059)",
+      "page_label": "RA-13"
+    },
+    {
+      "system": "Rear Axle",
+      "item": "Wheel bearing preload",
+      "unit": "kg-cm (in-lb)",
+      "standard": "4.5 (3.9)",
+      "limit": "-",
+      "page_label": "RA-5"
+    },
+    {
+      "system": "Rear Axle",
+      "item": "Wheel bearing preload pull force at hub bolt",
+      "unit": "gr (oz)",
+      "standard": "790 (27.86) or less",
+      "limit": "790 (27.86)",
+      "page_label": "RA-5"
+    },
+    {
+      "system": "Rear Axle",
+      "item": "Rear bearing housing Mark A size",
+      "unit": "mm (in)",
+      "standard": "52.63 (2.0720) to 52.73 (2.0760)",
+      "limit": "-",
+      "page_label": "RA-5"
+    },
+    {
+      "system": "Rear Axle",
+      "item": "Distance piece Mark A size",
+      "unit": "mm (in)",
+      "standard": "52.60 (2.0709) to 52.66 (2.0732)",
+      "limit": "-",
+      "page_label": "RA-5"
+    },
+    {
+      "system": "Rear Axle",
+      "item": "Rear bearing housing Mark B size",
+      "unit": "mm (in)",
+      "standard": "52.53 (2.0681) to 52.63 (2.0720)",
+      "limit": "-",
+      "page_label": "RA-5"
+    },
+    {
+      "system": "Rear Axle",
+      "item": "Distance piece Mark B size",
+      "unit": "mm (in)",
+      "standard": "52.50 (2.0669) to 52.56 (2.0693)",
+      "limit": "-",
+      "page_label": "RA-5"
+    },
+    {
+      "system": "Rear Axle",
+      "item": "Rear bearing housing Mark C size",
+      "unit": "mm (in)",
+      "standard": "52.43 (2.0642) to 52.53 (2.0681)",
+      "limit": "-",
+      "page_label": "RA-5"
+    },
+    {
+      "system": "Rear Axle",
+      "item": "Distance piece Mark C size",
+      "unit": "mm (in)",
+      "standard": "52.40 (2.0630) to 52.46 (2.0654)",
+      "limit": "-",
+      "page_label": "RA-5"
+    },
+    {
+      "system": "Drive Shaft",
+      "item": "Rotational play (compressed)",
+      "unit": "mm (in)",
+      "standard": "0",
+      "limit": "0.1 (0.004)",
+      "page_label": "RA-6"
+    },
+    {
+      "system": "Drive Shaft",
+      "item": "Universal joint axial play",
+      "unit": "mm (in)",
+      "standard": "within 0.02 (0.0008)",
+      "limit": "0.02 (0.0008)",
+      "page_label": "RA-6"
+    },
+    {
+      "system": "Drive Shaft",
+      "item": "Grease quantity - ball rolling and oil groove",
+      "unit": "gr (oz)",
+      "standard": "approximately 10 (0.35)",
+      "limit": "-",
+      "page_label": "RA-7"
+    },
+    {
+      "system": "Drive Shaft",
+      "item": "Grease quantity - sleeve yoke cavity",
+      "unit": "gr (oz)",
+      "standard": "approximately 35 (1.23)",
+      "limit": "-",
+      "page_label": "RA-7"
+    },
+    {
+      "system": "Differential Mount",
+      "item": "Front insulator dimension 'A' (unloaded)",
+      "unit": "mm (in)",
+      "standard": "2 (0.08) to 9 (0.35)",
+      "limit": ">= 9 (0.35) or <= 2 (0.08)",
+      "page_label": "RA-10"
+    }
+  ],
+  "troubleshooting": [
+    {
+      "symptom": "Noise (unusual sound)",
+      "probable_cause": "Loose joint.",
+      "corrective_action": "Retighten.",
+      "page_label": "RA-15"
+    },
+    {
+      "symptom": "Noise (unusual sound)",
+      "probable_cause": "Unbalanced tires.",
+      "corrective_action": "Adjust.",
+      "page_label": "RA-15"
+    },
+    {
+      "symptom": "Noise (unusual sound)",
+      "probable_cause": "Insufficient lubrication, improper adjustment, worn, or damaged wheel bearing.",
+      "corrective_action": "Lubricate, adjust, or replace.",
+      "page_label": "RA-15"
+    },
+    {
+      "symptom": "Noise (unusual sound)",
+      "probable_cause": "Damaged transverse link rubber bushing.",
+      "corrective_action": "Replace.",
+      "page_label": "RA-15"
+    },
+    {
+      "symptom": "Noise (unusual sound)",
+      "probable_cause": "Faulty shock absorber (in strut).",
+      "corrective_action": "Replace.",
+      "page_label": "RA-15"
+    },
+    {
+      "symptom": "Noise (unusual sound)",
+      "probable_cause": "Damaged differential mount insulator.",
+      "corrective_action": "Replace.",
+      "page_label": "RA-15"
+    },
+    {
+      "symptom": "Noise (unusual sound)",
+      "probable_cause": "Damaged universal joint.",
+      "corrective_action": "Replace.",
+      "page_label": "RA-15"
+    },
+    {
+      "symptom": "Noise (unusual sound)",
+      "probable_cause": "Worn or seized drive shaft ball spline.",
+      "corrective_action": "Replace.",
+      "page_label": "RA-15"
+    },
+    {
+      "symptom": "Noise (unusual sound)",
+      "probable_cause": "Broken coil spring.",
+      "corrective_action": "Replace.",
+      "page_label": "RA-15"
+    },
+    {
+      "symptom": "Unstable running",
+      "probable_cause": "Loose wheel nut(s).",
+      "corrective_action": "Retighten.",
+      "page_label": "RA-15"
+    },
+    {
+      "symptom": "Unstable running",
+      "probable_cause": "Damaged transverse link bushing.",
+      "corrective_action": "Replace.",
+      "page_label": "RA-15"
+    },
+    {
+      "symptom": "Unstable running",
+      "probable_cause": "Reduced shock absorber damping force.",
+      "corrective_action": "Replace.",
+      "page_label": "RA-15"
+    },
+    {
+      "symptom": "Unstable running",
+      "probable_cause": "Seized or damaged drive shaft ball spline.",
+      "corrective_action": "Replace.",
+      "page_label": "RA-15"
+    },
+    {
+      "symptom": "Unstable running",
+      "probable_cause": "Weakened spring.",
+      "corrective_action": "Replace.",
+      "page_label": "RA-15"
+    },
+    {
+      "symptom": "Oil leakage",
+      "probable_cause": "Damaged drive shaft dust cover.",
+      "corrective_action": "Disassemble, clean, and reassemble, or replace dust cover.",
+      "page_label": "RA-15"
+    },
+    {
+      "symptom": "Oil leakage",
+      "probable_cause": "Worn or damaged rear axle shaft grease seal.",
+      "corrective_action": "Replace.",
+      "page_label": "RA-15"
+    }
+  ],
+  "special_tools": [
+    {
+      "tool_number": "KV40101000",
+      "tool_name": "Rear axle stand",
+      "kent_moore_no": "J 25604-01",
+      "ref": "Fig. RA-4, Fig. RA-5",
+      "page_label": "RA-16"
+    },
+    {
+      "tool_number": "ST36230000",
+      "tool_name": "Sliding hammer",
+      "kent_moore_no": "J 25840",
+      "ref": "Fig. RA-5",
+      "page_label": "RA-16"
+    },
+    {
+      "tool_number": "ST38800000",
+      "tool_name": "Rear transverse link bushing replacer (\u2460 ST38800010 Drift, \u2461 ST38800020 Support ring)",
+      "kent_moore_no": "J 25875",
+      "ref": "Fig. RA-35",
+      "page_label": "RA-16"
+    },
+    {
+      "tool_number": "ST37780000",
+      "tool_name": "Rear axle shaft outer bearing drift",
+      "kent_moore_no": "J 25863",
+      "ref": "Page RA-5",
+      "page_label": "RA-16"
+    },
+    {
+      "tool_number": "ST33260000",
+      "tool_name": "Diff. mounting member insulator drift set (\u2460 ST33260010 Adapter insulator drift (1), \u2461 ST33260020 Adapter insulator drift (2))",
+      "kent_moore_no": "J25808",
+      "ref": "Fig. RA-31, Fig. RA-32",
+      "page_label": "RA-16"
+    },
+    {
+      "tool_number": "GG94310000",
+      "tool_name": "Flare nut torque wrench",
+      "kent_moore_no": "\u2014",
+      "ref": "Page RA-9",
+      "page_label": "RA-16"
+    }
+  ]
+}

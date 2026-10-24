@@ -1,0 +1,842 @@
+{
+  "section_title": "COOLING SYSTEM",
+  "source_pdf": "1978 280z FSM/CO Cooling System.pdf",
+  "md_path": "1978 280z FSM/CO Cooling System.md",
+  "pages_count": 8,
+  "diagrams": [
+    {
+      "section_title": "COOLING SYSTEM",
+      "source_md": "1978 280z FSM/CO Cooling System.md",
+      "slug": "fig_co_1_cooling_system",
+      "file": "markdown/1978 280z FSM/diagrams/CO Cooling System/fig_co_1_cooling_system.png",
+      "rel_link": "diagrams/CO Cooling System/fig_co_1_cooling_system.png",
+      "page_num": 2,
+      "page_label": "CO-2",
+      "fig_id": "Fig. CO-1",
+      "code": "CO027, CO062",
+      "caption": "Fig. CO-1 Cooling system (Inset: Models equipped with radiator reservoir tank)",
+      "diagram_type": "cutaway_flow",
+      "description": "Cutaway flow diagram of the L28 cooling system showing coolant circulation pathways through the cylinder block, cylinder head, thermostat, water pump, and downflow radiator. Inset at lower-left illustrates configuration for models equipped with a radiator reservoir tank.",
+      "components": [
+        "Cylinder block",
+        "Cylinder head",
+        "Thermostat housing",
+        "Thermostat",
+        "Water pump",
+        "Downflow radiator",
+        "Radiator pressure cap",
+        "Upper radiator hose",
+        "Lower radiator hose",
+        "Cooling fan and pulley",
+        "Radiator reservoir tank (coolant recovery tank)"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Radiator cap preset relief pressure: 0.9 kg/cm\u00b2 (13 psi)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "When thermostat is closed, coolant recirculates within block and head for rapid warmup. Once normal operating temperature is achieved, coolant circulates through radiator core.",
+      "tags": [
+        "cooling system",
+        "circulation",
+        "flow diagram",
+        "radiator",
+        "water pump",
+        "thermostat",
+        "reservoir tank",
+        "L28"
+      ],
+      "dimensions": [
+        1087,
+        788
+      ]
+    },
+    {
+      "section_title": "COOLING SYSTEM",
+      "source_md": "1978 280z FSM/CO Cooling System.md",
+      "slug": "fig_co_2_water_pump_front_cover",
+      "file": "markdown/1978 280z FSM/diagrams/CO Cooling System/fig_co_2_water_pump_front_cover.png",
+      "rel_link": "diagrams/CO Cooling System/fig_co_2_water_pump_front_cover.png",
+      "page_num": 3,
+      "page_label": "CO-3",
+      "fig_id": "Fig. CO-2",
+      "code": "CO005",
+      "caption": "Fig. CO-2 Water pump and front cover",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view showing relationship of centrifugal water pump assembly to engine front cover and integrated volute chamber.",
+      "components": [
+        "Water pump assembly",
+        "Engine front cover",
+        "Volute chamber",
+        "Mounting gasket surface",
+        "Fan pulley hub"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Volute chamber is cast directly into front cover assembly. Water pump outer bearing race is press-fit into aluminum body; unit cannot be disassembled.",
+      "tags": [
+        "water pump",
+        "front cover",
+        "volute chamber",
+        "exploded view"
+      ],
+      "dimensions": [
+        360,
+        293
+      ]
+    },
+    {
+      "section_title": "COOLING SYSTEM",
+      "source_md": "1978 280z FSM/CO Cooling System.md",
+      "slug": "fig_co_3_removing_water_pump",
+      "file": "markdown/1978 280z FSM/diagrams/CO Cooling System/fig_co_3_removing_water_pump.png",
+      "rel_link": "diagrams/CO Cooling System/fig_co_3_removing_water_pump.png",
+      "page_num": 3,
+      "page_label": "CO-3",
+      "fig_id": "Fig. CO-3",
+      "code": "CO006",
+      "caption": "Fig. CO-3 Removing water pump",
+      "diagram_type": "procedure_step",
+      "description": "Procedure diagram showing removal of water pump housing and gasket from front cover of engine.",
+      "components": [
+        "Water pump",
+        "Engine front cover",
+        "Securing bolts",
+        "Gasket"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Clean cooling system with suitable cleaner before pump removal. Always replace gasket with a new one upon installation.",
+      "tags": [
+        "water pump",
+        "removal",
+        "front cover",
+        "service procedure"
+      ],
+      "dimensions": [
+        361,
+        305
+      ]
+    },
+    {
+      "section_title": "COOLING SYSTEM",
+      "source_md": "1978 280z FSM/CO Cooling System.md",
+      "slug": "fig_co_4_tem_coupling",
+      "file": "markdown/1978 280z FSM/diagrams/CO Cooling System/fig_co_4_tem_coupling.png",
+      "rel_link": "diagrams/CO Cooling System/fig_co_4_tem_coupling.png",
+      "page_num": 4,
+      "page_label": "CO-4",
+      "fig_id": "Fig. CO-4",
+      "code": "CO078",
+      "caption": "Fig. CO-4 Cross-sectional view of Tem-coupling",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross-sectional and front elevation views of temperature-sensing viscous fan coupling (Tem-coupling), showing internal fluid passages, bimetal thermostat, slide valve, and labyrinth drive surfaces.",
+      "components": [
+        "Bi-metal thermostat",
+        "Slide valve",
+        "Reserve chamber for \"OFF\"",
+        "Bearing",
+        "Driving chamber",
+        "Coupling part (labyrinth)",
+        "Driven part",
+        "Pump unit oil outlet",
+        "Oil inlet"
+      ],
+      "callouts": {
+        "1": "Bi-metal thermostat",
+        "2": "Slide valve",
+        "3": "Reserve chamber for \"OFF\"",
+        "4": "Bearing",
+        "5": "Driving chamber",
+        "6": "Coupling part (labyrinth)",
+        "7": "Driven part",
+        "8": "Pump unit oil outlet",
+        "9": "Oil inlet"
+      },
+      "measurements_and_specs": [
+        "ON condition fan speed: up to about 2,450 rpm",
+        "OFF condition fan slip speed: about 1,600 rpm"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Coiled bimetal senses radiator discharge air temp. When hot, bimetal expands opening slide valve (2) to deliver silicone oil to labyrinth (6). When cold, valve closes and centrifugal force collects oil back into reserve chamber (3).",
+      "tags": [
+        "tem-coupling",
+        "fan clutch",
+        "cross-section",
+        "cutaway",
+        "viscous coupling",
+        "bi-metal"
+      ],
+      "dimensions": [
+        1074,
+        770
+      ]
+    },
+    {
+      "section_title": "COOLING SYSTEM",
+      "source_md": "1978 280z FSM/CO Cooling System.md",
+      "slug": "fig_co_5_characteristic_of_tem_coupling",
+      "file": "markdown/1978 280z FSM/diagrams/CO Cooling System/fig_co_5_characteristic_of_tem_coupling.png",
+      "rel_link": "diagrams/CO Cooling System/fig_co_5_characteristic_of_tem_coupling.png",
+      "page_num": 4,
+      "page_label": "CO-4",
+      "fig_id": "Fig. CO-5",
+      "code": "CO029",
+      "caption": "Fig. CO-5 Characteristic of Tem-coupling",
+      "diagram_type": "graph_chart",
+      "description": "Performance graphs comparing fan speed vs water pump speed for conventional fixed-ratio slip coupling versus variable ON/OFF temperature-controlled Tem-coupling.",
+      "components": [
+        "Conventional coupling curve",
+        "Tem-coupling ON curve",
+        "Tem-coupling OFF curve",
+        "Fan speed axis",
+        "Water pump speed axis"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Max ON speed: ~2,450 rpm",
+        "OFF slip speed: ~1,600 rpm"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Tem-coupling limits top fan speed and dramatically cuts power drag and acoustic noise when coolant temperatures are moderate or low.",
+      "tags": [
+        "tem-coupling",
+        "graph",
+        "performance chart",
+        "fan speed",
+        "water pump speed"
+      ],
+      "dimensions": [
+        342,
+        407
+      ]
+    },
+    {
+      "section_title": "COOLING SYSTEM",
+      "source_md": "1978 280z FSM/CO Cooling System.md",
+      "slug": "fig_co_6_removing_thermostat",
+      "file": "markdown/1978 280z FSM/diagrams/CO Cooling System/fig_co_6_removing_thermostat.png",
+      "rel_link": "diagrams/CO Cooling System/fig_co_6_removing_thermostat.png",
+      "page_num": 5,
+      "page_label": "CO-5",
+      "fig_id": "Fig. CO-6",
+      "code": "CO073",
+      "caption": "Fig. CO-6 Removing thermostat",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of thermostat assembly, gasket, water outlet neck, and housing bolted onto cylinder head.",
+      "components": [
+        "Water outlet neck",
+        "Thermostat",
+        "Gasket",
+        "Thermostat housing",
+        "Securing bolts"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Always replace gasket when reassembling. Tighten securing bolts evenly.",
+      "tags": [
+        "thermostat",
+        "housing",
+        "water outlet",
+        "gasket",
+        "exploded view"
+      ],
+      "dimensions": [
+        373,
+        323
+      ]
+    },
+    {
+      "section_title": "COOLING SYSTEM",
+      "source_md": "1978 280z FSM/CO Cooling System.md",
+      "slug": "fig_co_7_inspecting_thermostat",
+      "file": "markdown/1978 280z FSM/diagrams/CO Cooling System/fig_co_7_inspecting_thermostat.png",
+      "rel_link": "diagrams/CO Cooling System/fig_co_7_inspecting_thermostat.png",
+      "page_num": 5,
+      "page_label": "CO-5",
+      "fig_id": "Fig. CO-7",
+      "code": "CO011",
+      "caption": "Fig. CO-7 Inspecting thermostat",
+      "diagram_type": "inspection_measurement",
+      "description": "Testing thermostat valve opening lift in hot water bath using a screwdriver marked at 8 mm (0.31 in).",
+      "components": [
+        "Thermostat",
+        "Heated water container",
+        "Screwdriver with 8 mm mark"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Test temperature: 5\u00b0C (9\u00b0F) above opening spec",
+        "Valve lift inspection height: 8 mm (0.31 in)",
+        "Cool-down temp: 5\u00b0C (9\u00b0F) below opening spec"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Thermostat cannot be repaired; replace if opening temperature or minimum 8 mm lift is out of specification.",
+      "tags": [
+        "thermostat inspection",
+        "valve lift",
+        "bench test",
+        "water bath"
+      ],
+      "dimensions": [
+        360,
+        366
+      ]
+    },
+    {
+      "section_title": "COOLING SYSTEM",
+      "source_md": "1978 280z FSM/CO Cooling System.md",
+      "slug": "fig_co_8_radiator_manual_transmission",
+      "file": "markdown/1978 280z FSM/diagrams/CO Cooling System/fig_co_8_radiator_manual_transmission.png",
+      "rel_link": "diagrams/CO Cooling System/fig_co_8_radiator_manual_transmission.png",
+      "page_num": 5,
+      "page_label": "CO-5",
+      "fig_id": "Fig. CO-8",
+      "code": "CO012",
+      "caption": "Fig. CO-8 Radiator for manual transmission",
+      "diagram_type": "exploded_view",
+      "description": "Perspective view of downflow radiator assembly with top tank, bottom tank, filler neck, hoses, and drain cock for manual transmission models.",
+      "components": [
+        "Downflow radiator assembly",
+        "Radiator filler neck and cap",
+        "Upper radiator hose",
+        "Lower radiator hose",
+        "Bottom tank drain cock"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "System pressure: 0.9 kg/cm\u00b2 (13 psi)",
+        "Manual transmission capacity: 10.3 liters (10 7/8 US qt, 9 1/8 Imp qt)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Automatic transmission radiators additionally integrate a transmission fluid cooler inside the bottom tank.",
+      "tags": [
+        "radiator",
+        "manual transmission",
+        "downflow radiator",
+        "hoses",
+        "drain cock"
+      ],
+      "dimensions": [
+        328,
+        323
+      ]
+    },
+    {
+      "section_title": "COOLING SYSTEM",
+      "source_md": "1978 280z FSM/CO Cooling System.md",
+      "slug": "fig_co_9_radiator_shroud",
+      "file": "markdown/1978 280z FSM/diagrams/CO Cooling System/fig_co_9_radiator_shroud.png",
+      "rel_link": "diagrams/CO Cooling System/fig_co_9_radiator_shroud.png",
+      "page_num": 6,
+      "page_label": "CO-6",
+      "fig_id": "Fig. CO-9",
+      "code": "",
+      "caption": "Fig. CO-9 Radiator shroud (for the model equipped with air conditioner)",
+      "diagram_type": "component_location",
+      "description": "Two-piece cooling fan shroud design used on factory air-conditioned models.",
+      "components": [
+        "Upper radiator shroud",
+        "Lower radiator shroud",
+        "Mounting bolt flanges"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Lower shroud is detached and removed downwards before removing radiator; upper shroud lifts out with radiator.",
+      "tags": [
+        "radiator shroud",
+        "fan shroud",
+        "air conditioner",
+        "cooling fan"
+      ],
+      "dimensions": [
+        334,
+        390
+      ]
+    },
+    {
+      "section_title": "COOLING SYSTEM",
+      "source_md": "1978 280z FSM/CO Cooling System.md",
+      "slug": "fig_co_10_testing_radiator_cap",
+      "file": "markdown/1978 280z FSM/diagrams/CO Cooling System/fig_co_10_testing_radiator_cap.png",
+      "rel_link": "diagrams/CO Cooling System/fig_co_10_testing_radiator_cap.png",
+      "page_num": 6,
+      "page_label": "CO-6",
+      "fig_id": "Fig. CO-10",
+      "code": "ET012",
+      "caption": "Fig. CO-10 Testing radiator cap",
+      "diagram_type": "inspection_measurement",
+      "description": "Bench testing radiator cap relief pressure using a hand pump pressure tester and cap adapter.",
+      "components": [
+        "Radiator cap",
+        "Cap tester adapter",
+        "Hand pressure pump and gauge"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Working release pressure: 0.9 kg/cm\u00b2 (13 psi)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Inspect rubber seal for cracks or hardness. Cap must hold pressure and release at specified relief value.",
+      "tags": [
+        "radiator cap test",
+        "pressure cap",
+        "inspection",
+        "cap tester"
+      ],
+      "dimensions": [
+        354,
+        279
+      ]
+    },
+    {
+      "section_title": "COOLING SYSTEM",
+      "source_md": "1978 280z FSM/CO Cooling System.md",
+      "slug": "fig_co_11_testing_radiator_pressure",
+      "file": "markdown/1978 280z FSM/diagrams/CO Cooling System/fig_co_11_testing_radiator_pressure.png",
+      "rel_link": "diagrams/CO Cooling System/fig_co_11_testing_radiator_pressure.png",
+      "page_num": 6,
+      "page_label": "CO-6",
+      "fig_id": "Fig. CO-11",
+      "code": "ET237",
+      "caption": "Fig. CO-11 Testing radiator pressure",
+      "diagram_type": "inspection_measurement",
+      "description": "Cooling system leak detection test using hand pressure pump attached directly to radiator filler neck.",
+      "components": [
+        "Radiator filler neck",
+        "Hand pressure pump",
+        "Pressure gauge"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Applied test pressure: 1.6 kg/cm\u00b2 (23 psi)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Apply 1.6 kg/cm\u00b2 (23 psi) to locate seam leaks, hose leaks, or core defects. Repair or replace radiator if leaking.",
+      "tags": [
+        "cooling system pressure test",
+        "leak test",
+        "radiator test"
+      ],
+      "dimensions": [
+        348,
+        323
+      ]
+    },
+    {
+      "section_title": "COOLING SYSTEM",
+      "source_md": "1978 280z FSM/CO Cooling System.md",
+      "slug": "fig_co_12_structural_view_cooling_system",
+      "file": "markdown/1978 280z FSM/diagrams/CO Cooling System/fig_co_12_structural_view_cooling_system.png",
+      "rel_link": "diagrams/CO Cooling System/fig_co_12_structural_view_cooling_system.png",
+      "page_num": 6,
+      "page_label": "CO-6",
+      "fig_id": "Fig. CO-12",
+      "code": "CO038",
+      "caption": "Fig. CO-12 Structural view of cooling system",
+      "diagram_type": "cutaway_flow",
+      "description": "Side elevation structural cross-section showing alignment of radiator, bottom tank oil cooler, water pump, fan, and filler neck.",
+      "components": [
+        "Radiator",
+        "Oil cooler",
+        "Water pump",
+        "Cap for water supply",
+        "Cooling fan"
+      ],
+      "callouts": {
+        "1": "Radiator",
+        "2": "Oil cooler",
+        "3": "Water pump",
+        "4": "Cap for water supply"
+      },
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Illustrates packaging of automatic transmission fluid cooler inside the radiator bottom tank.",
+      "tags": [
+        "cooling system structure",
+        "radiator",
+        "oil cooler",
+        "water pump",
+        "automatic transmission"
+      ],
+      "dimensions": [
+        360,
+        445
+      ]
+    },
+    {
+      "section_title": "COOLING SYSTEM",
+      "source_md": "1978 280z FSM/CO Cooling System.md",
+      "slug": "fig_co_13_operation_of_reservoir_tank",
+      "file": "markdown/1978 280z FSM/diagrams/CO Cooling System/fig_co_13_operation_of_reservoir_tank.png",
+      "rel_link": "diagrams/CO Cooling System/fig_co_13_operation_of_reservoir_tank.png",
+      "page_num": 6,
+      "page_label": "CO-6",
+      "fig_id": "Fig. CO-13",
+      "code": "CO074, CO075",
+      "caption": "Fig. CO-13 Operation of reservoir tank",
+      "diagram_type": "cutaway_flow",
+      "description": "Dual diagram illustrating dynamic valving in radiator cap and fluid transfer with reservoir tank during pressure relief and vacuum recovery states.",
+      "components": [
+        "Radiator cap pressure relief valve",
+        "Radiator cap vacuum valve",
+        "Reservoir tank",
+        "Overflow transfer hose",
+        "MAX level line",
+        "MIN level line"
+      ],
+      "callouts": {
+        "Upper diagram": "Pressure relief valve opens",
+        "Lower diagram": "Vacuum valve opens"
+      },
+      "measurements_and_specs": [
+        "Cap relief pressure: 0.9 kg/cm\u00b2 (13 psi)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "When engine heats up, thermal expansion forces relief valve open into reservoir tank. When cooling down, vacuum valve opens allowing coolant to siphon back into radiator.",
+      "tags": [
+        "radiator cap",
+        "reservoir tank",
+        "pressure relief valve",
+        "vacuum valve",
+        "coolant recovery"
+      ],
+      "dimensions": [
+        711,
+        734
+      ]
+    },
+    {
+      "section_title": "COOLING SYSTEM",
+      "source_md": "1978 280z FSM/CO Cooling System.md",
+      "slug": "fig_co_14_installing_reservoir_tank",
+      "file": "markdown/1978 280z FSM/diagrams/CO Cooling System/fig_co_14_installing_reservoir_tank.png",
+      "rel_link": "diagrams/CO Cooling System/fig_co_14_installing_reservoir_tank.png",
+      "page_num": 7,
+      "page_label": "CO-7",
+      "fig_id": "Fig. CO-14",
+      "code": "CO076",
+      "caption": "Fig. CO-14 Installing reservoir tank",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view showing installation of coolant reservoir tank, mounting bracket, hoses, and hardware to front radiator core support.",
+      "components": [
+        "Reservoir tank",
+        "Reservoir tank bracket",
+        "Radiator core support",
+        "Overflow hose",
+        "Hose clamps",
+        "Stud bolts",
+        "Bolts and nuts"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Upper bracket attaches to core support together with radiator; lower bracket mounts with stud bolts. Slide reservoir tank into bracket; take care not to strike or damage radiator fins during assembly.",
+      "tags": [
+        "reservoir tank",
+        "bracket",
+        "core support",
+        "installation",
+        "exploded view"
+      ],
+      "dimensions": [
+        691,
+        577
+      ]
+    }
+  ],
+  "torques": [],
+  "specs": [
+    {
+      "system": "Cooling System",
+      "item": "Radiator Type",
+      "unit": "",
+      "standard": "Corrugated fin and tube",
+      "limit": "",
+      "page_label": "CO-7"
+    },
+    {
+      "system": "Cooling System",
+      "item": "Radiator Cap Relief Pressure",
+      "unit": "kg/cm\u00b2 (psi)",
+      "standard": "0.9 (13)",
+      "limit": "",
+      "page_label": "CO-7"
+    },
+    {
+      "system": "Cooling System",
+      "item": "Radiator Testing Pressure",
+      "unit": "kg/cm\u00b2 (psi)",
+      "standard": "1.6 (23)",
+      "limit": "",
+      "page_label": "CO-7"
+    },
+    {
+      "system": "Cooling System",
+      "item": "Coolant Capacity (Manual Transmission)",
+      "unit": "liter (U.S. qt, Imp. qt)",
+      "standard": "10.3 (10 7/8, 9 1/8)",
+      "limit": "",
+      "page_label": "CO-7"
+    },
+    {
+      "system": "Cooling System",
+      "item": "Coolant Capacity (Automatic Transmission)",
+      "unit": "liter (U.S. qt, Imp. qt)",
+      "standard": "10.1 (10 5/8, 8 7/8)",
+      "limit": "",
+      "page_label": "CO-7"
+    },
+    {
+      "system": "Cooling System",
+      "item": "Fan Blades x Outer Diameter",
+      "unit": "mm (in)",
+      "standard": "8 x 410 (16.14)",
+      "limit": "",
+      "page_label": "CO-7"
+    },
+    {
+      "system": "Cooling System",
+      "item": "Fan Belt Deflection (under 10 kg / 22 lb force)",
+      "unit": "mm (in)",
+      "standard": "8 to 12 (0.31 to 0.47)",
+      "limit": "",
+      "page_label": "CO-3, CO-7"
+    },
+    {
+      "system": "Cooling System",
+      "item": "Thermostat Valve Opening Temperature (Standard)",
+      "unit": "\u00b0C (\u00b0F)",
+      "standard": "82 (180)",
+      "limit": "",
+      "page_label": "CO-5, CO-7"
+    },
+    {
+      "system": "Cooling System",
+      "item": "Thermostat Max. Valve Lift (Standard)",
+      "unit": "mm at \u00b0C (in at \u00b0F)",
+      "standard": "above 8 at 95 (0.31 at 203)",
+      "limit": "",
+      "page_label": "CO-5, CO-7"
+    },
+    {
+      "system": "Cooling System",
+      "item": "Thermostat Valve Opening Temperature (Frigid Type)",
+      "unit": "\u00b0C (\u00b0F)",
+      "standard": "88 (190)",
+      "limit": "",
+      "page_label": "CO-5, CO-7"
+    },
+    {
+      "system": "Cooling System",
+      "item": "Thermostat Max. Valve Lift (Frigid Type)",
+      "unit": "mm at \u00b0C (in at \u00b0F)",
+      "standard": "above 8 at 100 (0.31 at 212)",
+      "limit": "",
+      "page_label": "CO-5, CO-7"
+    },
+    {
+      "system": "Cooling System",
+      "item": "Thermostat Valve Opening Temperature (Tropical Type)",
+      "unit": "\u00b0C (\u00b0F)",
+      "standard": "76.5 (170)",
+      "limit": "",
+      "page_label": "CO-5, CO-7"
+    },
+    {
+      "system": "Cooling System",
+      "item": "Thermostat Max. Valve Lift (Tropical Type)",
+      "unit": "mm at \u00b0C (in at \u00b0F)",
+      "standard": "above 8 at 90 (0.31 at 194)",
+      "limit": "",
+      "page_label": "CO-5, CO-7"
+    },
+    {
+      "system": "Cooling System",
+      "item": "Tem-coupling Operating Fan Speed (ON condition)",
+      "unit": "rpm",
+      "standard": "up to about 2,450",
+      "limit": "",
+      "page_label": "CO-4"
+    },
+    {
+      "system": "Cooling System",
+      "item": "Tem-coupling Operating Fan Speed (OFF condition)",
+      "unit": "rpm",
+      "standard": "slips at about 1,600",
+      "limit": "",
+      "page_label": "CO-4"
+    },
+    {
+      "system": "Cooling System",
+      "item": "Coolant Level (without reservoir tank)",
+      "unit": "mm (in)",
+      "standard": "about 25 (1) below bottom of filler neck",
+      "limit": "",
+      "page_label": "CO-3"
+    }
+  ],
+  "troubleshooting": [
+    {
+      "symptom": "Loss of water",
+      "probable_cause": "Damaged radiator seams.",
+      "corrective_action": "Repair.",
+      "page_label": "CO-8"
+    },
+    {
+      "symptom": "Loss of water",
+      "probable_cause": "Leaks at heater connections or plugs.",
+      "corrective_action": "Repair.",
+      "page_label": "CO-8"
+    },
+    {
+      "symptom": "Loss of water",
+      "probable_cause": "Leak at water temperature gauge.",
+      "corrective_action": "Tighten.",
+      "page_label": "CO-8"
+    },
+    {
+      "symptom": "Loss of water",
+      "probable_cause": "Loose joints.",
+      "corrective_action": "Tighten.",
+      "page_label": "CO-8"
+    },
+    {
+      "symptom": "Loss of water",
+      "probable_cause": "Damaged cylinder head gasket.",
+      "corrective_action": "Replace. Check engine oil for contamination and refill as necessary.",
+      "page_label": "CO-8"
+    },
+    {
+      "symptom": "Loss of water",
+      "probable_cause": "Cracked cylinder block.",
+      "corrective_action": "Replace. Check engine oil in crankcase for mixing with water by pulling oil level gauge.",
+      "page_label": "CO-8"
+    },
+    {
+      "symptom": "Loss of water",
+      "probable_cause": "Cracked cylinder head.",
+      "corrective_action": "Replace.",
+      "page_label": "CO-8"
+    },
+    {
+      "symptom": "Loss of water",
+      "probable_cause": "Loose cylinder head bolts.",
+      "corrective_action": "Tighten.",
+      "page_label": "CO-8"
+    },
+    {
+      "symptom": "Poor circulation",
+      "probable_cause": "Restriction in system.",
+      "corrective_action": "Check hoses for crimps, and clear the system of rust and sludge by flushing radiator.",
+      "page_label": "CO-8"
+    },
+    {
+      "symptom": "Poor circulation",
+      "probable_cause": "Insufficient coolant.",
+      "corrective_action": "Replenish.",
+      "page_label": "CO-8"
+    },
+    {
+      "symptom": "Poor circulation",
+      "probable_cause": "Inoperative water pump.",
+      "corrective_action": "Replace.",
+      "page_label": "CO-8"
+    },
+    {
+      "symptom": "Poor circulation",
+      "probable_cause": "Loose fan belt.",
+      "corrective_action": "Adjust.",
+      "page_label": "CO-8"
+    },
+    {
+      "symptom": "Poor circulation",
+      "probable_cause": "Inoperative thermostat.",
+      "corrective_action": "Replace.",
+      "page_label": "CO-8"
+    },
+    {
+      "symptom": "Corrosion",
+      "probable_cause": "Excessive impurity in water.",
+      "corrective_action": "Use soft, clean water. (rain water is satisfactory).",
+      "page_label": "CO-8"
+    },
+    {
+      "symptom": "Corrosion",
+      "probable_cause": "Infrequent flushing and draining of system.",
+      "corrective_action": "Cooling system should be drained and flushed thoroughly at least twice a year. Permanent antifreeze (Ethylene glycol base) can be used throughout the seasons of a year.",
+      "page_label": "CO-8"
+    },
+    {
+      "symptom": "Overheating",
+      "probable_cause": "Malfunctioning thermostat.",
+      "corrective_action": "Replace.",
+      "page_label": "CO-8"
+    },
+    {
+      "symptom": "Overheating",
+      "probable_cause": "Radiator fin choked with mud, chaff, etc.",
+      "corrective_action": "Clean out air passage thoroughly by using air pressure from engine side of radiator.",
+      "page_label": "CO-8"
+    },
+    {
+      "symptom": "Overheating",
+      "probable_cause": "Incorrect ignition and valve timing.",
+      "corrective_action": "Adjust.",
+      "page_label": "CO-8"
+    },
+    {
+      "symptom": "Overheating",
+      "probable_cause": "Dirty oil and sludge in engine.",
+      "corrective_action": "Refill.",
+      "page_label": "CO-8"
+    },
+    {
+      "symptom": "Overheating",
+      "probable_cause": "Inoperative water pump.",
+      "corrective_action": "Replace.",
+      "page_label": "CO-8"
+    },
+    {
+      "symptom": "Overheating",
+      "probable_cause": "Loose fan belt.",
+      "corrective_action": "Adjust.",
+      "page_label": "CO-8"
+    },
+    {
+      "symptom": "Overheating",
+      "probable_cause": "Restricted radiator.",
+      "corrective_action": "Flush radiator.",
+      "page_label": "CO-8"
+    },
+    {
+      "symptom": "Overheating",
+      "probable_cause": "Inaccurate temperature gauge.",
+      "corrective_action": "Replace.",
+      "page_label": "CO-8"
+    },
+    {
+      "symptom": "Overheating",
+      "probable_cause": "Impurity in water.",
+      "corrective_action": "Use soft, clean water.",
+      "page_label": "CO-8"
+    },
+    {
+      "symptom": "Overcooling",
+      "probable_cause": "Malfunctioning thermostat.",
+      "corrective_action": "Replace.",
+      "page_label": "CO-8"
+    },
+    {
+      "symptom": "Overcooling",
+      "probable_cause": "Inaccurate temperature gauge.",
+      "corrective_action": "Replace.",
+      "page_label": "CO-8"
+    }
+  ],
+  "special_tools": []
+}

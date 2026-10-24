@@ -1,0 +1,608 @@
+{
+  "section_title": "SECTION EL - ENGINE LUBRICATION SYSTEM",
+  "source_pdf": "1978 280z FSM/EL Engine Lubrication.pdf",
+  "md_path": "1978 280z FSM/EL Engine Lubrication.md",
+  "pages_count": 5,
+  "diagrams": [
+    {
+      "section_title": "SECTION EL - ENGINE LUBRICATION SYSTEM",
+      "source_md": "1978 280z FSM/EL Engine Lubrication.md",
+      "slug": "fig_el_1_lubricating_circuit",
+      "file": "markdown/1978 280z FSM/diagrams/EL Engine Lubrication/fig_el_1_lubricating_circuit.png",
+      "rel_link": "diagrams/EL Engine Lubrication/fig_el_1_lubricating_circuit.png",
+      "page_num": 2,
+      "page_label": "EL-2",
+      "fig_id": "Fig. EL-1",
+      "code": "EL072",
+      "caption": "Fig. EL-1 Lubricating circuit",
+      "diagram_type": "cutaway_flow",
+      "description": "Perspective cutaway of the Nissan L28 engine showing the pressurized oil circulation path from sump strainer through the trochoid oil pump, full-flow filter, main oil gallery, crankshaft/connecting rod bearings, timing chain tensioner, and cylinder head camshaft gallery.",
+      "components": [
+        "oil strainer",
+        "oil pan",
+        "trochoid oil pump",
+        "full-flow oil filter",
+        "main oil gallery",
+        "crankshaft bearings",
+        "connecting rod jet holes",
+        "timing chain tensioner",
+        "cylinder head oil gallery",
+        "camshaft"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Max oil pressure: 5.6 kg/cm\u00b2 (80 psi) at 3,000 rpm"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Connecting rod jet holes spray oil directly onto cylinder walls and piston pins.",
+      "tags": [
+        "lubrication circuit",
+        "oil gallery",
+        "oil pump",
+        "crankshaft",
+        "camshaft",
+        "oil strainer",
+        "oil pan",
+        "piston"
+      ],
+      "dimensions": [
+        787,
+        656
+      ]
+    },
+    {
+      "section_title": "SECTION EL - ENGINE LUBRICATION SYSTEM",
+      "source_md": "1978 280z FSM/EL Engine Lubrication.md",
+      "slug": "fig_el_2_lubricating_cylinder_head",
+      "file": "markdown/1978 280z FSM/diagrams/EL Engine Lubrication/fig_el_2_lubricating_cylinder_head.png",
+      "rel_link": "diagrams/EL Engine Lubrication/fig_el_2_lubricating_cylinder_head.png",
+      "page_num": 2,
+      "page_label": "EL-2",
+      "fig_id": "Fig. EL-2",
+      "code": "EL069",
+      "caption": "Fig. EL-2 Lubricating cylinder head",
+      "diagram_type": "cutaway_flow",
+      "description": "Cutaway diagram of the OHC cylinder head valve train lubrication showing oil rising into the cylinder head gallery, feeding all cam brackets, and entering the hollow camshaft via No. 2 and No. 4 bearings to exit through base-circle spray holes onto rocker arms and cam lobes.",
+      "components": [
+        "cylinder head oil gallery",
+        "camshaft brackets",
+        "No. 2 camshaft bearing",
+        "No. 4 camshaft bearing",
+        "hollow camshaft",
+        "cam lobe base-circle oil holes",
+        "rocker arms",
+        "valves"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Camshaft internal gallery is fed specifically via No. 2 and No. 4 camshaft bearings; ensure bracket oil holes are aligned and unobstructed.",
+      "tags": [
+        "lubricating cylinder head",
+        "camshaft",
+        "cam brackets",
+        "rocker arms",
+        "valve mechanism",
+        "cam lobes"
+      ],
+      "dimensions": [
+        385,
+        235
+      ]
+    },
+    {
+      "section_title": "SECTION EL - ENGINE LUBRICATION SYSTEM",
+      "source_md": "1978 280z FSM/EL Engine Lubrication.md",
+      "slug": "fig_el_3_aligning_punch_mark_and_oil_hole",
+      "file": "markdown/1978 280z FSM/diagrams/EL Engine Lubrication/fig_el_3_aligning_punch_mark_and_oil_hole.png",
+      "rel_link": "diagrams/EL Engine Lubrication/fig_el_3_aligning_punch_mark_and_oil_hole.png",
+      "page_num": 3,
+      "page_label": "EL-3",
+      "fig_id": "Fig. EL-3",
+      "code": "EL009",
+      "caption": "Fig. EL-3 Aligning punch mark and oil hole",
+      "diagram_type": "alignment_orientation",
+      "description": "Oil pump and distributor drive spindle shaft assembly showing the alignment of the punch mark on the drive gear collar with the oil hole in the oil pump housing.",
+      "components": [
+        "oil pump body",
+        "drive spindle assembly",
+        "drive gear collar"
+      ],
+      "callouts": {
+        "Punch mark": "Alignment mark on spindle collar",
+        "Oil hole": "Hole in oil pump neck"
+      },
+      "measurements_and_specs": [
+        "No. 1 piston at T.D.C. prior to installation"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Fill pump housing with engine oil, then align punch mark of drive spindle with hole in oil pump before inserting with No. 1 piston at TDC.",
+      "tags": [
+        "drive spindle",
+        "oil pump",
+        "punch mark",
+        "oil hole",
+        "alignment mark",
+        "distributor drive",
+        "TDC"
+      ],
+      "dimensions": [
+        322,
+        349
+      ]
+    },
+    {
+      "section_title": "SECTION EL - ENGINE LUBRICATION SYSTEM",
+      "source_md": "1978 280z FSM/EL Engine Lubrication.md",
+      "slug": "fig_el_4_setting_drive_spindle",
+      "file": "markdown/1978 280z FSM/diagrams/EL Engine Lubrication/fig_el_4_setting_drive_spindle.png",
+      "rel_link": "diagrams/EL Engine Lubrication/fig_el_4_setting_drive_spindle.png",
+      "page_num": 3,
+      "page_label": "EL-3",
+      "fig_id": "Fig. EL-4",
+      "code": "EL010",
+      "caption": "Fig. EL-4 Setting drive spindle",
+      "diagram_type": "alignment_orientation",
+      "description": "Top view looking down into the distributor mounting opening on the engine front cover, showing the installed distributor drive spindle slot orientation.",
+      "components": [
+        "distributor drive spindle",
+        "front cover distributor mount"
+      ],
+      "callouts": {
+        "Front": "Forward direction of engine"
+      },
+      "measurements_and_specs": [
+        "11:25 a.m. clock position"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Top projection must sit at the 11:25 a.m. position with the smaller offset crescent/bow-shape facing toward the front of the engine.",
+      "tags": [
+        "setting drive spindle",
+        "front cover",
+        "distributor drive",
+        "11:25 position",
+        "spindle orientation"
+      ],
+      "dimensions": [
+        354,
+        319
+      ]
+    },
+    {
+      "section_title": "SECTION EL - ENGINE LUBRICATION SYSTEM",
+      "source_md": "1978 280z FSM/EL Engine Lubrication.md",
+      "slug": "fig_el_5_installing_oil_pump",
+      "file": "markdown/1978 280z FSM/diagrams/EL Engine Lubrication/fig_el_5_installing_oil_pump.png",
+      "rel_link": "diagrams/EL Engine Lubrication/fig_el_5_installing_oil_pump.png",
+      "page_num": 3,
+      "page_label": "EL-3",
+      "fig_id": "Fig. EL-5",
+      "code": "EL011",
+      "caption": "Fig. EL-5 Installing oil pump",
+      "diagram_type": "procedure_step",
+      "description": "Installing the oil pump assembly onto the lower face of the engine front cover below the crankshaft damper pulley and tightening the four mounting bolts.",
+      "components": [
+        "oil pump assembly",
+        "front cover",
+        "crankshaft pulley",
+        "mounting bolts"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Mounting bolt torque: 1.1 to 1.5 kg-m (8 to 11 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Use a new gasket and verify spindle engagement through the distributor fitting hole before torquing mounting bolts.",
+      "tags": [
+        "installing oil pump",
+        "crankshaft pulley",
+        "front cover",
+        "oil pump installation"
+      ],
+      "dimensions": [
+        363,
+        329
+      ]
+    },
+    {
+      "section_title": "SECTION EL - ENGINE LUBRICATION SYSTEM",
+      "source_md": "1978 280z FSM/EL Engine Lubrication.md",
+      "slug": "fig_el_6_oil_pump",
+      "file": "markdown/1978 280z FSM/diagrams/EL Engine Lubrication/fig_el_6_oil_pump.png",
+      "rel_link": "diagrams/EL Engine Lubrication/fig_el_6_oil_pump.png",
+      "page_num": 3,
+      "page_label": "EL-3",
+      "fig_id": "Fig. EL-6",
+      "code": "EL032",
+      "caption": "Fig. EL-6 Oil pump",
+      "diagram_type": "exploded_view",
+      "description": "Exploded view of the trochoid oil pump assembly showing housing, inner and outer rotors, gasket, cover, and pressure regulator valve assembly.",
+      "components": [
+        "oil pump body",
+        "outer rotor",
+        "inner rotor and shaft",
+        "gasket",
+        "oil pump cover",
+        "regulator valve",
+        "regulator spring",
+        "regulator cap nut"
+      ],
+      "callouts": {
+        "1": "Oil pump body",
+        "2": "Outer rotor",
+        "3": "Inner rotor and shaft",
+        "4": "Gasket",
+        "5": "Oil pump cover",
+        "6": "Regulator valve",
+        "7": "Regulator spring"
+      },
+      "measurements_and_specs": [
+        "Cover bolts torque: 0.7 to 1.0 kg-m (5.1 to 7.2 ft-lb)",
+        "Regulator valve cap nut torque: 4 to 5 kg-m (29 to 36 ft-lb)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Punch/dot marks on both the outer and inner rotor must face toward the oil pump body during assembly.",
+      "tags": [
+        "oil pump",
+        "exploded view",
+        "outer rotor",
+        "inner rotor",
+        "regulator valve",
+        "regulator spring",
+        "pump cover"
+      ],
+      "dimensions": [
+        353,
+        422
+      ]
+    },
+    {
+      "section_title": "SECTION EL - ENGINE LUBRICATION SYSTEM",
+      "source_md": "1978 280z FSM/EL Engine Lubrication.md",
+      "slug": "fig_el_7_checking_rotor_clearances",
+      "file": "markdown/1978 280z FSM/diagrams/EL Engine Lubrication/fig_el_7_checking_rotor_clearances.png",
+      "rel_link": "diagrams/EL Engine Lubrication/fig_el_7_checking_rotor_clearances.png",
+      "page_num": 3,
+      "page_label": "EL-3",
+      "fig_id": "Fig. EL-7",
+      "code": "EL059",
+      "caption": "Fig. EL-7 Checking rotor clearances",
+      "diagram_type": "inspection_measurement",
+      "description": "Measuring oil pump rotor clearances using feeler gauges and a precision straight edge across the pump housing face.",
+      "components": [
+        "oil pump body",
+        "inner rotor",
+        "outer rotor",
+        "feeler gauge",
+        "straight edge"
+      ],
+      "callouts": {
+        "1": "Outer rotor to body clearance",
+        "2": "Tip clearance",
+        "3": "Gap between rotor and straight edge",
+        "4": "Gap between body and straight edge"
+      },
+      "measurements_and_specs": [
+        "\u2460 Outer rotor to body clearance: Standard 0.15 to 0.21 mm (0.0059 to 0.0083 in), Wear limit 0.5 mm (0.0197 in)",
+        "\u2461 Rotor tip clearance: Standard < 0.12 mm (0.0047 in), Wear limit 0.20 mm (0.0079 in)",
+        "\u2462/\u2463 Gap between rotor/body and straight edge: -0.03 to 0.06 mm (-0.0012 to 0.0024 in)",
+        "Rotor side clearance (with gasket): Standard 0.04 to 0.08 mm (0.0016 to 0.0031 in), Wear limit 0.20 mm (0.0079 in)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Pump rotors and body are not serviced separately; if clearances exceed wear limits, replace the entire oil pump assembly.",
+      "tags": [
+        "checking rotor clearances",
+        "feeler gauge",
+        "straight edge",
+        "tip clearance",
+        "outer rotor to body clearance",
+        "side clearance"
+      ],
+      "dimensions": [
+        392,
+        475
+      ]
+    },
+    {
+      "section_title": "SECTION EL - ENGINE LUBRICATION SYSTEM",
+      "source_md": "1978 280z FSM/EL Engine Lubrication.md",
+      "slug": "fig_el_8_regulator_valve",
+      "file": "markdown/1978 280z FSM/diagrams/EL Engine Lubrication/fig_el_8_regulator_valve.png",
+      "rel_link": "diagrams/EL Engine Lubrication/fig_el_8_regulator_valve.png",
+      "page_num": 4,
+      "page_label": "EL-4",
+      "fig_id": "Fig. EL-8",
+      "code": "EL014",
+      "caption": "Fig. EL-8 Regulator valve",
+      "diagram_type": "cutaway_flow",
+      "description": "Cross-sectional diagram of the non-adjustable spring-loaded oil pressure regulator valve in the pump cover showing the bypass flow path to the pump inlet when open.",
+      "components": [
+        "regulator valve plunger",
+        "regulator spring",
+        "cap nut",
+        "pump cover bypass passage"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Spring free length: 52.5 mm (2.067 in)",
+        "Installed length / load: 34.8 mm / 7.9 to 8.7 kg (1.370 in / 17.4 to 19.2 lb)",
+        "Opening pressure: 5.6 kg/cm\u00b2 (80 psi) at 3,000 rpm"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Regulator valve is non-adjustable; inspect plunger for scoring and check spring free length/tension.",
+      "tags": [
+        "regulator valve",
+        "oil pressure regulator",
+        "valve plunger",
+        "spring",
+        "bypass passage"
+      ],
+      "dimensions": [
+        367,
+        296
+      ]
+    },
+    {
+      "section_title": "SECTION EL - ENGINE LUBRICATION SYSTEM",
+      "source_md": "1978 280z FSM/EL Engine Lubrication.md",
+      "slug": "fig_el_9_removing_oil_filter",
+      "file": "markdown/1978 280z FSM/diagrams/EL Engine Lubrication/fig_el_9_removing_oil_filter.png",
+      "rel_link": "diagrams/EL Engine Lubrication/fig_el_9_removing_oil_filter.png",
+      "page_num": 4,
+      "page_label": "EL-4",
+      "fig_id": "Fig. EL-9",
+      "code": "EL015",
+      "caption": "Fig. EL-9 Removing oil filter",
+      "diagram_type": "procedure_step",
+      "description": "Removing the spin-on cartridge oil filter from the right side of the cylinder block using Special Service Tool ST19320000.",
+      "components": [
+        "oil filter cartridge",
+        "oil filter wrench ST19320000"
+      ],
+      "callouts": {
+        "ST19320000": "Oil filter wrench"
+      },
+      "measurements_and_specs": [
+        "Tool: ST19320000 (Kent-Moore J 25664)"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Wait several minutes after stopping engine before loosening filter; install new filter by hand only\u2014do not overtighten.",
+      "tags": [
+        "removing oil filter",
+        "oil filter wrench",
+        "ST19320000",
+        "cartridge oil filter"
+      ],
+      "dimensions": [
+        380,
+        314
+      ]
+    },
+    {
+      "section_title": "SECTION EL - ENGINE LUBRICATION SYSTEM",
+      "source_md": "1978 280z FSM/EL Engine Lubrication.md",
+      "slug": "fig_el_10_relief_valve",
+      "file": "markdown/1978 280z FSM/diagrams/EL Engine Lubrication/fig_el_10_relief_valve.png",
+      "rel_link": "diagrams/EL Engine Lubrication/fig_el_10_relief_valve.png",
+      "page_num": 4,
+      "page_label": "EL-4",
+      "fig_id": "Fig. EL-10",
+      "code": "EL061",
+      "caption": "Fig. EL-10 Relief valve",
+      "diagram_type": "component_location",
+      "description": "Location of the oil filter bypass relief valve pressed into the cylinder block oil filter mounting boss.",
+      "components": [
+        "oil pressure relief valve",
+        "cylinder block oil filter mounting pad"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Bypasses oil directly into main gallery if filter is clogged. Remove by prying out with a screwdriver; install new valve by tapping in.",
+      "tags": [
+        "relief valve",
+        "oil filter mounting pad",
+        "bypass valve",
+        "cylinder block"
+      ],
+      "dimensions": [
+        366,
+        317
+      ]
+    },
+    {
+      "section_title": "SECTION EL - ENGINE LUBRICATION SYSTEM",
+      "source_md": "1978 280z FSM/EL Engine Lubrication.md",
+      "slug": "tool_st19320000_oil_filter_wrench",
+      "file": "markdown/1978 280z FSM/diagrams/EL Engine Lubrication/tool_st19320000_oil_filter_wrench.png",
+      "rel_link": "diagrams/EL Engine Lubrication/tool_st19320000_oil_filter_wrench.png",
+      "page_num": 5,
+      "page_label": "EL-5",
+      "fig_id": "ST19320000",
+      "code": "ST19320000",
+      "caption": "ST19320000 Oil filter wrench (Kent-Moore J 25664, Ref. Fig. EL-9)",
+      "diagram_type": "special_service_tool",
+      "description": "Nissan Special Service Tool ST19320000 (Kent-Moore J 25664) band-type oil filter wrench.",
+      "components": [
+        "ST19320000 oil filter wrench"
+      ],
+      "callouts": {},
+      "measurements_and_specs": [
+        "Nissan No.: ST19320000",
+        "Kent-Moore No.: J 25664"
+      ],
+      "wiring_and_connections": [],
+      "mechanic_notes": "Used for removing spin-on cartridge oil filter (Ref. Fig. EL-9).",
+      "tags": [
+        "special service tool",
+        "oil filter wrench",
+        "ST19320000",
+        "J 25664",
+        "Kent-Moore"
+      ],
+      "dimensions": [
+        335,
+        226
+      ]
+    }
+  ],
+  "torques": [
+    {
+      "component": "Oil pump mounting bolts",
+      "unit": "kg-m (ft-lb)",
+      "value": "1.1 to 1.5 (8 to 11)",
+      "page_label": "EL-4"
+    },
+    {
+      "component": "Oil pump cover bolts",
+      "unit": "kg-m (ft-lb)",
+      "value": "0.7 to 1.0 (5.1 to 7.2)",
+      "page_label": "EL-4"
+    },
+    {
+      "component": "Regulator valve cap nut",
+      "unit": "kg-m (ft-lb)",
+      "value": "4 to 5 (29 to 36)",
+      "page_label": "EL-4"
+    }
+  ],
+  "specs": [
+    {
+      "system": "Oil pump",
+      "item": "Rotor side clearance (rotor to bottom cover)",
+      "unit": "mm (in)",
+      "standard": "0.04 to 0.08 (0.0016 to 0.0031)",
+      "limit": "0.20 (0.0079)",
+      "page_label": "EL-4"
+    },
+    {
+      "system": "Oil pump",
+      "item": "Rotor tip clearance",
+      "unit": "mm (in)",
+      "standard": "less than 0.12 (0.0047)",
+      "limit": "0.20 (0.0079)",
+      "page_label": "EL-4"
+    },
+    {
+      "system": "Oil pump",
+      "item": "Outer rotor to body clearance",
+      "unit": "mm (in)",
+      "standard": "0.15 to 0.21 (0.0059 to 0.0083)",
+      "limit": "0.5 (0.0197)",
+      "page_label": "EL-4"
+    },
+    {
+      "system": "Oil pressure regulator valve",
+      "item": "Regulator valve spring free length",
+      "unit": "mm (in)",
+      "standard": "52.5 (2.067)",
+      "limit": "-",
+      "page_label": "EL-4"
+    },
+    {
+      "system": "Oil pressure regulator valve",
+      "item": "Regulator valve spring installed length / load",
+      "unit": "mm/kg (in/lb)",
+      "standard": "34.8/7.9 to 8.7 (1.370/17.4 to 19.2)",
+      "limit": "-",
+      "page_label": "EL-4"
+    },
+    {
+      "system": "Oil pump",
+      "item": "Maximum regulated oil pressure at 3,000 rpm",
+      "unit": "kg/cm\u00b2 (psi)",
+      "standard": "5.6 (80)",
+      "limit": "-",
+      "page_label": "EL-2"
+    }
+  ],
+  "troubleshooting": [
+    {
+      "symptom": "Oil leakage",
+      "probable_cause": "Damaged or cracked body cover",
+      "corrective_action": "Replace",
+      "page_label": "EL-5"
+    },
+    {
+      "symptom": "Oil leakage",
+      "probable_cause": "Oil leakage from gasket",
+      "corrective_action": "Replace",
+      "page_label": "EL-5"
+    },
+    {
+      "symptom": "Oil leakage",
+      "probable_cause": "Oil leakage from regulator valve",
+      "corrective_action": "Tighten or replace",
+      "page_label": "EL-5"
+    },
+    {
+      "symptom": "Oil leakage",
+      "probable_cause": "Oil leakage from blind plug",
+      "corrective_action": "Replace",
+      "page_label": "EL-5"
+    },
+    {
+      "symptom": "Decreased oil pressure",
+      "probable_cause": "Leak of oil in engine oil pan",
+      "corrective_action": "Correct",
+      "page_label": "EL-5"
+    },
+    {
+      "symptom": "Decreased oil pressure",
+      "probable_cause": "Dirty oil strainer",
+      "corrective_action": "Clean or replace",
+      "page_label": "EL-5"
+    },
+    {
+      "symptom": "Decreased oil pressure",
+      "probable_cause": "Damaged or worn pump rotors",
+      "corrective_action": "Replace",
+      "page_label": "EL-5"
+    },
+    {
+      "symptom": "Decreased oil pressure",
+      "probable_cause": "Inoperative regulator",
+      "corrective_action": "Replace",
+      "page_label": "EL-5"
+    },
+    {
+      "symptom": "Decreased oil pressure",
+      "probable_cause": "Use of poor quality engine oil",
+      "corrective_action": "Replace",
+      "page_label": "EL-5"
+    },
+    {
+      "symptom": "Warning light remains \"on\" - engine running",
+      "probable_cause": "Decreased oil pressure",
+      "corrective_action": "Previously mentioned",
+      "page_label": "EL-5"
+    },
+    {
+      "symptom": "Warning light remains \"on\" - engine running",
+      "probable_cause": "Oil pressure switch unserviceable",
+      "corrective_action": "Replace",
+      "page_label": "EL-5"
+    },
+    {
+      "symptom": "Warning light remains \"on\" - engine running",
+      "probable_cause": "Electrical fault",
+      "corrective_action": "Check circuit",
+      "page_label": "EL-5"
+    },
+    {
+      "symptom": "Noise",
+      "probable_cause": "Excessive backlash in pump rotors",
+      "corrective_action": "Replace",
+      "page_label": "EL-5"
+    }
+  ],
+  "special_tools": [
+    {
+      "tool_number": "ST19320000",
+      "tool_name": "Oil filter wrench",
+      "kent_moore_no": "J 25664",
+      "ref": "Fig. EL-9",
+      "page_label": "EL-5"
+    }
+  ]
+}
