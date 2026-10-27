@@ -44,3 +44,7 @@ venv.bak/
 # Antigravity & AI scratch/log folders
 .system_generated/
 scratch/
+
+# Private vehicle notes & diagnostic logs (tracked in separate private repo)
+notes/
+
