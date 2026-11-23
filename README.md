@@ -59,6 +59,17 @@ Need quick specs or diagnostic flowcharts without digging through individual cha
 * **[Air Flow Meter (AFM) Tuning & Rebuild Guide](markdown/afm%20tuning%20and%20rebuild.md)**:
   Service manual covering disassembly, wiper arm carbon-track repositioning, idle mixture air-bypass calibration, counter-spring tension adjustment, and bench testing.
 
+### 3. Diagnostic Digital Twin & WireViz Harness Diagrams
+
+* **[Diagnostic Digital Twin (`twin/`)](twin/z280_twin.py)**:
+  Python model of the 1978 280Z electrical distribution, dual-relay fuel pump safety interlock (`EF-35`/`EF-36`), and Bosch L-Jetronic ECU modes, including:
+  * [`twin/z280_twin.py`](twin/z280_twin.py) — Snapshot node-voltage, relay, and ECU mode evaluator.
+  * [`twin/z280_sim.py`](twin/z280_sim.py) — Closed-loop time-stepped simulator with starter cranking, oil pressure lag, fuel rail pressure (`36.3 psi` / `2.55 kg/cm²`), and Cold Start Valve timing.
+  * [`twin/z280_mc.py`](twin/z280_mc.py) — Monte Carlo fault-permutation explorer for matching multi-fault combinations against observed starting and drivability symptoms.
+  * Unit tests (`python -m unittest discover -s twin -v`).
+* **[WireViz Chassis & EFI Harness Diagrams (`wireviz/`)](wireviz/README.md)**:
+  Machine-generated color wiring schematics, BOM tables, and interactive viewer ([`wireviz/index.html`](wireviz/index.html)) broken down across Zones 1–5, interconnects, and the full 1978 diagram.
+
 ---
 
 ## Repository Structure
@@ -81,6 +92,8 @@ Need quick specs or diagnostic flowcharts without digging through individual cha
 │   ├── 1978 Color Wiring Diagram.md
 │   ├── 280zfuelinjectionbook.md
 │   └── afm tuning and rebuild.md
+├── twin/                        # 1978 280Z diagnostic digital twin, transient sim & Monte Carlo explorer
+├── wireviz/                     # WireViz harness YAML sources, rendered PNG/SVG/HTML & BOMs
 ├── scripts/                     # Python scripts used to process PDFs and compile indexes
 ├── .gitignore
 ├── LICENSE
