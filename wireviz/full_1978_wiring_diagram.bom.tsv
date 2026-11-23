@@ -1,0 +1,100 @@
+Id	Description	Qty	Unit	Designators
+1	Cable, 10 wires	0	m	W_ECU_SENSORS, W_GAUGES, W_REAR_ACC
+2	Cable, 3 wires	0	m	W_BRAKE_WARN, W_COMB_LH, W_COMB_RH, W_HEADLAMP_LH, W_HEADLAMP_RH, W_STARTER
+3	Cable, 4 wires	0	m	W_HORNS, W_IGN_SW, W_MARKERS, W_REAR_PASS, W_SENSORS
+4	Cable, 5 wires	0	m	W_ALT, W_BATT_MAIN, W_COMB_WIPER, W_FUEL, W_REAR_LH, W_REAR_RH, W_TI
+5	Cable, 6 wires	0	m	W_CHECK, W_COLD_AIR, W_CONSOLE_AUDIO, W_ECU_INJ, W_HAZARD_SAFETY, W_HVAC, W_IGN, W_RELAYS_DASH, W_WIPER_MISC
+6	Cable, 7 wires	0	m	W_COMB_LIGHT
+7	Cable, 8 wires	0	m	W_DROP_INJ, W_REAR_MARKERS
+8	Cable, 9 wires	0	m	W_RELAYS
+9	Connector, 1.4kW Reduction Gear, 3 pins	1		STARTER
+10	Connector, 12-Circuit Fuse Box (Left and Right Banks), 12 pins	1		FUSE_BOX
+11	Connector, 12V 60A IC Regulator, 4 pins	1		ALTERNATOR
+12	Connector, 12V Automotive Battery, 2 pins	1		BATTERY
+13	Connector, 3-Pin Sealed Beam, 3 pins	2		HEADLAMP_LH, HEADLAMP_RH
+14	Connector, 4-Way Hazard Warning Switch, 4 pins	1		HAZARD_SW
+15	Connector, 6-Pin Check Connector, 6 pins	1		CHECK_CONN
+16	Connector, A/C Evaporator Thermo Switch, 2 pins	1		AC_THERMO_SW
+17	Connector, A/C Mode Lever Micro Switch, 2 pins	1		AC_MICRO_SW
+18	Connector, Air Flow Meter (7-Pin), 6 pins	1		AFM
+19	Connector, Ashtray Illumination Lamp, 2 pins	1		ASHTRAY_LAMP
+20	Connector, Auto Antenna Rocker Switch, 3 pins	1		ANTENNA_SW
+21	Connector, Auxiliary Air Regulator (2-Pin), 2 pins	1		AIR_REGULATOR
+22	Connector, BCDD Cut Solenoid, 2 pins	1		BCDD_SOLENOID
+23	Connector, Bosch L-Jetronic 35-Pin ECU, 21 pins	1		ECU
+24	Connector, Brake Fluid Level Switches, 2 pins	1		BRAKE_FLUID_SW
+25	Connector, Brake Stop Lamp Switch, 2 pins	1		STOP_LAMP_SW
+26	Connector, Cabin and Console Ground	1		
+27	Connector, California Floor Sensor Relay, 3 pins	1		FLOOR_SENSOR_RELAY
+28	Connector, Center Voltmeter, 2 pins	1		VOLTMETER
+29	Connector, Coil Noise Condenser, 2 pins	1		RADIO_CONDENSER
+30	Connector, Cold Start Valve (2-Pin), 2 pins	1		COLD_START_VALVE
+31	Connector, Connector C-3 (Green 8-Pin), 8 pins	1		C3_LIGHTING
+32	Connector, Connectors C-7 and C-8 (Black 12-Pin Rear Bulkhead), 13 pins	1		C7_C8_BULKHEAD
+33	Connector, Dash Clock, 3 pins	1		CLOCK
+34	Connector, Dash Ground	1		
+35	Connector, Dome / Room Lamp, 2 pins	1		ROOM_LAMP
+36	Connector, Driver Seat Belt Buckle Switch, 2 pins	1		DRIVERS_BELT_SW
+37	Connector, Dropping Resistor Block 1 (6.0 Ohm), 5 pins	1		DROPPING_RES_1
+38	Connector, Dropping Resistor Block 2 (6.0 Ohm), 3 pins	1		DROPPING_RES_2
+39	Connector, EFI Main Relay (Engine Bay Bracket), 4 pins	1		EFI_MAIN_RELAY
+40	Connector, Electric Fuel Pump (High Pressure), 2 pins	1		FUEL_PUMP
+41	Connector, Electronic Distributor, 3 pins	1		DISTRIBUTOR
+42	Connector, Engine Compartment Lamp, 2 pins	1		ENG_BAY_LAMP
+43	Connector, Engine Earth and Body Ground	1		
+44	Connector, Front Body and Engine Earth	1		
+45	Connector, Front Combination Lamp LH, 3 pins	1		COMB_LAMP_LH
+46	Connector, Front Combination Lamp RH, 3 pins	1		COMB_LAMP_RH
+47	Connector, Fuel Injectors 1-6 (EV1), 6 pins	1		INJECTORS
+48	Connector, Fuel Level Gauge, 3 pins	1		FUEL_GAUGE
+49	Connector, Fuel Pump Control Relay (1978), 3 pins	1		FP_CONTROL_RELAY
+50	Connector, Fuel Pump Relay, 2 pins	1		FP_RELAY
+51	Connector, Fuel Tank Gauge Unit, 3 pins	1		FUEL_SENDER
+52	Connector, Fusible Link Block, 3 pins	1		FUSIBLE_LINKS
+53	Connector, Hazard Flasher (2-Pin), 2 pins	1		HAZARD_FLASHER
+54	Connector, Heater Blower Motor, 2 pins	1		BLOWER_MOTOR
+55	Connector, Heater Fan Switch (4-Pos), 4 pins	1		HEATER_FAN_SW
+56	Connector, Heater Resistor Pack, 3 pins	1		HEATER_RESISTOR
+57	Connector, High-Pitch Horn, 2 pins	1		HORN_RH
+58	Connector, Horn Relay (Cabin Bracket), 3 pins	1		HORN_RELAY
+59	Connector, Ignition Coil, 2 pins	1		IGN_COIL
+60	Connector, Ignition Relay, 2 pins	1		IGN_RELAY
+61	Connector, Ignition Switch, 4 pins	1		IGN_SWITCH
+62	Connector, Instrument Dimmer Rheostat, 3 pins	1		RHEOSTAT
+63	Connector, Intermittent Wiper Amplifier, 7 pins	1		WIPER_AMP
+64	Connector, License Plate Lamp 1, 2 pins	1		LICENSE_LAMP_1
+65	Connector, License Plate Lamp 2, 2 pins	1		LICENSE_LAMP_2
+66	Connector, Low-Pitch Horn, 2 pins	1		HORN_LH
+67	Connector, Noise Condenser, 2 pins	1		ALT_CONDENSER
+68	Connector, Oil Pressure Gauge, 2 pins	1		OIL_GAUGE
+69	Connector, Oil Pressure Sender, 1 pins	1		OIL_SENDER
+70	Connector, Parking Brake Switch, 1 pins	1		PARKING_BRAKE_SW
+71	Connector, Power Antenna Motor, 3 pins	1		ANTENNA_MOTOR
+72	Connector, Radio Receiver, 3 pins	1		RADIO
+73	Connector, Rear Chassis and Hatch Earth	1		
+74	Connector, Rear Combination Lamp LH, 5 pins	1		REAR_LAMP_LH
+75	Connector, Rear Combination Lamp RH, 5 pins	1		REAR_LAMP_RH
+76	Connector, Rear Defogger Relay, 2 pins	1		DEFOGGER_RELAY
+77	Connector, Rear Defogger Switch, 2 pins	1		DEFOGGER_SW
+78	Connector, Rear Side Marker LH, 2 pins	1		SIDE_MARKER_REAR_LH
+79	Connector, Rear Side Marker RH, 2 pins	1		SIDE_MARKER_REAR_RH
+80	Connector, Rear Speaker LH, 2 pins	1		SPEAKER_LH
+81	Connector, Rear Speaker RH, 2 pins	1		SPEAKER_RH
+82	Connector, Rear Window Defogger Grid, 2 pins	1		REAR_DEFOGGER
+83	Connector, Seat Belt Timer Unit, 3 pins	1		SEATBELT_TIMER
+84	Connector, Seat Belt Warning Lamp, 2 pins	1		SEATBELT_LAMP
+85	Connector, Side Marker Lamp LH, 2 pins	1		SIDE_MARKER_LH
+86	Connector, Side Marker Lamp RH, 2 pins	1		SIDE_MARKER_RH
+87	Connector, Speedometer Cluster, 3 pins	1		SPEEDOMETER
+88	Connector, Steering Column Combination Switch, 12 pins	1		COMB_SWITCH
+89	Connector, Tachometer, 5 pins	1		TACHOMETER
+90	Connector, Tailgate Switch (C), 1 pins	1		TAILGATE_SW
+91	Connector, Thermal Transmitter, 1 pins	1		THERM_TX
+92	Connector, Thermotime Switch (2-Pin), 2 pins	1		THERMOTIME_SW
+93	Connector, Throttle Valve Switch (3-Pin), 3 pins	1		TPS
+94	Connector, Transistor Ignition Unit, 5 pins	1		TRANSISTOR_IGN
+95	Connector, Turn Signal Flasher (3-Pin), 3 pins	1		TURN_FLASHER
+96	Connector, Water Temp Gauge, 2 pins	1		TEMP_GAUGE
+97	Connector, Water Temp Sensor (CTS 2-Pin), 2 pins	1		WATER_TEMP_SENSOR
+98	Connector, Windshield Washer Pump (2-Pin), 2 pins	1		WASHER_MOTOR
+99	Connector, Windshield Wiper Motor (Multi-Pin), 6 pins	1		WIPER_MOTOR

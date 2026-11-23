@@ -1,0 +1,22 @@
+Id	Description	Qty	Unit	Designators
+1	Cable, 3 wires	0	m	W_BRAKE_WARN
+2	Cable, 4 wires	0	m	W_REAR_PASS
+3	Cable, 6 wires	0	m	W_CONSOLE_AUDIO, W_HAZARD_SAFETY, W_HVAC
+4	Connector, 12-Circuit Fuse Box (Left and Right Banks), 12 pins	1		FUSE_BOX
+5	Connector, 4-Way Hazard Warning Switch, 4 pins	1		HAZARD_SW
+6	Connector, A/C Evaporator Thermo Switch, 2 pins	1		AC_THERMO_SW
+7	Connector, A/C Mode Lever Micro Switch, 2 pins	1		AC_MICRO_SW
+8	Connector, Ashtray Illumination Lamp, 2 pins	1		ASHTRAY_LAMP
+9	Connector, Auto Antenna Rocker Switch, 3 pins	1		ANTENNA_SW
+10	Connector, Brake Stop Lamp Switch, 2 pins	1		STOP_LAMP_SW
+11	Connector, Cabin and Console Ground	1		
+12	Connector, California Floor Sensor Relay, 3 pins	1		FLOOR_SENSOR_RELAY
+13	Connector, Connectors C-7 and C-8 (Black 12-Pin), 8 pins	1		C7_C8_REAR
+14	Connector, Driver Seat Belt Buckle Switch, 2 pins	1		DRIVERS_BELT_SW
+15	Connector, Heater Blower Motor, 2 pins	1		BLOWER_MOTOR
+16	Connector, Heater Fan Switch (4-Pos), 4 pins	1		HEATER_FAN_SW
+17	Connector, Heater Resistor Pack, 3 pins	1		HEATER_RESISTOR
+18	Connector, Parking Brake Switch, 1 pins	1		PARKING_BRAKE_SW
+19	Connector, Radio Receiver, 3 pins	1		RADIO
+20	Connector, Rear Defogger Switch, 2 pins	1		DEFOGGER_SW
+21	Connector, Seat Belt Warning Lamp, 2 pins	1		SEATBELT_LAMP

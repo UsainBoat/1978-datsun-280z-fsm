@@ -1,0 +1,200 @@
+metadata:
+  title: "1978 Datsun 280Z — Cross-Zone Harness Interconnect Map (Zones 1-5)"
+  pn: "FSM-1978-280Z-INTERCONNECTS"
+  notes: |
+    High-level cross-zone architecture linking Zones 1-5 through factory bulkhead connectors C-1 through C-10,
+    the Fusible Link Block, Ignition Switch, Engine Bay Relay Bracket, and 12-Circuit Fuse Box.
+
+connectors:
+  FUSIBLE_LINKS:
+    type: Fusible Link Block (Zone 2)
+    pinlabels:
+      - "EFI Link (Green 40A) - 71 L / 72 R"
+      - "Main Link 1 (Brown 30A) - W"
+      - "Main Link 2 (Black 40A) - WR"
+  C1_ENG_DASH:
+    type: "C-1 (Blue 16-Pin) Eng Bay to Dash"
+    pinlabels:
+      - "IGN ON Bus (BW)"
+      - "Starter S (BY)"
+      - "Oil Sender (YB)"
+      - "Water Temp Gauge (YW)"
+      - "Tach / Coil (-) (L)"
+      - "Brake Warning (RY / YR)"
+      - "Wiper / Washer"
+  C2_ALT_CHG:
+    type: "C-2 (Black 8-Pin) Alt and Charging"
+    pinlabels:
+      - "Alt BAT (WR / W)"
+      - "Alt Sense (Y)"
+      - "Alt Lamp (WB)"
+      - "Ground (B)"
+  C3_FWD_LIGHT:
+    type: "C-3 (Green 8-Pin) Forward Lighting"
+    pinlabels:
+      - "Headlamp Feed (R)"
+      - "RH Low (RW)"
+      - "RH High (RB)"
+      - "LH Low / Clear (RL)"
+      - "LH High (RY)"
+      - "RH Turn (GY)"
+      - "LH Turn / Horn (GB)"
+      - "Ground (B)"
+  C4_EFI_IGN:
+    type: "C-4 (White 8-Pin) EFI and Ignition"
+    pinlabels:
+      - "EFI Main Power (L / BW)"
+      - "FP Relay Out (GY / BW)"
+      - "Dist Pickup (+)"
+      - "Dist Pickup (-)"
+      - "Starter Crank ECU Pin 4 (BY)"
+  C5_COMB_SW:
+    type: "C-5 (White 16-Pin) Dash to Comb Switch"
+    pinlabels:
+      - "Headlamp Feed (R)"
+      - "Tail / Marker (RL)"
+      - "Dimmer Out (RW/RB/RL/RY)"
+      - "Turn In/Out (G/GB/GY)"
+      - "Horn Ground (G)"
+      - "Wiper/Washer (L/H/P)"
+  C6_CLUSTER:
+    type: "C-6 (Black 16-Pin) Dash to Cluster"
+    pinlabels:
+      - "IGN Gauges (BW - Fuse 10)"
+      - "Backlight (RL - Rheostat)"
+      - "Tach (L)"
+      - "Oil / Temp (YB / YW)"
+      - "Fuel / Low Fuel (YL / YG)"
+      - "Indicators (GB/GY/RB/YR)"
+  C7_C8_REAR:
+    type: "C-7 and C-8 (Black 12-Pin) Cabin to Rear"
+    pinlabels:
+      - "Tail / Marker (RL)"
+      - "Stop Lamps (GY)"
+      - "LH Turn (GB)"
+      - "RH Turn (GY)"
+      - "Back-Up (RB)"
+      - "Fuel Pump (BW / GY)"
+      - "Fuel Sender (YL / YG)"
+      - "Defogger Grid"
+      - "Room Lamp (RW)"
+      - "Antenna Up / Down"
+  C9_C10_IGN_PWR:
+    type: "C-9 and C-10 (White 8-Pin) Ign and Aux Power"
+    pinlabels:
+      - "BAT Feed (W)"
+      - "ACC Bus (L)"
+      - "IGN ON Bus (BW)"
+      - "STA Bus (BY)"
+  FUSE_BOX:
+    type: "12-Circuit Fuse Box (Zone 4)"
+    pinlabels:
+      - "BAT Fuses 1-2 (GW / R)"
+      - "LIGHT Fuses 3-5 (RL / R)"
+      - "DEFOG Fuse 6"
+      - "ACC Fuses 7-8 (L)"
+      - "IGN Fuses 9-12 (G / BW / L / LR)"
+  ZONE1_FRONT:
+    type: "Zone 1: Front Chassis"
+    pinlabels: ["Headlamps / Turn / Horns", "Alternator / Starter", "Dist / Coil / Senders"]
+  ZONE2_EFI:
+    type: "Zone 2: Engine and EFI"
+    pinlabels: ["EFI Relays and ECU", "Wiper / Washer / Brake Sw"]
+  ZONE3_DASH:
+    type: "Zone 3: Center Dash"
+    pinlabels: ["Ignition Switch", "Combination Switch", "Combination Meter", "Cabin Relays"]
+  ZONE5_REAR:
+    type: "Zone 5: Rear Chassis"
+    pinlabels: ["Rear Lamps", "Fuel Pump and Sender", "Defogger / Room / Antenna"]
+
+cables:
+  W_Z2_TO_Z4:
+    wirecount: 3
+    colors: [GN, BN, BK]
+  W_Z1_Z2_Z3:
+    wirecount: 10
+    colors: [BKWH, BKYE, YEBK, YEWH, BU, RDYE, BU, WHRD, YE, WHBK]
+  W_Z3_Z4_Z1:
+    wirecount: 8
+    colors: [RD, RDWH, RDBK, RDBU, RDYE, GNYE, GNBK, BK]
+  W_Z2_EFI:
+    wirecount: 5
+    colors: [BU, BKWH, BU, WH, BKYE]
+  W_DASH_INT:
+    wirecount: 10
+    colors: [RD, RDBU, RDWH, GN, GN, BU, BKWH, YEBK, YEBU, GNYE]
+  W_CABIN_TO_REAR:
+    wirecount: 10
+    colors: [RDBU, GNYE, GNBK, GNYE, RDBK, BKWH, YEBU, RD, RDWH, WH]
+
+connections:
+  - - FUSIBLE_LINKS: [1]
+    - W_Z2_TO_Z4: [1]
+    - ZONE2_EFI: [1]
+  - - FUSIBLE_LINKS: [2]
+    - W_Z2_TO_Z4: [2]
+    - C9_C10_IGN_PWR: [1]
+  - - FUSIBLE_LINKS: [3]
+    - W_Z2_TO_Z4: [3]
+    - FUSE_BOX: [1]
+
+  - - C9_C10_IGN_PWR: [1, 2, 3, 4]
+    - W_Z1_Z2_Z3: [8, 5, 1, 2]
+    - ZONE3_DASH: [1, 1, 1, 1]
+  - - C9_C10_IGN_PWR: [2, 3]
+    - W_Z1_Z2_Z3: [5, 1]
+    - FUSE_BOX: [4, 5]
+
+  - - ZONE1_FRONT: [2, 2, 2]
+    - W_Z1_Z2_Z3: [8, 9, 10]
+    - C2_ALT_CHG: [1, 2, 3]
+  - - C2_ALT_CHG: [1, 3]
+    - W_Z1_Z2_Z3: [8, 10]
+    - FUSIBLE_LINKS: [3, 3]
+
+  - - ZONE1_FRONT: [3, 3, 3]
+    - W_Z1_Z2_Z3: [3, 4, 5]
+    - C1_ENG_DASH: [3, 4, 5]
+  - - ZONE2_EFI: [2, 2]
+    - W_Z1_Z2_Z3: [6, 7]
+    - C1_ENG_DASH: [6, 7]
+  - - C1_ENG_DASH: [1, 2, 3, 4, 5, 6, 7]
+    - W_Z1_Z2_Z3: [1, 2, 3, 4, 5, 6, 7]
+    - ZONE3_DASH: [3, 3, 3, 3, 3, 3, 3]
+
+  - - FUSE_BOX: [2]
+    - W_Z3_Z4_Z1: [1]
+    - C3_FWD_LIGHT: [1]
+  - - ZONE3_DASH: [2, 2, 2, 2, 2, 2]
+    - W_Z3_Z4_Z1: [2, 3, 4, 5, 6, 7]
+    - C3_FWD_LIGHT: [2, 3, 4, 5, 6, 7]
+  - - C3_FWD_LIGHT: [1, 2, 3, 4, 5, 6, 7, 8]
+    - W_Z3_Z4_Z1: [1, 2, 3, 4, 5, 6, 7, 8]
+    - ZONE1_FRONT: [1, 1, 1, 1, 1, 1, 1, 1]
+
+  - - ZONE2_EFI: [1, 1, 1, 1, 1]
+    - W_Z2_EFI: [1, 2, 3, 4, 5]
+    - C4_EFI_IGN: [1, 2, 3, 4, 5]
+  - - C4_EFI_IGN: [2]
+    - W_Z2_EFI: [2]
+    - C7_C8_REAR: [6]
+
+  - - FUSE_BOX: [2, 4, 5]
+    - W_DASH_INT: [1, 6, 7]
+    - C5_COMB_SW: [1, 6, 2]
+  - - C5_COMB_SW: [1, 2, 3, 4, 5, 6]
+    - W_DASH_INT: [1, 2, 3, 4, 5, 6]
+    - ZONE3_DASH: [2, 2, 2, 2, 2, 2]
+  - - C6_CLUSTER: [1, 2, 3, 4, 5, 6]
+    - W_DASH_INT: [7, 2, 6, 8, 9, 10]
+    - ZONE3_DASH: [3, 3, 3, 3, 3, 3]
+
+  - - FUSE_BOX: [2, 3]
+    - W_CABIN_TO_REAR: [1, 8]
+    - C7_C8_REAR: [1, 8]
+  - - ZONE3_DASH: [4, 4, 4]
+    - W_CABIN_TO_REAR: [3, 4, 9]
+    - C7_C8_REAR: [3, 4, 9]
+  - - C7_C8_REAR: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    - W_CABIN_TO_REAR: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    - ZONE5_REAR: [1, 1, 1, 1, 1, 2, 2, 3, 3, 3]

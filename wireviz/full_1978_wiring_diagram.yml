@@ -1,0 +1,2011 @@
+metadata:
+  title: 1978 Datsun 280Z — Complete Wiring Diagram (Zones 1-5 Combined)
+  pn: FSM-1978-280Z-FULL
+  notes: Merged end-to-end schematic of Zones 1-5 from 1978 Color Wiring Diagram.pdf.
+connectors:
+  HEADLAMP_RH:
+    type: 3-Pin Sealed Beam
+    pinlabels:
+    - Common Feed (R)
+    - Low Beam (RW)
+    - High Beam (RB)
+    notes: 12V 50W/60W (Factory 6012/6014)
+  HEADLAMP_LH:
+    type: 3-Pin Sealed Beam
+    pinlabels:
+    - Common Feed (R)
+    - Low Beam (RL)
+    - High Beam (RY)
+    notes: 12V 50W/60W (Factory 6012/6014)
+  COMB_LAMP_RH:
+    type: Front Combination Lamp RH
+    pinlabels:
+    - Turn Signal 27W (GY)
+    - Clearance 8W (RL)
+    - Ground (B)
+  COMB_LAMP_LH:
+    type: Front Combination Lamp LH
+    pinlabels:
+    - Turn Signal 27W (GB)
+    - Clearance 8W (RL)
+    - Ground (B)
+  SIDE_MARKER_RH:
+    type: Side Marker Lamp RH
+    pinlabels:
+    - Power (RL)
+    - Ground (B)
+  SIDE_MARKER_LH:
+    type: Side Marker Lamp LH
+    pinlabels:
+    - Power (RL)
+    - Ground (B)
+  HORN_RH:
+    type: High-Pitch Horn
+    pinlabels:
+    - Power Feed (GB)
+    - Ground (B)
+  HORN_LH:
+    type: Low-Pitch Horn
+    pinlabels:
+    - Power Feed (GB)
+    - Ground (B)
+  ALTERNATOR:
+    type: 12V 60A IC Regulator
+    pinlabels:
+    - BAT / A (WR + W)
+    - S Sense (Y)
+    - L Lamp (WB)
+    - E Ground (B)
+  ALT_CONDENSER:
+    type: Noise Condenser
+    pinlabels:
+    - Input (WR)
+    - Case Ground
+  STARTER:
+    type: 1.4kW Reduction Gear
+    pinlabels:
+    - B Battery (+)
+    - S Solenoid (BY)
+    - Housing Earth
+  DISTRIBUTOR:
+    type: Electronic Distributor
+    pinlabels:
+    - Pickup (+) Blue
+    - Pickup (-) White
+    - Housing Ground (B)
+  IGN_COIL:
+    type: Ignition Coil
+    pinlabels:
+    - Terminal (+) (BW)
+    - Terminal (-) (L)
+  RADIO_CONDENSER:
+    type: Coil Noise Condenser
+    pinlabels:
+    - Terminal (+) (BW)
+    - Bracket Ground
+  OIL_SENDER:
+    type: Oil Pressure Sender
+    pinlabels:
+    - Signal Stud (YB)
+  THERM_TX:
+    type: Thermal Transmitter
+    pinlabels:
+    - Bullet Stud (YW)
+  BCDD_SOLENOID:
+    type: BCDD Cut Solenoid
+    pinlabels:
+    - Power (BW)
+    - Ground (B)
+  CHECK_CONN:
+    type: 6-Pin Check Connector
+    pinlabels:
+    - '1: Coil (-) / Tach (L)'
+    - '2: Alt L (WB)'
+    - '3: Starter S (BY)'
+    - '4: Engine Earth (B)'
+    - '5: Test Tap (GY)'
+    - '6: Test Tap (GB)'
+  C3_LIGHTING:
+    type: Connector C-3 (Green 8-Pin)
+    pinlabels:
+    - R (Fuses 4/5)
+    - RW (RH Low)
+    - RB (RH High)
+    - RL (LH Low / Clear)
+    - RY (LH High)
+    - GY (RH Turn)
+    - GB (LH Turn / Horn)
+    - B (Ground)
+  GND_FRONT:
+    type: Front Body and Engine Earth
+    style: simple
+    pinlabels:
+    - Chassis Earth
+  BATTERY:
+    type: 12V Automotive Battery
+    pinlabels:
+    - Positive (+)
+    - Negative (-)
+  FUSIBLE_LINKS:
+    type: Fusible Link Block
+    pinlabels:
+    - EFI Link (Green 40A) to 71 L / 72 R
+    - Main Link 1 (Brown 30A) to W (Ign Sw / Fuse Box)
+    - Main Link 2 (Black 40A) to WR (Alt / Light Sw)
+  TRANSISTOR_IGN:
+    type: Transistor Ignition Unit
+    pinlabels:
+    - Power (BW)
+    - Output to Coil (-) (L)
+    - Pickup (+) Blue
+    - Pickup (-) White
+    - Ground (B)
+    notes: 'Vehicle note: Replaced with GM 4-pin HEI module on this car'
+  EFI_MAIN_RELAY:
+    type: EFI Main Relay (Engine Bay Bracket)
+    pinlabels:
+    - Coil (+) (BW)
+    - Coil (-) (B)
+    - Contact In (72 R / 71 L)
+    - Contact Out (L + BW)
+  FP_CONTROL_RELAY:
+    type: Fuel Pump Control Relay (1978)
+    pinlabels:
+    - Crank Coil (BY)
+    - Run Holding (WB Alt L / Oil Sw)
+    - Output to FP Relay Coil
+  FP_RELAY:
+    type: Fuel Pump Relay
+    pinlabels:
+    - Coil In (from FP Control Relay)
+    - Contact Out to Fuel Pump + Air Reg (GY / BW)
+  ECU:
+    type: Bosch L-Jetronic 35-Pin ECU
+    pins:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 13
+    - 14
+    - 15
+    - 16
+    - 17
+    - 18
+    - 27
+    - 30
+    - 31
+    - 32
+    - 33
+    - 35
+    pinlabels:
+    - '1: RPM Pulse (Coil -)'
+    - '2: TPS Idle'
+    - '3: TPS WOT'
+    - '4: Crank Enrichment (BY)'
+    - '5: Ground (Intake)'
+    - '6: AFM'
+    - '7: AFM'
+    - '8: AFM'
+    - '9: AFM'
+    - '13: Water Temp Sensor'
+    - '14: Injector #4'
+    - '15: Injector #1'
+    - '16: Ground'
+    - '17: Ground'
+    - '18: TPS Common'
+    - '27: AFM Air Temp'
+    - '30: Injector #5'
+    - '31: Injector #6'
+    - '32: Injector #3'
+    - '33: Injector #2'
+    - '35: Power / Ground'
+  DROPPING_RES_1:
+    type: Dropping Resistor Block 1 (6.0 Ohm)
+    pinlabels:
+    - Common 12V (43/2 L)
+    - 'Inj #1 (37)'
+    - 'Inj #2 (38)'
+    - 'Inj #3 (40)'
+    - 'Inj #4 (41)'
+  DROPPING_RES_2:
+    type: Dropping Resistor Block 2 (6.0 Ohm)
+    pinlabels:
+    - Common 12V (L)
+    - 'Inj #5 (55)'
+    - 'Inj #6 (56)'
+  INJECTORS:
+    type: Fuel Injectors 1-6 (EV1)
+    pinlabels:
+    - Inj 1
+    - Inj 2
+    - Inj 3
+    - Inj 4
+    - Inj 5
+    - Inj 6
+  COLD_START_VALVE:
+    type: Cold Start Valve (2-Pin)
+    pinlabels:
+    - 21 G (Starter)
+    - 47 G (Thermotime Sw)
+  THERMOTIME_SW:
+    type: Thermotime Switch (2-Pin)
+    pinlabels:
+    - 45 B (Starter)
+    - 46 B (Cold Start Valve)
+  WATER_TEMP_SENSOR:
+    type: Water Temp Sensor (CTS 2-Pin)
+    pinlabels:
+    - 13 B (ECU 13)
+    - 49 B (Ground / ECU)
+  AIR_REGULATOR:
+    type: Auxiliary Air Regulator (2-Pin)
+    pinlabels:
+    - 34 G (FP Relay)
+    - 48 G (Ground)
+  TPS:
+    type: Throttle Valve Switch (3-Pin)
+    pinlabels:
+    - 2 B (Idle)
+    - 18 B (Common)
+    - 3 B (WOT)
+  AFM:
+    type: Air Flow Meter (7-Pin)
+    pinlabels:
+    - '6'
+    - '7'
+    - '8'
+    - '9'
+    - 27 (Air Temp)
+    - FP Switch
+  WIPER_MOTOR:
+    type: Windshield Wiper Motor (Multi-Pin)
+    pinlabels:
+    - P (Park)
+    - H (High)
+    - L (Low)
+    - 2 (Power)
+    - B (Ground)
+    - E (Earth)
+  WASHER_MOTOR:
+    type: Windshield Washer Pump (2-Pin)
+    pinlabels:
+    - Power (Lg)
+    - Ground (B)
+  ENG_BAY_LAMP:
+    type: Engine Compartment Lamp
+    pinlabels:
+    - Feed (R - Fuse 2)
+    - Mercury Sw Ground (B)
+  BRAKE_FLUID_SW:
+    type: Brake Fluid Level Switches
+    pinlabels:
+    - Warning (RY)
+    - Ground (B)
+  GND_ENGINE:
+    type: Engine Earth and Body Ground
+    style: simple
+    pinlabels:
+    - Chassis / Intake Earth
+  CLOCK:
+    type: Dash Clock
+    pinlabels:
+    - Power (+) (R - Fuse 2)
+    - Illum (RL)
+    - Ground (B)
+  VOLTMETER:
+    type: Center Voltmeter
+    pinlabels:
+    - Power (+) (BW - Fuse 10)
+    - Ground (B)
+  FUEL_GAUGE:
+    type: Fuel Level Gauge
+    pinlabels:
+    - Power (+) (BW - Fuse 10)
+    - Sender (YL)
+    - Warning Lamp (YG)
+  TEMP_GAUGE:
+    type: Water Temp Gauge
+    pinlabels:
+    - Power (+) (BW - Fuse 10)
+    - Sender (YW)
+  OIL_GAUGE:
+    type: Oil Pressure Gauge
+    pinlabels:
+    - Power (+) (BW - Fuse 10)
+    - Sender (YB)
+  TACHOMETER:
+    type: Tachometer
+    pinlabels:
+    - Power (+) (BW)
+    - RPM Pulse (L)
+    - Ground (B)
+    - LH Turn (GB)
+    - RH Turn (GY)
+  SPEEDOMETER:
+    type: Speedometer Cluster
+    pinlabels:
+    - High Beam Pilot (RB/RY)
+    - Brake Warning (YR)
+    - Floor Temp (R/Y)
+  RHEOSTAT:
+    type: Instrument Dimmer Rheostat
+    pinlabels:
+    - Feed (RL)
+    - Dimmed Out (RL)
+    - Ground (B)
+  IGN_SWITCH:
+    type: Ignition Switch
+    pinlabels:
+    - B (W - Fusible Link)
+    - ACC (L - Fuse 7/8)
+    - ON (BW - Ign Relay)
+    - STA (BY - Starter)
+  COMB_SWITCH:
+    type: Steering Column Combination Switch
+    pinlabels:
+    - Light 8 (R - Fuse 4/5)
+    - Light 7 (RL - Fuse 3)
+    - Dimmer Low (RW/RL)
+    - Dimmer High (RB/RY)
+    - Turn In (G)
+    - Turn LH (GB)
+    - Turn RH (GY)
+    - Horn Ground (G)
+    - Wiper Feed 2 (L - Fuse 7)
+    - Wiper L (L)
+    - Wiper H (H)
+    - Wiper P (P)
+  WIPER_AMP:
+    type: Intermittent Wiper Amplifier
+    pinlabels:
+    - '1'
+    - W
+    - '2'
+    - B
+    - P
+    - M
+    - E
+  HORN_RELAY:
+    type: Horn Relay (Cabin Bracket)
+    pinlabels:
+    - Coil Feed (GW - Fuse 1)
+    - Coil Ground (G)
+    - Contact Out (GB)
+  DEFOGGER_RELAY:
+    type: Rear Defogger Relay
+    pinlabels:
+    - Contact In (Fuse 6)
+    - Contact Out (Grid)
+  IGN_RELAY:
+    type: Ignition Relay
+    pinlabels:
+    - Coil In (BW)
+    - Contact Out (BW IGN Bus)
+  SEATBELT_TIMER:
+    type: Seat Belt Timer Unit
+    pinlabels:
+    - Power (BW)
+    - Ground (B)
+    - Warning (YR)
+  TURN_FLASHER:
+    type: Turn Signal Flasher (3-Pin)
+    pinlabels:
+    - Feed (G - Fuse 9)
+    - Out (GR)
+    - Ground (B)
+  HAZARD_FLASHER:
+    type: Hazard Flasher (2-Pin)
+    pinlabels:
+    - Feed (GW - Fuse 1)
+    - Out (G)
+  GND_DASH:
+    type: Dash Ground
+    style: simple
+    pinlabels:
+    - Dash Chassis Earth
+  FUSE_BOX:
+    type: 12-Circuit Fuse Box (Left and Right Banks)
+    pins:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
+    - 11
+    - 12
+    pinlabels:
+    - Fuse 1 (15A BAT) - Hazard/Horn/Stop (GW)
+    - Fuse 2 (10A BAT) - Room/Clock/Eng Bay (R/RW)
+    - Fuse 3 (10A LIGHT) - Tail/Clear/Dash (RL)
+    - Fuse 4 (15A LIGHT) - Headlamp RH (R)
+    - Fuse 5 (15A LIGHT) - Headlamp LH (R)
+    - Fuse 6 (20A DEFOG) - Rear Defogger
+    - Fuse 7 (15A ACC) - Wiper/Washer (L)
+    - Fuse 8 (10A ACC) - Radio/Antenna (L)
+    - Fuse 9 (10A IGN) - Turn/Back-Up (G)
+    - Fuse 10 (15A IGN) - Gauges/Warning (BW)
+    - Fuse 11 (15A IGN) - Heater Blower (L/LW)
+    - Fuse 12 (20A IGN) - A/C Clutch/Fan (LR/LB)
+  BLOWER_MOTOR:
+    type: Heater Blower Motor
+    pinlabels:
+    - Positive (L/LW)
+    - Negative (B)
+  HEATER_FAN_SW:
+    type: Heater Fan Switch (4-Pos)
+    pinlabels:
+    - Feed (L)
+    - Low
+    - Med
+    - High (LW)
+  HEATER_RESISTOR:
+    type: Heater Resistor Pack
+    pinlabels:
+    - Low
+    - Med
+    - Out to Motor
+  AC_THERMO_SW:
+    type: A/C Evaporator Thermo Switch
+    pinlabels:
+    - In (L)
+    - Out (LB)
+  AC_MICRO_SW:
+    type: A/C Mode Lever Micro Switch
+    pinlabels:
+    - Feed (LR)
+    - Out (LB)
+  STOP_LAMP_SW:
+    type: Brake Stop Lamp Switch
+    pinlabels:
+    - Input (GW - Fuse 1)
+    - Output (GY - Stop Lamps)
+  PARKING_BRAKE_SW:
+    type: Parking Brake Switch
+    pinlabels:
+    - Signal Post (YR)
+  RADIO:
+    type: Radio Receiver
+    pinlabels:
+    - Power (L - Fuse 8)
+    - Backlight (RL)
+    - Ground (B)
+  ANTENNA_SW:
+    type: Auto Antenna Rocker Switch
+    pinlabels:
+    - Power (L - Fuse 8)
+    - Up
+    - Down
+  ASHTRAY_LAMP:
+    type: Ashtray Illumination Lamp
+    pinlabels:
+    - Power (RL)
+    - Ground (B)
+  DEFOGGER_SW:
+    type: Rear Defogger Switch
+    pinlabels:
+    - IGN Feed (BW)
+    - Relay Coil Out
+  HAZARD_SW:
+    type: 4-Way Hazard Warning Switch
+    pinlabels:
+    - BAT (GW)
+    - Flasher (G)
+    - LH Turn (GB)
+    - RH Turn (GY)
+  SEATBELT_LAMP:
+    type: Seat Belt Warning Lamp
+    pinlabels:
+    - Feed (BW)
+    - Timer Lead
+  DRIVERS_BELT_SW:
+    type: Driver Seat Belt Buckle Switch
+    pinlabels:
+    - Buckle Lead
+    - Ground (B)
+  FLOOR_SENSOR_RELAY:
+    type: California Floor Sensor Relay
+    pinlabels:
+    - Thermocouple (R/Y)
+    - Warning Lamp
+    - Ground (B)
+  GND_CABIN:
+    type: Cabin and Console Ground
+    style: simple
+    pinlabels:
+    - Cabin Chassis Earth
+  REAR_LAMP_RH:
+    type: Rear Combination Lamp RH
+    pinlabels:
+    - Turn 27W (GY)
+    - Stop 27W (GY)
+    - Tail 8W (RL)
+    - Back-Up 27W (RB)
+    - Ground (B)
+  REAR_LAMP_LH:
+    type: Rear Combination Lamp LH
+    pinlabels:
+    - Turn 27W (GB)
+    - Stop 27W (GY)
+    - Tail 8W (RL)
+    - Back-Up 27W (RB)
+    - Ground (B)
+  SIDE_MARKER_REAR_RH:
+    type: Rear Side Marker RH
+    pinlabels:
+    - Power (RL)
+    - Ground (B)
+  SIDE_MARKER_REAR_LH:
+    type: Rear Side Marker LH
+    pinlabels:
+    - Power (RL)
+    - Ground (B)
+  LICENSE_LAMP_1:
+    type: License Plate Lamp 1
+    pinlabels:
+    - Power (RL)
+    - Ground (B)
+  LICENSE_LAMP_2:
+    type: License Plate Lamp 2
+    pinlabels:
+    - Power (RL)
+    - Ground (B)
+  FUEL_PUMP:
+    type: Electric Fuel Pump (High Pressure)
+    pinlabels:
+    - Power (+) (BW / GY)
+    - Ground (-) (Heavy B)
+  FUEL_SENDER:
+    type: Fuel Tank Gauge Unit
+    pinlabels:
+    - Float 10-80 Ohm (YL)
+    - Low Fuel Thermistor (YG)
+    - Flange Ground (B)
+  REAR_DEFOGGER:
+    type: Rear Window Defogger Grid
+    pinlabels:
+    - Power (+) (Heavy)
+    - Ground (-) (Heavy B)
+  ROOM_LAMP:
+    type: Dome / Room Lamp
+    pinlabels:
+    - Power Feed (RW - Fuse 2)
+    - Door/Tailgate Sw Ground (B)
+  TAILGATE_SW:
+    type: Tailgate Switch (C)
+    pinlabels:
+    - Plunger Stud (B)
+  ANTENNA_MOTOR:
+    type: Power Antenna Motor
+    pinlabels:
+    - Up Control
+    - Down Control
+    - Ground (B)
+  SPEAKER_RH:
+    type: Rear Speaker RH
+    pinlabels:
+    - Audio (+)
+    - Audio (-)
+  SPEAKER_LH:
+    type: Rear Speaker LH
+    pinlabels:
+    - Audio (+)
+    - Audio (-)
+  GND_REAR:
+    type: Rear Chassis and Hatch Earth
+    style: simple
+    pinlabels:
+    - Rear Body Earth
+  C7_C8_BULKHEAD:
+    type: Connectors C-7 and C-8 (Black 12-Pin Rear Bulkhead)
+    pinlabels:
+    - Tail / Marker (RL - Fuse 3)
+    - Stop Lamps (GY)
+    - LH Turn (GB)
+    - RH Turn (GY)
+    - Back-Up Lamps (RB)
+    - Fuel Pump (BW / GY)
+    - Fuel Gauge (YL)
+    - Low Fuel Lamp (YG)
+    - Defogger Grid (+)
+    - Room Lamp (RW - Fuse 2)
+    - Antenna Up
+    - Antenna Down
+    - Radio Audio
+cables:
+  W_HEADLAMP_RH:
+    wirecount: 3
+    colors:
+    - RD
+    - RDWH
+    - RDBK
+    notes: RH Headlamp Harness
+  W_HEADLAMP_LH:
+    wirecount: 3
+    colors:
+    - RD
+    - RDBU
+    - RDYE
+    notes: LH Headlamp Harness
+  W_COMB_RH:
+    wirecount: 3
+    colors:
+    - GNYE
+    - RDBU
+    - BK
+  W_COMB_LH:
+    wirecount: 3
+    colors:
+    - GNBK
+    - RDBU
+    - BK
+  W_MARKERS:
+    wirecount: 4
+    colors:
+    - RDBU
+    - BK
+    - RDBU
+    - BK
+  W_HORNS:
+    wirecount: 4
+    colors:
+    - GNBK
+    - BK
+    - GNBK
+    - BK
+  W_ALT:
+    wirecount: 5
+    colors:
+    - WHRD
+    - YE
+    - WHBK
+    - BK
+    - WHRD
+  W_STARTER:
+    wirecount: 3
+    colors:
+    - BK
+    - BKYE
+    - BK
+  W_IGN:
+    wirecount: 6
+    colors:
+    - BU
+    - WH
+    - BK
+    - BKWH
+    - BU
+    - BKWH
+  W_SENSORS:
+    wirecount: 4
+    colors:
+    - YEBK
+    - YEWH
+    - BKWH
+    - BK
+  W_CHECK:
+    wirecount: 6
+    colors:
+    - BU
+    - WHBK
+    - BKYE
+    - BK
+    - GNYE
+    - GNBK
+  W_BATT_MAIN:
+    wirecount: 5
+    colors:
+    - BK
+    - RDWH
+    - BK
+    - GN
+    - BN
+  W_TI:
+    wirecount: 5
+    colors:
+    - BKWH
+    - BU
+    - BU
+    - WH
+    - BK
+  W_RELAYS:
+    wirecount: 9
+    colors:
+    - BKWH
+    - BK
+    - RD
+    - BU
+    - BKYE
+    - WHBK
+    - BU
+    - GNYE
+    - BKWH
+  W_ECU_SENSORS:
+    wirecount: 10
+    colors:
+    - BK
+    - BK
+    - BK
+    - BK
+    - BK
+    - BK
+    - BK
+    - BK
+    - BKYE
+    - BU
+  W_ECU_INJ:
+    wirecount: 6
+    colors:
+    - BK
+    - BK
+    - BK
+    - BK
+    - BK
+    - BK
+  W_DROP_INJ:
+    wirecount: 8
+    colors:
+    - BU
+    - BK
+    - BK
+    - BK
+    - BK
+    - BU
+    - BK
+    - BK
+  W_COLD_AIR:
+    wirecount: 6
+    colors:
+    - GN
+    - GN
+    - BK
+    - GN
+    - GN
+    - BK
+  W_WIPER_MISC:
+    wirecount: 6
+    colors:
+    - BK
+    - GN
+    - BK
+    - RD
+    - BK
+    - RDYE
+  W_GAUGES:
+    wirecount: 10
+    colors:
+    - RD
+    - RDBU
+    - BK
+    - BKWH
+    - YEBU
+    - YEGN
+    - YEWH
+    - YEBK
+    - BU
+    - YERD
+  W_IGN_SW:
+    wirecount: 4
+    colors:
+    - WH
+    - BU
+    - BKWH
+    - BKYE
+  W_COMB_LIGHT:
+    wirecount: 7
+    colors:
+    - RD
+    - RDBU
+    - RDWH
+    - RDBK
+    - GN
+    - GNBK
+    - GNYE
+  W_COMB_WIPER:
+    wirecount: 5
+    colors:
+    - GN
+    - BU
+    - BU
+    - PK
+    - BK
+  W_RELAYS_DASH:
+    wirecount: 6
+    colors:
+    - GNWH
+    - GN
+    - GNBK
+    - BKWH
+    - GN
+    - GNRD
+  W_HVAC:
+    wirecount: 6
+    colors:
+    - BU
+    - BUWH
+    - BK
+    - BURD
+    - BUBK
+    - BU
+  W_BRAKE_WARN:
+    wirecount: 3
+    colors:
+    - GNWH
+    - GNYE
+    - YERD
+  W_CONSOLE_AUDIO:
+    wirecount: 6
+    colors:
+    - BU
+    - RDBU
+    - BK
+    - BU
+    - WH
+    - GY
+  W_HAZARD_SAFETY:
+    wirecount: 6
+    colors:
+    - GNWH
+    - GN
+    - GNBK
+    - GNYE
+    - BKWH
+    - RD
+  W_REAR_PASS:
+    wirecount: 4
+    colors:
+    - RDBU
+    - GNYE
+    - RDWH
+    - BK
+  W_REAR_RH:
+    wirecount: 5
+    colors:
+    - GNYE
+    - GNYE
+    - RDBU
+    - RDBK
+    - BK
+  W_REAR_LH:
+    wirecount: 5
+    colors:
+    - GNBK
+    - GNYE
+    - RDBU
+    - RDBK
+    - BK
+  W_REAR_MARKERS:
+    wirecount: 8
+    colors:
+    - RDBU
+    - BK
+    - RDBU
+    - BK
+    - RDBU
+    - BK
+    - RDBU
+    - BK
+  W_FUEL:
+    wirecount: 5
+    colors:
+    - BKWH
+    - BK
+    - YEBU
+    - YEGN
+    - BK
+  W_REAR_ACC:
+    wirecount: 10
+    colors:
+    - RD
+    - BK
+    - RDWH
+    - BK
+    - WH
+    - GY
+    - BK
+    - WH
+    - GY
+    - BK
+connections:
+- - FUSE_BOX:
+    - 4
+  - W_HEADLAMP_RH:
+    - 1
+  - HEADLAMP_RH:
+    - 1
+- - C3_LIGHTING:
+    - 2
+    - 3
+  - W_HEADLAMP_RH:
+    - 2
+    - 3
+  - HEADLAMP_RH:
+    - 2
+    - 3
+- - FUSE_BOX:
+    - 5
+  - W_HEADLAMP_LH:
+    - 1
+  - HEADLAMP_LH:
+    - 1
+- - C3_LIGHTING:
+    - 4
+    - 5
+  - W_HEADLAMP_LH:
+    - 2
+    - 3
+  - HEADLAMP_LH:
+    - 2
+    - 3
+- - C3_LIGHTING:
+    - 6
+  - W_COMB_RH:
+    - 1
+  - COMB_LAMP_RH:
+    - 1
+- - FUSE_BOX:
+    - 3
+  - W_COMB_RH:
+    - 2
+  - COMB_LAMP_RH:
+    - 2
+- - COMB_LAMP_RH:
+    - 3
+  - W_COMB_RH:
+    - 3
+  - GND_FRONT:
+    - 1
+- - C3_LIGHTING:
+    - 7
+  - W_COMB_LH:
+    - 1
+  - COMB_LAMP_LH:
+    - 1
+- - FUSE_BOX:
+    - 3
+  - W_COMB_LH:
+    - 2
+  - COMB_LAMP_LH:
+    - 2
+- - COMB_LAMP_LH:
+    - 3
+  - W_COMB_LH:
+    - 3
+  - GND_FRONT:
+    - 1
+- - FUSE_BOX:
+    - 3
+  - W_MARKERS:
+    - 1
+  - SIDE_MARKER_RH:
+    - 1
+- - SIDE_MARKER_RH:
+    - 2
+  - W_MARKERS:
+    - 2
+  - GND_FRONT:
+    - 1
+- - FUSE_BOX:
+    - 3
+  - W_MARKERS:
+    - 3
+  - SIDE_MARKER_LH:
+    - 1
+- - SIDE_MARKER_LH:
+    - 2
+  - W_MARKERS:
+    - 4
+  - GND_FRONT:
+    - 1
+- - C3_LIGHTING:
+    - 7
+  - W_HORNS:
+    - 1
+  - HORN_RH:
+    - 1
+- - HORN_RH:
+    - 2
+  - W_HORNS:
+    - 2
+  - GND_FRONT:
+    - 1
+- - C3_LIGHTING:
+    - 7
+  - W_HORNS:
+    - 3
+  - HORN_LH:
+    - 1
+- - HORN_LH:
+    - 2
+  - W_HORNS:
+    - 4
+  - GND_FRONT:
+    - 1
+- - ALTERNATOR:
+    - 1
+  - W_ALT:
+    - 1
+  - FUSIBLE_LINKS:
+    - 3
+- - ALTERNATOR:
+    - 2
+  - W_ALT:
+    - 2
+  - FUSIBLE_LINKS:
+    - 2
+- - ALTERNATOR:
+    - 3
+  - W_ALT:
+    - 3
+  - FP_CONTROL_RELAY:
+    - 2
+- - ALTERNATOR:
+    - 4
+  - W_ALT:
+    - 4
+  - GND_FRONT:
+    - 1
+- - ALTERNATOR:
+    - 1
+  - W_ALT:
+    - 5
+  - ALT_CONDENSER:
+    - 1
+- - FUSIBLE_LINKS:
+    - 3
+  - W_STARTER:
+    - 1
+  - STARTER:
+    - 1
+- - FP_CONTROL_RELAY:
+    - 1
+  - W_STARTER:
+    - 2
+  - STARTER:
+    - 2
+- - STARTER:
+    - 3
+  - W_STARTER:
+    - 3
+  - GND_FRONT:
+    - 1
+- - DISTRIBUTOR:
+    - 1
+  - W_IGN:
+    - 1
+  - TRANSISTOR_IGN:
+    - 3
+- - DISTRIBUTOR:
+    - 2
+  - W_IGN:
+    - 2
+  - TRANSISTOR_IGN:
+    - 4
+- - DISTRIBUTOR:
+    - 3
+  - W_IGN:
+    - 3
+  - GND_FRONT:
+    - 1
+- - IGN_RELAY:
+    - 2
+  - W_IGN:
+    - 4
+  - IGN_COIL:
+    - 1
+- - ECU:
+    - 1
+  - W_IGN:
+    - 5
+  - IGN_COIL:
+    - 2
+- - IGN_COIL:
+    - 1
+  - W_IGN:
+    - 6
+  - RADIO_CONDENSER:
+    - 1
+- - OIL_SENDER:
+    - 1
+  - W_SENSORS:
+    - 1
+  - OIL_GAUGE:
+    - 2
+- - THERM_TX:
+    - 1
+  - W_SENSORS:
+    - 2
+  - TEMP_GAUGE:
+    - 2
+- - IGN_RELAY:
+    - 2
+  - W_SENSORS:
+    - 3
+  - BCDD_SOLENOID:
+    - 1
+- - BCDD_SOLENOID:
+    - 2
+  - W_SENSORS:
+    - 4
+  - GND_FRONT:
+    - 1
+- - ECU:
+    - 1
+  - W_CHECK:
+    - 1
+  - CHECK_CONN:
+    - 1
+- - FP_CONTROL_RELAY:
+    - 2
+  - W_CHECK:
+    - 2
+  - CHECK_CONN:
+    - 2
+- - FP_CONTROL_RELAY:
+    - 1
+  - W_CHECK:
+    - 3
+  - CHECK_CONN:
+    - 3
+- - GND_FRONT:
+    - 1
+  - W_CHECK:
+    - 4
+  - CHECK_CONN:
+    - 4
+- - C3_LIGHTING:
+    - 6
+    - 7
+  - W_CHECK:
+    - 5
+    - 6
+  - CHECK_CONN:
+    - 5
+    - 6
+- - BATTERY:
+    - 1
+  - W_BATT_MAIN:
+    - 1
+  - STARTER:
+    - 1
+- - BATTERY:
+    - 1
+  - W_BATT_MAIN:
+    - 2
+  - FUSIBLE_LINKS:
+    - 1
+- - BATTERY:
+    - 2
+  - W_BATT_MAIN:
+    - 3
+  - GND_ENGINE:
+    - 1
+- - FUSIBLE_LINKS:
+    - 1
+  - W_BATT_MAIN:
+    - 4
+  - EFI_MAIN_RELAY:
+    - 3
+- - FUSIBLE_LINKS:
+    - 2
+  - W_BATT_MAIN:
+    - 5
+  - IGN_RELAY:
+    - 2
+- - IGN_RELAY:
+    - 2
+  - W_TI:
+    - 1
+  - TRANSISTOR_IGN:
+    - 1
+- - IGN_COIL:
+    - 2
+  - W_TI:
+    - 2
+  - TRANSISTOR_IGN:
+    - 2
+- - DISTRIBUTOR:
+    - 1
+  - W_TI:
+    - 3
+  - TRANSISTOR_IGN:
+    - 3
+- - DISTRIBUTOR:
+    - 2
+  - W_TI:
+    - 4
+  - TRANSISTOR_IGN:
+    - 4
+- - TRANSISTOR_IGN:
+    - 5
+  - W_TI:
+    - 5
+  - GND_ENGINE:
+    - 1
+- - IGN_RELAY:
+    - 2
+  - W_RELAYS:
+    - 1
+  - EFI_MAIN_RELAY:
+    - 1
+- - EFI_MAIN_RELAY:
+    - 2
+  - W_RELAYS:
+    - 2
+  - GND_ENGINE:
+    - 1
+- - EFI_MAIN_RELAY:
+    - 4
+  - W_RELAYS:
+    - 4
+  - DROPPING_RES_1:
+    - 1
+- - STARTER:
+    - 2
+  - W_RELAYS:
+    - 5
+  - FP_CONTROL_RELAY:
+    - 1
+- - ALTERNATOR:
+    - 3
+  - W_RELAYS:
+    - 6
+  - FP_CONTROL_RELAY:
+    - 2
+- - FP_CONTROL_RELAY:
+    - 3
+  - W_RELAYS:
+    - 7
+  - FP_RELAY:
+    - 1
+- - FP_RELAY:
+    - 2
+  - W_RELAYS:
+    - 8
+  - FUEL_PUMP:
+    - 1
+- - IGN_COIL:
+    - 2
+  - W_ECU_SENSORS:
+    - 10
+  - ECU:
+    - 1
+- - TPS:
+    - 1
+    - 3
+    - 2
+  - W_ECU_SENSORS:
+    - 1
+    - 2
+    - 3
+  - ECU:
+    - 2
+    - 3
+    - 18
+- - STARTER:
+    - 2
+  - W_ECU_SENSORS:
+    - 9
+  - ECU:
+    - 4
+- - AFM:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+  - W_ECU_SENSORS:
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+  - ECU:
+    - 6
+    - 7
+    - 8
+    - 9
+    - 27
+- - WATER_TEMP_SENSOR:
+    - 1
+  - W_ECU_SENSORS:
+    - 1
+  - ECU:
+    - 13
+- - ECU:
+    - 5
+  - W_ECU_SENSORS:
+    - 2
+  - GND_ENGINE:
+    - 1
+- - ECU:
+    - 15
+    - 33
+    - 32
+    - 14
+    - 30
+    - 31
+  - W_ECU_INJ:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+  - INJECTORS:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+- - DROPPING_RES_1:
+    - 2
+    - 3
+    - 4
+    - 5
+  - W_DROP_INJ:
+    - 2
+    - 3
+    - 4
+    - 5
+  - INJECTORS:
+    - 1
+    - 2
+    - 3
+    - 4
+- - EFI_MAIN_RELAY:
+    - 4
+  - W_DROP_INJ:
+    - 6
+  - DROPPING_RES_2:
+    - 1
+- - DROPPING_RES_2:
+    - 2
+    - 3
+  - W_DROP_INJ:
+    - 7
+    - 8
+  - INJECTORS:
+    - 5
+    - 6
+- - STARTER:
+    - 2
+  - W_COLD_AIR:
+    - 1
+  - COLD_START_VALVE:
+    - 1
+- - COLD_START_VALVE:
+    - 2
+  - W_COLD_AIR:
+    - 2
+  - THERMOTIME_SW:
+    - 2
+- - THERMOTIME_SW:
+    - 1
+  - W_COLD_AIR:
+    - 3
+  - STARTER:
+    - 2
+- - FP_RELAY:
+    - 2
+  - W_COLD_AIR:
+    - 4
+  - AIR_REGULATOR:
+    - 1
+- - AIR_REGULATOR:
+    - 2
+  - W_COLD_AIR:
+    - 5
+  - GND_ENGINE:
+    - 1
+- - WATER_TEMP_SENSOR:
+    - 2
+  - W_COLD_AIR:
+    - 6
+  - GND_ENGINE:
+    - 1
+- - COMB_SWITCH:
+    - 10
+  - W_WIPER_MISC:
+    - 1
+  - WIPER_MOTOR:
+    - 1
+- - COMB_SWITCH:
+    - 10
+  - W_WIPER_MISC:
+    - 2
+  - WASHER_MOTOR:
+    - 1
+- - WASHER_MOTOR:
+    - 2
+  - W_WIPER_MISC:
+    - 3
+  - GND_ENGINE:
+    - 1
+- - FUSE_BOX:
+    - 2
+  - W_WIPER_MISC:
+    - 4
+  - ENG_BAY_LAMP:
+    - 1
+- - ENG_BAY_LAMP:
+    - 2
+  - W_WIPER_MISC:
+    - 5
+  - GND_ENGINE:
+    - 1
+- - BRAKE_FLUID_SW:
+    - 1
+  - W_WIPER_MISC:
+    - 6
+  - SPEEDOMETER:
+    - 2
+- - FUSE_BOX:
+    - 2
+  - W_GAUGES:
+    - 1
+  - CLOCK:
+    - 1
+- - RHEOSTAT:
+    - 2
+  - W_GAUGES:
+    - 2
+  - CLOCK:
+    - 2
+- - CLOCK:
+    - 3
+  - W_GAUGES:
+    - 3
+  - GND_DASH:
+    - 1
+- - FUSE_BOX:
+    - 10
+  - W_GAUGES:
+    - 4
+  - VOLTMETER:
+    - 1
+- - FUSE_BOX:
+    - 10
+  - W_GAUGES:
+    - 4
+  - FUEL_GAUGE:
+    - 1
+- - FUEL_SENDER:
+    - 1
+  - W_GAUGES:
+    - 5
+  - FUEL_GAUGE:
+    - 2
+- - FUEL_SENDER:
+    - 2
+  - W_GAUGES:
+    - 6
+  - FUEL_GAUGE:
+    - 3
+- - THERM_TX:
+    - 1
+  - W_GAUGES:
+    - 7
+  - TEMP_GAUGE:
+    - 2
+- - OIL_SENDER:
+    - 1
+  - W_GAUGES:
+    - 8
+  - OIL_GAUGE:
+    - 2
+- - IGN_COIL:
+    - 2
+  - W_GAUGES:
+    - 9
+  - TACHOMETER:
+    - 2
+- - FUSE_BOX:
+    - 1
+  - W_GAUGES:
+    - 10
+  - SPEEDOMETER:
+    - 2
+- - FUSE_BOX:
+    - 3
+  - W_COMB_LIGHT:
+    - 2
+  - RHEOSTAT:
+    - 1
+- - RHEOSTAT:
+    - 3
+  - W_GAUGES:
+    - 3
+  - GND_DASH:
+    - 1
+- - IGN_SWITCH:
+    - 2
+  - W_IGN_SW:
+    - 2
+  - FUSE_BOX:
+    - 7
+- - IGN_SWITCH:
+    - 3
+  - W_IGN_SW:
+    - 3
+  - FUSE_BOX:
+    - 10
+- - IGN_SWITCH:
+    - 3
+  - W_IGN_SW:
+    - 3
+  - IGN_RELAY:
+    - 1
+- - FUSE_BOX:
+    - 4
+  - W_COMB_LIGHT:
+    - 1
+  - COMB_SWITCH:
+    - 1
+- - FUSE_BOX:
+    - 3
+  - W_COMB_LIGHT:
+    - 2
+  - COMB_SWITCH:
+    - 2
+- - COMB_SWITCH:
+    - 5
+    - 6
+    - 7
+  - W_COMB_LIGHT:
+    - 5
+    - 6
+    - 7
+  - TACHOMETER:
+    - 3
+    - 4
+    - 5
+- - COMB_SWITCH:
+    - 4
+  - W_COMB_LIGHT:
+    - 4
+  - SPEEDOMETER:
+    - 1
+- - COMB_SWITCH:
+    - 8
+  - W_COMB_WIPER:
+    - 1
+  - HORN_RELAY:
+    - 2
+- - FUSE_BOX:
+    - 7
+  - W_COMB_WIPER:
+    - 2
+  - COMB_SWITCH:
+    - 9
+- - COMB_SWITCH:
+    - 10
+    - 11
+    - 12
+  - W_COMB_WIPER:
+    - 3
+    - 4
+    - 5
+  - WIPER_AMP:
+    - 1
+    - 2
+    - 5
+- - WIPER_AMP:
+    - 3
+  - W_COMB_WIPER:
+    - 3
+  - WIPER_MOTOR:
+    - 1
+- - FUSE_BOX:
+    - 1
+  - W_RELAYS_DASH:
+    - 1
+  - HORN_RELAY:
+    - 1
+- - HORN_RELAY:
+    - 3
+  - W_RELAYS_DASH:
+    - 3
+  - C3_LIGHTING:
+    - 7
+- - FUSE_BOX:
+    - 9
+  - W_RELAYS_DASH:
+    - 5
+  - TURN_FLASHER:
+    - 1
+- - TURN_FLASHER:
+    - 2
+  - W_RELAYS_DASH:
+    - 6
+  - COMB_SWITCH:
+    - 5
+- - FUSE_BOX:
+    - 1
+  - W_RELAYS_DASH:
+    - 1
+  - HAZARD_FLASHER:
+    - 1
+- - FUSE_BOX:
+    - 6
+  - W_RELAYS_DASH:
+    - 4
+  - DEFOGGER_RELAY:
+    - 1
+- - FUSE_BOX:
+    - 10
+  - W_RELAYS_DASH:
+    - 4
+  - SEATBELT_TIMER:
+    - 1
+- - FUSE_BOX:
+    - 11
+  - W_HVAC:
+    - 1
+  - HEATER_FAN_SW:
+    - 1
+- - HEATER_FAN_SW:
+    - 2
+    - 3
+  - W_HVAC:
+    - 2
+    - 6
+  - HEATER_RESISTOR:
+    - 1
+    - 2
+- - HEATER_FAN_SW:
+    - 4
+  - W_HVAC:
+    - 2
+  - BLOWER_MOTOR:
+    - 1
+- - BLOWER_MOTOR:
+    - 2
+  - W_HVAC:
+    - 3
+  - GND_CABIN:
+    - 1
+- - FUSE_BOX:
+    - 12
+  - W_HVAC:
+    - 4
+  - AC_MICRO_SW:
+    - 1
+- - AC_MICRO_SW:
+    - 2
+  - W_HVAC:
+    - 5
+  - AC_THERMO_SW:
+    - 1
+- - FUSE_BOX:
+    - 1
+  - W_BRAKE_WARN:
+    - 1
+  - STOP_LAMP_SW:
+    - 1
+- - STOP_LAMP_SW:
+    - 2
+  - W_BRAKE_WARN:
+    - 2
+  - C7_C8_BULKHEAD:
+    - 2
+- - PARKING_BRAKE_SW:
+    - 1
+  - W_BRAKE_WARN:
+    - 3
+  - SEATBELT_LAMP:
+    - 1
+- - FUSE_BOX:
+    - 8
+  - W_CONSOLE_AUDIO:
+    - 1
+  - RADIO:
+    - 1
+- - FUSE_BOX:
+    - 3
+  - W_CONSOLE_AUDIO:
+    - 2
+  - RADIO:
+    - 2
+- - RADIO:
+    - 3
+  - W_CONSOLE_AUDIO:
+    - 3
+  - GND_CABIN:
+    - 1
+- - FUSE_BOX:
+    - 8
+  - W_CONSOLE_AUDIO:
+    - 4
+  - ANTENNA_SW:
+    - 1
+- - ANTENNA_SW:
+    - 2
+  - W_CONSOLE_AUDIO:
+    - 5
+  - C7_C8_BULKHEAD:
+    - 11
+- - ANTENNA_SW:
+    - 3
+  - W_CONSOLE_AUDIO:
+    - 6
+  - C7_C8_BULKHEAD:
+    - 12
+- - FUSE_BOX:
+    - 3
+  - W_CONSOLE_AUDIO:
+    - 2
+  - ASHTRAY_LAMP:
+    - 1
+- - ASHTRAY_LAMP:
+    - 2
+  - W_CONSOLE_AUDIO:
+    - 3
+  - GND_CABIN:
+    - 1
+- - FUSE_BOX:
+    - 1
+    - 9
+  - W_HAZARD_SAFETY:
+    - 1
+    - 2
+  - HAZARD_SW:
+    - 1
+    - 2
+- - HAZARD_SW:
+    - 3
+  - W_HAZARD_SAFETY:
+    - 3
+  - C7_C8_BULKHEAD:
+    - 3
+- - HAZARD_SW:
+    - 4
+  - W_HAZARD_SAFETY:
+    - 4
+  - C7_C8_BULKHEAD:
+    - 4
+- - FUSE_BOX:
+    - 10
+  - W_HAZARD_SAFETY:
+    - 5
+  - DEFOGGER_SW:
+    - 1
+- - DEFOGGER_SW:
+    - 2
+  - W_HAZARD_SAFETY:
+    - 5
+  - C7_C8_BULKHEAD:
+    - 9
+- - SEATBELT_LAMP:
+    - 2
+  - W_HAZARD_SAFETY:
+    - 5
+  - DRIVERS_BELT_SW:
+    - 1
+- - DRIVERS_BELT_SW:
+    - 2
+  - W_HAZARD_SAFETY:
+    - 6
+  - GND_CABIN:
+    - 1
+- - FLOOR_SENSOR_RELAY:
+    - 3
+  - W_HAZARD_SAFETY:
+    - 6
+  - GND_CABIN:
+    - 1
+- - FUSE_BOX:
+    - 3
+  - W_REAR_PASS:
+    - 1
+  - C7_C8_BULKHEAD:
+    - 1
+- - FUSE_BOX:
+    - 2
+  - W_REAR_PASS:
+    - 3
+  - C7_C8_BULKHEAD:
+    - 10
+- - C7_C8_BULKHEAD:
+    - 4
+  - W_REAR_RH:
+    - 1
+  - REAR_LAMP_RH:
+    - 1
+- - C7_C8_BULKHEAD:
+    - 2
+  - W_REAR_RH:
+    - 2
+  - REAR_LAMP_RH:
+    - 2
+- - C7_C8_BULKHEAD:
+    - 1
+  - W_REAR_RH:
+    - 3
+  - REAR_LAMP_RH:
+    - 3
+- - C7_C8_BULKHEAD:
+    - 5
+  - W_REAR_RH:
+    - 4
+  - REAR_LAMP_RH:
+    - 4
+- - REAR_LAMP_RH:
+    - 5
+  - W_REAR_RH:
+    - 5
+  - GND_REAR:
+    - 1
+- - C7_C8_BULKHEAD:
+    - 3
+  - W_REAR_LH:
+    - 1
+  - REAR_LAMP_LH:
+    - 1
+- - C7_C8_BULKHEAD:
+    - 2
+  - W_REAR_LH:
+    - 2
+  - REAR_LAMP_LH:
+    - 2
+- - C7_C8_BULKHEAD:
+    - 1
+  - W_REAR_LH:
+    - 3
+  - REAR_LAMP_LH:
+    - 3
+- - C7_C8_BULKHEAD:
+    - 5
+  - W_REAR_LH:
+    - 4
+  - REAR_LAMP_LH:
+    - 4
+- - REAR_LAMP_LH:
+    - 5
+  - W_REAR_LH:
+    - 5
+  - GND_REAR:
+    - 1
+- - C7_C8_BULKHEAD:
+    - 1
+  - W_REAR_MARKERS:
+    - 1
+  - SIDE_MARKER_REAR_RH:
+    - 1
+- - SIDE_MARKER_REAR_RH:
+    - 2
+  - W_REAR_MARKERS:
+    - 2
+  - GND_REAR:
+    - 1
+- - C7_C8_BULKHEAD:
+    - 1
+  - W_REAR_MARKERS:
+    - 3
+  - SIDE_MARKER_REAR_LH:
+    - 1
+- - SIDE_MARKER_REAR_LH:
+    - 2
+  - W_REAR_MARKERS:
+    - 4
+  - GND_REAR:
+    - 1
+- - C7_C8_BULKHEAD:
+    - 1
+  - W_REAR_MARKERS:
+    - 5
+  - LICENSE_LAMP_1:
+    - 1
+- - LICENSE_LAMP_1:
+    - 2
+  - W_REAR_MARKERS:
+    - 6
+  - GND_REAR:
+    - 1
+- - C7_C8_BULKHEAD:
+    - 1
+  - W_REAR_MARKERS:
+    - 7
+  - LICENSE_LAMP_2:
+    - 1
+- - LICENSE_LAMP_2:
+    - 2
+  - W_REAR_MARKERS:
+    - 8
+  - GND_REAR:
+    - 1
+- - C7_C8_BULKHEAD:
+    - 6
+  - W_FUEL:
+    - 1
+  - FUEL_PUMP:
+    - 1
+- - FUEL_PUMP:
+    - 2
+  - W_FUEL:
+    - 2
+  - GND_REAR:
+    - 1
+- - C7_C8_BULKHEAD:
+    - 7
+  - W_FUEL:
+    - 3
+  - FUEL_SENDER:
+    - 1
+- - C7_C8_BULKHEAD:
+    - 8
+  - W_FUEL:
+    - 4
+  - FUEL_SENDER:
+    - 2
+- - FUEL_SENDER:
+    - 3
+  - W_FUEL:
+    - 5
+  - GND_REAR:
+    - 1
+- - C7_C8_BULKHEAD:
+    - 9
+  - W_REAR_ACC:
+    - 1
+  - REAR_DEFOGGER:
+    - 1
+- - REAR_DEFOGGER:
+    - 2
+  - W_REAR_ACC:
+    - 2
+  - GND_REAR:
+    - 1
+- - C7_C8_BULKHEAD:
+    - 10
+  - W_REAR_ACC:
+    - 3
+  - ROOM_LAMP:
+    - 1
+- - ROOM_LAMP:
+    - 2
+  - W_REAR_ACC:
+    - 4
+  - TAILGATE_SW:
+    - 1
+- - C7_C8_BULKHEAD:
+    - 11
+  - W_REAR_ACC:
+    - 5
+  - ANTENNA_MOTOR:
+    - 1
+- - C7_C8_BULKHEAD:
+    - 12
+  - W_REAR_ACC:
+    - 6
+  - ANTENNA_MOTOR:
+    - 2
+- - ANTENNA_MOTOR:
+    - 3
+  - W_REAR_ACC:
+    - 7
+  - GND_REAR:
+    - 1
+- - C7_C8_BULKHEAD:
+    - 13
+  - W_REAR_ACC:
+    - 8
+  - SPEAKER_RH:
+    - 1
+- - C7_C8_BULKHEAD:
+    - 13
+  - W_REAR_ACC:
+    - 9
+  - SPEAKER_LH:
+    - 1

@@ -1,0 +1,19 @@
+Id	Description	Qty	Unit	Designators
+1	Cable, 10 wires	0	m	W_CABIN_TO_REAR, W_DASH_INT, W_Z1_Z2_Z3
+2	Cable, 3 wires	0	m	W_Z2_TO_Z4
+3	Cable, 5 wires	0	m	W_Z2_EFI
+4	Cable, 8 wires	0	m	W_Z3_Z4_Z1
+5	Connector, 12-Circuit Fuse Box (Zone 4), 5 pins	1		FUSE_BOX
+6	Connector, C-1 (Blue 16-Pin) Eng Bay to Dash, 7 pins	1		C1_ENG_DASH
+7	Connector, C-2 (Black 8-Pin) Alt and Charging, 4 pins	1		C2_ALT_CHG
+8	Connector, C-3 (Green 8-Pin) Forward Lighting, 8 pins	1		C3_FWD_LIGHT
+9	Connector, C-4 (White 8-Pin) EFI and Ignition, 5 pins	1		C4_EFI_IGN
+10	Connector, C-5 (White 16-Pin) Dash to Comb Switch, 6 pins	1		C5_COMB_SW
+11	Connector, C-6 (Black 16-Pin) Dash to Cluster, 6 pins	1		C6_CLUSTER
+12	Connector, C-7 and C-8 (Black 12-Pin) Cabin to Rear, 10 pins	1		C7_C8_REAR
+13	Connector, C-9 and C-10 (White 8-Pin) Ign and Aux Power, 4 pins	1		C9_C10_IGN_PWR
+14	Connector, Fusible Link Block (Zone 2), 3 pins	1		FUSIBLE_LINKS
+15	Connector, Zone 1: Front Chassis, 3 pins	1		ZONE1_FRONT
+16	Connector, Zone 2: Engine and EFI, 2 pins	1		ZONE2_EFI
+17	Connector, Zone 3: Center Dash, 4 pins	1		ZONE3_DASH
+18	Connector, Zone 5: Rear Chassis, 3 pins	1		ZONE5_REAR

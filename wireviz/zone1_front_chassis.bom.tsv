@@ -1,0 +1,26 @@
+Id	Description	Qty	Unit	Designators
+1	Cable, 3 wires	0	m	W_COMB_LH, W_COMB_RH, W_HEADLAMP_LH, W_HEADLAMP_RH, W_STARTER
+2	Cable, 4 wires	0	m	W_HORNS, W_MARKERS, W_SENSORS
+3	Cable, 5 wires	0	m	W_ALT
+4	Cable, 6 wires	0	m	W_CHECK, W_IGN
+5	Connector, 1.4kW Reduction Gear, 3 pins	1		STARTER
+6	Connector, 12V 60A IC Regulator, 4 pins	1		ALTERNATOR
+7	Connector, 3-Pin Sealed Beam, 3 pins	2		HEADLAMP_LH, HEADLAMP_RH
+8	Connector, 6-Pin Check Connector, 6 pins	1		CHECK_CONN
+9	Connector, BCDD Cut Solenoid, 2 pins	1		BCDD_SOLENOID
+10	Connector, Coil Noise Condenser, 2 pins	1		RADIO_CONDENSER
+11	Connector, Connector C-3 (Green 8-Pin), 8 pins	1		C3_LIGHTING
+12	Connector, Electronic Distributor, 3 pins	1		DISTRIBUTOR
+13	Connector, Front Body and Engine Earth	1		
+14	Connector, Front Combination Lamp LH, 3 pins	1		COMB_LAMP_LH
+15	Connector, Front Combination Lamp RH, 3 pins	1		COMB_LAMP_RH
+16	Connector, Fuse Box (Zone 4 Interface), 3 pins	1		FUSE_BOX_Z1
+17	Connector, High-Pitch Horn, 2 pins	1		HORN_RH
+18	Connector, Ignition Coil, 2 pins	1		IGN_COIL
+19	Connector, Low-Pitch Horn, 2 pins	1		HORN_LH
+20	Connector, Noise Condenser, 2 pins	1		ALT_CONDENSER
+21	Connector, Oil Pressure Sender, 1 pins	1		OIL_SENDER
+22	Connector, Side Marker Lamp LH, 2 pins	1		SIDE_MARKER_LH
+23	Connector, Side Marker Lamp RH, 2 pins	1		SIDE_MARKER_RH
+24	Connector, Thermal Transmitter, 1 pins	1		THERM_TX
+25	Connector, Zone 2 / Dash Interface, 10 pins	1		ENGINE_HARNESS_Z2

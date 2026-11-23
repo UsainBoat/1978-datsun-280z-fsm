@@ -1,0 +1,252 @@
+metadata:
+  title: "1978 Datsun 280Z — Zone 1: Front Chassis, Lighting, Charging, Starting & Ignition"
+  pn: "FSM-1978-280Z-Z1"
+  notes: |
+    Source: 1978 Color Wiring Diagram.pdf (Page 1 / Zone 1) & markdown/1978 Color Wiring Diagram.md
+    Nissan color codes mapped to IEC 60757 (e.g., RW -> RDWH, BW -> BKWH, L -> BU).
+
+connectors:
+  HEADLAMP_RH:
+    type: 3-Pin Sealed Beam
+    pinlabels: [Common Feed (R), Low Beam (RW), High Beam (RB)]
+    notes: "12V 50W/60W (Factory 6012/6014)"
+  HEADLAMP_LH:
+    type: 3-Pin Sealed Beam
+    pinlabels: [Common Feed (R), Low Beam (RL), High Beam (RY)]
+    notes: "12V 50W/60W (Factory 6012/6014)"
+  COMB_LAMP_RH:
+    type: Front Combination Lamp RH
+    pinlabels: [Turn Signal 27W (GY), Clearance 8W (RL), Ground (B)]
+  COMB_LAMP_LH:
+    type: Front Combination Lamp LH
+    pinlabels: [Turn Signal 27W (GB), Clearance 8W (RL), Ground (B)]
+  SIDE_MARKER_RH:
+    type: Side Marker Lamp RH
+    pinlabels: [Power (RL), Ground (B)]
+  SIDE_MARKER_LH:
+    type: Side Marker Lamp LH
+    pinlabels: [Power (RL), Ground (B)]
+  HORN_RH:
+    type: High-Pitch Horn
+    pinlabels: [Power Feed (GB), Ground (B)]
+  HORN_LH:
+    type: Low-Pitch Horn
+    pinlabels: [Power Feed (GB), Ground (B)]
+  ALTERNATOR:
+    type: 12V 60A IC Regulator
+    pinlabels: ["BAT / A (WR + W)", "S Sense (Y)", "L Lamp (WB)", "E Ground (B)"]
+  ALT_CONDENSER:
+    type: Noise Condenser
+    pinlabels: [Input (WR), Case Ground]
+  STARTER:
+    type: 1.4kW Reduction Gear
+    pinlabels: ["B Battery (+)", "S Solenoid (BY)", Housing Earth]
+  DISTRIBUTOR:
+    type: Electronic Distributor
+    pinlabels: ["Pickup (+) Blue", "Pickup (-) White", "Housing Ground (B)"]
+  IGN_COIL:
+    type: Ignition Coil
+    pinlabels: ["Terminal (+) (BW)", "Terminal (-) (L)"]
+  RADIO_CONDENSER:
+    type: Coil Noise Condenser
+    pinlabels: ["Terminal (+) (BW)", Bracket Ground]
+  OIL_SENDER:
+    type: Oil Pressure Sender
+    pinlabels: [Signal Stud (YB)]
+  THERM_TX:
+    type: Thermal Transmitter
+    pinlabels: [Bullet Stud (YW)]
+  BCDD_SOLENOID:
+    type: BCDD Cut Solenoid
+    pinlabels: [Power (BW), Ground (B)]
+  CHECK_CONN:
+    type: 6-Pin Check Connector
+    pinlabels:
+      - "1: Coil (-) / Tach (L)"
+      - "2: Alt L (WB)"
+      - "3: Starter S (BY)"
+      - "4: Engine Earth (B)"
+      - "5: Test Tap (GY)"
+      - "6: Test Tap (GB)"
+  C3_LIGHTING:
+    type: "Connector C-3 (Green 8-Pin)"
+    pinlabels:
+      - "R (Fuses 4/5)"
+      - "RW (RH Low)"
+      - "RB (RH High)"
+      - "RL (LH Low / Clear)"
+      - "RY (LH High)"
+      - "GY (RH Turn)"
+      - "GB (LH Turn / Horn)"
+      - "B (Ground)"
+  FUSE_BOX_Z1:
+    type: "Fuse Box (Zone 4 Interface)"
+    pinlabels: ["Fuse 3 (10A Tail/Clear)", "Fuse 4 (15A RH Head)", "Fuse 5 (15A LH Head)"]
+  ENGINE_HARNESS_Z2:
+    type: "Zone 2 / Dash Interface"
+    pinlabels:
+      - "Fusible Link BAT (+)"
+      - "Alt S (Y)"
+      - "Alt L (WB)"
+      - "Starter S (BY)"
+      - "IGN ON Bus (BW)"
+      - "Coil (-) / Tach (L)"
+      - "TI Pickup (+)"
+      - "TI Pickup (-)"
+      - "Oil Gauge (YB)"
+      - "Water Temp Gauge (YW)"
+  GND_FRONT:
+    type: Front Body and Engine Earth
+    style: simple
+    pinlabels: [Chassis Earth]
+
+cables:
+  W_HEADLAMP_RH:
+    wirecount: 3
+    colors: [RD, RDWH, RDBK]
+    notes: "RH Headlamp Harness"
+  W_HEADLAMP_LH:
+    wirecount: 3
+    colors: [RD, RDBU, RDYE]
+    notes: "LH Headlamp Harness"
+  W_COMB_RH:
+    wirecount: 3
+    colors: [GNYE, RDBU, BK]
+  W_COMB_LH:
+    wirecount: 3
+    colors: [GNBK, RDBU, BK]
+  W_MARKERS:
+    wirecount: 4
+    colors: [RDBU, BK, RDBU, BK]
+  W_HORNS:
+    wirecount: 4
+    colors: [GNBK, BK, GNBK, BK]
+  W_ALT:
+    wirecount: 5
+    colors: [WHRD, YE, WHBK, BK, WHRD]
+  W_STARTER:
+    wirecount: 3
+    colors: [BK, BKYE, BK]
+  W_IGN:
+    wirecount: 6
+    colors: [BU, WH, BK, BKWH, BU, BKWH]
+  W_SENSORS:
+    wirecount: 4
+    colors: [YEBK, YEWH, BKWH, BK]
+  W_CHECK:
+    wirecount: 6
+    colors: [BU, WHBK, BKYE, BK, GNYE, GNBK]
+
+connections:
+  - - FUSE_BOX_Z1: [2]
+    - W_HEADLAMP_RH: [1]
+    - HEADLAMP_RH: [1]
+  - - C3_LIGHTING: [2, 3]
+    - W_HEADLAMP_RH: [2, 3]
+    - HEADLAMP_RH: [2, 3]
+
+  - - FUSE_BOX_Z1: [3]
+    - W_HEADLAMP_LH: [1]
+    - HEADLAMP_LH: [1]
+  - - C3_LIGHTING: [4, 5]
+    - W_HEADLAMP_LH: [2, 3]
+    - HEADLAMP_LH: [2, 3]
+
+  - - C3_LIGHTING: [6]
+    - W_COMB_RH: [1]
+    - COMB_LAMP_RH: [1]
+  - - FUSE_BOX_Z1: [1]
+    - W_COMB_RH: [2]
+    - COMB_LAMP_RH: [2]
+  - - COMB_LAMP_RH: [3]
+    - W_COMB_RH: [3]
+    - GND_FRONT: [1]
+
+  - - C3_LIGHTING: [7]
+    - W_COMB_LH: [1]
+    - COMB_LAMP_LH: [1]
+  - - FUSE_BOX_Z1: [1]
+    - W_COMB_LH: [2]
+    - COMB_LAMP_LH: [2]
+  - - COMB_LAMP_LH: [3]
+    - W_COMB_LH: [3]
+    - GND_FRONT: [1]
+
+  - - FUSE_BOX_Z1: [1]
+    - W_MARKERS: [1]
+    - SIDE_MARKER_RH: [1]
+  - - SIDE_MARKER_RH: [2]
+    - W_MARKERS: [2]
+    - GND_FRONT: [1]
+  - - FUSE_BOX_Z1: [1]
+    - W_MARKERS: [3]
+    - SIDE_MARKER_LH: [1]
+  - - SIDE_MARKER_LH: [2]
+    - W_MARKERS: [4]
+    - GND_FRONT: [1]
+
+  - - C3_LIGHTING: [7]
+    - W_HORNS: [1]
+    - HORN_RH: [1]
+  - - HORN_RH: [2]
+    - W_HORNS: [2]
+    - GND_FRONT: [1]
+  - - C3_LIGHTING: [7]
+    - W_HORNS: [3]
+    - HORN_LH: [1]
+  - - HORN_LH: [2]
+    - W_HORNS: [4]
+    - GND_FRONT: [1]
+
+  - - ALTERNATOR: [1, 2, 3]
+    - W_ALT: [1, 2, 3]
+    - ENGINE_HARNESS_Z2: [1, 2, 3]
+  - - ALTERNATOR: [4]
+    - W_ALT: [4]
+    - GND_FRONT: [1]
+  - - ALTERNATOR: [1]
+    - W_ALT: [5]
+    - ALT_CONDENSER: [1]
+
+  - - ENGINE_HARNESS_Z2: [1, 4]
+    - W_STARTER: [1, 2]
+    - STARTER: [1, 2]
+  - - STARTER: [3]
+    - W_STARTER: [3]
+    - GND_FRONT: [1]
+
+  - - DISTRIBUTOR: [1, 2]
+    - W_IGN: [1, 2]
+    - ENGINE_HARNESS_Z2: [7, 8]
+  - - DISTRIBUTOR: [3]
+    - W_IGN: [3]
+    - GND_FRONT: [1]
+  - - ENGINE_HARNESS_Z2: [5, 6]
+    - W_IGN: [4, 5]
+    - IGN_COIL: [1, 2]
+  - - IGN_COIL: [1]
+    - W_IGN: [6]
+    - RADIO_CONDENSER: [1]
+
+  - - OIL_SENDER: [1]
+    - W_SENSORS: [1]
+    - ENGINE_HARNESS_Z2: [9]
+  - - THERM_TX: [1]
+    - W_SENSORS: [2]
+    - ENGINE_HARNESS_Z2: [10]
+  - - ENGINE_HARNESS_Z2: [5]
+    - W_SENSORS: [3]
+    - BCDD_SOLENOID: [1]
+  - - BCDD_SOLENOID: [2]
+    - W_SENSORS: [4]
+    - GND_FRONT: [1]
+
+  - - ENGINE_HARNESS_Z2: [6, 3, 4]
+    - W_CHECK: [1, 2, 3]
+    - CHECK_CONN: [1, 2, 3]
+  - - GND_FRONT: [1]
+    - W_CHECK: [4]
+    - CHECK_CONN: [4]
+  - - C3_LIGHTING: [6, 7]
+    - W_CHECK: [5, 6]
+    - CHECK_CONN: [5, 6]

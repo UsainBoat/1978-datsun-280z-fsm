@@ -1,0 +1,178 @@
+metadata:
+  title: "1978 Datsun 280Z — Zone 4: 12-Circuit Fuse Box, HVAC, Console & Interior"
+  pn: "FSM-1978-280Z-Z4"
+  notes: |
+    Source: 1978 Color Wiring Diagram.pdf (Page 4 / Zone 4) & markdown/1978 Color Wiring Diagram.md
+
+connectors:
+  FUSE_BOX:
+    type: 12-Circuit Fuse Box (Left and Right Banks)
+    pins: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    pinlabels:
+      - "Fuse 1 (15A BAT) - Hazard/Horn/Stop (GW)"
+      - "Fuse 2 (10A BAT) - Room/Clock/Eng Bay (R/RW)"
+      - "Fuse 3 (10A LIGHT) - Tail/Clear/Dash (RL)"
+      - "Fuse 4 (15A LIGHT) - Headlamp RH (R)"
+      - "Fuse 5 (15A LIGHT) - Headlamp LH (R)"
+      - "Fuse 6 (20A DEFOG) - Rear Defogger"
+      - "Fuse 7 (15A ACC) - Wiper/Washer (L)"
+      - "Fuse 8 (10A ACC) - Radio/Antenna (L)"
+      - "Fuse 9 (10A IGN) - Turn/Back-Up (G)"
+      - "Fuse 10 (15A IGN) - Gauges/Warning (BW)"
+      - "Fuse 11 (15A IGN) - Heater Blower (L/LW)"
+      - "Fuse 12 (20A IGN) - A/C Clutch/Fan (LR/LB)"
+  BLOWER_MOTOR:
+    type: Heater Blower Motor
+    pinlabels: ["Positive (L/LW)", "Negative (B)"]
+  HEATER_FAN_SW:
+    type: Heater Fan Switch (4-Pos)
+    pinlabels: ["Feed (L)", "Low", "Med", "High (LW)"]
+  HEATER_RESISTOR:
+    type: Heater Resistor Pack
+    pinlabels: ["Low", "Med", "Out to Motor"]
+  AC_THERMO_SW:
+    type: A/C Evaporator Thermo Switch
+    pinlabels: ["In (L)", "Out (LB)"]
+  AC_MICRO_SW:
+    type: A/C Mode Lever Micro Switch
+    pinlabels: ["Feed (LR)", "Out (LB)"]
+  STOP_LAMP_SW:
+    type: Brake Stop Lamp Switch
+    pinlabels: ["Input (GW - Fuse 1)", "Output (GY - Stop Lamps)"]
+  PARKING_BRAKE_SW:
+    type: Parking Brake Switch
+    pinlabels: ["Signal Post (YR)"]
+  RADIO:
+    type: Radio Receiver
+    pinlabels: ["Power (L - Fuse 8)", "Backlight (RL)", "Ground (B)"]
+  ANTENNA_SW:
+    type: Auto Antenna Rocker Switch
+    pinlabels: ["Power (L - Fuse 8)", "Up", "Down"]
+  ASHTRAY_LAMP:
+    type: Ashtray Illumination Lamp
+    pinlabels: ["Power (RL)", "Ground (B)"]
+  DEFOGGER_SW:
+    type: Rear Defogger Switch
+    pinlabels: ["IGN Feed (BW)", "Relay Coil Out"]
+  HAZARD_SW:
+    type: 4-Way Hazard Warning Switch
+    pinlabels: ["BAT (GW)", "Flasher (G)", "LH Turn (GB)", "RH Turn (GY)"]
+  SEATBELT_LAMP:
+    type: Seat Belt Warning Lamp
+    pinlabels: ["Feed (BW)", "Timer Lead"]
+  DRIVERS_BELT_SW:
+    type: Driver Seat Belt Buckle Switch
+    pinlabels: ["Buckle Lead", "Ground (B)"]
+  FLOOR_SENSOR_RELAY:
+    type: California Floor Sensor Relay
+    pinlabels: ["Thermocouple (R/Y)", "Warning Lamp", "Ground (B)"]
+  C7_C8_REAR:
+    type: "Connectors C-7 and C-8 (Black 12-Pin)"
+    pinlabels:
+      - "Tail / Marker (RL)"
+      - "Stop Lamps (GY)"
+      - "LH Turn (GB)"
+      - "RH Turn (GY)"
+      - "Defogger Grid"
+      - "Room Lamp (RW)"
+      - "Antenna Up"
+      - "Antenna Down"
+  GND_CABIN:
+    type: Cabin and Console Ground
+    style: simple
+    pinlabels: [Cabin Chassis Earth]
+
+cables:
+  W_HVAC:
+    wirecount: 6
+    colors: [BU, BUWH, BK, BURD, BUBK, BU]
+  W_BRAKE_WARN:
+    wirecount: 3
+    colors: [GNWH, GNYE, YERD]
+  W_CONSOLE_AUDIO:
+    wirecount: 6
+    colors: [BU, RDBU, BK, BU, WH, GY]
+  W_HAZARD_SAFETY:
+    wirecount: 6
+    colors: [GNWH, GN, GNBK, GNYE, BKWH, RD]
+  W_REAR_PASS:
+    wirecount: 4
+    colors: [RDBU, GNYE, RDWH, BK]
+
+connections:
+  - - FUSE_BOX: [11]
+    - W_HVAC: [1]
+    - HEATER_FAN_SW: [1]
+  - - HEATER_FAN_SW: [2, 3]
+    - W_HVAC: [2, 6]
+    - HEATER_RESISTOR: [1, 2]
+  - - HEATER_FAN_SW: [4]
+    - W_HVAC: [2]
+    - BLOWER_MOTOR: [1]
+  - - BLOWER_MOTOR: [2]
+    - W_HVAC: [3]
+    - GND_CABIN: [1]
+  - - FUSE_BOX: [12]
+    - W_HVAC: [4]
+    - AC_MICRO_SW: [1]
+  - - AC_MICRO_SW: [2]
+    - W_HVAC: [5]
+    - AC_THERMO_SW: [1]
+
+  - - FUSE_BOX: [1]
+    - W_BRAKE_WARN: [1]
+    - STOP_LAMP_SW: [1]
+  - - STOP_LAMP_SW: [2]
+    - W_BRAKE_WARN: [2]
+    - C7_C8_REAR: [2]
+  - - PARKING_BRAKE_SW: [1]
+    - W_BRAKE_WARN: [3]
+    - SEATBELT_LAMP: [1]
+
+  - - FUSE_BOX: [8]
+    - W_CONSOLE_AUDIO: [1]
+    - RADIO: [1]
+  - - FUSE_BOX: [3]
+    - W_CONSOLE_AUDIO: [2]
+    - RADIO: [2]
+  - - RADIO: [3]
+    - W_CONSOLE_AUDIO: [3]
+    - GND_CABIN: [1]
+  - - FUSE_BOX: [8]
+    - W_CONSOLE_AUDIO: [4]
+    - ANTENNA_SW: [1]
+  - - ANTENNA_SW: [2, 3]
+    - W_CONSOLE_AUDIO: [5, 6]
+    - C7_C8_REAR: [7, 8]
+  - - FUSE_BOX: [3]
+    - W_CONSOLE_AUDIO: [2]
+    - ASHTRAY_LAMP: [1]
+  - - ASHTRAY_LAMP: [2]
+    - W_CONSOLE_AUDIO: [3]
+    - GND_CABIN: [1]
+
+  - - FUSE_BOX: [1, 9]
+    - W_HAZARD_SAFETY: [1, 2]
+    - HAZARD_SW: [1, 2]
+  - - HAZARD_SW: [3, 4]
+    - W_HAZARD_SAFETY: [3, 4]
+    - C7_C8_REAR: [3, 4]
+  - - FUSE_BOX: [10]
+    - W_HAZARD_SAFETY: [5]
+    - DEFOGGER_SW: [1]
+  - - DEFOGGER_SW: [2]
+    - W_HAZARD_SAFETY: [5]
+    - C7_C8_REAR: [5]
+  - - SEATBELT_LAMP: [2]
+    - W_HAZARD_SAFETY: [5]
+    - DRIVERS_BELT_SW: [1]
+  - - DRIVERS_BELT_SW: [2]
+    - W_HAZARD_SAFETY: [6]
+    - GND_CABIN: [1]
+  - - FLOOR_SENSOR_RELAY: [3]
+    - W_HAZARD_SAFETY: [6]
+    - GND_CABIN: [1]
+
+  - - FUSE_BOX: [3, 2]
+    - W_REAR_PASS: [1, 3]
+    - C7_C8_REAR: [1, 6]

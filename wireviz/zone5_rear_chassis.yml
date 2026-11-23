@@ -1,0 +1,164 @@
+metadata:
+  title: "1978 Datsun 280Z — Zone 5: Rear Chassis, Tail Lamps, Fuel Pump & Defogger"
+  pn: "FSM-1978-280Z-Z5"
+  notes: |
+    Source: 1978 Color Wiring Diagram.pdf (Page 5 / Zone 5) & markdown/1978 Color Wiring Diagram.md
+
+connectors:
+  REAR_LAMP_RH:
+    type: Rear Combination Lamp RH
+    pinlabels: ["Turn 27W (GY)", "Stop 27W (GY)", "Tail 8W (RL)", "Back-Up 27W (RB)", "Ground (B)"]
+  REAR_LAMP_LH:
+    type: Rear Combination Lamp LH
+    pinlabels: ["Turn 27W (GB)", "Stop 27W (GY)", "Tail 8W (RL)", "Back-Up 27W (RB)", "Ground (B)"]
+  SIDE_MARKER_REAR_RH:
+    type: Rear Side Marker RH
+    pinlabels: ["Power (RL)", "Ground (B)"]
+  SIDE_MARKER_REAR_LH:
+    type: Rear Side Marker LH
+    pinlabels: ["Power (RL)", "Ground (B)"]
+  LICENSE_LAMP_1:
+    type: License Plate Lamp 1
+    pinlabels: ["Power (RL)", "Ground (B)"]
+  LICENSE_LAMP_2:
+    type: License Plate Lamp 2
+    pinlabels: ["Power (RL)", "Ground (B)"]
+  FUEL_PUMP:
+    type: Electric Fuel Pump (High Pressure)
+    pinlabels: ["Power (+) (BW / GY)", "Ground (-) (Heavy B)"]
+  FUEL_SENDER:
+    type: Fuel Tank Gauge Unit
+    pinlabels: ["Float 10-80 Ohm (YL)", "Low Fuel Thermistor (YG)", "Flange Ground (B)"]
+  REAR_DEFOGGER:
+    type: Rear Window Defogger Grid
+    pinlabels: ["Power (+) (Heavy)", "Ground (-) (Heavy B)"]
+  ROOM_LAMP:
+    type: Dome / Room Lamp
+    pinlabels: ["Power Feed (RW - Fuse 2)", "Door/Tailgate Sw Ground (B)"]
+  TAILGATE_SW:
+    type: Tailgate Switch (C)
+    pinlabels: ["Plunger Stud (B)"]
+  ANTENNA_MOTOR:
+    type: Power Antenna Motor
+    pinlabels: ["Up Control", "Down Control", "Ground (B)"]
+  SPEAKER_RH:
+    type: Rear Speaker RH
+    pinlabels: ["Audio (+)", "Audio (-)"]
+  SPEAKER_LH:
+    type: Rear Speaker LH
+    pinlabels: ["Audio (+)", "Audio (-)"]
+  C7_C8_CABIN:
+    type: "Connectors C-7 and C-8 (Cabin Interface)"
+    pinlabels:
+      - "Tail / Marker (RL - Fuse 3)"
+      - "Stop Lamps (GY)"
+      - "LH Turn (GB)"
+      - "RH Turn (GY)"
+      - "Back-Up Lamps (RB)"
+      - "Fuel Pump (BW / GY)"
+      - "Fuel Gauge (YL)"
+      - "Low Fuel Lamp (YG)"
+      - "Defogger Grid (+)"
+      - "Room Lamp (RW - Fuse 2)"
+      - "Antenna Up"
+      - "Antenna Down"
+      - "Radio Audio"
+  GND_REAR:
+    type: Rear Chassis and Hatch Earth
+    style: simple
+    pinlabels: [Rear Body Earth]
+
+cables:
+  W_REAR_RH:
+    wirecount: 5
+    colors: [GNYE, GNYE, RDBU, RDBK, BK]
+  W_REAR_LH:
+    wirecount: 5
+    colors: [GNBK, GNYE, RDBU, RDBK, BK]
+  W_REAR_MARKERS:
+    wirecount: 8
+    colors: [RDBU, BK, RDBU, BK, RDBU, BK, RDBU, BK]
+  W_FUEL:
+    wirecount: 5
+    colors: [BKWH, BK, YEBU, YEGN, BK]
+  W_REAR_ACC:
+    wirecount: 10
+    colors: [RD, BK, RDWH, BK, WH, GY, BK, WH, GY, BK]
+
+connections:
+  - - C7_C8_CABIN: [4, 2, 1, 5]
+    - W_REAR_RH: [1, 2, 3, 4]
+    - REAR_LAMP_RH: [1, 2, 3, 4]
+  - - REAR_LAMP_RH: [5]
+    - W_REAR_RH: [5]
+    - GND_REAR: [1]
+
+  - - C7_C8_CABIN: [3, 2, 1, 5]
+    - W_REAR_LH: [1, 2, 3, 4]
+    - REAR_LAMP_LH: [1, 2, 3, 4]
+  - - REAR_LAMP_LH: [5]
+    - W_REAR_LH: [5]
+    - GND_REAR: [1]
+
+  - - C7_C8_CABIN: [1]
+    - W_REAR_MARKERS: [1]
+    - SIDE_MARKER_REAR_RH: [1]
+  - - SIDE_MARKER_REAR_RH: [2]
+    - W_REAR_MARKERS: [2]
+    - GND_REAR: [1]
+  - - C7_C8_CABIN: [1]
+    - W_REAR_MARKERS: [3]
+    - SIDE_MARKER_REAR_LH: [1]
+  - - SIDE_MARKER_REAR_LH: [2]
+    - W_REAR_MARKERS: [4]
+    - GND_REAR: [1]
+  - - C7_C8_CABIN: [1]
+    - W_REAR_MARKERS: [5]
+    - LICENSE_LAMP_1: [1]
+  - - LICENSE_LAMP_1: [2]
+    - W_REAR_MARKERS: [6]
+    - GND_REAR: [1]
+  - - C7_C8_CABIN: [1]
+    - W_REAR_MARKERS: [7]
+    - LICENSE_LAMP_2: [1]
+  - - LICENSE_LAMP_2: [2]
+    - W_REAR_MARKERS: [8]
+    - GND_REAR: [1]
+
+  - - C7_C8_CABIN: [6]
+    - W_FUEL: [1]
+    - FUEL_PUMP: [1]
+  - - FUEL_PUMP: [2]
+    - W_FUEL: [2]
+    - GND_REAR: [1]
+  - - C7_C8_CABIN: [7, 8]
+    - W_FUEL: [3, 4]
+    - FUEL_SENDER: [1, 2]
+  - - FUEL_SENDER: [3]
+    - W_FUEL: [5]
+    - GND_REAR: [1]
+
+  - - C7_C8_CABIN: [9]
+    - W_REAR_ACC: [1]
+    - REAR_DEFOGGER: [1]
+  - - REAR_DEFOGGER: [2]
+    - W_REAR_ACC: [2]
+    - GND_REAR: [1]
+  - - C7_C8_CABIN: [10]
+    - W_REAR_ACC: [3]
+    - ROOM_LAMP: [1]
+  - - ROOM_LAMP: [2]
+    - W_REAR_ACC: [4]
+    - TAILGATE_SW: [1]
+  - - C7_C8_CABIN: [11, 12]
+    - W_REAR_ACC: [5, 6]
+    - ANTENNA_MOTOR: [1, 2]
+  - - ANTENNA_MOTOR: [3]
+    - W_REAR_ACC: [7]
+    - GND_REAR: [1]
+  - - C7_C8_CABIN: [13]
+    - W_REAR_ACC: [8]
+    - SPEAKER_RH: [1]
+  - - C7_C8_CABIN: [13]
+    - W_REAR_ACC: [9]
+    - SPEAKER_LH: [1]

@@ -1,0 +1,25 @@
+Id	Description	Qty	Unit	Designators
+1	Cable, 10 wires	0	m	W_GAUGES
+2	Cable, 4 wires	0	m	W_IGN_SW
+3	Cable, 5 wires	0	m	W_COMB_WIPER
+4	Cable, 6 wires	0	m	W_RELAYS_DASH
+5	Cable, 7 wires	0	m	W_COMB_LIGHT
+6	Connector, Center Voltmeter, 2 pins	1		VOLTMETER
+7	Connector, Dash Clock, 3 pins	1		CLOCK
+8	Connector, Dash Ground	1		
+9	Connector, Fuel Level Gauge, 3 pins	1		FUEL_GAUGE
+10	Connector, Hazard Flasher (2-Pin), 2 pins	1		HAZARD_FLASHER
+11	Connector, Horn Relay (Cabin Bracket), 3 pins	1		HORN_RELAY
+12	Connector, Ignition Relay, 2 pins	1		IGN_RELAY
+13	Connector, Ignition Switch, 4 pins	1		IGN_SWITCH
+14	Connector, Instrument Dimmer Rheostat, 3 pins	1		RHEOSTAT
+15	Connector, Intermittent Wiper Amplifier, 7 pins	1		WIPER_AMP
+16	Connector, Oil Pressure Gauge, 2 pins	1		OIL_GAUGE
+17	Connector, Rear Defogger Relay, 2 pins	1		DEFOGGER_RELAY
+18	Connector, Seat Belt Timer Unit, 3 pins	1		SEATBELT_TIMER
+19	Connector, Speedometer Cluster, 3 pins	1		SPEEDOMETER
+20	Connector, Steering Column Combination Switch, 12 pins	1		COMB_SWITCH
+21	Connector, Tachometer, 5 pins	1		TACHOMETER
+22	Connector, Turn Signal Flasher (3-Pin), 3 pins	1		TURN_FLASHER
+23	Connector, Water Temp Gauge, 2 pins	1		TEMP_GAUGE
+24	Connector, Zone 4 / Fuse Box and Senders Interface, 15 pins	1		FUSE_HARNESS_Z4

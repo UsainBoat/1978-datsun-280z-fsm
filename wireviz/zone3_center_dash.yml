@@ -1,0 +1,201 @@
+metadata:
+  title: "1978 Datsun 280Z — Zone 3: Center Dash, Combination Meter, Switches & Cabin Relays"
+  pn: "FSM-1978-280Z-Z3"
+  notes: |
+    Source: 1978 Color Wiring Diagram.pdf (Page 3 / Zone 3) & markdown/1978 Color Wiring Diagram.md
+
+connectors:
+  CLOCK:
+    type: Dash Clock
+    pinlabels: ["Power (+) (R - Fuse 2)", "Illum (RL)", "Ground (B)"]
+  VOLTMETER:
+    type: Center Voltmeter
+    pinlabels: ["Power (+) (BW - Fuse 10)", "Ground (B)"]
+  FUEL_GAUGE:
+    type: Fuel Level Gauge
+    pinlabels: ["Power (+) (BW - Fuse 10)", "Sender (YL)", "Warning Lamp (YG)"]
+  TEMP_GAUGE:
+    type: Water Temp Gauge
+    pinlabels: ["Power (+) (BW - Fuse 10)", "Sender (YW)"]
+  OIL_GAUGE:
+    type: Oil Pressure Gauge
+    pinlabels: ["Power (+) (BW - Fuse 10)", "Sender (YB)"]
+  TACHOMETER:
+    type: Tachometer
+    pinlabels: ["Power (+) (BW)", "RPM Pulse (L)", "Ground (B)", "LH Turn (GB)", "RH Turn (GY)"]
+  SPEEDOMETER:
+    type: Speedometer Cluster
+    pinlabels: ["High Beam Pilot (RB/RY)", "Brake Warning (YR)", "Floor Temp (R/Y)"]
+  RHEOSTAT:
+    type: Instrument Dimmer Rheostat
+    pinlabels: ["Feed (RL)", "Dimmed Out (RL)", "Ground (B)"]
+  IGN_SWITCH:
+    type: Ignition Switch
+    pinlabels: ["B (W - Fusible Link)", "ACC (L - Fuse 7/8)", "ON (BW - Ign Relay)", "STA (BY - Starter)"]
+  COMB_SWITCH:
+    type: Steering Column Combination Switch
+    pinlabels:
+      - "Light 8 (R - Fuse 4/5)"
+      - "Light 7 (RL - Fuse 3)"
+      - "Dimmer Low (RW/RL)"
+      - "Dimmer High (RB/RY)"
+      - "Turn In (G)"
+      - "Turn LH (GB)"
+      - "Turn RH (GY)"
+      - "Horn Ground (G)"
+      - "Wiper Feed 2 (L - Fuse 7)"
+      - "Wiper L (L)"
+      - "Wiper H (H)"
+      - "Wiper P (P)"
+  WIPER_AMP:
+    type: Intermittent Wiper Amplifier
+    pinlabels: ["1", "W", "2", "B", "P", "M", "E"]
+  HORN_RELAY:
+    type: Horn Relay (Cabin Bracket)
+    pinlabels: ["Coil Feed (GW - Fuse 1)", "Coil Ground (G)", "Contact Out (GB)"]
+  DEFOGGER_RELAY:
+    type: Rear Defogger Relay
+    pinlabels: ["Contact In (Fuse 6)", "Contact Out (Grid)"]
+  IGN_RELAY:
+    type: Ignition Relay
+    pinlabels: ["Coil In (BW)", "Contact Out (BW IGN Bus)"]
+  SEATBELT_TIMER:
+    type: Seat Belt Timer Unit
+    pinlabels: ["Power (BW)", "Ground (B)", "Warning (YR)"]
+  TURN_FLASHER:
+    type: Turn Signal Flasher (3-Pin)
+    pinlabels: ["Feed (G - Fuse 9)", "Out (GR)", "Ground (B)"]
+  HAZARD_FLASHER:
+    type: Hazard Flasher (2-Pin)
+    pinlabels: ["Feed (GW - Fuse 1)", "Out (G)"]
+  FUSE_HARNESS_Z4:
+    type: "Zone 4 / Fuse Box and Senders Interface"
+    pinlabels:
+      - "Fuse 1 (GW)"
+      - "Fuse 2 (R)"
+      - "Fuse 3 (RL)"
+      - "Fuse 4/5 (R)"
+      - "Fuse 6 (Defogger)"
+      - "Fuse 7/8 (L ACC)"
+      - "Fuse 9 (G)"
+      - "Fuse 10 (BW IGN)"
+      - "Tank Sender (YL)"
+      - "Low Fuel (YG)"
+      - "Water Sender (YW)"
+      - "Oil Sender (YB)"
+      - "Coil (-) (L)"
+      - "Wiper Motor"
+      - "Horns (GB)"
+  GND_DASH:
+    type: Dash Ground
+    style: simple
+    pinlabels: [Dash Chassis Earth]
+
+cables:
+  W_GAUGES:
+    wirecount: 10
+    colors: [RD, RDBU, BK, BKWH, YEBU, YEGN, YEWH, YEBK, BU, YERD]
+  W_IGN_SW:
+    wirecount: 4
+    colors: [WH, BU, BKWH, BKYE]
+  W_COMB_LIGHT:
+    wirecount: 7
+    colors: [RD, RDBU, RDWH, RDBK, GN, GNBK, GNYE]
+  W_COMB_WIPER:
+    wirecount: 5
+    colors: [GN, BU, BU, PK, BK]
+  W_RELAYS_DASH:
+    wirecount: 6
+    colors: [GNWH, GN, GNBK, BKWH, GN, GNRD]
+
+connections:
+  - - FUSE_HARNESS_Z4: [2]
+    - W_GAUGES: [1]
+    - CLOCK: [1]
+  - - RHEOSTAT: [2]
+    - W_GAUGES: [2]
+    - CLOCK: [2]
+  - - CLOCK: [3]
+    - W_GAUGES: [3]
+    - GND_DASH: [1]
+
+  - - FUSE_HARNESS_Z4: [8]
+    - W_GAUGES: [4]
+    - VOLTMETER: [1]
+  - - FUSE_HARNESS_Z4: [8]
+    - W_GAUGES: [4]
+    - FUEL_GAUGE: [1]
+  - - FUSE_HARNESS_Z4: [9, 10]
+    - W_GAUGES: [5, 6]
+    - FUEL_GAUGE: [2, 3]
+  - - FUSE_HARNESS_Z4: [11]
+    - W_GAUGES: [7]
+    - TEMP_GAUGE: [2]
+  - - FUSE_HARNESS_Z4: [12]
+    - W_GAUGES: [8]
+    - OIL_GAUGE: [2]
+  - - FUSE_HARNESS_Z4: [13]
+    - W_GAUGES: [9]
+    - TACHOMETER: [2]
+  - - FUSE_HARNESS_Z4: [1]
+    - W_GAUGES: [10]
+    - SPEEDOMETER: [2]
+
+  - - FUSE_HARNESS_Z4: [3]
+    - W_COMB_LIGHT: [2]
+    - RHEOSTAT: [1]
+  - - RHEOSTAT: [3]
+    - W_GAUGES: [3]
+    - GND_DASH: [1]
+
+  - - IGN_SWITCH: [2, 3]
+    - W_IGN_SW: [2, 3]
+    - FUSE_HARNESS_Z4: [6, 8]
+  - - IGN_SWITCH: [3]
+    - W_IGN_SW: [3]
+    - IGN_RELAY: [1]
+
+  - - FUSE_HARNESS_Z4: [4, 3]
+    - W_COMB_LIGHT: [1, 2]
+    - COMB_SWITCH: [1, 2]
+  - - COMB_SWITCH: [5, 6, 7]
+    - W_COMB_LIGHT: [5, 6, 7]
+    - TACHOMETER: [3, 4, 5]
+  - - COMB_SWITCH: [4]
+    - W_COMB_LIGHT: [4]
+    - SPEEDOMETER: [1]
+
+  - - COMB_SWITCH: [8]
+    - W_COMB_WIPER: [1]
+    - HORN_RELAY: [2]
+  - - FUSE_HARNESS_Z4: [6]
+    - W_COMB_WIPER: [2]
+    - COMB_SWITCH: [9]
+  - - COMB_SWITCH: [10, 11, 12]
+    - W_COMB_WIPER: [3, 4, 5]
+    - WIPER_AMP: [1, 2, 5]
+  - - WIPER_AMP: [3]
+    - W_COMB_WIPER: [3]
+    - FUSE_HARNESS_Z4: [14]
+
+  - - FUSE_HARNESS_Z4: [1]
+    - W_RELAYS_DASH: [1]
+    - HORN_RELAY: [1]
+  - - HORN_RELAY: [3]
+    - W_RELAYS_DASH: [3]
+    - FUSE_HARNESS_Z4: [15]
+  - - FUSE_HARNESS_Z4: [7]
+    - W_RELAYS_DASH: [5]
+    - TURN_FLASHER: [1]
+  - - TURN_FLASHER: [2]
+    - W_RELAYS_DASH: [6]
+    - COMB_SWITCH: [5]
+  - - FUSE_HARNESS_Z4: [1]
+    - W_RELAYS_DASH: [1]
+    - HAZARD_FLASHER: [1]
+  - - FUSE_HARNESS_Z4: [5]
+    - W_RELAYS_DASH: [4]
+    - DEFOGGER_RELAY: [1]
+  - - FUSE_HARNESS_Z4: [8]
+    - W_RELAYS_DASH: [4]
+    - SEATBELT_TIMER: [1]

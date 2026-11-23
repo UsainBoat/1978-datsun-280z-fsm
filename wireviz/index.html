@@ -1,0 +1,664 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>1978 Datsun 280Z — WireViz Explorer</title>
+  <style>
+    :root {
+      --bg: #111318;
+      --panel: #1a1d24;
+      --border: #2b303b;
+      --text: #e6e9ef;
+      --muted: #9aa3b2;
+      --accent: #4c8dff;
+      --accent-soft: rgba(76, 141, 255, 0.14);
+      --mod: #f59e0b;
+      --mod-soft: rgba(245, 158, 11, 0.16);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      display: flex;
+      height: 100vh;
+      overflow: hidden;
+    }
+    aside {
+      width: 300px;
+      background: var(--panel);
+      border-right: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      overflow-y: auto;
+      flex-shrink: 0;
+    }
+    .brand {
+      padding: 16px 18px;
+      border-bottom: 1px solid var(--border);
+    }
+    .brand h1 {
+      font-size: 15px;
+      margin: 0 0 4px 0;
+      font-weight: 600;
+    }
+    .brand p {
+      font-size: 12px;
+      color: var(--muted);
+      margin: 0;
+    }
+    .group-label {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--muted);
+      padding: 14px 18px 6px;
+    }
+    .nav-btn {
+      display: block;
+      width: 100%;
+      text-align: left;
+      background: transparent;
+      border: 0;
+      color: var(--text);
+      padding: 10px 18px;
+      cursor: pointer;
+      border-left: 3px solid transparent;
+      transition: background 0.15s;
+    }
+    .nav-btn:hover { background: rgba(255, 255, 255, 0.04); }
+    .nav-btn.active {
+      background: var(--accent-soft);
+      border-left-color: var(--accent);
+    }
+    .nav-btn .title { font-size: 13px; font-weight: 500; display: block; }
+    .nav-btn .sub { font-size: 11px; color: var(--muted); display: block; margin-top: 2px; }
+    main {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      min-width: 0;
+    }
+    header {
+      height: 52px;
+      background: var(--panel);
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 16px;
+      gap: 12px;
+    }
+    .doc-info { min-width: 0; }
+    .doc-info strong { font-size: 14px; display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .doc-info span { font-size: 12px; color: var(--muted); }
+    .toolbar {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      flex-shrink: 0;
+    }
+    .btn {
+      background: #232732;
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 6px 10px;
+      font-size: 12px;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+    }
+    .btn:hover { background: #2d3240; }
+    .btn.active-toggle {
+      background: var(--mod-soft);
+      border-color: var(--mod);
+      color: #fcd34d;
+    }
+    .viewport {
+      flex: 1;
+      position: relative;
+      overflow: hidden;
+      background: #ffffff;
+      cursor: grab;
+    }
+    .viewport.dark-bg {
+      background: #14171f;
+      cursor: default;
+      overflow: auto;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+    .viewport:active { cursor: grabbing; }
+    .viewport.dark-bg:active { cursor: default; }
+    .stage {
+      position: absolute;
+      top: 0;
+      left: 0;
+      transform-origin: 0 0;
+    }
+    .stage img {
+      display: block;
+      max-width: none;
+      user-select: none;
+      -webkit-user-drag: none;
+    }
+    .hint {
+      position: absolute;
+      bottom: 12px;
+      right: 12px;
+      background: rgba(17, 19, 24, 0.85);
+      color: #e6e9ef;
+      font-size: 11px;
+      padding: 6px 10px;
+      border-radius: 6px;
+      pointer-events: none;
+    }
+    .chassis-wrap {
+      width: 100%;
+      max-width: 1280px;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+    .chassis-svg {
+      width: 100%;
+      height: auto;
+      background: #181c26;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      box-shadow: 0 12px 32px rgba(0, 0, 0, 0.35);
+    }
+    .comp-node { cursor: pointer; }
+    .comp-node rect { transition: stroke-width 0.12s, fill 0.12s; }
+    .comp-node:hover rect { stroke: #ffffff; stroke-width: 2; }
+    .comp-node.selected rect { stroke: #60a5fa; stroke-width: 2.5; }
+    .comp-node.is-mod rect { stroke: var(--mod); stroke-width: 2; }
+    .inspector {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 14px 18px;
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 16px;
+      min-height: 92px;
+    }
+    .inspector h3 {
+      margin: 0 0 4px 0;
+      font-size: 14px;
+      color: var(--text);
+    }
+    .inspector .meta {
+      font-size: 12px;
+      color: var(--muted);
+      margin-bottom: 6px;
+    }
+    .inspector .pins {
+      font-size: 12px;
+      color: #cbd5e1;
+      line-height: 1.45;
+    }
+    .badge {
+      display: inline-block;
+      font-size: 10px;
+      font-weight: 600;
+      padding: 2px 7px;
+      border-radius: 999px;
+      background: var(--accent-soft);
+      color: #93c5fd;
+      margin-left: 6px;
+      vertical-align: middle;
+    }
+    .badge.mod {
+      background: var(--mod-soft);
+      color: #fcd34d;
+    }
+  </style>
+</head>
+<body>
+  <aside>
+    <div class="brand">
+      <h1>1978 Datsun 280Z Wiring</h1>
+      <p>WireViz Interactive Explorer</p>
+    </div>
+    <div id="nav"></div>
+  </aside>
+
+  <main>
+    <header>
+      <div class="doc-info">
+        <strong id="active-title">Select a diagram</strong>
+        <span id="active-sub"></span>
+      </div>
+      <div class="toolbar" id="toolbar">
+        <button class="btn" id="toggle-mods" style="display:none">Highlight As-Built Mods</button>
+        <button class="btn" id="zoom-out" title="Zoom out">−</button>
+        <button class="btn" id="zoom-reset" title="Fit to screen">Fit</button>
+        <button class="btn" id="zoom-in" title="Zoom in">+</button>
+        <a class="btn" id="link-html" href="#" target="_blank">BOM + HTML</a>
+        <a class="btn" id="link-svg" href="#" target="_blank">SVG</a>
+        <a class="btn" id="link-png" href="#" target="_blank">PNG</a>
+        <a class="btn" id="link-yml" href="#" target="_blank">YAML</a>
+      </div>
+    </header>
+    <div class="viewport" id="viewport">
+      <div class="stage" id="stage">
+        <img id="diagram-img" alt="Wiring Diagram" />
+      </div>
+      <div class="chassis-wrap" id="chassis-wrap" style="display:none"></div>
+      <div class="hint" id="hint">Scroll to zoom · Drag to pan · Click Fit to reset</div>
+    </div>
+  </main>
+
+  <script>
+    const GROUPS = [
+      {
+        label: "Full Car & Architecture",
+        items: [
+          {
+            id: "chassis",
+            type: "chassis",
+            title: "Top-Down S30 Chassis Map",
+            sub: "Physical harness layout (Front Nose to Rear Hatch, LHD 1978 280Z)"
+          },
+          {
+            id: "interconnects",
+            title: "Cross-Zone Interconnect Map",
+            sub: "Bulkhead C-1 through C-10, Fusible Links, Fuse Box",
+            base: "./interconnects"
+          },
+          {
+            id: "full",
+            title: "Full 1978 Wiring Diagram",
+            sub: "All 5 zones merged (92 connectors, 34 cables)",
+            base: "./full_1978_wiring_diagram"
+          }
+        ]
+      },
+      {
+        label: "Factory Zones (1978 FSM)",
+        items: [
+          {
+            id: "zone1",
+            title: "Zone 1: Front Chassis & Charging",
+            sub: "Headlamps, turns, horns, alternator, starter, coil, check port",
+            base: "./zone1_front_chassis"
+          },
+          {
+            id: "zone2",
+            title: "Zone 2: Engine, EFI & Relays",
+            sub: "Fusible links, dual FP relays, 35-pin ECU, injectors, wipers",
+            base: "./zone2_engine_efi"
+          },
+          {
+            id: "zone3",
+            title: "Zone 3: Center Dash & Switches",
+            sub: "Gauges, tach, speedo, ign switch, combo switch, flashers",
+            base: "./zone3_center_dash"
+          },
+          {
+            id: "zone4",
+            title: "Zone 4: Cabin Fuse Box & HVAC",
+            sub: "12-circuit fuse box, blower, A/C, brake, hazard, seat belt",
+            base: "./zone4_cabin_fuse_box"
+          },
+          {
+            id: "zone5",
+            title: "Zone 5: Rear Chassis & Fuel",
+            sub: "Tail lamps, fuel pump, tank sender, defogger, room lamp",
+            base: "./zone5_rear_chassis"
+          }
+        ]
+      },
+      {
+        label: "Vehicle As-Built Mods (Private)",
+        items: [
+          {
+            id: "asbuilt",
+            title: "As-Built Upgrades",
+            sub: "Headlight relays, 7-in headlamps, Civic wiper motor",
+            base: "../notes/wireviz/as_built_mods"
+          }
+        ]
+      }
+    ];
+
+    const CHASSIS_NODES = [
+      // Front Nose
+      { id: "HEADLAMP_LH", label: "Headlamp LH", x: 75, y: 85, w: 96, h: 32, zone: "zone1", loc: "Front LH Bucket", mod: true,
+        pins: "Factory: R (Fuse 5), RL (Low), RY (High). As-Built: Relayed H4 harness." },
+      { id: "COMB_LAMP_LH", label: "Turn/Clear LH", x: 75, y: 128, w: 96, h: 28, zone: "zone1", loc: "Front LH Valance",
+        pins: "GB (27W Turn), RL (8W Clearance), B (Ground)." },
+      { id: "HORN_LH", label: "Horn LH", x: 95, y: 168, w: 76, h: 26, zone: "zone1", loc: "Grille LH",
+        pins: "GB (Horn Relay Out), B (Chassis Ground)." },
+      { id: "C3_LIGHTING", label: "C-3 (8-Pin)", x: 185, y: 245, w: 86, h: 28, zone: "zone1", loc: "Front Harness Interconnect (Green)",
+        pins: "R, RW, RB, RL, RY, GY, GB, B." },
+      { id: "HORN_RH", label: "Horn RH", x: 95, y: 310, w: 76, h: 26, zone: "zone1", loc: "Grille RH",
+        pins: "GB (Horn Relay Out), B (Chassis Ground)." },
+      { id: "COMB_LAMP_RH", label: "Turn/Clear RH", x: 75, y: 348, w: 96, h: 28, zone: "zone1", loc: "Front RH Valance",
+        pins: "GY (27W Turn), RL (8W Clearance), B (Ground)." },
+      { id: "HEADLAMP_RH", label: "Headlamp RH", x: 75, y: 388, w: 96, h: 32, zone: "zone1", loc: "Front RH Bucket", mod: true,
+        pins: "Factory: R (Fuse 4), RW (Low), RB (High). As-Built: Relayed H4 harness." },
+
+      // Engine Bay LH (Driver)
+      { id: "ALTERNATOR", label: "Alternator (60A)", x: 245, y: 95, w: 112, h: 30, zone: "zone1", loc: "Engine LH Lower",
+        pins: "BAT/A (WR+W), S (Y), L (WB -> FP Control Relay), E (B)." },
+      { id: "DISTRIBUTOR", label: "Distributor", x: 245, y: 138, w: 100, h: 28, zone: "zone1", loc: "Engine Front LH",
+        pins: "Pickup (+) Blue, Pickup (-) White, Housing Ground (B)." },
+      { id: "IGN_COIL", label: "Ignition Coil", x: 245, y: 176, w: 100, h: 28, zone: "zone1", loc: "Engine Bay LH Fender",
+        pins: "+ (BW IGN ON), - (L -> HEI / Tach / ECU Pin 1)." },
+      { id: "CHECK_CONN", label: "6-Pin Check Port", x: 365, y: 95, w: 112, h: 28, zone: "zone1", loc: "LH Strut Tower",
+        pins: "1: L (Tach), 2: WB (Alt L), 3: BY (Starter S), 4: B (Earth), 5-6: GY/GB." },
+      { id: "WIPER_MOTOR", label: "Wiper Motor", x: 430, y: 138, w: 102, h: 30, zone: "zone2", loc: "Firewall LH Cowl", mod: true,
+        pins: "Factory: P, H, L, 2, B, E. As-Built: Honda Civic wiper motor conversion." },
+
+      // Engine Center (L28E)
+      { id: "AFM", label: "Air Flow Meter", x: 240, y: 245, w: 106, h: 28, zone: "zone2", loc: "Intake Boot",
+        pins: "ECU Pins 6, 7, 8, 9, 27 (Air Temp)." },
+      { id: "INJECTORS", label: "Injectors 1-6 + TPS", x: 360, y: 225, w: 126, h: 32, zone: "zone2", loc: "L28E Intake Manifold",
+        pins: "ECU Pins 14, 15, 30, 31, 32, 33; Dropping Resistors 1 & 2; TPS Pins 2, 18, 3." },
+      { id: "CTS_THERM", label: "CTS + Cold Start", x: 360, y: 266, w: 126, h: 28, zone: "zone2", loc: "Thermostat Housing / Plenum",
+        pins: "CTS (ECU 13 / 49), Thermotime Sw, Cold Start Valve, Air Regulator." },
+
+      // Engine Bay RH (Passenger)
+      { id: "BATTERY", label: "12V Battery", x: 245, y: 382, w: 96, h: 32, zone: "zone2", loc: "Engine Bay RH Firewall",
+        pins: "+ -> Starter B & Fusible Links; - -> Engine Earth & Body Ground." },
+      { id: "FUSIBLE_LINKS", label: "Fusible Links", x: 355, y: 382, w: 102, h: 32, zone: "zone2", loc: "RH Fender Apron",
+        pins: "Green 40A (EFI), Brown 30A (W Main), Black 40A (WR Alt/Light)." },
+      { id: "STARTER", label: "Starter Motor", x: 355, y: 318, w: 102, h: 28, zone: "zone1", loc: "Engine RH Block",
+        pins: "B (Heavy Black +), S (BY Crank Trigger)." },
+      { id: "RELAY_BRACKET", label: "EFI / FP Relays", x: 470, y: 355, w: 106, h: 32, zone: "zone2", loc: "RH Engine Bay / Kick",
+        pins: "EFI Main Relay, 1978 Fuel Pump Control Relay (BY + Alt L), Fuel Pump Relay." },
+      { id: "TRANSISTOR_IGN", label: "GM 4-Pin HEI", x: 470, y: 315, w: 106, h: 28, zone: "zone2", loc: "Heatsink (Replaces TI Unit)", mod: true,
+        pins: "BW (12V), L (Coil -), Dist Pickup (+/-), Ground." },
+
+      // Firewall Bulkheads
+      { id: "C1_C4", label: "C-1 / C-2 / C-4", x: 545, y: 235, w: 98, h: 34, zone: "interconnects", loc: "Firewall Pass-Through",
+        pins: "C-1 (Eng->Dash), C-2 (Alt), C-4 (EFI/Ign)." },
+
+      // Dash & Cabin
+      { id: "COMB_SWITCH", label: "Comb. Switch", x: 665, y: 105, w: 108, h: 30, zone: "zone3", loc: "Steering Column (LH)",
+        pins: "Light 8/7, Dimmer (RW/RB/RL/RY), Turn (G/GB/GY), Horn (G), Wiper (L/H/P)." },
+      { id: "CLUSTER", label: "Speedo & Tach", x: 665, y: 145, w: 108, h: 30, zone: "zone3", loc: "Driver Binnacle (C-6)",
+        pins: "BW (Fuse 10), RL (Rheostat), L (Tach), High Beam, Turn, Brake Warning." },
+      { id: "IGN_SWITCH", label: "Ignition Switch", x: 665, y: 185, w: 108, h: 28, zone: "zone3", loc: "Steering Column (C-9/C-10)",
+        pins: "B (W), ACC (L), ON (BW), STA (BY)." },
+      { id: "CENTER_GAUGES", label: "Center Gauges", x: 665, y: 232, w: 108, h: 34, zone: "zone3", loc: "Center Dash Stack",
+        pins: "Clock (R), Voltmeter, Fuel (YL/YG), Temp (YW), Oil (YB), Hazard, Radio." },
+      { id: "ECU", label: "35-Pin ECU", x: 665, y: 345, w: 108, h: 32, zone: "zone2", loc: "RH Kick Panel",
+        pins: "Bosch L-Jetronic 35-pin connector (Pins 1-35)." },
+      { id: "FUSE_BOX", label: "12-Fuse Box", x: 665, y: 386, w: 108, h: 32, zone: "zone4", loc: "RH Footwell / Console",
+        pins: "Fuses 1-12 (BAT, LIGHT, DEFOG, ACC, IGN buses)." },
+
+      // Cabin Mid / Rear Bulkhead
+      { id: "CABIN_SW", label: "Brake / Belt Sw", x: 805, y: 235, w: 104, h: 30, zone: "zone4", loc: "Tunnel / Driver Seat",
+        pins: "Stop Lamp Sw (GW->GY), Parking Brake (YR), Seat Belt Sw." },
+      { id: "C7_C8", label: "C-7 / C-8 (12-Pin)", x: 925, y: 235, w: 112, h: 32, zone: "zone5", loc: "Rear Bulkhead Pass-Through",
+        pins: "RL (Tail), GY (Stop), GB/GY (Turn), RB (Rev), BW/GY (Fuel Pump), YL/YG (Sender)." },
+
+      // Rear Chassis
+      { id: "FUEL_PUMP", label: "Fuel Pump", x: 1030, y: 345, w: 96, h: 30, zone: "zone5", loc: "RH Rear Frame Rail",
+        pins: "BW/GY (FP Relay Out), Heavy B (Chassis Earth)." },
+      { id: "FUEL_SENDER", label: "Tank Sender", x: 1055, y: 235, w: 96, h: 30, zone: "zone5", loc: "Fuel Tank Top Lid",
+        pins: "YL (10-80 Ohm Gauge), YG (Low Fuel Thermistor), B (Ground)." },
+      { id: "ANTENNA", label: "Power Antenna", x: 1030, y: 386, w: 96, h: 28, zone: "zone5", loc: "RH Rear Quarter",
+        pins: "Up/Down from Console Switch, B (Ground)." },
+      { id: "REAR_LAMP_LH", label: "Rear Lamp LH", x: 1135, y: 110, w: 96, h: 32, zone: "zone5", loc: "Rear LH Tail Panel",
+        pins: "GB (Turn), GY (Stop), RL (Tail), RB (Back-Up), B (Ground)." },
+      { id: "REAR_DEFOGGER", label: "Hatch Defogger", x: 1135, y: 235, w: 96, h: 32, zone: "zone5", loc: "Rear Hatch Glass",
+        pins: "Heavy Feed (Fuse 6 / Defogger Relay), Heavy B (Hatch Earth)." },
+      { id: "REAR_LAMP_RH", label: "Rear Lamp RH", x: 1135, y: 360, w: 96, h: 32, zone: "zone5", loc: "Rear RH Tail Panel",
+        pins: "GY (Turn), GY (Stop), RL (Tail), RB (Back-Up), B (Ground)." }
+    ];
+
+    const nav = document.getElementById("nav");
+    const img = document.getElementById("diagram-img");
+    const stage = document.getElementById("stage");
+    const viewport = document.getElementById("viewport");
+    const chassisWrap = document.getElementById("chassis-wrap");
+    const hint = document.getElementById("hint");
+    const activeTitle = document.getElementById("active-title");
+    const activeSub = document.getElementById("active-sub");
+    const toggleModsBtn = document.getElementById("toggle-mods");
+    const zoomOutBtn = document.getElementById("zoom-out");
+    const zoomResetBtn = document.getElementById("zoom-reset");
+    const zoomInBtn = document.getElementById("zoom-in");
+    const linkHtml = document.getElementById("link-html");
+    const linkSvg = document.getElementById("link-svg");
+    const linkPng = document.getElementById("link-png");
+    const linkYml = document.getElementById("link-yml");
+
+    let scale = 1, tx = 0, ty = 0;
+    let dragging = false, startX = 0, startY = 0;
+    let highlightMods = true;
+    const btnById = {};
+
+    function applyTransform() {
+      stage.style.transform = `translate(${tx}px, ${ty}px) scale(${scale})`;
+    }
+
+    function fitToViewport() {
+      if (!img.naturalWidth || !img.naturalHeight) return;
+      const vw = viewport.clientWidth - 24;
+      const vh = viewport.clientHeight - 24;
+      scale = Math.min(vw / img.naturalWidth, vh / img.naturalHeight, 1);
+      tx = (viewport.clientWidth - img.naturalWidth * scale) / 2;
+      ty = Math.max(12, (viewport.clientHeight - img.naturalHeight * scale) / 2);
+      applyTransform();
+    }
+
+    img.addEventListener("load", fitToViewport);
+
+    viewport.addEventListener("wheel", (e) => {
+      if (chassisWrap.style.display !== "none") return;
+      e.preventDefault();
+      const rect = viewport.getBoundingClientRect();
+      const mx = e.clientX - rect.left;
+      const my = e.clientY - rect.top;
+      const factor = e.deltaY < 0 ? 1.15 : 1 / 1.15;
+      const nextScale = Math.min(Math.max(scale * factor, 0.05), 8);
+      tx = mx - (mx - tx) * (nextScale / scale);
+      ty = my - (my - ty) * (nextScale / scale);
+      scale = nextScale;
+      applyTransform();
+    }, { passive: false });
+
+    viewport.addEventListener("mousedown", (e) => {
+      if (chassisWrap.style.display !== "none") return;
+      dragging = true;
+      startX = e.clientX - tx;
+      startY = e.clientY - ty;
+    });
+    window.addEventListener("mousemove", (e) => {
+      if (!dragging) return;
+      tx = e.clientX - startX;
+      ty = e.clientY - startY;
+      applyTransform();
+    });
+    window.addEventListener("mouseup", () => { dragging = false; });
+
+    zoomInBtn.onclick = () => { scale = Math.min(scale * 1.25, 8); applyTransform(); };
+    zoomOutBtn.onclick = () => { scale = Math.max(scale / 1.25, 0.05); applyTransform(); };
+    zoomResetBtn.onclick = fitToViewport;
+
+    function buildChassisView() {
+      chassisWrap.innerHTML = `
+        <svg class="chassis-svg" viewBox="0 0 1280 480" xmlns="http://www.w3.org/2000/svg">
+          <!-- Orientation labels -->
+          <text x="28" y="34" fill="#9aa3b2" font-size="12" font-weight="600">← FRONT NOSE</text>
+          <text x="1150" y="34" fill="#9aa3b2" font-size="12" font-weight="600">REAR HATCH →</text>
+          <text x="580" y="30" fill="#9aa3b2" font-size="11">LH (DRIVER SIDE)</text>
+          <text x="568" y="464" fill="#9aa3b2" font-size="11">RH (PASSENGER SIDE)</text>
+
+          <!-- S30 280Z Top-Down Silhouette (traced from uploaded S30 photo) -->
+          <path d="M 60.0 205.1 L 90.2 119.8 L 120.4 83.0 L 150.6 81.1 L 180.8 73.3 L 211.0 69.4 L 241.2 63.6 L 271.4 61.7 L 301.6 61.7 L 331.8 61.7 L 362.0 61.7 L 392.1 61.7 L 422.3 59.8 L 452.5 59.8 L 482.7 59.8 L 512.9 59.8 L 543.1 61.7 L 573.3 61.7 L 603.5 59.8 L 633.7 52.0 L 663.9 61.7 L 694.1 61.7 L 724.3 61.7 L 754.5 61.7 L 784.7 61.7 L 814.9 65.6 L 845.1 63.6 L 875.3 63.6 L 905.5 61.7 L 935.7 63.6 L 965.9 63.6 L 996.1 65.6 L 1026.2 71.4 L 1056.4 73.3 L 1086.6 75.3 L 1116.8 77.2 L 1147.0 81.1 L 1177.2 84.9 L 1207.4 92.7 L 1220.0 158.6 L 1220.0 302.0 L 1207.4 385.4 L 1177.2 393.1 L 1147.0 397.0 L 1116.8 398.9 L 1086.6 402.8 L 1056.4 404.7 L 1026.2 406.7 L 996.1 412.5 L 965.9 414.4 L 935.7 416.4 L 905.5 416.4 L 875.3 412.5 L 845.1 412.5 L 814.9 414.4 L 784.7 414.4 L 754.5 414.4 L 724.3 416.4 L 694.1 416.4 L 663.9 416.4 L 633.7 428.0 L 603.5 416.4 L 573.3 416.4 L 543.1 416.4 L 512.9 418.3 L 482.7 416.4 L 452.5 418.3 L 422.3 418.3 L 392.1 416.4 L 362.0 416.4 L 331.8 416.4 L 301.6 418.3 L 271.4 416.4 L 241.2 414.4 L 211.0 408.6 L 180.8 404.7 L 150.6 397.0 L 120.4 381.5 L 90.2 354.4 L 60.0 251.6 Z"
+                fill="#1f2430" stroke="#3b4254" stroke-width="2.5" />
+          <!-- Subtle S30 body lines: hood bulge, windshield, rear hatch glass -->
+          <path d="M 160 205 C 220 192, 340 192, 465 198 M 160 275 C 220 288, 340 288, 465 282" fill="none" stroke="#2d3446" stroke-width="1.5" />
+          <path d="M 520 112 C 555 155, 555 325, 520 368 L 625 352 C 645 280, 645 200, 625 128 Z" fill="#171b24" stroke="#2f374a" stroke-width="1.5" />
+          <rect x="965" y="128" width="165" height="224" rx="14" fill="#171b24" stroke="#2f374a" stroke-width="1.5" />
+
+          <!-- Zone dividers -->
+          <line x1="215" y1="62" x2="215" y2="418" stroke="#2d3446" stroke-dasharray="5,5" />
+          <line x1="595" y1="62" x2="595" y2="418" stroke="#3b4254" stroke-width="2" />
+          <line x1="980" y1="76" x2="980" y2="404" stroke="#2d3446" stroke-dasharray="5,5" />
+
+          <!-- Zone Headers -->
+          <text x="115" y="74" fill="#64748b" font-size="10" font-weight="600">FRONT</text>
+          <text x="380" y="74" fill="#64748b" font-size="10" font-weight="600">ENGINE BAY (L28E)</text>
+          <text x="740" y="88" fill="#64748b" font-size="10" font-weight="600">DASH &amp; CABIN</text>
+          <text x="1080" y="92" fill="#64748b" font-size="10" font-weight="600">REAR CHASSIS</text>
+
+          <!-- Main Harness Routing Trunks -->
+          <path d="M 171 101 L 230 101 L 230 259 L 545 252 L 665 250 L 980 250 L 1135 250" fill="none" stroke="#3b82f6" stroke-width="3" opacity="0.45" />
+          <path d="M 171 404 L 230 404 L 230 259" fill="none" stroke="#ef4444" stroke-width="3" opacity="0.45" />
+          <path d="M 295 398 L 520 398 L 595 360 L 665 360" fill="none" stroke="#22c55e" stroke-width="3" opacity="0.45" />
+          <path d="M 980 250 L 1078 360 L 1135 376" fill="none" stroke="#eab308" stroke-width="2.5" opacity="0.45" />
+          <path d="M 980 250 L 1078 126 L 1135 126" fill="none" stroke="#eab308" stroke-width="2.5" opacity="0.45" />
+          <path d="M 595 160 L 665 160" fill="none" stroke="#a855f7" stroke-width="2.5" opacity="0.55" />
+
+          <g id="chassis-nodes-layer"></g>
+        </svg>
+        <div class="inspector" id="chassis-inspector">
+          <div>
+            <h3>Click any component on the 280Z chassis</h3>
+            <div class="meta">Amber-outlined boxes indicate your completed vehicle modifications (headlight relays, 7" headlamps, Civic wiper motor, GM 4-pin HEI).</div>
+            <div class="pins">Use the inspector to view factory wire colors, pinouts, and jump directly to that zone's WireViz diagram.</div>
+          </div>
+        </div>
+      `;
+
+      const layer = chassisWrap.querySelector("#chassis-nodes-layer");
+      const inspector = chassisWrap.querySelector("#chassis-inspector");
+
+      CHASSIS_NODES.forEach(n => {
+        const g = document.createElementNS("http://www.w3.org/2000/svg", "g");
+        g.setAttribute("class", `comp-node${n.mod && highlightMods ? " is-mod" : ""}`);
+        g.dataset.mod = n.mod ? "1" : "0";
+
+        const rect = document.createElementNS("http://www.w3.org/2000/svg", "rect");
+        rect.setAttribute("x", n.x);
+        rect.setAttribute("y", n.y);
+        rect.setAttribute("width", n.w);
+        rect.setAttribute("height", n.h);
+        rect.setAttribute("rx", "6");
+        rect.setAttribute("fill", "#262c3a");
+        rect.setAttribute("stroke", n.mod && highlightMods ? "#f59e0b" : "#4b5563");
+        rect.setAttribute("stroke-width", n.mod && highlightMods ? "2" : "1.2");
+
+        const txt = document.createElementNS("http://www.w3.org/2000/svg", "text");
+        txt.setAttribute("x", n.x + n.w / 2);
+        txt.setAttribute("y", n.y + n.h / 2 + 4);
+        txt.setAttribute("text-anchor", "middle");
+        txt.setAttribute("fill", "#e6e9ef");
+        txt.setAttribute("font-size", "10.5");
+        txt.setAttribute("font-weight", "500");
+        txt.textContent = n.label;
+
+        g.appendChild(rect);
+        g.appendChild(txt);
+
+        g.onclick = () => {
+          layer.querySelectorAll(".comp-node").forEach(el => el.classList.remove("selected"));
+          g.classList.add("selected");
+          inspector.innerHTML = `
+            <div>
+              <h3>${n.label}
+                <span class="badge">${n.zone.toUpperCase()}</span>
+                ${n.mod ? '<span class="badge mod">AS-BUILT MOD</span>' : ''}
+              </h3>
+              <div class="meta"><strong>Location:</strong> ${n.loc}</div>
+              <div class="pins"><strong>Wiring / Pinout:</strong> ${n.pins}</div>
+            </div>
+            <div style="display:flex;gap:8px;flex-shrink:0;align-items:center;">
+              <button class="btn" id="jump-zone">Open ${n.zone.toUpperCase()} Diagram →</button>
+              ${n.mod ? '<button class="btn" id="jump-mods">Open As-Built Mods →</button>' : ''}
+            </div>
+          `;
+          inspector.querySelector("#jump-zone").onclick = () => btnById[n.zone]?.click();
+          const jm = inspector.querySelector("#jump-mods");
+          if (jm) jm.onclick = () => btnById["asbuilt"]?.click();
+        };
+
+        layer.appendChild(g);
+      });
+    }
+
+    toggleModsBtn.onclick = () => {
+      highlightMods = !highlightMods;
+      toggleModsBtn.classList.toggle("active-toggle", highlightMods);
+      buildChassisView();
+    };
+
+    function selectItem(item, btn) {
+      document.querySelectorAll(".nav-btn").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      activeTitle.textContent = item.title;
+      activeSub.textContent = item.sub;
+
+      if (item.type === "chassis") {
+        stage.style.display = "none";
+        hint.style.display = "none";
+        chassisWrap.style.display = "flex";
+        viewport.classList.add("dark-bg");
+        toggleModsBtn.style.display = "inline-flex";
+        toggleModsBtn.classList.toggle("active-toggle", highlightMods);
+        zoomOutBtn.style.display = "none";
+        zoomResetBtn.style.display = "none";
+        zoomInBtn.style.display = "none";
+        linkHtml.style.display = "none";
+        linkSvg.style.display = "none";
+        linkPng.style.display = "none";
+        linkYml.style.display = "none";
+        if (!chassisWrap.hasChildNodes()) buildChassisView();
+      } else {
+        chassisWrap.style.display = "none";
+        stage.style.display = "block";
+        hint.style.display = "block";
+        viewport.classList.remove("dark-bg");
+        toggleModsBtn.style.display = "none";
+        zoomOutBtn.style.display = "inline-flex";
+        zoomResetBtn.style.display = "inline-flex";
+        zoomInBtn.style.display = "inline-flex";
+        linkHtml.style.display = "inline-flex";
+        linkSvg.style.display = "inline-flex";
+        linkPng.style.display = "inline-flex";
+        linkYml.style.display = "inline-flex";
+        img.src = `${item.base}.svg`;
+        linkHtml.href = `${item.base}.html`;
+        linkSvg.href = `${item.base}.svg`;
+        linkPng.href = `${item.base}.png`;
+        linkYml.href = `${item.base}.yml`;
+      }
+    }
+
+    let firstBtn = null, firstItem = null;
+    GROUPS.forEach(g => {
+      const label = document.createElement("div");
+      label.className = "group-label";
+      label.textContent = g.label;
+      nav.appendChild(label);
+
+      g.items.forEach(item => {
+        const btn = document.createElement("button");
+        btn.className = "nav-btn";
+        btn.innerHTML = `<span class="title">${item.title}</span><span class="sub">${item.sub}</span>`;
+        btn.onclick = () => selectItem(item, btn);
+        btnById[item.id] = btn;
+        nav.appendChild(btn);
+        if (!firstBtn) { firstBtn = btn; firstItem = item; }
+      });
+    });
+
+    if (firstBtn) selectItem(firstItem, firstBtn);
+  </script>
+</body>
+</html>

@@ -1,0 +1,266 @@
+metadata:
+  title: "1978 Datsun 280Z — Zone 2: Power Distribution, Fusible Links, EFI & Ignition"
+  pn: "FSM-1978-280Z-Z2"
+  notes: |
+    Source: 1978 Color Wiring Diagram.pdf (Page 2 / Zone 2) & markdown/1978 Color Wiring Diagram.md
+    1978-specific dual fuel pump relay safety interlock (Alternator L + Oil Pressure Switch / Crank BY).
+
+connectors:
+  BATTERY:
+    type: 12V Automotive Battery
+    pinlabels: ["Positive (+)", "Negative (-)"]
+  FUSIBLE_LINKS:
+    type: Fusible Link Block
+    pinlabels:
+      - "EFI Link (Green 40A) to 71 L / 72 R"
+      - "Main Link 1 (Brown 30A) to W (Ign Sw / Fuse Box)"
+      - "Main Link 2 (Black 40A) to WR (Alt / Light Sw)"
+  TRANSISTOR_IGN:
+    type: Transistor Ignition Unit
+    pinlabels:
+      - "Power (BW)"
+      - "Output to Coil (-) (L)"
+      - "Pickup (+) Blue"
+      - "Pickup (-) White"
+      - "Ground (B)"
+    notes: "Vehicle note: Replaced with GM 4-pin HEI module on this car"
+  EFI_MAIN_RELAY:
+    type: EFI Main Relay (Engine Bay Bracket)
+    pinlabels:
+      - "Coil (+) (BW)"
+      - "Coil (-) (B)"
+      - "Contact In (72 R / 71 L)"
+      - "Contact Out (L + BW)"
+  FP_CONTROL_RELAY:
+    type: Fuel Pump Control Relay (1978)
+    pinlabels:
+      - "Crank Coil (BY)"
+      - "Run Holding (WB Alt L / Oil Sw)"
+      - "Output to FP Relay Coil"
+  FP_RELAY:
+    type: Fuel Pump Relay
+    pinlabels:
+      - "Coil In (from FP Control Relay)"
+      - "Contact Out to Fuel Pump + Air Reg (GY / BW)"
+  ECU:
+    type: Bosch L-Jetronic 35-Pin ECU
+    pins: [1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 14, 15, 16, 17, 18, 27, 30, 31, 32, 33, 35]
+    pinlabels:
+      - "1: RPM Pulse (Coil -)"
+      - "2: TPS Idle"
+      - "3: TPS WOT"
+      - "4: Crank Enrichment (BY)"
+      - "5: Ground (Intake)"
+      - "6: AFM"
+      - "7: AFM"
+      - "8: AFM"
+      - "9: AFM"
+      - "13: Water Temp Sensor"
+      - "14: Injector #4"
+      - "15: Injector #1"
+      - "16: Ground"
+      - "17: Ground"
+      - "18: TPS Common"
+      - "27: AFM Air Temp"
+      - "30: Injector #5"
+      - "31: Injector #6"
+      - "32: Injector #3"
+      - "33: Injector #2"
+      - "35: Power / Ground"
+  DROPPING_RES_1:
+    type: Dropping Resistor Block 1 (6.0 Ohm)
+    pinlabels: ["Common 12V (43/2 L)", "Inj #1 (37)", "Inj #2 (38)", "Inj #3 (40)", "Inj #4 (41)"]
+  DROPPING_RES_2:
+    type: Dropping Resistor Block 2 (6.0 Ohm)
+    pinlabels: ["Common 12V (L)", "Inj #5 (55)", "Inj #6 (56)"]
+  INJECTORS:
+    type: Fuel Injectors 1-6 (EV1)
+    pinlabels: ["Inj 1", "Inj 2", "Inj 3", "Inj 4", "Inj 5", "Inj 6"]
+  COLD_START_VALVE:
+    type: Cold Start Valve (2-Pin)
+    pinlabels: ["21 G (Starter)", "47 G (Thermotime Sw)"]
+  THERMOTIME_SW:
+    type: Thermotime Switch (2-Pin)
+    pinlabels: ["45 B (Starter)", "46 B (Cold Start Valve)"]
+  WATER_TEMP_SENSOR:
+    type: Water Temp Sensor (CTS 2-Pin)
+    pinlabels: ["13 B (ECU 13)", "49 B (Ground / ECU)"]
+  AIR_REGULATOR:
+    type: Auxiliary Air Regulator (2-Pin)
+    pinlabels: ["34 G (FP Relay)", "48 G (Ground)"]
+  TPS:
+    type: Throttle Valve Switch (3-Pin)
+    pinlabels: ["2 B (Idle)", "18 B (Common)", "3 B (WOT)"]
+  AFM:
+    type: Air Flow Meter (7-Pin)
+    pinlabels: ["6", "7", "8", "9", "27 (Air Temp)", "FP Switch"]
+  WIPER_MOTOR:
+    type: Windshield Wiper Motor (Multi-Pin)
+    pinlabels: ["P (Park)", "H (High)", "L (Low)", "2 (Power)", "B (Ground)", "E (Earth)"]
+  WASHER_MOTOR:
+    type: Windshield Washer Pump (2-Pin)
+    pinlabels: ["Power (Lg)", "Ground (B)"]
+  ENG_BAY_LAMP:
+    type: Engine Compartment Lamp
+    pinlabels: ["Feed (R - Fuse 2)", "Mercury Sw Ground (B)"]
+  BRAKE_FLUID_SW:
+    type: Brake Fluid Level Switches
+    pinlabels: ["Warning (RY)", "Ground (B)"]
+  ZONE1_3_INTERFACE:
+    type: "Zone 1 / Zone 3 Harness Interface"
+    pinlabels:
+      - "Starter B (+)"
+      - "Starter S (BY)"
+      - "IGN ON Bus (BW)"
+      - "Coil (-) / Tach (L)"
+      - "Dist Pickup (+)"
+      - "Dist Pickup (-)"
+      - "Alt L (WB)"
+      - "Wiper / Washer Switch"
+      - "Rear Fuel Pump (GY / BW)"
+      - "Brake Warning Lamp (RY)"
+      - "Fuse 2 (R)"
+  GND_ENGINE:
+    type: Engine Earth and Body Ground
+    style: simple
+    pinlabels: [Chassis / Intake Earth]
+
+cables:
+  W_BATT_MAIN:
+    wirecount: 5
+    colors: [BK, RDWH, BK, GN, BN]
+  W_TI:
+    wirecount: 5
+    colors: [BKWH, BU, BU, WH, BK]
+  W_RELAYS:
+    wirecount: 9
+    colors: [BKWH, BK, RD, BU, BKYE, WHBK, BU, GNYE, BKWH]
+  W_ECU_SENSORS:
+    wirecount: 10
+    colors: [BK, BK, BK, BK, BK, BK, BK, BK, BKYE, BU]
+  W_ECU_INJ:
+    wirecount: 6
+    colors: [BK, BK, BK, BK, BK, BK]
+  W_DROP_INJ:
+    wirecount: 8
+    colors: [BU, BK, BK, BK, BK, BU, BK, BK]
+  W_COLD_AIR:
+    wirecount: 6
+    colors: [GN, GN, BK, GN, GN, BK]
+  W_WIPER_MISC:
+    wirecount: 6
+    colors: [BK, GN, BK, RD, BK, RDYE]
+
+connections:
+  - - BATTERY: [1]
+    - W_BATT_MAIN: [1]
+    - ZONE1_3_INTERFACE: [1]
+  - - BATTERY: [1]
+    - W_BATT_MAIN: [2]
+    - FUSIBLE_LINKS: [1]
+  - - BATTERY: [2]
+    - W_BATT_MAIN: [3]
+    - GND_ENGINE: [1]
+  - - FUSIBLE_LINKS: [1]
+    - W_BATT_MAIN: [4]
+    - EFI_MAIN_RELAY: [3]
+  - - FUSIBLE_LINKS: [2]
+    - W_BATT_MAIN: [5]
+    - ZONE1_3_INTERFACE: [3]
+
+  - - ZONE1_3_INTERFACE: [3, 4, 5, 6]
+    - W_TI: [1, 2, 3, 4]
+    - TRANSISTOR_IGN: [1, 2, 3, 4]
+  - - TRANSISTOR_IGN: [5]
+    - W_TI: [5]
+    - GND_ENGINE: [1]
+
+  - - ZONE1_3_INTERFACE: [3]
+    - W_RELAYS: [1]
+    - EFI_MAIN_RELAY: [1]
+  - - EFI_MAIN_RELAY: [2]
+    - W_RELAYS: [2]
+    - GND_ENGINE: [1]
+  - - EFI_MAIN_RELAY: [4]
+    - W_RELAYS: [4]
+    - DROPPING_RES_1: [1]
+  - - ZONE1_3_INTERFACE: [2, 7]
+    - W_RELAYS: [5, 6]
+    - FP_CONTROL_RELAY: [1, 2]
+  - - FP_CONTROL_RELAY: [3]
+    - W_RELAYS: [7]
+    - FP_RELAY: [1]
+  - - FP_RELAY: [2]
+    - W_RELAYS: [8]
+    - ZONE1_3_INTERFACE: [9]
+
+  - - ZONE1_3_INTERFACE: [4]
+    - W_ECU_SENSORS: [10]
+    - ECU: [1]
+  - - TPS: [1, 3, 2]
+    - W_ECU_SENSORS: [1, 2, 3]
+    - ECU: [2, 3, 18]
+  - - ZONE1_3_INTERFACE: [2]
+    - W_ECU_SENSORS: [9]
+    - ECU: [4]
+  - - AFM: [1, 2, 3, 4, 5]
+    - W_ECU_SENSORS: [4, 5, 6, 7, 8]
+    - ECU: [6, 7, 8, 9, 27]
+  - - WATER_TEMP_SENSOR: [1]
+    - W_ECU_SENSORS: [1]
+    - ECU: [13]
+  - - ECU: [5]
+    - W_ECU_SENSORS: [2]
+    - GND_ENGINE: [1]
+
+  - - ECU: [15, 33, 32, 14, 30, 31]
+    - W_ECU_INJ: [1, 2, 3, 4, 5, 6]
+    - INJECTORS: [1, 2, 3, 4, 5, 6]
+
+  - - DROPPING_RES_1: [2, 3, 4, 5]
+    - W_DROP_INJ: [2, 3, 4, 5]
+    - INJECTORS: [1, 2, 3, 4]
+  - - EFI_MAIN_RELAY: [4]
+    - W_DROP_INJ: [6]
+    - DROPPING_RES_2: [1]
+  - - DROPPING_RES_2: [2, 3]
+    - W_DROP_INJ: [7, 8]
+    - INJECTORS: [5, 6]
+
+  - - ZONE1_3_INTERFACE: [2]
+    - W_COLD_AIR: [1]
+    - COLD_START_VALVE: [1]
+  - - COLD_START_VALVE: [2]
+    - W_COLD_AIR: [2]
+    - THERMOTIME_SW: [2]
+  - - THERMOTIME_SW: [1]
+    - W_COLD_AIR: [3]
+    - ZONE1_3_INTERFACE: [2]
+  - - FP_RELAY: [2]
+    - W_COLD_AIR: [4]
+    - AIR_REGULATOR: [1]
+  - - AIR_REGULATOR: [2]
+    - W_COLD_AIR: [5]
+    - GND_ENGINE: [1]
+  - - WATER_TEMP_SENSOR: [2]
+    - W_COLD_AIR: [6]
+    - GND_ENGINE: [1]
+
+  - - ZONE1_3_INTERFACE: [8]
+    - W_WIPER_MISC: [1]
+    - WIPER_MOTOR: [1]
+  - - ZONE1_3_INTERFACE: [8]
+    - W_WIPER_MISC: [2]
+    - WASHER_MOTOR: [1]
+  - - WASHER_MOTOR: [2]
+    - W_WIPER_MISC: [3]
+    - GND_ENGINE: [1]
+  - - ZONE1_3_INTERFACE: [11]
+    - W_WIPER_MISC: [4]
+    - ENG_BAY_LAMP: [1]
+  - - ENG_BAY_LAMP: [2]
+    - W_WIPER_MISC: [5]
+    - GND_ENGINE: [1]
+  - - BRAKE_FLUID_SW: [1]
+    - W_WIPER_MISC: [6]
+    - ZONE1_3_INTERFACE: [10]

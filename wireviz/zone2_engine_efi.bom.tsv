@@ -1,0 +1,28 @@
+Id	Description	Qty	Unit	Designators
+1	Cable, 10 wires	0	m	W_ECU_SENSORS
+2	Cable, 5 wires	0	m	W_BATT_MAIN, W_TI
+3	Cable, 6 wires	0	m	W_COLD_AIR, W_ECU_INJ, W_WIPER_MISC
+4	Cable, 8 wires	0	m	W_DROP_INJ
+5	Cable, 9 wires	0	m	W_RELAYS
+6	Connector, 12V Automotive Battery, 2 pins	1		BATTERY
+7	Connector, Air Flow Meter (7-Pin), 6 pins	1		AFM
+8	Connector, Auxiliary Air Regulator (2-Pin), 2 pins	1		AIR_REGULATOR
+9	Connector, Bosch L-Jetronic 35-Pin ECU, 21 pins	1		ECU
+10	Connector, Brake Fluid Level Switches, 2 pins	1		BRAKE_FLUID_SW
+11	Connector, Cold Start Valve (2-Pin), 2 pins	1		COLD_START_VALVE
+12	Connector, Dropping Resistor Block 1 (6.0 Ohm), 5 pins	1		DROPPING_RES_1
+13	Connector, Dropping Resistor Block 2 (6.0 Ohm), 3 pins	1		DROPPING_RES_2
+14	Connector, EFI Main Relay (Engine Bay Bracket), 4 pins	1		EFI_MAIN_RELAY
+15	Connector, Engine Compartment Lamp, 2 pins	1		ENG_BAY_LAMP
+16	Connector, Engine Earth and Body Ground	1		
+17	Connector, Fuel Injectors 1-6 (EV1), 6 pins	1		INJECTORS
+18	Connector, Fuel Pump Control Relay (1978), 3 pins	1		FP_CONTROL_RELAY
+19	Connector, Fuel Pump Relay, 2 pins	1		FP_RELAY
+20	Connector, Fusible Link Block, 3 pins	1		FUSIBLE_LINKS
+21	Connector, Thermotime Switch (2-Pin), 2 pins	1		THERMOTIME_SW
+22	Connector, Throttle Valve Switch (3-Pin), 3 pins	1		TPS
+23	Connector, Transistor Ignition Unit, 5 pins	1		TRANSISTOR_IGN
+24	Connector, Water Temp Sensor (CTS 2-Pin), 2 pins	1		WATER_TEMP_SENSOR
+25	Connector, Windshield Washer Pump (2-Pin), 2 pins	1		WASHER_MOTOR
+26	Connector, Windshield Wiper Motor (Multi-Pin), 6 pins	1		WIPER_MOTOR
+27	Connector, Zone 1 / Zone 3 Harness Interface, 11 pins	1		ZONE1_3_INTERFACE

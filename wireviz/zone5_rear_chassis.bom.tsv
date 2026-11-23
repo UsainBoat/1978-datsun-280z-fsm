@@ -1,0 +1,20 @@
+Id	Description	Qty	Unit	Designators
+1	Cable, 10 wires	0	m	W_REAR_ACC
+2	Cable, 5 wires	0	m	W_FUEL, W_REAR_LH, W_REAR_RH
+3	Cable, 8 wires	0	m	W_REAR_MARKERS
+4	Connector, Connectors C-7 and C-8 (Cabin Interface), 13 pins	1		C7_C8_CABIN
+5	Connector, Dome / Room Lamp, 2 pins	1		ROOM_LAMP
+6	Connector, Electric Fuel Pump (High Pressure), 2 pins	1		FUEL_PUMP
+7	Connector, Fuel Tank Gauge Unit, 3 pins	1		FUEL_SENDER
+8	Connector, License Plate Lamp 1, 2 pins	1		LICENSE_LAMP_1
+9	Connector, License Plate Lamp 2, 2 pins	1		LICENSE_LAMP_2
+10	Connector, Power Antenna Motor, 3 pins	1		ANTENNA_MOTOR
+11	Connector, Rear Chassis and Hatch Earth	1		
+12	Connector, Rear Combination Lamp LH, 5 pins	1		REAR_LAMP_LH
+13	Connector, Rear Combination Lamp RH, 5 pins	1		REAR_LAMP_RH
+14	Connector, Rear Side Marker LH, 2 pins	1		SIDE_MARKER_REAR_LH
+15	Connector, Rear Side Marker RH, 2 pins	1		SIDE_MARKER_REAR_RH
+16	Connector, Rear Speaker LH, 2 pins	1		SPEAKER_LH
+17	Connector, Rear Speaker RH, 2 pins	1		SPEAKER_RH
+18	Connector, Rear Window Defogger Grid, 2 pins	1		REAR_DEFOGGER
+19	Connector, Tailgate Switch (C), 1 pins	1		TAILGATE_SW
