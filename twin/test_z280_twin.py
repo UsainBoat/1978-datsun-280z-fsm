@@ -3,10 +3,13 @@
 import unittest
 
 from twin.z280_twin import (
+    CONNECTOR_CATALOG,
     CarInputs,
+    ConnectorFault,
     Faults,
     cts_resistance_ohms,
     cts_temp_c_from_ohms,
+    parse_connector_fault_arg,
     run_sequence,
     simulate,
 )
@@ -143,6 +146,62 @@ class TestZ280Twin(unittest.TestCase):
             self.assertFalse(inp.prev_fuel_cut)
             self.assertFalse(inp.prev_fp_latched)
             self.assertFalse(inp.prev_fp_lockout_tripped)
+
+    def test_connector_fault_c7_c8_rear_kills_pump_but_keeps_air_regulator(self) -> None:
+        inp = CarInputs(key_pos="ON", rpm=800, coolant_temp_c=80.0, oil_pressure_psi=35.0)
+        st = simulate(inp, Faults(connector_faults={"C7_C8_REAR:6": ConnectorFault(open=True)}))
+        self.assertGreater(st.nodes["FP_RELAY_OUT_GY"], 12.0)
+        self.assertGreater(st.nodes["AIR_REGULATOR_34"], 12.0)
+        self.assertEqual(st.nodes["FUEL_PUMP_+"], 0.0)
+        self.assertFalse(st.fuel_pump_on)
+        self.assertEqual(st.ecu_mode, "STALLED_NO_FUEL")
+
+    def test_connector_fault_fuel_pump_ground_corrosion_starves_pump(self) -> None:
+        inp = CarInputs(key_pos="ON", rpm=800, coolant_temp_c=80.0, oil_pressure_psi=35.0)
+        # 1.2 Ω on 5A fuel pump ground drops 6.0V (14.1V -> 8.1V < 9.0V threshold)
+        st = simulate(inp, Faults(connector_faults={"FUEL_PUMP:GND": ConnectorFault(ohms=1.2)}))
+        self.assertAlmostEqual(st.nodes["FUEL_PUMP_+"], 8.1, places=1)
+        self.assertFalse(st.fuel_pump_on)
+        self.assertEqual(st.ecu_mode, "STALLED_NO_FUEL")
+
+    def test_connector_fault_ecu_pin1_and_ecu_pin5_and_tps_pin18(self) -> None:
+        inp = CarInputs(key_pos="ON", rpm=800, coolant_temp_c=80.0, oil_pressure_psi=35.0)
+        st_rpm = simulate(inp, Faults(connector_faults={"ECU:1": ConnectorFault(open=True)}))
+        self.assertTrue(st_rpm.spark_available)
+        self.assertEqual(st_rpm.ecu_mode, "STALLED_NO_RPM_SIG")
+
+        st_gnd = simulate(inp, Faults(connector_faults={"ECU:5": ConnectorFault(open=True)}))
+        self.assertEqual(st_gnd.ecu_mode, "OFF")
+
+        st_tps = simulate(inp, Faults(connector_faults={"TPS:18": ConnectorFault(open=True)}))
+        self.assertFalse(st_tps.tps_idle_closed)
+        self.assertFalse(st_tps.tps_wot_closed)
+
+    def test_connector_fault_dropping_resistor_and_c1_tach_short(self) -> None:
+        inp = CarInputs(key_pos="ON", rpm=800, coolant_temp_c=80.0, oil_pressure_psi=35.0)
+        st_drop = simulate(inp, Faults(connector_faults={"DROPPING_RES_1:1": ConnectorFault(open=True)}))
+        self.assertEqual(st_drop.nodes["DROPPING_RES_43_2"], 0.0)
+        self.assertGreater(st_drop.nodes["DROPPING_RES_2_L"], 12.0)
+        self.assertTrue(any("1-4" in n for n in st_drop.notes))
+
+        st_tach = simulate(inp, Faults(connector_faults={"C1_ENG_DASH:5": ConnectorFault(short_gnd=True)}))
+        self.assertFalse(st_tach.spark_available)
+        self.assertEqual(st_tach.ecu_mode, "STALLED_NO_SPARK")
+
+    def test_parse_connector_fault_arg_and_validation(self) -> None:
+        cid, cf = parse_connector_fault_arg("C9_C10_IGN_PWR:3=0.35ohm")
+        self.assertEqual(cid, "C9_C10_IGN_PWR:3")
+        self.assertAlmostEqual(cf.ohms, 0.35)
+        self.assertEqual(parse_connector_fault_arg("C2_ALT_CHG:3=short_gnd")[1], ConnectorFault(short_gnd=True))
+        self.assertEqual(parse_connector_fault_arg("ECU:5=open")[1], ConnectorFault(open=True))
+        self.assertGreaterEqual(len(CONNECTOR_CATALOG), 35)
+
+        with self.assertRaises(ValueError):
+            parse_connector_fault_arg("NOT_A_REAL_CONN=open")
+        with self.assertRaises(ValueError):
+            ConnectorFault(open=True, short_gnd=True)
+        with self.assertRaises(ValueError):
+            simulate(CarInputs(), Faults(connector_faults={"BOGUS:1": ConnectorFault(open=True)}))
 
 
 if __name__ == "__main__":

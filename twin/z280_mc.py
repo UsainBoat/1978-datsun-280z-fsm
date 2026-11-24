@@ -17,7 +17,44 @@ import random
 from typing import Dict, List, Tuple
 
 from twin.z280_sim import SimFaults, Z280Car
-from twin.z280_twin import Faults
+from twin.z280_twin import ConnectorFault, Faults
+
+
+# High-value harness connectors/splices for Monte Carlo corrosion & contact-fault sweeps
+POWER_CORROSION_CONNS: List[str] = [
+    "SPLICE_W_MAIN",
+    "C2_ALT_CHG:1",
+    "C9_C10_IGN_PWR:1",
+    "C9_C10_IGN_PWR:3",
+    "C9_C10_IGN_PWR:4",
+    "C1_ENG_DASH:1",
+    "C1_ENG_DASH:2",
+    "C4_EFI_IGN:1",
+    "C4_EFI_IGN:2",
+    "C7_C8_REAR:6",
+    "EFI_MAIN_RELAY:3",
+    "EFI_MAIN_RELAY:4",
+    "FP_RELAY:92",
+    "FP_RELAY:93",
+    "FUEL_PUMP:GND",
+    "ECU:5",
+    "HEI_MODULE:GND",
+]
+
+SIGNAL_CONNS: List[str] = [
+    "C2_ALT_CHG:3",
+    "C4_EFI_IGN:5",
+    "FP_CONTROL_RELAY:94",
+    "FP_CONTROL_RELAY:95",
+    "FP_CONTROL_RELAY:96",
+    "FP_CONTROL_RELAY:91",
+    "FP_RELAY:90",
+    "WATER_TEMP_SENSOR",
+    "ECU:13",
+    "ECU:4",
+    "TPS:2",
+    "TPS:18",
+]
 
 
 @dataclass
@@ -61,6 +98,13 @@ class SampleCase:
             labels.append("weak_battery")
         if self.cold_rail_psi <= 10.0 and not self.faults.check_valve_leak:
             labels.append("low_overnight_rail")
+        for cid, cf in sorted(e.connector_faults.items()):
+            if cf.open:
+                labels.append(f"conn:{cid}(open)")
+            elif cf.short_gnd:
+                labels.append(f"conn:{cid}(short_gnd)")
+            elif cf.ohms > 0.0:
+                labels.append(f"conn:{cid}(ohms)")
         return tuple(labels) if labels else ("nominal",)
 
 
@@ -164,6 +208,31 @@ def sample_case(rng: random.Random) -> SampleCase:
     alt_l_open = alt_roll < 0.08
     alt_l_short_gnd = 0.08 <= alt_roll < 0.12
 
+    # Sample 0 or 1 harness connector/splice fault (corrosion, open, or short_gnd)
+    conn_faults: Dict[str, ConnectorFault] = {}
+    conn_roll = rng.random()
+    if conn_roll < 0.30:
+        cid = rng.choice(POWER_CORROSION_CONNS)
+        conn_faults[cid] = ConnectorFault(ohms=round(rng.uniform(0.15, 1.4), 2))
+    elif conn_roll < 0.48:
+        cid = rng.choice(SIGNAL_CONNS)
+        if cid in ("WATER_TEMP_SENSOR", "ECU:13"):
+            if not cts_short and not cts_open:
+                mode_r = rng.random()
+                if mode_r < 0.45:
+                    conn_faults[cid] = ConnectorFault(ohms=rng.choice([1500.0, 3500.0, 5000.0]))
+                elif mode_r < 0.75:
+                    conn_faults[cid] = ConnectorFault(short_gnd=True)
+                else:
+                    conn_faults[cid] = ConnectorFault(open=True)
+        elif cid == "C2_ALT_CHG:3":
+            if not alt_l_open and not alt_l_short_gnd:
+                conn_faults[cid] = ConnectorFault(open=True) if rng.random() < 0.6 else ConnectorFault(short_gnd=True)
+        elif cid in ("TPS:2", "TPS:18"):
+            conn_faults[cid] = ConnectorFault(open=True) if rng.random() < 0.7 else ConnectorFault(short_gnd=True)
+        else:
+            conn_faults[cid] = ConnectorFault(open=True) if rng.random() < 0.5 else ConnectorFault(ohms=round(rng.uniform(0.5, 4.0), 2))
+
     elec = Faults(
         w_splice_ohms=round(rng.uniform(0.05, 0.30), 3) if rng.random() < 0.20 else 0.0,
         ign_switch_drop_ohms=round(rng.uniform(0.08, 0.40), 3) if rng.random() < 0.20 else 0.0,
@@ -177,6 +246,7 @@ def sample_case(rng: random.Random) -> SampleCase:
         tps_idle_stuck_closed=rng.random() < 0.08,
         hei_ground_ohms=round(rng.uniform(0.3, 1.3), 2) if rng.random() < 0.15 else 0.0,
         headlamp_relayed=True,
+        connector_faults=conn_faults,
     )
     sim_faults = SimFaults(
         elec=elec,

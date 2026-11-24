@@ -9,9 +9,16 @@ from __future__ import annotations
 
 import argparse
 from dataclasses import dataclass, field
-from typing import List, Optional
+from typing import Dict, List, Optional
 
-from twin.z280_twin import CarInputs, Faults, TwinState, simulate
+from twin.z280_twin import (
+    CarInputs,
+    ConnectorFault,
+    Faults,
+    TwinState,
+    parse_connector_fault_arg,
+    simulate,
+)
 
 
 FACTORY_RAIL_PSI = 36.3  # 2.55 kg/cm² (EF-5)
@@ -306,9 +313,10 @@ def print_trace(title: str, frames: List[SimFrame], stride: int = 1) -> None:
         )
 
 
-def run_scenario(name: str) -> List[SimFrame]:
+def run_scenario(name: str, conn_faults: Optional[Dict[str, ConnectorFault]] = None) -> List[SimFrame]:
+    cf = dict(conn_faults) if conn_faults else {}
     if name == "start":
-        car = Z280Car(coolant_temp_c=20.0, air_temp_c=20.0)
+        car = Z280Car(faults=SimFaults(elec=Faults(connector_faults=cf)), coolant_temp_c=20.0, air_temp_c=20.0)
         frames: List[SimFrame] = []
         frames += car.run_phase(0.4, dt=0.2, key_pos="ON", throttle_deg=0.0)
         frames += car.run_phase(1.4, dt=0.2, key_pos="START", throttle_deg=0.0)
@@ -318,7 +326,7 @@ def run_scenario(name: str) -> List[SimFrame]:
     if name == "issue5":
         car = Z280Car(
             faults=SimFaults(
-                elec=Faults(fp_control_relay_lockout_fault=True),
+                elec=Faults(fp_control_relay_lockout_fault=True, connector_faults=cf),
                 idle_undershoot_fault=True,
             ),
             coolant_temp_c=80.0,
@@ -343,7 +351,7 @@ def run_scenario(name: str) -> List[SimFrame]:
 
     if name == "issue2-leak":
         car = Z280Car(
-            faults=SimFaults(check_valve_leak=True),
+            faults=SimFaults(elec=Faults(connector_faults=cf), check_valve_leak=True),
             coolant_temp_c=10.0,
             air_temp_c=10.0,
             initial_rail_psi=0.0,
@@ -359,7 +367,7 @@ def run_scenario(name: str) -> List[SimFrame]:
 
     if name == "issue2-cts":
         car = Z280Car(
-            faults=SimFaults(elec=Faults(cts_short=True)),
+            faults=SimFaults(elec=Faults(cts_short=True, connector_faults=cf)),
             coolant_temp_c=10.0,
             air_temp_c=10.0,
         )
@@ -380,8 +388,19 @@ def main() -> None:
         choices=["start", "issue5", "issue2-leak", "issue2-cts"],
         help="Transient scenario to simulate",
     )
+    parser.add_argument(
+        "--conn-fault",
+        action="append",
+        default=[],
+        metavar="ID=FAULT",
+        help="Inject connector/splice fault (e.g. C7_C8_REAR:6=open, C1_ENG_DASH:1=0.4ohm)",
+    )
     args = parser.parse_args()
-    frames = run_scenario(args.scenario)
+    conn_faults: Dict[str, ConnectorFault] = {}
+    for spec in args.conn_fault:
+        cid, cf = parse_connector_fault_arg(spec)
+        conn_faults[cid] = cf
+    frames = run_scenario(args.scenario, conn_faults=conn_faults)
     print_trace(f"Scenario: {args.scenario}", frames)
 
 
